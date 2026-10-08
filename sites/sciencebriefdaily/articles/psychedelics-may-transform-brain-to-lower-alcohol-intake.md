@@ -8,7 +8,7 @@ description: >-
   psychological experiences.
 type: standard
 status: published
-publishDate: '2025-05-12T08:41:26'
+publishDate: '2026-09-30'
 author: Sophia Sullivan
 tags:
   - Health Science

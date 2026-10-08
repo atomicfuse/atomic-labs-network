@@ -6,7 +6,7 @@ description: >-
   measures...
 type: standard
 status: published
-publishDate: '2026-06-01'
+publishDate: '2026-09-29'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

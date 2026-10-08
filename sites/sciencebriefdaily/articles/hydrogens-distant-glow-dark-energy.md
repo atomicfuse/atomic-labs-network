@@ -5,7 +5,7 @@ description: >-
   unlock mysteries of dark energy and cosmic expansion.
 type: standard
 status: published
-publishDate: '2026-10-05'
+publishDate: '2026-09-29'
 author: Sophia Sullivan
 tags:
   - Space & Cosmos

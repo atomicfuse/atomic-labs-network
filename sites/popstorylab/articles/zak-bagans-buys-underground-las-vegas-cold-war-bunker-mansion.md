@@ -6,7 +6,7 @@ description: >-
   why it fits.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-10-02'
 author: Andrew Bell
 tags:
   - Celebrity News

@@ -6,7 +6,7 @@ description: >-
   local...
 type: listicle
 status: published
-publishDate: '2026-06-17'
+publishDate: '2026-09-27'
 author: Ryan Rivera
 tags:
   - Destinations

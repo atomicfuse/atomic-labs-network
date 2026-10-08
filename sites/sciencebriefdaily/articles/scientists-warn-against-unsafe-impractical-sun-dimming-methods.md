@@ -7,7 +7,7 @@ description: >-
   prompting scientists to advocate for alternative climate solutions.
 type: standard
 status: published
-publishDate: '2025-10-30T12:53:35'
+publishDate: '2026-10-04'
 author: Sophia Sullivan
 tags:
   - 'Environment & Climate'

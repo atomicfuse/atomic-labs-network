@@ -5,7 +5,7 @@ description: >-
   globular clusters and the role of monster stars in the early universe.
 type: standard
 status: published
-publishDate: '2026-08-03'
+publishDate: '2026-10-08'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

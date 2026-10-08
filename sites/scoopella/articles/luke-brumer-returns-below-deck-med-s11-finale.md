@@ -5,7 +5,7 @@ description: >-
   scandal that led to his dramatic exit and its implications.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-10-08'
 author: Rachel Hughes
 tags:
   - Pop Culture

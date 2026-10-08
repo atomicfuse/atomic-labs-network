@@ -9,7 +9,7 @@ description: >-
   presenting new opportunities and challenges for travel providers.
 type: standard
 status: published
-publishDate: '2025-04-24T08:16:34+00:00'
+publishDate: '2026-10-03'
 author: Taylor Winters
 tags:
   - Destinations

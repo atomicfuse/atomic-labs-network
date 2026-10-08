@@ -5,7 +5,7 @@ description: >-
   bird nests, testing artificial incubation as emergency conservation measure.
 type: standard
 status: published
-publishDate: '2026-06-15'
+publishDate: '2026-10-02'
 author: Sophia Sullivan
 tags:
   - 'Environment & Climate'

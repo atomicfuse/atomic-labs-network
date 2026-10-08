@@ -5,7 +5,7 @@ description: >-
   experiences. Taste the world beyond restaurants in unique destinations.
 type: how-to
 status: published
-publishDate: '2026-06-24'
+publishDate: '2026-09-29'
 author: Ryan Rivera
 tags:
   - Travel

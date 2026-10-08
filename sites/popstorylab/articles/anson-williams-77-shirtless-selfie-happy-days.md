@@ -5,7 +5,7 @@ description: >-
   message about aging, self-care and feeling more alive than he did at 40.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-09-28'
 author: Andrew Bell
 tags:
   - Celebrity News

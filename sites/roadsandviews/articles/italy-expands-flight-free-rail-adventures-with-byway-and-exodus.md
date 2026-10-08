@@ -7,7 +7,7 @@ description: >-
   the continent.
 type: standard
 status: published
-publishDate: '2026-05-18T08:48:09+00:00'
+publishDate: '2026-09-30'
 author: Taylor Winters
 tags:
   - Destinations

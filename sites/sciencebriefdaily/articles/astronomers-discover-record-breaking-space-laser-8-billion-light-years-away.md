@@ -7,7 +7,7 @@ description: >-
   universe conditions and galaxy formation.
 type: standard
 status: published
-publishDate: '2026-03-05T12:53:37'
+publishDate: '2026-10-03'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

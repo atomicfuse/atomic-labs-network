@@ -5,7 +5,7 @@ description: >-
   shift in sports broadcasting and women’s visibility in media.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-09-27'
 author: Ella Hughes
 tags:
   - Entertainment

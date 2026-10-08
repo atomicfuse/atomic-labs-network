@@ -5,7 +5,7 @@ description: >-
   romance. Let’s unravel the clues behind their lowkey dating journey.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-09-27'
 author: Ella Hughes
 tags:
   - pop culture

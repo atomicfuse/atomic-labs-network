@@ -5,7 +5,7 @@ description: >-
   emojis, before jumping into advanced workouts.
 type: standard
 status: published
-publishDate: '2026-10-05'
+publishDate: '2026-10-03'
 author: Ben Price
 tags:
   - Travel

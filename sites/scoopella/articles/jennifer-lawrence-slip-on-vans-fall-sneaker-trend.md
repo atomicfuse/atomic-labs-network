@@ -5,7 +5,7 @@ description: >-
   on why lace-free sneakers are fall's coolest shortcut, with picks from $60.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-09-28'
 author: Ella Hughes
 tags:
   - Celebrities

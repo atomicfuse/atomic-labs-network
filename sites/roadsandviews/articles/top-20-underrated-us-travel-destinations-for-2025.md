@@ -7,7 +7,7 @@ description: >-
   tourist spots.
 type: standard
 status: published
-publishDate: '2025-06-05T07:47:27+00:00'
+publishDate: '2026-10-03'
 author: Taylor Winters
 tags:
   - Destinations

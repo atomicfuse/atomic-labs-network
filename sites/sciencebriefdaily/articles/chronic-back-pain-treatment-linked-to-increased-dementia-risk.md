@@ -7,7 +7,7 @@ description: >-
   alternative pain management strategies to enhance patients' well-being.
 type: standard
 status: published
-publishDate: '2025-07-17T07:39:27'
+publishDate: '2026-09-24'
 author: Sophia Sullivan
 tags:
   - Health Science

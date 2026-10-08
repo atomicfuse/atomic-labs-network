@@ -5,7 +5,7 @@ description: >-
   gaps in how we understand ancient gender roles and conflict.
 type: standard
 status: published
-publishDate: '2026-06-03'
+publishDate: '2026-09-19'
 author: Sophia Sullivan
 tags:
   - New Discoveries

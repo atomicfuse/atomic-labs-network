@@ -7,7 +7,7 @@ description: >-
   improve overall well-being.
 type: standard
 status: published
-publishDate: '2026-02-05T12:51:32'
+publishDate: '2026-09-30'
 author: Sophia Sullivan
 tags:
   - Health Science

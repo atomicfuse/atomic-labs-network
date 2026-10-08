@@ -7,7 +7,7 @@ description: >-
   the evolution of planetary systems.
 type: standard
 status: published
-publishDate: '2025-11-13T13:13:30'
+publishDate: '2026-09-28'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

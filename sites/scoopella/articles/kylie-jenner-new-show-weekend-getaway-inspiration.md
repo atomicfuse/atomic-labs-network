@@ -7,7 +7,7 @@ description: >-
   of Pretty Little Liars. Can she deliver? Let's dive into her new role!
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-10-07'
 author: Rachel Hughes
 tags:
   - Pop Culture

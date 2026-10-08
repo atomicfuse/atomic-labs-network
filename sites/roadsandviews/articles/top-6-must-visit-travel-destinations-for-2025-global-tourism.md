@@ -7,7 +7,7 @@ description: >-
   globetrotters seeking adventure and cultural immersion.
 type: standard
 status: published
-publishDate: '2025-07-31T04:59:30+00:00'
+publishDate: '2026-09-21'
 author: Taylor Winters
 tags:
   - Destinations

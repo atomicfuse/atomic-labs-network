@@ -5,7 +5,7 @@ description: >-
   items, but not the game. Here's what's inside and who it's really for.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-09-18'
 author: Andrew Bell
 tags:
   - Pop Culture

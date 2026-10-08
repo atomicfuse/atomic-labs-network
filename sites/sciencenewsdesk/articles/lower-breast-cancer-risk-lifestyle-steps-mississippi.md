@@ -5,7 +5,7 @@ description: >-
   screening as practical ways to cut breast cancer risk. Here's how to start.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-10-08'
 author: Ethan Ross
 tags:
   - Health Science

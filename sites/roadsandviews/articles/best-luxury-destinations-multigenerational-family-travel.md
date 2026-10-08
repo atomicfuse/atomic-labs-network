@@ -5,7 +5,7 @@ description: >-
   ranking locations by safety, activities, and cross-generational appeal.
 type: listicle
 status: published
-publishDate: '2026-05-29'
+publishDate: '2026-09-30'
 author: Ryan Rivera
 tags:
   - Travel

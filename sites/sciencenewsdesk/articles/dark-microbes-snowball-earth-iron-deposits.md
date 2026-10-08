@@ -5,7 +5,7 @@ description: >-
   giant iron deposits may not have needed sunlight or photosynthesis to form.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-19'
 author: Ethan Ross
 tags:
   - New Discoveries

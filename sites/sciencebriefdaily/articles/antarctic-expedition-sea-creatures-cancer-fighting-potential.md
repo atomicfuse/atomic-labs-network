@@ -6,7 +6,7 @@ description: >-
   melanoma cells.
 type: standard
 status: published
-publishDate: '2026-06-09'
+publishDate: '2026-10-04'
 author: Sophia Sullivan
 tags:
   - Health Science

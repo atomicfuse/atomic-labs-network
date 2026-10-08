@@ -6,7 +6,7 @@ description: >-
   predictions.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-10-07'
 author: Ethan Ross
 tags:
   - Environment & Climate

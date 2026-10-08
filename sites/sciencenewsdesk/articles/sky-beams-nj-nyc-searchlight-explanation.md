@@ -6,7 +6,7 @@ description: >-
   aliens.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-10-01'
 author: Ethan Ross
 tags:
   - New Discoveries

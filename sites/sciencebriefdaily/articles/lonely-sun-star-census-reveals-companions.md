@@ -6,7 +6,7 @@ description: >-
   rather than...
 type: standard
 status: published
-publishDate: '2026-06-01'
+publishDate: '2026-10-03'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

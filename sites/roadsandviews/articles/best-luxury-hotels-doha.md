@@ -5,7 +5,7 @@ description: >-
   every traveler type in Qatar's vibrant capital.
 type: standard
 status: published
-publishDate: '2026-10-05'
+publishDate: '2026-09-30'
 author: Ben Price
 tags:
   - Travel

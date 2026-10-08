@@ -5,7 +5,7 @@ description: >-
   Ella breaks down what's confirmed, what the rollout means, and what to watch.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-09-25'
 author: Ella Hughes
 tags:
   - Movies & TV

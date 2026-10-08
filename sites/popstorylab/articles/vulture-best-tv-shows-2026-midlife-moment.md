@@ -5,7 +5,7 @@ description: >-
   Adults and more. Here's the midlife-and-generations thread running through it.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-09-28'
 author: Andrew Bell
 tags:
   - Pop Culture

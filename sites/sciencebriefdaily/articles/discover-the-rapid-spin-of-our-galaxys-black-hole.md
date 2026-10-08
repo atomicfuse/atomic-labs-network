@@ -7,7 +7,7 @@ description: >-
   conditions, and understanding cosmic phenomena.
 type: standard
 status: published
-publishDate: '2025-06-19T07:41:33'
+publishDate: '2026-09-30'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

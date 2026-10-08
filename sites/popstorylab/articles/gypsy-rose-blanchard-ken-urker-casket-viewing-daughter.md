@@ -5,7 +5,7 @@ description: >-
   ex-fiancé Ken Urker, who died on his 34th birthday. What we know so far.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-10-08'
 author: Andrew Bell
 tags:
   - Celebrity News

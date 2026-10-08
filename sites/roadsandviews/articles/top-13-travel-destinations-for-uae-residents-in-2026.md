@@ -6,7 +6,7 @@ description: >-
   relaxing experiences.
 type: standard
 status: published
-publishDate: '2025-12-04T09:55:41+00:00'
+publishDate: '2026-10-03'
 author: Taylor Winters
 tags:
   - Destinations

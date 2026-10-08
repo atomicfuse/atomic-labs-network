@@ -8,7 +8,7 @@ description: >-
   Stockholm, and Dublin.
 type: standard
 status: published
-publishDate: '2025-04-10T08:16:50+00:00'
+publishDate: '2026-10-04'
 author: Taylor Winters
 tags:
   - Advice

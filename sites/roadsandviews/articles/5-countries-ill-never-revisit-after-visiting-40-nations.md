@@ -7,7 +7,7 @@ description: >-
   decisions.
 type: standard
 status: published
-publishDate: '2026-01-01T09:53:21+00:00'
+publishDate: '2026-10-03'
 author: Taylor Winters
 tags:
   - Destinations

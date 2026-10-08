@@ -8,7 +8,7 @@ description: >-
   responsible tourism.
 type: standard
 status: published
-publishDate: '2026-02-09T09:55:31+00:00'
+publishDate: '2026-09-30'
 author: Taylor Winters
 tags:
   - Destinations

@@ -7,7 +7,7 @@ description: >-
   fueling her push for 'Kenan's Law' to combat cyberbullying.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-10-08'
 author: Ella Hughes
 tags:
   - Pop Culture

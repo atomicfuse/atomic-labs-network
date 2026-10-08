@@ -6,7 +6,7 @@ description: >-
   authentic, responsible, and rewarding journeys.
 type: standard
 status: published
-publishDate: '2026-05-04T08:48:08+00:00'
+publishDate: '2026-09-29'
 author: Taylor Winters
 tags:
   - Advice

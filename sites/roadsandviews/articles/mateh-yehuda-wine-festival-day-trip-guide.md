@@ -6,7 +6,7 @@ description: >-
   Jerusalem...
 type: standard
 status: published
-publishDate: '2026-06-08'
+publishDate: '2026-09-29'
 author: Ryan Rivera
 tags:
   - Travel

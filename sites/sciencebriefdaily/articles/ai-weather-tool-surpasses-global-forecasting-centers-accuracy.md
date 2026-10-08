@@ -7,7 +7,7 @@ description: >-
   conditions and benefiting sectors like agriculture and aviation.
 type: standard
 status: published
-publishDate: '2025-05-22T07:35:22'
+publishDate: '2026-09-19'
 author: Sophia Sullivan
 tags:
   - 'Environment & Climate'

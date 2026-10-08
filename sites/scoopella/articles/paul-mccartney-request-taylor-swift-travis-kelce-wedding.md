@@ -6,7 +6,7 @@ description: >-
   scoop.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-09-25'
 author: Ella Hughes
 tags:
   - Pop Culture

@@ -6,7 +6,7 @@ description: >-
   Ptolemaic...
 type: standard
 status: published
-publishDate: '2026-10-05'
+publishDate: '2026-10-08'
 author: Sophia Sullivan
 tags:
   - Health Science

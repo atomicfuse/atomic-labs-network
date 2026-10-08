@@ -5,7 +5,7 @@ description: >-
   smoking sections to today's budget carriers and cramped seats.
 type: standard
 status: published
-publishDate: '2026-06-10'
+publishDate: '2026-09-28'
 author: Ryan Rivera
 tags:
   - Travel

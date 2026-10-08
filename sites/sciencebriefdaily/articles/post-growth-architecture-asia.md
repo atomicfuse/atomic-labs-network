@@ -5,7 +5,7 @@ description: >-
   existing resources and adapting to demographic changes and resource limits.
 type: standard
 status: published
-publishDate: '2026-10-05'
+publishDate: '2026-09-29'
 author: Sophia Sullivan
 tags:
   - New Discoveries

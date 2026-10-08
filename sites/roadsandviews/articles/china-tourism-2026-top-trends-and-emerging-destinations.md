@@ -6,7 +6,7 @@ description: >-
   wellness, and meaningful multi-city journeys.
 type: standard
 status: published
-publishDate: '2026-05-14T08:48:12+00:00'
+publishDate: '2026-09-27'
 author: Taylor Winters
 tags:
   - Destinations

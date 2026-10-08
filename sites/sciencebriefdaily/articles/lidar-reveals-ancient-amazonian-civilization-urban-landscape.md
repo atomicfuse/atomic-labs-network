@@ -5,7 +5,7 @@ description: >-
   20,000 km² urbanized landscape in Bolivia, challenging long-held views of...
 type: standard
 status: published
-publishDate: '2026-06-10'
+publishDate: '2026-10-03'
 author: Sophia Sullivan
 tags:
   - New Discoveries

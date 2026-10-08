@@ -6,7 +6,7 @@ description: >-
   itineraries.
 type: standard
 status: approved
-publishDate: '2026-06-14'
+publishDate: '2026-09-19'
 author: Ryan Rivera
 tags:
   - Travel

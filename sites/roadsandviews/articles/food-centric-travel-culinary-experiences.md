@@ -5,7 +5,7 @@ description: >-
   destinations for culinary adventures and local hidden gems worth the journey.
 type: standard
 status: published
-publishDate: '2026-07-15'
+publishDate: '2026-10-03'
 author: Ryan Rivera
 tags:
   - Travel

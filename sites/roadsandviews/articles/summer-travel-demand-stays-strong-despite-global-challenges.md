@@ -6,7 +6,7 @@ description: >-
   Alaska.
 type: standard
 status: published
-publishDate: '2026-05-25'
+publishDate: '2026-09-18'
 author: Ryan Rivera
 tags:
   - Travel

@@ -7,7 +7,7 @@ description: >-
   seeking unique experiences.
 type: standard
 status: published
-publishDate: '2026-02-26T09:55:23+00:00'
+publishDate: '2026-09-19'
 author: Taylor Winters
 tags:
   - Destinations

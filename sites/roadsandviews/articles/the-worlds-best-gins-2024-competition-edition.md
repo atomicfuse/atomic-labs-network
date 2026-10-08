@@ -6,7 +6,7 @@ description: >-
   Australia, Scotland, and France.
 type: standard
 status: published
-publishDate: '2025-02-28T19:10:39+00:00'
+publishDate: '2026-10-01'
 author: admin
 tags:
   - Travel

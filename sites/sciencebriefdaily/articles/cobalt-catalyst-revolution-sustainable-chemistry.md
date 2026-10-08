@@ -5,7 +5,7 @@ description: >-
   manufacturing by using water and electricity for hydrogenation.
 type: standard
 status: published
-publishDate: '2026-10-05'
+publishDate: '2026-09-19'
 author: Sophia Sullivan
 tags:
   - Health Science

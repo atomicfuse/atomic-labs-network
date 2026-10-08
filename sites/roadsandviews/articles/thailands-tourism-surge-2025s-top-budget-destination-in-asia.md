@@ -6,7 +6,7 @@ description: >-
   status as a premier Southeast Asian travel destination.
 type: standard
 status: published
-publishDate: '2025-07-17T04:41:31+00:00'
+publishDate: '2026-09-30'
 author: Taylor Winters
 tags:
   - Destinations

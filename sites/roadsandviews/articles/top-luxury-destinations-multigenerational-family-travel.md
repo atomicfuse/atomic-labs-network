@@ -6,7 +6,7 @@ description: >-
   Algarve coast.
 type: listicle
 status: published
-publishDate: '2026-06-01'
+publishDate: '2026-10-07'
 author: Ryan Rivera
 tags:
   - Travel

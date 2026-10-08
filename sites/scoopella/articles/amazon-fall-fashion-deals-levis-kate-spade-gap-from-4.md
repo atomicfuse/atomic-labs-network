@@ -5,7 +5,7 @@ description: >-
   Prime Day 2026: Levi's, Kate Spade, Gap and Adidas, starting at just $4.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-09-22'
 author: Ella Hughes
 tags:
   - Fashion

@@ -5,7 +5,7 @@ description: >-
   and depression, with poor work recovery a key factor. Here's what you can do.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-28'
 author: Ethan Ross
 tags:
   - Health Science

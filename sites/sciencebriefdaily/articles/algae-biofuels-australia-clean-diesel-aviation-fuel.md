@@ -6,7 +6,7 @@ description: >-
   sustainable...
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-10-03'
 author: Sophia Sullivan
 tags:
   - 'Environment & Climate'

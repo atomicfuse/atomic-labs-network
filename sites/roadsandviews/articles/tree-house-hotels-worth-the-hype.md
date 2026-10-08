@@ -5,7 +5,7 @@ description: >-
   and northern lights suites. Here's what the category actually looks like now.
 type: standard
 status: published
-publishDate: '2026-10-05'
+publishDate: '2026-09-29'
 author: Ben Price
 tags:
   - Travel

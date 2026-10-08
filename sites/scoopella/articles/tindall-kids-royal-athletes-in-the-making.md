@@ -5,7 +5,7 @@ description: >-
   may have sporting futures ahead. Ella on the trait the whole brood shares.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-10-01'
 author: Ella Hughes
 tags:
   - Celebrities

@@ -5,7 +5,7 @@ description: >-
   Rinna, has died at 62. What we know, and how fans are remembering the role.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-09-28'
 author: Andrew Bell
 tags:
   - Entertainment Nostalgia

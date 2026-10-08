@@ -5,7 +5,7 @@ description: >-
   that matches your travel style, budget, and appetite before you go.
 type: how-to
 status: published
-publishDate: '2026-09-09'
+publishDate: '2026-10-03'
 author: Ryan Rivera
 tags:
   - Travel

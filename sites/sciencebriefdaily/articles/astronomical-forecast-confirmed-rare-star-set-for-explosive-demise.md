@@ -7,7 +7,7 @@ description: >-
   Satellite (TESS).
 type: standard
 status: published
-publishDate: '2025-04-07T11:46:32'
+publishDate: '2026-09-24'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

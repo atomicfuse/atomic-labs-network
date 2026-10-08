@@ -6,7 +6,7 @@ description: >-
   insights into galaxy formation, dark matter, and the early universe.
 type: standard
 status: published
-publishDate: '2025-09-04T07:33:29'
+publishDate: '2026-09-29'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

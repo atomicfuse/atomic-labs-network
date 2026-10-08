@@ -5,7 +5,7 @@ description: >-
   Nantucket amid its scarce lodging options.
 type: review
 status: published
-publishDate: '2026-08-12'
+publishDate: '2026-09-18'
 author: Ryan Rivera
 tags:
   - Travel

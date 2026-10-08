@@ -5,7 +5,7 @@ description: >-
   reshaping the narrative of women in outdoor recreation.
 type: standard
 status: published
-publishDate: '2026-10-05'
+publishDate: '2026-09-24'
 author: Sophia Sullivan
 tags:
   - Health Science

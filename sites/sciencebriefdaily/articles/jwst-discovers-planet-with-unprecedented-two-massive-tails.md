@@ -7,7 +7,7 @@ description: >-
   theories about planetary evolution.
 type: standard
 status: published
-publishDate: '2025-12-15T13:15:31'
+publishDate: '2026-10-04'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

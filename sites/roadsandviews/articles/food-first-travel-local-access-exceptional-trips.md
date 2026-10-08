@@ -5,7 +5,7 @@ description: >-
   local hosts, home kitchens, farms, and markets for authentic food experiences.
 type: standard
 status: published
-publishDate: '2026-06-15'
+publishDate: '2026-09-24'
 author: Ryan Rivera
 tags:
   - Travel

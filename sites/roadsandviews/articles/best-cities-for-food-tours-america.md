@@ -5,7 +5,7 @@ description: >-
   meets cultural exploration for an authentic travel experience.
 type: standard
 status: published
-publishDate: '2026-09-23'
+publishDate: '2026-09-21'
 author: Ryan Rivera
 tags:
   - Travel

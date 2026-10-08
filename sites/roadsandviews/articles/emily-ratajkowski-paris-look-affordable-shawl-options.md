@@ -5,7 +5,7 @@ description: >-
   $15 shawl that’s perfect for fall layering.
 type: how-to
 status: published
-publishDate: '2026-09-02'
+publishDate: '2026-09-27'
 author: Ryan Rivera
 tags:
   - Lifestyle

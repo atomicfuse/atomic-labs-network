@@ -5,7 +5,7 @@ description: >-
   and budget. From private islands to city skyscrapers, find your perfect stay.
 type: listicle
 status: published
-publishDate: '2026-09-30'
+publishDate: '2026-10-08'
 author: Ryan Rivera
 tags:
   - Travel

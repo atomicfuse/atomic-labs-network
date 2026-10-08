@@ -7,7 +7,7 @@ description: >-
   environmental stewardship, like New Zealand, Costa Rica, and Sweden.
 type: standard
 status: published
-publishDate: '2025-05-22T04:37:52+00:00'
+publishDate: '2026-09-21'
 author: Taylor Winters
 tags:
   - Destinations

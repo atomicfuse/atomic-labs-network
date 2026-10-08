@@ -5,7 +5,7 @@ description: >-
   single malt that pairs signature sherry casks with a red wine twist.
 type: standard
 status: published
-publishDate: '2026-09-02'
+publishDate: '2026-09-23'
 author: Ryan Rivera
 tags:
   - Food & Drink

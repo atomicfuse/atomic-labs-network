@@ -5,7 +5,7 @@ description: >-
   matter. Here's what we know, and why this sequel's road keeps getting longer.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-09-18'
 author: Andrew Bell
 tags:
   - Pop Culture

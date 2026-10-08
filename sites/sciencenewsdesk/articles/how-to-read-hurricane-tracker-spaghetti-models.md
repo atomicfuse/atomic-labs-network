@@ -5,7 +5,7 @@ description: >-
   trackers and spaghetti plots yourself, and what to do with what you see.
 type: how-to
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-09-20'
 author: Ethan Ross
 tags:
   - Environment & Climate

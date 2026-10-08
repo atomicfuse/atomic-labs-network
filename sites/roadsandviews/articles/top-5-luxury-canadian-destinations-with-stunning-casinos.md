@@ -7,7 +7,7 @@ description: >-
   history, and vibrant city life for an unforgettable experience.
 type: standard
 status: published
-publishDate: '2026-02-12T09:59:33+00:00'
+publishDate: '2026-10-07'
 author: Taylor Winters
 tags:
   - Destinations

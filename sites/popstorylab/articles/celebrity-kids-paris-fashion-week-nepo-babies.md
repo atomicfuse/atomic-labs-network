@@ -6,7 +6,7 @@ description: >-
   fashion.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-09-18'
 author: Andrew Bell
 tags:
   - Celebrity News

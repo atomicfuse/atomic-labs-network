@@ -5,7 +5,7 @@ description: >-
   how the Below Deck cast quietly but clearly chose a side.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-09-18'
 author: Ella Hughes
 tags:
   - Entertainment

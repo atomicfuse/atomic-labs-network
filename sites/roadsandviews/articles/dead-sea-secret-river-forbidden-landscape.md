@@ -5,7 +5,7 @@ description: >-
   brine flows in a restricted military zone near the Dead Sea.
 type: standard
 status: published
-publishDate: '2026-06-08'
+publishDate: '2026-09-18'
 author: Ryan Rivera
 tags:
   - destinations

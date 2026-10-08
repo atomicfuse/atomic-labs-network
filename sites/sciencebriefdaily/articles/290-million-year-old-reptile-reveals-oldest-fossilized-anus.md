@@ -7,7 +7,7 @@ description: >-
   evolutionary lineage of early reptiles, shedding light on modern descendants.
 type: standard
 status: published
-publishDate: '2026-02-23T12:57:24'
+publishDate: '2026-09-19'
 author: Sophia Sullivan
 tags:
   - New Discoveries

@@ -5,7 +5,7 @@ description: >-
   matter detection, potentially unlocking one of physics' biggest mysteries.
 type: standard
 status: published
-publishDate: '2026-10-05'
+publishDate: '2026-09-29'
 author: Sophia Sullivan
 tags:
   - New Discoveries

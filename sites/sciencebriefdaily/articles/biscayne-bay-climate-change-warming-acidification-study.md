@@ -5,7 +5,7 @@ description: >-
   saltier and more acidic, threatening South Florida's ecosystems and fisheries.
 type: standard
 status: published
-publishDate: '2026-06-02'
+publishDate: '2026-09-24'
 author: Sophia Sullivan
 tags:
   - 'Environment & Climate'

@@ -7,7 +7,7 @@ description: >-
   on Phu Quoc's beaches. Each destination promises unique experiences.
 type: standard
 status: published
-publishDate: '2025-05-12T05:43:27+00:00'
+publishDate: '2026-10-08'
 author: Taylor Winters
 tags:
   - Destinations

@@ -8,7 +8,7 @@ description: >-
   approaches.
 type: standard
 status: published
-publishDate: '2026-03-12T09:55:22+00:00'
+publishDate: '2026-10-08'
 author: Taylor Winters
 tags:
   - Destinations

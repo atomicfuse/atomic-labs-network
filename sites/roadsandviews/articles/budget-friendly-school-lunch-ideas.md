@@ -5,7 +5,7 @@ description: >-
   happy, healthy, and nourished throughout the school year.
 type: listicle
 status: published
-publishDate: '2026-08-12'
+publishDate: '2026-09-30'
 author: Ryan Rivera
 tags:
   - Food & Drink

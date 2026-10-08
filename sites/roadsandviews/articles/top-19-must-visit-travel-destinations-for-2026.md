@@ -6,7 +6,7 @@ description: >-
   soul, Cape Town's natural beauty, and Vancouver's urban charm.
 type: standard
 status: published
-publishDate: '2025-12-11T09:57:33+00:00'
+publishDate: '2026-09-24'
 author: Taylor Winters
 tags:
   - Destinations

@@ -5,7 +5,7 @@ description: >-
   foods to sleep and hydration, with practical ways to start today.
 type: listicle
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-09-21'
 author: Ethan Ross
 tags:
   - Health Science

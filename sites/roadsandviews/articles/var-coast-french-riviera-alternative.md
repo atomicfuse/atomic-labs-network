@@ -6,7 +6,7 @@ description: >-
   hotspots.
 type: standard
 status: published
-publishDate: '2026-05-28'
+publishDate: '2026-09-30'
 author: Ryan Rivera
 tags:
   - Destinations

@@ -5,7 +5,7 @@ description: >-
   over 90 days, posing challenges for future long-term space exploration.
 type: standard
 status: published
-publishDate: '2026-10-05'
+publishDate: '2026-10-03'
 author: Sophia Sullivan
 tags:
   - Space & Cosmos

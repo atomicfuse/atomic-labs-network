@@ -6,7 +6,7 @@ description: >-
   yourself.
 type: how-to
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-09-19'
 author: Sophia Sullivan
 tags:
   - Environment & Climate

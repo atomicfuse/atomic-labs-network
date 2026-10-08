@@ -9,7 +9,7 @@ description: >-
   both aircraft.
 type: standard
 status: published
-publishDate: '2025-02-03T10:10:37+00:00'
+publishDate: '2026-10-03'
 author: admin
 tags:
   - Travel

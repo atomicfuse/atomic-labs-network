@@ -6,7 +6,7 @@ description: >-
   shows.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-22'
 author: Ethan Ross
 tags:
   - Environment & Climate

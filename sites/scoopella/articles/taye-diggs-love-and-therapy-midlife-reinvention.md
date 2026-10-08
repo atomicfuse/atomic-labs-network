@@ -5,7 +5,7 @@ description: >-
   through personal growth and reinvention in a candid new interview.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-09-25'
 author: Rachel Hughes
 tags:
   - Pop Culture

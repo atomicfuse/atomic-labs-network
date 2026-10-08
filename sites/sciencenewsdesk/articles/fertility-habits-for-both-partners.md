@@ -5,7 +5,7 @@ description: >-
   in both partners. Here's what it covers, and how to turn it into a plan.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-28'
 author: Ethan Ross
 tags:
   - Health Science

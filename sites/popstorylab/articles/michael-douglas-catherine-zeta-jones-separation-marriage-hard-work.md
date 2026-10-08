@@ -5,7 +5,7 @@ description: >-
   and why he says rebuilding their marriage took effort from both of them.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-09-24'
 author: Andrew Bell
 tags:
   - Celebrity News

@@ -6,7 +6,7 @@ description: >-
   Nayarit.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-09-27'
 author: Ryan Rivera
 tags:
   - Destinations

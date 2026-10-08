@@ -8,7 +8,7 @@ description: >-
   these unusual formations.
 type: standard
 status: published
-publishDate: '2025-10-23T11:53:30'
+publishDate: '2026-10-06'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

@@ -7,7 +7,7 @@ description: >-
   the *Off Campus* cast. Here’s the timeline behind their fairytale.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-09-18'
 author: Ella Hughes
 tags:
   - Pop Culture

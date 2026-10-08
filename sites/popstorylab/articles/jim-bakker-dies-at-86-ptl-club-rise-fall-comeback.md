@@ -5,7 +5,7 @@ description: >-
   Heritage USA, Tammy Faye, and a comeback arc few TV figures ever attempted.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-09-30'
 author: Andrew Bell
 tags:
   - Celebrity News

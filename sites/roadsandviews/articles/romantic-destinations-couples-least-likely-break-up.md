@@ -5,7 +5,7 @@ description: >-
   relationship harmony, from Italy's Lake Garda to Slovenia's Lake Bled.
 type: listicle
 status: published
-publishDate: '2026-05-28'
+publishDate: '2026-10-04'
 author: Ryan Rivera
 tags:
   - Travel

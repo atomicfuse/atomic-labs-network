@@ -6,7 +6,7 @@ description: >-
   life.
 type: how-to
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-10-03'
 author: Ethan Ross
 tags:
   - Health Science

@@ -7,7 +7,7 @@ description: >-
   cosmetics, aimed at reversing or slowing the aging process.
 type: standard
 status: published
-publishDate: '2025-08-14T07:43:31'
+publishDate: '2026-10-02'
 author: Sophia Sullivan
 tags:
   - Health Science

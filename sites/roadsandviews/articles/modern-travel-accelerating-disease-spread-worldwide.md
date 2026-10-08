@@ -5,7 +5,7 @@ description: >-
   spreads infectious diseases. Learn essential health tips for safer travel.
 type: standard
 status: published
-publishDate: '2026-06-02'
+publishDate: '2026-10-07'
 author: Ryan Rivera
 tags:
   - Travel

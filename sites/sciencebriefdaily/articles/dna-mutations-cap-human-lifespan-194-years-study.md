@@ -5,7 +5,7 @@ description: >-
   limit human life to 146–194 years — even if all other aging could be reversed.
 type: standard
 status: published
-publishDate: '2026-08-03'
+publishDate: '2026-09-28'
 author: Sophia Sullivan
 tags:
   - New Discoveries

@@ -8,7 +8,7 @@ description: >-
   understanding.
 type: standard
 status: published
-publishDate: '2025-12-22T09:55:31+00:00'
+publishDate: '2026-10-03'
 author: Taylor Winters
 tags:
   - Destinations

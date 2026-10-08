@@ -5,7 +5,7 @@ description: >-
   and she found out through a Daily Mail Snapchat. Drama unfolds!
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-10-08'
 author: Ella Hughes
 tags:
   - Pop Culture

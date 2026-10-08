@@ -7,7 +7,7 @@ description: >-
   harmful therapies.
 type: standard
 status: published
-publishDate: '2025-06-26T07:51:28'
+publishDate: '2026-10-04'
 author: Sophia Sullivan
 tags:
   - Health Science

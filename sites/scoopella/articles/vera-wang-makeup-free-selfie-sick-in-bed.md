@@ -5,7 +5,7 @@ description: >-
   unpacks why the 'aging in reverse' headlines say more about us than about her.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-09-21'
 author: Ella Hughes
 tags:
   - Celebrities

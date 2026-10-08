@@ -5,7 +5,7 @@ description: >-
   October 7-9. Here's a mood-based guide to what to watch first this week.
 type: listicle
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-09-20'
 author: Andrew Bell
 tags:
   - Pop Culture

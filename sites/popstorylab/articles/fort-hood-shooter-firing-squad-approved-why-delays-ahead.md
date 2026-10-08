@@ -5,7 +5,7 @@ description: >-
   why the first military execution since 1961 could still be years away.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-09-24'
 author: Andrew Bell
 tags:
   - Pop Culture

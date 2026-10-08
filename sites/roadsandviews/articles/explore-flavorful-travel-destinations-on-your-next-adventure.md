@@ -7,7 +7,7 @@ description: >-
   making them ideal for food enthusiasts seeking culinary adventures.
 type: standard
 status: published
-publishDate: '2026-02-02T11:01:24+00:00'
+publishDate: '2026-09-18'
 author: Taylor Winters
 tags:
   - Destinations

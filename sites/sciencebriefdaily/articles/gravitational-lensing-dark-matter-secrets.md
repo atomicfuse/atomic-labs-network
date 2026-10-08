@@ -5,7 +5,7 @@ description: >-
   through gravitational lensing, revealing its mysterious nature.
 type: standard
 status: published
-publishDate: '2026-09-28'
+publishDate: '2026-10-04'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

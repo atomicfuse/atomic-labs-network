@@ -5,7 +5,7 @@ description: >-
   shopping, even amid ongoing trade tensions.
 type: standard
 status: published
-publishDate: '2026-09-16'
+publishDate: '2026-09-24'
 author: Ryan Rivera
 tags:
   - Travel

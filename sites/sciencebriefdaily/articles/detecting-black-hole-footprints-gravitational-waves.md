@@ -7,7 +7,7 @@ description: >-
   horizon using gravitational waves, opening new doors in astrophysics.
 type: standard
 status: published
-publishDate: '2026-06-29'
+publishDate: '2026-09-24'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

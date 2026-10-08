@@ -5,7 +5,7 @@ description: >-
   based on new research linking diet to mental health.
 type: standard
 status: published
-publishDate: '2026-10-05'
+publishDate: '2026-10-03'
 author: Sophia Sullivan
 tags:
   - Health Science

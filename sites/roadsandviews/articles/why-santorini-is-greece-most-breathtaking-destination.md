@@ -5,7 +5,7 @@ description: >-
   stands apart as the crown jewel of Greek island travel.
 type: standard
 status: published
-publishDate: '2026-06-21'
+publishDate: '2026-09-18'
 author: Ryan Rivera
 tags:
   - Destinations

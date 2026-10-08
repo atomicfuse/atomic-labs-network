@@ -5,7 +5,7 @@ description: >-
   targets and enhance global climate initiatives.
 type: standard
 status: published
-publishDate: '2026-10-05'
+publishDate: '2026-09-19'
 author: Sophia Sullivan
 tags:
   - Environment & Climate

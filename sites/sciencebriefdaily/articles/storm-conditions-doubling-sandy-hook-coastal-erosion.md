@@ -7,7 +7,7 @@ description: >-
   have doubled since 1979 and its implications on coastal communities.
 type: standard
 status: published
-publishDate: '2026-10-05'
+publishDate: '2026-09-19'
 author: Sophia Sullivan
 tags:
   - Environment & Climate

@@ -6,7 +6,7 @@ description: >-
   regular...
 type: standard
 status: published
-publishDate: '2026-06-01'
+publishDate: '2026-09-25'
 author: Sophia Sullivan
 tags:
   - New Discoveries
