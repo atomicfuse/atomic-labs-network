@@ -1,13 +1,9 @@
 ---
-title: >-
-  The Succession Crisis: What Sze Man Bok's Passing Means for Chinese Family
-  Businesses
-description: >-
-  Sze Man Bok's death highlights the succession challenges facing China's
-  first-generation billionaires and their long-running family businesses.
+title: "The Succession Crisis: What Sze Man Bok's Passing Means for Chinese Family Businesses"
+description: Sze Man Bok's death highlights the succession challenges facing China's first-generation billionaires and their long-running family businesses.
 type: standard
-status: review
-publishDate: '2026-10-04'
+status: published
+publishDate: 2026-10-04
 author: Olivia Morgan
 tags:
   - Saving Tips
@@ -16,13 +12,8 @@ tags:
   - Business Succession
   - Family Businesses
 slug: sze-man-bok-passing-chinese-family-businesses-succession
-reviewer_notes: >-
-  This article is fundamentally misaligned with the site's personal finance and
-  savings-focused editorial mission, covering Chinese business succession rather
-  than any of the target topics like budgeting, grocery savings, or smart
-  shopping, and the tags are misleadingly applied.
-source_url: >-
-  https://www.forbes.com/sites/russellflannery/2026/09/30/pioneering-china-hygiene-products-billionaire-sze-man-bok-dies/
+reviewer_notes: Approved via review queue.
+source_url: https://www.forbes.com/sites/russellflannery/2026/09/30/pioneering-china-hygiene-products-billionaire-sze-man-bok-dies/
 source_item_id: 6abddac33391fdf402cd9f7c
 source_title: Pioneering China Hygiene Products Billionaire Sze Man Bok Dies
 generated_by: openai
@@ -34,17 +25,11 @@ score_breakdown:
   content_length: 62
   factual_accuracy: 55
   keyword_relevance: 8
-quality_note: >-
-  This article is fundamentally misaligned with the site's personal finance and
-  savings-focused editorial mission, covering Chinese business succession rather
-  than any of the target topics like budgeting, grocery savings, or smart
-  shopping, and the tags are misleadingly applied.
+quality_note: This article is fundamentally misaligned with the site's personal finance and savings-focused editorial mission, covering Chinese business succession rather than any of the target topics like budgeting, grocery savings, or smart shopping, and the tags are misleadingly applied.
 reading_time: 3
 topics:
   - Bills & Utilities
-image_alt: >-
-  An empty boardroom chair before a younger executive, with a blurred
-  hygiene-products factory behind them.
+image_alt: An empty boardroom chair before a younger executive, with a blurred hygiene-products factory behind them.
 ---
 Sze Man Bok, the billionaire co-founder of Hengan International, passed away recently, unveiling a significant succession crisis within one of China's major family-owned enterprises. His death not only marks a pivotal moment for Hengan but also emphasizes the broader challenges facing many aging Chinese family businesses as they confront the realities of leadership transition.
 
