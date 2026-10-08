@@ -5,7 +5,7 @@ description: >-
   shows how wood, stone, velvet and candlelight can soften industrial interiors.
 type: how-to
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-21'
 author: Ben Foster
 tags:
   - Pop Culture Homemaking

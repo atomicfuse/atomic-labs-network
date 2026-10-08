@@ -5,7 +5,7 @@ description: >-
   into a simple route covering art, royal history, parks, food and flamenco.
 type: listicle
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-27'
 author: Olivia Torres
 tags:
   - Small Wonders

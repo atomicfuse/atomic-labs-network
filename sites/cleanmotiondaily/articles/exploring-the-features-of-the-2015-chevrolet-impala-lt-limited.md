@@ -5,7 +5,7 @@ description: >-
   Limited model, a noteworthy entry in Chevrolet's full-size sedan lineup.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-18'
 author: Editorial Team
 tags:
   - News

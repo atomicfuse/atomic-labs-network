@@ -5,7 +5,7 @@ description: >-
   the end of an era for the renowned winery according to reports.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-08'
 author: Editorial Team
 tags:
   - Wine news

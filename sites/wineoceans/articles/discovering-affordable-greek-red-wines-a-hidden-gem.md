@@ -5,7 +5,7 @@ description: >-
   treasure in the wine market offering exceptional value and unique flavors.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-13'
 author: Editorial Team
 tags:
   - Wine news

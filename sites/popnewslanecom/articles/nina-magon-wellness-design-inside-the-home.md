@@ -5,7 +5,7 @@ description: >-
   amenity floor. Here's what that shift means and how to try it at home.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-30'
 author: David Hayes
 tags:
   - Pop Culture Explained

@@ -5,7 +5,7 @@ description: >-
   for Gollum as new Dúnedain character Halvard in Warner Bros.' Middle-earth...
 type: standard
 status: published
-publishDate: 2026-05-27T00:00:00.000Z
+publishDate: '2026-05-26'
 author: Andrew Gray
 tags:
   - Viral

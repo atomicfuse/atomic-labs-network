@@ -5,7 +5,7 @@ description: >-
   floor. Here's how to apply that idea in any space, at any budget.
 type: how-to
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-22'
 author: Olivia Torres
 tags:
   - Practical Innovations

@@ -6,7 +6,7 @@ description: >-
   stealing.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-30'
 author: Ben Foster
 tags:
   - Pop Culture Homemaking

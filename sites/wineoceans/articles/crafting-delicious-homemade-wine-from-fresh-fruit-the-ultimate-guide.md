@@ -5,7 +5,7 @@ description: >-
   released, offering wine enthusiasts detailed instructions for home winemaking.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-09'
 author: Editorial Team
 tags:
   - wine news

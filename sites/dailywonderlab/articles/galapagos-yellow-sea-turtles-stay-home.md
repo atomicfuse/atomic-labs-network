@@ -5,7 +5,7 @@ description: >-
   green turtles in the Galápagos found homebodies. Here is what that tells us.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-25'
 author: Olivia Torres
 tags:
   - Small Wonders

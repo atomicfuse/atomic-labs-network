@@ -5,7 +5,7 @@ description: >-
   rings signal a 'promise' rather than a marriage. Here's what we actually know.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-26'
 author: Ben Foster
 tags:
   - Pop Culture Homemaking

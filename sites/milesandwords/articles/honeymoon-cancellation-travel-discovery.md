@@ -5,7 +5,7 @@ description: >-
   Their solution involved a new wave of smart travel tools and strategic...
 type: standard
 status: published
-publishDate: 2026-06-15T00:00:00.000Z
+publishDate: '2026-06-13'
 author: Sapir Lavi
 tags:
   - Travel Planning

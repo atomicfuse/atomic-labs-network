@@ -5,7 +5,7 @@ description: >-
   Here's how to shop the idea and make clutter vanish without losing your style.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-10-04'
 author: David Hayes
 tags:
   - life hacks

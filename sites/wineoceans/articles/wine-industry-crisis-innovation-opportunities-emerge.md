@@ -5,7 +5,7 @@ description: >-
   yet innovative producers in Bordeaux, Spain, and France are finding new...
 type: standard
 status: published
-publishDate: '2026-05-20'
+publishDate: '2026-05-15'
 author: Andrew Perry
 tags:
   - Wine news

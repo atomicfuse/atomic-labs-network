@@ -5,7 +5,7 @@ description: >-
   Lauderdale and Miami as part of strategic expansion into Florida markets.
 type: standard
 status: published
-publishDate: '2026-05-17'
+publishDate: '2026-05-14'
 author: Sarah Rivera
 tags:
   - Travel Tips

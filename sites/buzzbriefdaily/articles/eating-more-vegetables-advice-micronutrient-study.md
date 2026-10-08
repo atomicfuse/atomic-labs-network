@@ -5,7 +5,7 @@ description: >-
   same as having a nutritious diet. Here's what stands in the way.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-29'
 author: Ben Foster
 tags:
   - Everyday Life Hacks

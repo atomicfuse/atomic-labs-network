@@ -5,7 +5,7 @@ description: >-
   viticulture methods according to recent reports.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-12'
 author: Editorial Team
 tags:
   - wine news

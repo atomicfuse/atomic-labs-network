@@ -6,7 +6,7 @@ description: >-
   sustainable vacation...
 type: standard
 status: published
-publishDate: '2026-05-18'
+publishDate: '2026-05-09'
 author: Sarah Rivera
 tags:
   - Travel Tips

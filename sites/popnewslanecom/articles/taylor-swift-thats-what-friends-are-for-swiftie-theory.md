@@ -6,7 +6,7 @@ description: >-
   reality...
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-18'
 author: David Hayes
 tags:
   - Pop Culture Explained

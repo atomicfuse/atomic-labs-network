@@ -6,7 +6,7 @@ description: >-
   escapes.
 type: standard
 status: published
-publishDate: '2026-05-19'
+publishDate: '2026-05-13'
 author: Sarah Rivera
 tags:
   - Destination Guides

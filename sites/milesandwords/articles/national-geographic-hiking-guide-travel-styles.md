@@ -5,7 +5,7 @@ description: >-
   families, backpackers, and RV travelers across America's diverse landscapes.
 type: review
 status: published
-publishDate: '2026-05-19'
+publishDate: '2026-05-13'
 author: Sarah Rivera
 tags:
   - Adventure Activities

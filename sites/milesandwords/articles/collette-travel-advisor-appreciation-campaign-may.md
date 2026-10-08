@@ -6,7 +6,7 @@ description: >-
   customer...
 type: standard
 status: published
-publishDate: '2026-05-18'
+publishDate: '2026-05-14'
 author: Sarah Rivera
 tags:
   - Travel Tips

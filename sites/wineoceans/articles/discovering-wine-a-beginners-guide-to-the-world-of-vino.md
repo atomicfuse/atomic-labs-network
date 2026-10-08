@@ -5,7 +5,7 @@ description: >-
   of wine appreciation and the diverse world of vino.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-16'
 author: Editorial Team
 tags:
   - Wine for beginners

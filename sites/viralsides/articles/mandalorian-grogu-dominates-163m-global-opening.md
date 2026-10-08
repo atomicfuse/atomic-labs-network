@@ -5,7 +5,7 @@ description: >-
   $163M opening while 'Michael' approaches $800M worldwide milestone.
 type: standard
 status: published
-publishDate: 2026-05-27T00:00:00.000Z
+publishDate: '2026-05-22'
 author: Andrew Gray
 tags:
   - Viral

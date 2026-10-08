@@ -5,7 +5,7 @@ description: >-
   microbudget horror film Obsession became the real surprise winner of the year.
 type: standard
 status: published
-publishDate: '2026-05-27'
+publishDate: '2026-05-20'
 author: Andrew Gray
 tags:
   - Viral

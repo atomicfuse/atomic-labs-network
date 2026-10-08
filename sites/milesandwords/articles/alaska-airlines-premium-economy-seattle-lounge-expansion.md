@@ -5,7 +5,7 @@ description: >-
   787s by 2028 and a 40,000-square-foot luxury lounge at Seattle-Tacoma airport.
 type: standard
 status: published
-publishDate: '2026-05-18'
+publishDate: '2026-05-10'
 author: Sarah Rivera
 tags:
   - Travel Tips

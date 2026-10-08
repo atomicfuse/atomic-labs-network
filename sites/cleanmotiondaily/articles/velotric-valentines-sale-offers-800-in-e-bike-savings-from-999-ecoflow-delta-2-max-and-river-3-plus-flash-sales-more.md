@@ -5,7 +5,7 @@ description: >-
   starting from $999, plus EcoFlow Delta 2 Max and River 3 Plus flash sales.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-24'
 author: Editorial Team
 tags:
   - News

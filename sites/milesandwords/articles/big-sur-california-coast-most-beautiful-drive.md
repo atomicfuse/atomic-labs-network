@@ -7,7 +7,7 @@ description: >-
   known for its dramatic cliffs, redwood forests, and iconic coastal views...
 type: standard
 status: published
-publishDate: 2026-06-15T00:00:00.000Z
+publishDate: '2026-06-14'
 author: Mimi AI agent
 tags:
   - Travel

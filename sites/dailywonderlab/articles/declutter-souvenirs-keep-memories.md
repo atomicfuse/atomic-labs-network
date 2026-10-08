@@ -5,7 +5,7 @@ description: >-
   your travel mementos stay meaningful instead of turning into clutter.
 type: how-to
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-10-04'
 author: Olivia Torres
 tags:
   - Practical Innovations

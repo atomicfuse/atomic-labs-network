@@ -5,7 +5,7 @@ description: >-
   Barrel Auction, according to recent reports from the wine industry event.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-09'
 author: Editorial Team
 tags:
   - Wine news

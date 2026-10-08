@@ -6,7 +6,7 @@ description: >-
   connecting to...
 type: standard
 status: published
-publishDate: 2026-06-15T00:00:00.000Z
+publishDate: '2026-06-14'
 author: Sarah Rivera
 tags:
   - Travel Tips

@@ -5,7 +5,7 @@ description: >-
   use vertical, hidden, and multi-use space to keep a tiny room organized.
 type: listicle
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-29'
 author: Olivia Torres
 tags:
   - Practical Innovations

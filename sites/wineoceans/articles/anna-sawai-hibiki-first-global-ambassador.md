@@ -5,7 +5,7 @@ description: >-
   global ambassador, partnering with Japan's oldest kimono house for cultural...
 type: standard
 status: published
-publishDate: '2026-05-20'
+publishDate: '2026-05-19'
 author: Andrew Perry
 tags:
   - wine news

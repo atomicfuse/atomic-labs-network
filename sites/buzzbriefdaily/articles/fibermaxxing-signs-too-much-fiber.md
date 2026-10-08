@@ -5,7 +5,7 @@ description: >-
   overdoing fiber, and how to build a smarter, gut-friendly plate.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-18'
 author: Ben Foster
 tags:
   - Meal Prep Strategies

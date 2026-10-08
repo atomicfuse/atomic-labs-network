@@ -5,7 +5,7 @@ description: >-
   tags available. Here's what they hope to learn and how you can help monarchs.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-24'
 author: Olivia Torres
 tags:
   - Small Wonders

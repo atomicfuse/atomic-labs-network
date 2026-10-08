@@ -5,7 +5,7 @@ description: >-
   to stock an emergency pantry that's balanced, practical, and not depressing.
 type: how-to
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-18'
 author: Ben Foster
 tags:
   - Everyday Life Hacks

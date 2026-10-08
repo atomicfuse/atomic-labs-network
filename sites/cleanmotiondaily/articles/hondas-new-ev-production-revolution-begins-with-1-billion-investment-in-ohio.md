@@ -5,7 +5,7 @@ description: >-
   electric vehicle production capabilities in the United States.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-15'
 author: Editorial Team
 tags:
   - Electric Cars

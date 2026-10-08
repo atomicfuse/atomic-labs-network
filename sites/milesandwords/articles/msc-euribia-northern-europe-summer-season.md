@@ -5,7 +5,7 @@ description: >-
   and Copenhagen, featuring Norway fjords itineraries and extensive onboard...
 type: standard
 status: published
-publishDate: '2026-05-19'
+publishDate: '2026-05-10'
 author: Sarah Rivera
 tags:
   - Destination Guides

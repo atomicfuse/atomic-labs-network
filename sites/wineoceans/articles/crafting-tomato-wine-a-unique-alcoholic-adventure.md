@@ -5,7 +5,7 @@ description: >-
   fruit wines meet innovative techniques for a distinctive beverage experience.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-10'
 author: Editorial Team
 tags:
   - wine news

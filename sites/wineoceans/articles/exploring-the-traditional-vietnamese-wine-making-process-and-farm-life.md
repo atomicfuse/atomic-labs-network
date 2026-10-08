@@ -5,7 +5,7 @@ description: >-
   in Vietnam, showcasing cultural heritage and agricultural traditions.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-17'
 author: Editorial Team
 tags:
   - wine news

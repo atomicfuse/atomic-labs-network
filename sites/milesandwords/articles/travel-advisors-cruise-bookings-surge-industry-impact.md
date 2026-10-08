@@ -5,7 +5,7 @@ description: >-
   channels, with cruise bookings hitting $22.7B as travelers value personal...
 type: standard
 status: published
-publishDate: '2026-05-17'
+publishDate: '2026-05-08'
 author: Sarah Rivera
 tags:
   - Travel Tips

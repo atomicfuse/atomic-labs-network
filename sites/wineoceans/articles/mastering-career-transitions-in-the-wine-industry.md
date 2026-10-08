@@ -5,7 +5,7 @@ description: >-
   as the sector continues to evolve and present new opportunities.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-23'
 author: Editorial Team
 tags:
   - Wine news

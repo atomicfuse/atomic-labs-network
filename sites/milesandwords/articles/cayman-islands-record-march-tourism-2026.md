@@ -5,7 +5,7 @@ description: >-
   nearly 65,000 visitors, marking a significant 12.6% year-over-year increase.
 type: standard
 status: published
-publishDate: '2026-05-17'
+publishDate: '2026-05-12'
 author: Sarah Rivera
 tags:
   - Destination Guides

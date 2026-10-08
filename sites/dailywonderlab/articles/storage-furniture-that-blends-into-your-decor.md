@@ -5,7 +5,7 @@ description: >-
   place, and style storage furniture that reads as décor, not utility.
 type: how-to
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-10-07'
 author: Olivia Torres
 tags:
   - Practical Innovations

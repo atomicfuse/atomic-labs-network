@@ -5,7 +5,7 @@ description: >-
   to find what's aging your space, using a room-by-room audit you can do today.
 type: how-to
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-10-05'
 author: Olivia Torres
 tags:
   - Practical Innovations

@@ -5,7 +5,7 @@ description: >-
   adventure that challenges traditional winemaking boundaries.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-06'
 author: Editorial Team
 tags:
   - Wine news

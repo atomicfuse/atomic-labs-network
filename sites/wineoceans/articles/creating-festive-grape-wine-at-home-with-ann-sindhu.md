@@ -5,7 +5,7 @@ description: >-
   festive grape wine in your own kitchen.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-18'
 author: Editorial Team
 tags:
   - Wine for beginners

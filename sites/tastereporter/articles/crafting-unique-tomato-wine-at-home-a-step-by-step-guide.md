@@ -5,7 +5,7 @@ description: >-
   guide to creating a unique fermented beverage from fresh tomatoes.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-22'
 author: Daniel Chen
 tags:
   - Recipes

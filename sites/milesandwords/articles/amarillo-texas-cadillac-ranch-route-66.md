@@ -5,7 +5,7 @@ description: >-
   on your Route 66 road trip — the most photographed stop on the Mother Road.
 type: standard
 status: published
-publishDate: 2026-06-01T00:00:00.000Z
+publishDate: '2026-05-28'
 author: Sarah Rivera
 tags:
   - Route 66

@@ -5,7 +5,7 @@ description: >-
   favorites, and repurpose keepsakes so the memories stay and the clutter goes.
 type: how-to
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-21'
 author: David Hayes
 tags:
   - life hacks

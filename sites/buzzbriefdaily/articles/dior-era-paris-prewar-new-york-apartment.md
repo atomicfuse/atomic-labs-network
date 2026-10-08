@@ -5,7 +5,7 @@ description: >-
   with neoclassical restraint and high-voltage color. Here's what to borrow.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-10-06'
 author: Ben Foster
 tags:
   - Pop Culture Homemaking

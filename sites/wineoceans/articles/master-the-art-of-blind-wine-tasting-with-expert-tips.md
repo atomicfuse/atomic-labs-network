@@ -5,7 +5,7 @@ description: >-
   expert guidance to enhance your wine appreciation skills.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-13'
 author: Editorial Team
 tags:
   - wine tips

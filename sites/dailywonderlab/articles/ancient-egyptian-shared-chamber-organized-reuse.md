@@ -6,7 +6,7 @@ description: >-
   differently.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-26'
 author: Olivia Torres
 tags:
   - Uncommon Histories

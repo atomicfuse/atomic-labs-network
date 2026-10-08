@@ -6,7 +6,7 @@ description: >-
   to Santa Monica Pier.
 type: listicle
 status: published
-publishDate: 2026-06-01T00:00:00.000Z
+publishDate: '2026-05-30'
 author: Sarah Rivera
 tags:
   - Route 66

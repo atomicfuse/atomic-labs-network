@@ -6,7 +6,7 @@ description: >-
   how to do it.
 type: standard
 status: published
-publishDate: 2026-06-01T00:00:00.000Z
+publishDate: '2026-05-29'
 author: Sarah Rivera
 tags:
   - Route 66

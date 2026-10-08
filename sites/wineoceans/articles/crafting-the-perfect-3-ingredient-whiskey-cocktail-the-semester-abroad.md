@@ -5,7 +5,7 @@ description: >-
   drink called 'The Semester Abroad' gaining attention in beverage circles.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-17'
 author: Editorial Team
 tags:
   - Wine news

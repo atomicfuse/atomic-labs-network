@@ -7,7 +7,7 @@ description: >-
   66 night in St. Louis — your first real taste of the American West.
 type: standard
 status: published
-publishDate: 2026-06-01T00:00:00.000Z
+publishDate: '2026-05-26'
 author: Sarah Rivera
 tags:
   - Route 66

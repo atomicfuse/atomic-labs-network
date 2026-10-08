@@ -5,7 +5,7 @@ description: >-
   nonne teach about everyday pleasure, plus her new cookbook, Eat Everything.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-21'
 author: Ben Foster
 tags:
   - Pop Culture Homemaking

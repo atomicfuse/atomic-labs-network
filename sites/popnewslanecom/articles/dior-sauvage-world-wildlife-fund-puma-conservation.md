@@ -5,7 +5,7 @@ description: >-
   to protect wild pumas in Chile. Here's what the commitment covers.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-10-03'
 author: David Hayes
 tags:
   - did you know

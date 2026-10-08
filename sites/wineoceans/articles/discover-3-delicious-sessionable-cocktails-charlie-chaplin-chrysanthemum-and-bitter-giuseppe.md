@@ -5,7 +5,7 @@ description: >-
   Chrysanthemum, and Bitter Giuseppe for your next drinking occasion.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-08'
 author: Editorial Team
 tags:
   - Wine news

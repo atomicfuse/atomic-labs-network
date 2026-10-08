@@ -5,7 +5,7 @@ description: >-
   logic behind the greenery, and how to spot it when you travel.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-10-02'
 author: Olivia Torres
 tags:
   - Practical Innovations

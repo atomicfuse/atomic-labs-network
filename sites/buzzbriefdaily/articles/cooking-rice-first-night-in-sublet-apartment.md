@@ -5,7 +5,7 @@ description: >-
   marriage, and why a simple pot of butter rice makes the perfect anchor.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-25'
 author: Ben Foster
 tags:
   - Pop Culture Homemaking

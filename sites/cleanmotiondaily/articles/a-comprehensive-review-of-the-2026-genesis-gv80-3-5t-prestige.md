@@ -5,7 +5,7 @@ description: >-
   updates and features of Genesis's flagship luxury SUV offering.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-02'
 author: Editorial Team
 tags:
   - Reviews

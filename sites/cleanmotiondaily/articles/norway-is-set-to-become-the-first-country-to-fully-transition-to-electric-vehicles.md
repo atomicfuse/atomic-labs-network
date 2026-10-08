@@ -5,7 +5,7 @@ description: >-
   world to achieve a complete transition to electric vehicles.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-10'
 author: Editorial Team
 tags:
   - Electric Cars

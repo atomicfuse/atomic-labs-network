@@ -5,7 +5,7 @@ description: >-
   with automotive revenue declining 8% according to recent reports.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-22'
 author: Editorial Team
 tags:
   - News

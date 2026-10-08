@@ -5,7 +5,7 @@ description: >-
   West Wilson's romance scandal, with episodes airing through June 9.
 type: standard
 status: published
-publishDate: '2026-05-27'
+publishDate: '2026-05-21'
 author: Andrew Gray
 tags:
   - Viral

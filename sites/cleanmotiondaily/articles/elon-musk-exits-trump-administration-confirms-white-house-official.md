@@ -5,7 +5,7 @@ description: >-
   within the Trump administration, marking a significant development.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-20'
 author: Editorial Team
 tags:
   - News

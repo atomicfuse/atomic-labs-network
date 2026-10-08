@@ -5,7 +5,7 @@ description: >-
   relaxation, according to recent reports highlighting this classic pairing.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-03'
 author: Editorial Team
 tags:
   - Wine news

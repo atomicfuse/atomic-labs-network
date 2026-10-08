@@ -5,7 +5,7 @@ description: >-
   June 19-September 7, plus offers 25% camping discounts for budget-conscious...
 type: standard
 status: published
-publishDate: '2026-05-17'
+publishDate: '2026-05-12'
 author: Sarah Rivera
 tags:
   - Destination Guides

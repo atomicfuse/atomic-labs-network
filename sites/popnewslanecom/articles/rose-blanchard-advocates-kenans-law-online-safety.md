@@ -5,7 +5,7 @@ description: >-
   as she pushes for 'Kenan's Law,' a proposal for stronger cyberbullying...
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-10-07'
 author: David Hayes
 tags:
   - Pop Culture Explained

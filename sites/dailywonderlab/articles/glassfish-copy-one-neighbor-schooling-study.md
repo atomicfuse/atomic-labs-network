@@ -5,7 +5,7 @@ description: >-
   copying one neighbor at a time, not the whole group. Here's what that means.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-10-07'
 author: Olivia Torres
 tags:
   - Everyday Science Mysteries

@@ -6,7 +6,7 @@ description: >-
   practices.
 type: standard
 status: published
-publishDate: '2026-05-20'
+publishDate: '2026-05-15'
 author: Andrew Perry
 tags:
   - wine for beginners

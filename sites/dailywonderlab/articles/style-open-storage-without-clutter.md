@@ -6,7 +6,7 @@ description: >-
   calm.
 type: how-to
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-30'
 author: Olivia Torres
 tags:
   - Practical Innovations

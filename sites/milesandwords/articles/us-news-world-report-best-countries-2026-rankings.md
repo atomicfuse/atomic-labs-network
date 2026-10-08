@@ -5,7 +5,7 @@ description: >-
   with Nordic nations dominating quality of life categories.
 type: standard
 status: published
-publishDate: '2026-05-19'
+publishDate: '2026-05-16'
 author: Sarah Rivera
 tags:
   - Destination Guides

@@ -5,7 +5,7 @@ description: >-
   blue to pink and brown. Here's how to use them without matching everything.
 type: listicle
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-10-05'
 author: Ben Foster
 tags:
   - Home Organization Ideas

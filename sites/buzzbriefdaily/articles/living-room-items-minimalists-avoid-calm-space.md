@@ -5,7 +5,7 @@ description: >-
   a practical, funny take on which to clear first, before you buy any new decor.
 type: listicle
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-25'
 author: Ben Foster
 tags:
   - Home Organization Ideas

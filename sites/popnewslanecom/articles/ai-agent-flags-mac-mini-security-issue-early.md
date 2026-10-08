@@ -5,7 +5,7 @@ description: >-
   his Mac Mini. Here's why that complicates Apple's tighter agent permissions.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-30'
 author: David Hayes
 tags:
   - did you know

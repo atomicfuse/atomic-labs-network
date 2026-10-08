@@ -6,7 +6,7 @@ description: >-
   makeovers.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-22'
 author: Ben Foster
 tags:
   - Everyday Life Hacks

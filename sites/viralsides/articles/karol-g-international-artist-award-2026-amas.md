@@ -5,7 +5,7 @@ description: >-
   2026 American Music Awards, reflecting on finding purpose through her music.
 type: standard
 status: published
-publishDate: 2026-05-27T00:00:00.000Z
+publishDate: '2026-05-26'
 author: Andrew Gray
 tags:
   - viral

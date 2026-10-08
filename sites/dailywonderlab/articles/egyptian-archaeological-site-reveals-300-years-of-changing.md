@@ -5,7 +5,7 @@ description: >-
   about how ancient Egyptians reused tombs with care, not chaos.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-19'
 author: Olivia Torres
 tags:
   - Uncommon Histories

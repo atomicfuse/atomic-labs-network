@@ -5,7 +5,7 @@ description: >-
   that shrink your space and test quick, low-cost fixes this weekend.
 type: how-to
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-10-03'
 author: Olivia Torres
 tags:
   - Practical Innovations

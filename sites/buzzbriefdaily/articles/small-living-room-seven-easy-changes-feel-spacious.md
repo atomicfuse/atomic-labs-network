@@ -6,7 +6,7 @@ description: >-
   renovation.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-21'
 author: Ben Foster
 tags:
   - Home Organization Ideas

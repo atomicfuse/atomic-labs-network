@@ -5,7 +5,7 @@ description: >-
   Fulton after a four-year absence from the CBS soap opera.
 type: standard
 status: published
-publishDate: 2026-05-27T00:00:00.000Z
+publishDate: '2026-05-22'
 author: Andrew Gray
 tags:
   - Viral

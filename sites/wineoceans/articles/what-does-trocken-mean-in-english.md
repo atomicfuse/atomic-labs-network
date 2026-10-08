@@ -5,7 +5,7 @@ description: >-
   classification indicates dryness levels in German wines.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-17'
 author: Editorial Team
 tags:
   - Wine for beginners

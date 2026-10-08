@@ -5,7 +5,7 @@ description: >-
   covering the winemaking process from fruit selection to fermentation.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-15'
 author: Editorial Team
 tags:
   - Wine recipes

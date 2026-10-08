@@ -5,7 +5,7 @@ description: >-
   has DWTS fans demanding choreography credit. Here's what's reported so far.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-25'
 author: Ben Foster
 tags:
   - Pop Culture Homemaking

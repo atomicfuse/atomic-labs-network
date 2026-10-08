@@ -5,7 +5,7 @@ description: >-
   carts to storage ottomans. Here's the logic behind them and how to use it.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-18'
 author: Ben Foster
 tags:
   - Everyday Life Hacks

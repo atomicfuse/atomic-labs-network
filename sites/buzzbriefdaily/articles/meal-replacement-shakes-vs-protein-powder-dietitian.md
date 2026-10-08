@@ -5,7 +5,7 @@ description: >-
   differ from protein powder, and what to check on the label before you buy.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-19'
 author: Ben Foster
 tags:
   - Meal Prep Strategies

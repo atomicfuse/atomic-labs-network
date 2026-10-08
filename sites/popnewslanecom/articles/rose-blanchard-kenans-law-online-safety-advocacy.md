@@ -5,7 +5,7 @@ description: >-
   aimed at Ken Urker, and using it to push for 'Kenan's Law' on cyberbullying.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-21'
 author: David Hayes
 tags:
   - Pop Culture Explained

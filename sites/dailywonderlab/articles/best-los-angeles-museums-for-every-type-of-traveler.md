@@ -5,7 +5,7 @@ description: >-
   contemporary art fans, antiquities lovers, and garden wanderers. Pick yours.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-10-03'
 author: Olivia Torres
 tags:
   - Small Wonders

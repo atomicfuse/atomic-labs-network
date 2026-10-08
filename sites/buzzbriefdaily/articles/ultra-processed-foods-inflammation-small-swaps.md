@@ -5,7 +5,7 @@ description: >-
   Here's how to spot hidden UPFs and make small, realistic upgrades without a...
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-30'
 author: Ben Foster
 tags:
   - Everyday Life Hacks

@@ -5,7 +5,7 @@ description: >-
   and GM sets charging infrastructure goals for 2025.
 type: standard
 status: published
-publishDate: '2026-05-26'
+publishDate: '2026-05-18'
 author: Editorial Team
 tags:
   - Electric Cars
