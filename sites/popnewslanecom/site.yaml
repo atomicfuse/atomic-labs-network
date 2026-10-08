@@ -184,3 +184,10 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-76NR9ED8EJ
+  gtm: GT-NC6VVN2K
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
