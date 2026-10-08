@@ -170,6 +170,9 @@ theme:
   template: grid
   card:
     image_ratio: 4:3
+  logo: /assets/logo-c5f00a0b53.png
+  favicon: /assets/favicon-f2bc7a0ffe.png
+  footer_logo: /assets/logo-footer-d964e1dd44.png
 grid:
   topics:
     - label: News
