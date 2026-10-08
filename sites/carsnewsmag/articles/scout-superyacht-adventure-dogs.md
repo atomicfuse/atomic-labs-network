@@ -1,11 +1,9 @@
 ---
-title: 'Meet Scout: The $111M Superyacht Built for Adventure and Dogs'
-description: >-
-  Discover Scout, the quirky $111 million superyacht mashup of adventure and
-  canine companionship, redefining luxury on the water.
+title: "Meet Scout: The $111M Superyacht Built for Adventure and Dogs"
+description: Discover Scout, the quirky $111 million superyacht mashup of adventure and canine companionship, redefining luxury on the water.
 type: standard
-status: review
-publishDate: '2026-08-24'
+status: published
+publishDate: 2026-08-24
 author: James Reed
 tags:
   - News
@@ -13,12 +11,8 @@ tags:
   - Billionaire Toys
   - Exploration
 slug: scout-superyacht-adventure-dogs
-reviewer_notes: >-
-  This article is entirely off-topic for an automotive enthusiast site —
-  covering a superyacht rather than cars, EVs, or automotive industry news — and
-  is also too short at 433 words while lacking verified sourcing for key claims.
-source_url: >-
-  https://www.autoevolution.com/news/one-of-the-quirkiest-millionaire-owned-superyachts-is-selling-for-111m-274497.html
+reviewer_notes: Approved via review queue.
+source_url: https://www.autoevolution.com/news/one-of-the-quirkiest-millionaire-owned-superyachts-is-selling-for-111m-274497.html
 source_item_id: 6a8a58d263a7e9d3e6ee4629
 source_title: One of the Quirkiest Millionaire-Owned Superyachts Is Selling for $111M
 generated_by: openai
@@ -30,16 +24,11 @@ score_breakdown:
   content_length: 42
   factual_accuracy: 60
   keyword_relevance: 15
-quality_note: >-
-  This article is entirely off-topic for an automotive enthusiast site —
-  covering a superyacht rather than cars, EVs, or automotive industry news — and
-  is also too short at 433 words while lacking verified sourcing for key claims.
+quality_note: This article is entirely off-topic for an automotive enthusiast site — covering a superyacht rather than cars, EVs, or automotive industry news — and is also too short at 433 words while lacking verified sourcing for key claims.
 reading_time: 2
 topics:
   - Reviews
-image_alt: >-
-  Dark explorer superyacht at twilight with a calm dog on the dock and warm
-  harbor reflections
+image_alt: Dark explorer superyacht at twilight with a calm dog on the dock and warm harbor reflections
 ---
 In an intriguing twist on the luxury yacht game, the stunning 209-foot explorer yacht named Scout is now on the market for $111 million. Owned by US millionaire James Berwind, this superyacht stands out not just for its price tag but also for its rich personalization driven by love for adventure—and dogs.
 
