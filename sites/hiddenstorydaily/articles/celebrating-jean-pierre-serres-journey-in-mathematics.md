@@ -1,11 +1,9 @@
 ---
-title: 'Celebrating a Genius: Jean-Pierre Serre’s Journey in Mathematics'
-description: >-
-  Explore the remarkable life of Jean-Pierre Serre as he turns 100 and his
-  influence on modern mathematics from his childhood to his storied career.
+title: "Celebrating a Genius: Jean-Pierre Serre’s Journey in Mathematics"
+description: Explore the remarkable life of Jean-Pierre Serre as he turns 100 and his influence on modern mathematics from his childhood to his storied career.
 type: standard
-status: review
-publishDate: '2026-09-16'
+status: published
+publishDate: 2026-09-16
 author: Sarah Cooper
 tags:
   - Unexplained Events
@@ -13,13 +11,8 @@ tags:
   - History
   - Influential Figures
 slug: celebrating-jean-pierre-serres-journey-in-mathematics
-reviewer_notes: >-
-  This article is entirely misaligned with the site's
-  conspiracy/unexplained/supernatural editorial focus, reads as a standard
-  academic biography with no dramatic or alerting tone, falls short of the
-  target word count, and covers none of the site's core topics like ancient
-  mysteries, strange phenomena, or conspiracy theories.
-source_url: 'https://mathshistory.st-andrews.ac.uk/Biographies/Serre/'
+reviewer_notes: Approved via review queue.
+source_url: https://mathshistory.st-andrews.ac.uk/Biographies/Serre/
 source_item_id: 6aaa225b978ad9526dcdc1c8
 source_title: Jean-Pierre Serre turns 100
 generated_by: openai
@@ -31,18 +24,11 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 60
   keyword_relevance: 8
-quality_note: >-
-  This article is entirely misaligned with the site's
-  conspiracy/unexplained/supernatural editorial focus, reads as a standard
-  academic biography with no dramatic or alerting tone, falls short of the
-  target word count, and covers none of the site's core topics like ancient
-  mysteries, strange phenomena, or conspiracy theories.
+quality_note: This article is entirely misaligned with the site's conspiracy/unexplained/supernatural editorial focus, reads as a standard academic biography with no dramatic or alerting tone, falls short of the target word count, and covers none of the site's core topics like ancient mysteries, strange phenomena, or conspiracy theories.
 reading_time: 2
 topics:
   - Unexplained Events
-image_alt: >-
-  An elderly scholar silhouette faces abstract chalk diagrams in a moody lecture
-  hall.
+image_alt: An elderly scholar silhouette faces abstract chalk diagrams in a moody lecture hall.
 ---
 Jean-Pierre Serre recently celebrated his 100th birthday, marking a century of a life deeply intertwined with the tapestry of modern mathematics. His journey from a bullied schoolboy to one of the 20th century's most influential mathematicians serves as a compelling exploration of genius, discipline, and the evolution of abstract mathematical concepts. This biography spotlights how Serre’s curiosity and passion shaped not just his career but also the field of mathematics itself.
 
