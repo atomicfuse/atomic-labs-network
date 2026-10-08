@@ -172,8 +172,34 @@ theme:
     image_ratio: 4:3
 grid:
   topics:
-    - label: Fun under the sun
+    - label: News
       verticals: []
+      bundles:
+        - 6ac77c90ce7701ccb2411f38
+    - label: Politics
+      verticals: []
+      bundles:
+        - 6ac77ccece7701ccb2411f39
+    - label: Business
+      verticals: []
+      bundles:
+        - 6ac780bb64df7692b392c16c
+    - label: Science & Space
+      verticals: []
+      bundles:
+        - 6ac7780dce7701ccb2411f34
+    - label: Health
+      verticals: []
+      bundles:
+        - 6ac780e864df7692b392c16d
+    - label: Entertainment
+      verticals: []
+      bundles:
+        - 6ac4c3d064df7692b392c02d
+    - label: Travel
+      verticals: []
+      bundles:
+        - 6ac77d10ce7701ccb2411f3a
   include_sites: []
   max_age_days: 20
   feed_ad_every: 3
