@@ -167,3 +167,10 @@ theme:
     body: Merriweather
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-NT1N3V9BK1
+  gtm: GT-K8FZ26FW
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
