@@ -1,0 +1,192 @@
+domain: popnewslane.com
+active: true
+author: David Hayes
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: friendly, informative
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Pop Culture Explained
+    - Everyday Tech Discoveries
+    - Uncommon Life Hacks
+    - Fandom Deep Dives
+    - did you know
+    - life hacks
+  theme: Everyday discoveries and useful stories.
+  topics_v2:
+    - name: Pop Culture Explained
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b7fdb
+        tag_ids:
+          - 6a0b36b7ac596b621e935675
+          - 6a0b365aac596b621e93565d
+          - 6a0435ac86fcaaeb5bc836f0
+          - 6a37c8cbcbbe345bde1163c0
+          - 6a0b36c2ac596b621e93567e
+          - 6a22602cad9a1dd21ebb68ad
+          - 6a0b350dac596b621e935651
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+          - Thursday
+    - name: Everyday Tech Discoveries
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c77
+          - 6a00793f1104bbff809b7f75
+          - 6a00793e1104bbff809b7d53
+          - 6a00793f1104bbff809b7f79
+        tag_ids:
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a142f5c16f23264031d7f92
+          - 6a0bf8e016f23264031d7941
+          - 6a042e6186fcaaeb5bc835b3
+          - 6a007aebe9d30be04c0c6008
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+          - Thursday
+    - name: Uncommon Life Hacks
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d59
+          - 6a00793f1104bbff809b7e33
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a2777cfeb470600f9705333
+          - 6a2777cfeb470600f9705335
+          - 6a15314e16f23264031d8217
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+          - Thursday
+    - name: Fandom Deep Dives
+      source:
+        type: filter
+        category_ids: []
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+          - Thursday
+    - name: did you know
+      source:
+        type: filter
+        category_ids: []
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a033ab186fcaaeb5bc83332
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+          - Thursday
+    - name: life hacks
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d59
+          - 6a00793f1104bbff809b7e33
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a2777cfeb470600f9705335
+          - 6a2777cfeb470600f9705335
+          - 6a1831e00fc9210eaf31ab2d
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+          - Thursday
+  seo_keywords_focus: []
+  content_guidelines:
+    - make sure content is MFA suitable, nothing sensitive, keep it mainstream
+  image_guidelines:
+    - "make the photos look as real as possible and not AI generated "
+  vertical: Pop Culture
+  vertical_id: 6a00793d1104bbff809b7c5f
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Wednesday
+      - Thursday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: popnewslane.com
+site_tagline: null
+theme:
+  base: slate
+  colors:
+    primary: "#334155"
+    accent: "#6366f1"
+    background: "#ffffff"
+    secondary: "#1e293b"
+    text: "#1e293b"
+    muted: "#94a3b8"
+    surface: "#f1f5f9"
+    border: "#e2e8f0"
+    heading: "#1e293b"
+    link: "#334155"
+    link_hover: "#6366f1"
+    nav_link: "#ffffff"
+    nav_link_hover: "#6366f1"
+    footer_bg: "#1e293b"
+    must_reads_bg: "#1e293b"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#94a3b8"
+    feed_title: "#1e293b"
+    feed_desc: "#334155"
+    feed_date: "#94a3b8"
+    prose_heading: "#1e293b"
+    prose_body: "#334155"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#334155"
+    footer_text: "#94a3b8"
+    footer_heading: "#ffffff"
+    footer_link: "#94a3b8"
+    footer_link_hover: "#ffffff"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Inter
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
