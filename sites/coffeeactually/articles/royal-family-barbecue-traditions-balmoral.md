@@ -1,11 +1,9 @@
 ---
-title: 'Behind the Scenes: Royal Family Barbecue Traditions at Balmoral'
-description: >-
-  Discover the heartwarming barbecue traditions of the British royal family at
-  Balmoral, where formality fades and family bonds shine.
+title: "Behind the Scenes: Royal Family Barbecue Traditions at Balmoral"
+description: Discover the heartwarming barbecue traditions of the British royal family at Balmoral, where formality fades and family bonds shine.
 type: standard
-status: review
-publishDate: '2026-08-18'
+status: published
+publishDate: 2026-08-18
 author: Ryan Powell
 tags:
   - Coffee News
@@ -14,13 +12,10 @@ tags:
   - queen-elizabeth
   - lifestyle
 slug: royal-family-barbecue-traditions-balmoral
-reviewer_notes: >-
-  This article is entirely off-topic for a coffee-focused site, covering British
-  royal family barbecue traditions with no connection to coffee, brewing, beans,
-  or any relevant site keywords.
-source_url: 'https://www.vanityfair.com/story/balmoral-royal-family-barbecue'
+reviewer_notes: Approved via review queue.
+source_url: https://www.vanityfair.com/story/balmoral-royal-family-barbecue
 source_item_id: 6a83bca2c5a31d42ab3c2015
-source_title: 'Royal Barbecues at Balmoral: Who Worked the Grill and Who Did the Dishes'
+source_title: "Royal Barbecues at Balmoral: Who Worked the Grill and Who Did the Dishes"
 generated_by: openai
 featuredImage: /assets/images/royal-family-barbecue-traditions-balmoral.webp
 quality_score: 35
@@ -30,16 +25,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 55
   keyword_relevance: 5
-quality_note: >-
-  This article is entirely off-topic for a coffee-focused site, covering British
-  royal family barbecue traditions with no connection to coffee, brewing, beans,
-  or any relevant site keywords.
+quality_note: This article is entirely off-topic for a coffee-focused site, covering British royal family barbecue traditions with no connection to coffee, brewing, beans, or any relevant site keywords.
 reading_time: 3
 topics:
   - Brewing Guides
-image_alt: >-
-  Rustic barbecue table near a Highland castle with dishes, tea cups, and soft
-  evening firelight
+image_alt: Rustic barbecue table near a Highland castle with dishes, tea cups, and soft evening firelight
 ---
 Every summer, Balmoral transforms into a cozy retreat for the British royal family, where tradition meets warmth and familiarity. According to former royal chef Darren McGrady, this Scottish estate serves not just as a royal residence but as a playground for family bonding, especially around barbecues. Here’s a closer look at the royals' endearing holiday rituals, featuring Prince Philip's barbequing prowess and Queen Elizabeth II's surprising role in the kitchen.
 
