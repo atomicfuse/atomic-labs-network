@@ -104,17 +104,22 @@ brief:
   seo_keywords_focus: []
   content_guidelines:
     - make sure content is MFA suitable, nothing sensitive, keep it mainstream
-  image_guidelines:
-    - "make the photos look as real as possible and not AI generated "
+  image_guidelines: []
   vertical: Pop Culture
   vertical_id: 6a00793d1104bbff809b7c5f
   review_percentage: 5
   schedule:
-    articles_per_day: 4
+    articles_per_day: 2
     preferred_days:
-      - Wednesday
       - Thursday
     preferred_time: 10:00
+  quality_threshold: 40
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
 groups:
   - ready
 iab_vertical_code: null
