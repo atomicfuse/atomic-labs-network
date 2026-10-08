@@ -23,7 +23,7 @@ source_title: >-
   Rick Owens, Matières Fécales, Vaquera and More: Paris Fashion Week Now Belongs
   to the Freaks
 generated_by: claude
-featuredImage: /assets/images/popnewslanecom-general-article.webp
+featuredImage: /assets/images/paris-fashion-week-fringe-designers-rick-owens.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - did you know
+image_alt: >-
+  Anonymous model in an eccentric sculptural outfit commands attention in a
+  stark industrial fashion space.
 ---
 Paris Fashion Week has a reliable cast of headliners, and the heritage giants like Dior and Chanel usually get top billing. This season, per Vanity Fair, the plot twist came from the margins. The outlet reports that the most talked-about shows, and some of the best fashion, came from fringe designers: Matières Fécales, Vaquera, August Barron and Rick Owens.
 

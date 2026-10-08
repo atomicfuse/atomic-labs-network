@@ -3,7 +3,7 @@ active: true
 author: David Hayes
 brief:
   audiences: []
-  audience_type_ids: null
+  audience_type_ids: []
   tone: friendly, informative
   article_types:
     listicle: 40
@@ -142,7 +142,7 @@ layout:
   load_more:
     page_size: 4
 scripts_vars: null
-site_name: popnewslane.com
+site_name: popnewslane
 site_tagline: null
 theme:
   base: slate
