@@ -94,7 +94,7 @@ brief:
           - 6a00793d1104bbff809b7c96
         tag_ids: []
 groups:
-  - ready
+  - atl
 layout:
   hero:
     enabled: true
