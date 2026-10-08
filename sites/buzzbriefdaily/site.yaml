@@ -1,0 +1,169 @@
+domain: buzzbriefdaily.com
+active: true
+author: Ben Foster
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Everyday Life Hacks
+    - Home Organization Ideas
+    - Meal Prep Strategies
+    - Pop Culture Homemaking
+  theme: Everyday Living	Home, food, organization, practical tips
+  topics_v2:
+    - name: Everyday Life Hacks
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793f1104bbff809b7e33
+          - 6a00793e1104bbff809b7d13
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a2777cfeb470600f9705333
+          - 6a2777cfeb470600f9705335
+          - 6a15314e16f23264031d8217
+          - 6a7ad7b10f5f72d4db579104
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+          - Tuesday
+    - name: Home Organization Ideas
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793f1104bbff809b7e33
+        tag_ids:
+          - 6a2777cfeb470600f9705333
+          - 6a2777cfeb470600f9705335
+          - 6a15314e16f23264031d8217
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a13f9b216f23264031d7b36
+          - 6a13f95216f23264031d7b0c
+          - 6a13f95216f23264031d7b10
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+          - Tuesday
+    - name: Meal Prep Strategies
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d1d
+          - 6a00793f1104bbff809b7e2f
+        tag_ids:
+          - 6a0b1f2ca53fcab94b3649d0
+          - 6a034da986fcaaeb5bc834e7
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a2777cfeb470600f9705333
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+          - Tuesday
+    - name: Pop Culture Homemaking
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793e1104bbff809b7ddf
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d5f
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a13f95216f23264031d7b10
+          - 6a0fe1bf16f23264031d7a3d
+          - 6a22602cad9a1dd21ebb68ad
+          - 6a7ad558cf780484a8990d33
+          - 6a27a64beb470600f97054a2
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+          - Tuesday
+  seo_keywords_focus: []
+  content_guidelines: []
+  image_guidelines: null
+  vertical: Pop Culture
+  vertical_id: 6a00793d1104bbff809b7c5f
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Thursday
+      - Tuesday
+    preferred_time: 10:00
+groups: []
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: buzzbriefdaily
+site_tagline: null
+theme:
+  base: newsprint
+  colors:
+    primary: "#0a0a0a"
+    accent: "#c8102e"
+    background: "#faf7f2"
+    secondary: "#0a0a0a"
+    text: "#0a0a0a"
+    muted: "#6b6b6b"
+    surface: "#f0ece4"
+    border: "#dcd6c8"
+    heading: "#0a0a0a"
+    link: "#0a0a0a"
+    link_hover: "#c8102e"
+    nav_link: "#faf7f2"
+    nav_link_hover: "#c8102e"
+    footer_bg: "#0a0a0a"
+    must_reads_bg: "#0a0a0a"
+    hero_title: "#faf7f2"
+    must_reads_title: "#faf7f2"
+    article_hero_title: "#faf7f2"
+    article_hero_meta: "#a8a8a8"
+    feed_title: "#0a0a0a"
+    feed_desc: "#1a1a1a"
+    feed_date: "#6b6b6b"
+    prose_heading: "#0a0a0a"
+    prose_body: "#1a1a1a"
+    category_header_text: "#faf7f2"
+    subscribe_heading: "#0a0a0a"
+    footer_text: "#a8a8a8"
+    footer_heading: "#faf7f2"
+    footer_link: "#a8a8a8"
+    footer_link_hover: "#faf7f2"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Playfair Display
+    body: Merriweather
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
