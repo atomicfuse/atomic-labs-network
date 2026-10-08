@@ -14,7 +14,6 @@ brief:
     - Pop Culture Explained
     - Everyday Tech Discoveries
     - Uncommon Life Hacks
-    - Fandom Deep Dives
     - did you know
     - life hacks
   theme: Everyday discoveries and useful stories.
@@ -69,16 +68,6 @@ brief:
           - 6a2777cfeb470600f9705333
           - 6a2777cfeb470600f9705335
           - 6a15314e16f23264031d8217
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Wednesday
-          - Thursday
-    - name: Fandom Deep Dives
-      source:
-        type: filter
-        category_ids: []
-        tag_ids: []
       schedule:
         articles_per_week: 1
         preferred_days:
