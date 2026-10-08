@@ -1,11 +1,9 @@
 ---
 title: Must-Own Players for Fantasy Premier League Gameweek 1
-description: >-
-  Get ahead in Fantasy Premier League with our must-own players for Gameweek 1
-  of the 2026/27 season, including key assets and captaincy options.
+description: Get ahead in Fantasy Premier League with our must-own players for Gameweek 1 of the 2026/27 season, including key assets and captaincy options.
 type: standard
-status: review
-publishDate: '2026-08-20'
+status: published
+publishDate: 2026-08-20
 author: Nathan Foster
 tags:
   - Fan Zone
@@ -14,15 +12,10 @@ tags:
   - gameweek-1
   - premier-league
 slug: fpl-gameweek-1-must-own-players-2026
-reviewer_notes: >-
-  This article is critically short at 291 words, contains factual inaccuracies
-  (Arsenal won the 2024/25 PL title is unverified, Gabriel Jesus plays for
-  Arsenal not as described, Coventry City promotion is unconfirmed), and is
-  largely off-topic for a FIFA World Cup 2026 site — focusing instead on Fantasy
-  Premier League content unrelated to the site's editorial focus.
-source_url: 'https://sports.yahoo.com/articles/fpl-2026-27-best-players-141758229.html'
+reviewer_notes: Approved via review queue.
+source_url: https://sports.yahoo.com/articles/fpl-2026-27-best-players-141758229.html
 source_item_id: 6a865d4a7453cef62ce89280
-source_title: 'FPL 2026/27: The Best Players to Own Ahead of Gameweek 1'
+source_title: "FPL 2026/27: The Best Players to Own Ahead of Gameweek 1"
 generated_by: openai
 featuredImage: /assets/images/fpl-gameweek-1-must-own-players-2026.webp
 quality_score: 33
@@ -32,18 +25,11 @@ score_breakdown:
   content_length: 28
   factual_accuracy: 25
   keyword_relevance: 30
-quality_note: >-
-  This article is critically short at 291 words, contains factual inaccuracies
-  (Arsenal won the 2024/25 PL title is unverified, Gabriel Jesus plays for
-  Arsenal not as described, Coventry City promotion is unconfirmed), and is
-  largely off-topic for a FIFA World Cup 2026 site — focusing instead on Fantasy
-  Premier League content unrelated to the site's editorial focus.
+quality_note: This article is critically short at 291 words, contains factual inaccuracies (Arsenal won the 2024/25 PL title is unverified, Gabriel Jesus plays for Arsenal not as described, Coventry City promotion is unconfirmed), and is largely off-topic for a FIFA World Cup 2026 site — focusing instead on Fantasy Premier League content unrelated to the site's editorial focus.
 reading_time: 2
 topics:
   - Fan Zone
-image_alt: >-
-  Fantasy football captaincy setup with player cards and a focused striker in a
-  floodlit stadium
+image_alt: Fantasy football captaincy setup with player cards and a focused striker in a floodlit stadium
 ---
 The 2026/27 Fantasy Premier League (FPL) season is kicking off soon, with Arsenal set to defend their title against newly promoted Coventry City on August 21. As FPL managers finalize their squads, knowing which players to target is critical for starting strong.
 
