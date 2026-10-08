@@ -7,7 +7,7 @@ description: >-
   with potential implications for long-term cognitive health.
 type: standard
 status: published
-publishDate: '2026-09-30'
+publishDate: '2026-08-28'
 author: Sophia Sullivan
 tags:
   - Health Science

@@ -7,7 +7,7 @@ description: >-
   appeal to those seeking seamless travel adventures.
 type: standard
 status: published
-publishDate: '2026-10-01'
+publishDate: '2026-09-18'
 author: Taylor Winters
 tags:
   - Destinations

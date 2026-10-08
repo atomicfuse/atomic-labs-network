@@ -7,7 +7,7 @@ description: >-
   migration patterns and cultural exchanges during the Roman era.
 type: standard
 status: published
-publishDate: '2026-09-19'
+publishDate: '2026-09-04'
 author: Sophia Sullivan
 tags:
   - New Discoveries

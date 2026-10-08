@@ -7,7 +7,7 @@ description: >-
   anticipated upcoming projects.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-08-29'
 author: Taylor Winters
 tags:
   - Travel

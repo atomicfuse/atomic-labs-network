@@ -5,7 +5,7 @@ description: >-
   happened with Hal's killer, the second Manhunter, and John Stewart's new role.
 type: standard
 status: published
-publishDate: '2026-09-21'
+publishDate: '2026-09-19'
 author: Andrew Bell
 tags:
   - Pop Culture

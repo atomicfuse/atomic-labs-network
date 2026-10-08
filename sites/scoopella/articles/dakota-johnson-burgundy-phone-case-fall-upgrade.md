@@ -5,7 +5,7 @@ description: >-
   the affordable $15 option that will elevate your autumn accessory game!
 type: standard
 status: published
-publishDate: '2026-10-04'
+publishDate: '2026-10-02'
 author: Ella Hughes
 tags:
   - Fashion

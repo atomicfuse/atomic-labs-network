@@ -7,7 +7,7 @@ description: >-
   identity and boosting tourism and the local economy.
 type: standard
 status: published
-publishDate: '2026-09-28'
+publishDate: '2026-07-27'
 author: Taylor Winters
 tags:
   - Destinations

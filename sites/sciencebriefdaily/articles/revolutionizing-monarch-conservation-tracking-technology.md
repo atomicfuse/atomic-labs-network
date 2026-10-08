@@ -5,7 +5,7 @@ description: >-
   butterfly migration and aiding in their conservation.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-08-23'
 author: Sophia Sullivan
 tags:
   - Environment & Climate

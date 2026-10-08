@@ -7,7 +7,7 @@ description: >-
   landmarks into winter wonderlands.
 type: standard
 status: published
-publishDate: '2026-09-30'
+publishDate: '2026-08-03'
 author: Taylor Winters
 tags:
   - Destinations

@@ -6,7 +6,7 @@ description: >-
   summer...
 type: listicle
 status: published
-publishDate: '2026-09-19'
+publishDate: '2026-09-22'
 author: Ryan Rivera
 tags:
   - Destinations

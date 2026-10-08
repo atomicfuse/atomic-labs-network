@@ -7,7 +7,7 @@ description: >-
   the natural wonders of New Zealand's Fiordland National Park.
 type: standard
 status: published
-publishDate: '2026-10-04'
+publishDate: '2026-08-28'
 author: Taylor Winters
 tags:
   - Destinations

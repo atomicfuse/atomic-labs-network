@@ -6,7 +6,7 @@ description: >-
   chord.
 type: standard
 status: published
-publishDate: '2026-09-25'
+publishDate: '2026-10-01'
 author: Andrew Bell
 tags:
   - Celebrity News

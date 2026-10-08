@@ -5,7 +5,7 @@ description: >-
   wildfire smoke exposure in wildlife. Here's what early mule deer data shows.
 type: standard
 status: published
-publishDate: '2026-09-19'
+publishDate: '2026-09-14'
 author: Ethan Ross
 tags:
   - Environment & Climate

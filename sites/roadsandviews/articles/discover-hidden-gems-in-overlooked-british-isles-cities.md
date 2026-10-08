@@ -5,7 +5,7 @@ description: >-
   travel experiences beyond the typical tourist destinations.
 type: standard
 status: published
-publishDate: '2026-09-30'
+publishDate: '2026-08-23'
 author: Editorial Team
 tags:
   - Travel

@@ -5,7 +5,7 @@ description: >-
   data. Here's what that means for mapping the universe and testing dark energy.
 type: standard
 status: published
-publishDate: '2026-09-25'
+publishDate: '2026-09-21'
 author: Ethan Ross
 tags:
   - New Discoveries

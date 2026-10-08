@@ -5,7 +5,7 @@ description: >-
   Rican culinary traditions come alive in breathtaking jungle settings.
 type: standard
 status: published
-publishDate: '2026-09-24'
+publishDate: '2026-10-03'
 author: Ryan Rivera
 tags:
   - Food & Drink

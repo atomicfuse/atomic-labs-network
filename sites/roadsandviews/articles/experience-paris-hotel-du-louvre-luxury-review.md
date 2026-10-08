@@ -5,7 +5,7 @@ description: >-
   Parisian adventure with a prime location and exquisite elegance.
 type: review
 status: published
-publishDate: '2026-09-24'
+publishDate: '2026-08-26'
 author: Ryan Rivera
 tags:
   - Travel

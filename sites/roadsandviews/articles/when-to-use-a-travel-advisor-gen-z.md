@@ -6,7 +6,7 @@ description: >-
   inspo.
 type: standard
 status: published
-publishDate: '2026-09-18'
+publishDate: '2026-09-26'
 author: Ben Price
 tags:
   - Travel Tips

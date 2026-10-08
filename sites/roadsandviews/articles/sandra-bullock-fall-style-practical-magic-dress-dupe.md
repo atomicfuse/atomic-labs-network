@@ -5,7 +5,7 @@ description: >-
   2'—plus a budget-friendly Amazon lookalike for your fall wardrobe.
 type: how-to
 status: published
-publishDate: '2026-09-18'
+publishDate: '2026-09-11'
 author: Ryan Rivera
 tags:
   - Lifestyle

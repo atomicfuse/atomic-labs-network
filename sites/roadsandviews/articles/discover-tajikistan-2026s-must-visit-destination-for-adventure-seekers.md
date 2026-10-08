@@ -7,7 +7,7 @@ description: >-
   adventurers and culture enthusiasts to explore its untouched wonders.
 type: standard
 status: published
-publishDate: '2026-09-30'
+publishDate: '2026-07-24'
 author: Taylor Winters
 tags:
   - Destinations

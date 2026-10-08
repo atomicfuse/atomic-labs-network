@@ -7,7 +7,7 @@ description: >-
   historic charm, these locales provide unforgettable experiences.
 type: standard
 status: published
-publishDate: '2026-10-03'
+publishDate: '2026-09-18'
 author: Taylor Winters
 tags:
   - Destinations

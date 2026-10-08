@@ -9,7 +9,7 @@ description: >-
   quantum computing and fundamental physics.
 type: standard
 status: published
-publishDate: '2026-10-03'
+publishDate: '2026-10-05'
 author: Sophia Sullivan
 tags:
   - New Discoveries

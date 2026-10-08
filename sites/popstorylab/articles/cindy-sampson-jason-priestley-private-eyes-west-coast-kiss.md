@@ -5,7 +5,7 @@ description: >-
   Priestley are joking about the romance fans waited years for.
 type: standard
 status: published
-publishDate: '2026-09-24'
+publishDate: '2026-10-05'
 author: Andrew Bell
 tags:
   - Pop Culture

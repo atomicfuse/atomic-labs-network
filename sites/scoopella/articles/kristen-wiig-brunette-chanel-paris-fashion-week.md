@@ -5,7 +5,7 @@ description: >-
   with her Chanel minidress and a confident new style statement.
 type: standard
 status: published
-publishDate: '2026-09-28'
+publishDate: '2026-09-27'
 author: Rachel Hughes
 tags:
   - Fashion

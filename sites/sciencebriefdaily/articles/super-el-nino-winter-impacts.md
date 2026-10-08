@@ -5,7 +5,7 @@ description: >-
   to warmth and flooding risks across North America and Europe.
 type: standard
 status: published
-publishDate: '2026-10-04'
+publishDate: '2026-08-24'
 author: Sophia Sullivan
 tags:
   - 'Environment & Climate'

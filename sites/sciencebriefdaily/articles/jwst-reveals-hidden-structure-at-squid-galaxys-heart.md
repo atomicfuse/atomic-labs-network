@@ -6,7 +6,7 @@ description: >-
   stars, dust, and future cosmic evolution.
 type: standard
 status: published
-publishDate: '2026-09-30'
+publishDate: '2026-09-15'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

@@ -5,7 +5,7 @@ description: >-
   daughters, offering new hope for endangered species conservation programs.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-10'
 author: Sophia Sullivan
 tags:
   - New Discoveries

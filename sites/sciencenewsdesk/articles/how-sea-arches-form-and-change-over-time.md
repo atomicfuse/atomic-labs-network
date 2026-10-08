@@ -6,7 +6,7 @@ description: >-
   visit.
 type: standard
 status: published
-publishDate: '2026-09-20'
+publishDate: '2026-09-22'
 author: Ethan Ross
 tags:
   - New Discoveries

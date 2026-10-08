@@ -6,7 +6,7 @@ description: >-
   Lapland...
 type: standard
 status: published
-publishDate: '2026-10-03'
+publishDate: '2026-08-07'
 author: Ryan Rivera
 tags:
   - Travel

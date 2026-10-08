@@ -7,7 +7,7 @@ description: >-
   must-visit destination.
 type: standard
 status: published
-publishDate: '2026-09-24'
+publishDate: '2026-08-12'
 author: Taylor Winters
 tags:
   - Destinations

@@ -6,7 +6,7 @@ description: >-
   resilience.
 type: standard
 status: published
-publishDate: '2026-09-28'
+publishDate: '2026-09-09'
 author: Sophia Sullivan
 tags:
   - 'Environment & Climate'

@@ -6,7 +6,7 @@ description: >-
   royal siblings.
 type: standard
 status: published
-publishDate: '2026-09-19'
+publishDate: '2026-10-01'
 author: Ella Hughes
 tags:
   - Pop Culture

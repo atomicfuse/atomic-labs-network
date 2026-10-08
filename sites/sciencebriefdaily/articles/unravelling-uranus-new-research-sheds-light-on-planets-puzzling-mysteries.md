@@ -7,7 +7,7 @@ description: >-
   understanding of the solar system and opens up new avenues for research.
 type: standard
 status: published
-publishDate: '2026-09-23'
+publishDate: '2026-09-17'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

@@ -7,7 +7,7 @@ description: >-
   more accessible.
 type: standard
 status: published
-publishDate: '2026-09-24'
+publishDate: '2026-10-01'
 author: Taylor Winters
 tags:
   - Destinations

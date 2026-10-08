@@ -5,7 +5,7 @@ description: >-
   and Barre in a heated environment. Here's what to know before you go.
 type: how-to
 status: published
-publishDate: '2026-09-19'
+publishDate: '2026-09-14'
 author: Sophia Sullivan
 tags:
   - New Discoveries

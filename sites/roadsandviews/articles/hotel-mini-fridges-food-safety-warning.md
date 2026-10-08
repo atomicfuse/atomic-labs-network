@@ -5,7 +5,7 @@ description: >-
   creating bacterial growth risks for food and medications stored by travelers.
 type: standard
 status: published
-publishDate: '2026-10-04'
+publishDate: '2026-08-15'
 author: Ryan Rivera
 tags:
   - Travel Tips

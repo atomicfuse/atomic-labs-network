@@ -7,7 +7,7 @@ description: >-
   protocols, and local laws for a safe, hassle-free journey.
 type: standard
 status: published
-publishDate: '2026-10-03'
+publishDate: '2026-08-16'
 author: Taylor Winters
 tags:
   - Destinations

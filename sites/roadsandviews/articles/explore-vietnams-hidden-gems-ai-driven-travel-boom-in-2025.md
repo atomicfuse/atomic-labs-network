@@ -6,7 +6,7 @@ description: >-
   country's rich cultural allure and breathtaking landscapes.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-08-16'
 author: Taylor Winters
 tags:
   - Destinations

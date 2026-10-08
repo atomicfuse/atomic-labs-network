@@ -7,7 +7,7 @@ description: >-
   unforgettable adventures, catering to a variety of interests.
 type: standard
 status: published
-publishDate: '2026-09-18'
+publishDate: '2026-08-30'
 author: Taylor Winters
 tags:
   - Destinations

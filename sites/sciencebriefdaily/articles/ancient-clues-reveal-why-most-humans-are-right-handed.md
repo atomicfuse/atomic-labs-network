@@ -6,7 +6,7 @@ description: >-
   long before modern life.
 type: standard
 status: published
-publishDate: '2026-10-04'
+publishDate: '2026-08-28'
 author: Sophia Sullivan
 tags:
   - New Discoveries

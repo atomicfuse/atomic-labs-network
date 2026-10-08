@@ -5,7 +5,7 @@ description: >-
   what the evidence can and can't prove, and simple swaps worth trying.
 type: standard
 status: published
-publishDate: '2026-09-19'
+publishDate: '2026-09-29'
 author: Ethan Ross
 tags:
   - Health Science

@@ -5,7 +5,7 @@ description: >-
   on October 4. Ella breaks down what we know and what we don't.
 type: standard
 status: published
-publishDate: '2026-09-18'
+publishDate: '2026-09-22'
 author: Ella Hughes
 tags:
   - Celebrities

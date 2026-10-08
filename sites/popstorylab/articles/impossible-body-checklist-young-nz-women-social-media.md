@@ -6,7 +6,7 @@ description: >-
   trap.
 type: standard
 status: published
-publishDate: '2026-09-23'
+publishDate: '2026-09-27'
 author: Andrew Bell
 tags:
   - Viral Stories

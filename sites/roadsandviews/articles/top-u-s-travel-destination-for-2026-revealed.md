@@ -7,7 +7,7 @@ description: >-
   unforgettable memories worldwide.
 type: standard
 status: published
-publishDate: '2026-10-01'
+publishDate: '2026-10-04'
 author: Taylor Winters
 tags:
   - Destinations

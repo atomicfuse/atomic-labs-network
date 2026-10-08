@@ -5,7 +5,7 @@ description: >-
   cultures through cuisine, from Tuscany's cooking classes to Nordic seafood.
 type: listicle
 status: published
-publishDate: '2026-09-24'
+publishDate: '2026-09-03'
 author: Ryan Rivera
 tags:
   - Travel

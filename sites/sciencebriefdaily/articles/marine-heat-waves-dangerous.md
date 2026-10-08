@@ -5,7 +5,7 @@ description: >-
   previously understood. Learn how longer exposure times impact ecosystems.
 type: standard
 status: published
-publishDate: '2026-09-28'
+publishDate: '2026-10-07'
 author: Sophia Sullivan
 tags:
   - 'Environment & Climate'

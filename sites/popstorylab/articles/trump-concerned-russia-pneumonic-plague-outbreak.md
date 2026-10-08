@@ -5,7 +5,7 @@ description: >-
   and hasn't spoken to Putin yet. Here's what was said and why it echoes COVID.
 type: standard
 status: published
-publishDate: '2026-09-29'
+publishDate: '2026-09-25'
 author: Andrew Bell
 tags:
   - Pop Culture

@@ -8,7 +8,7 @@ description: >-
   mysteries.
 type: standard
 status: published
-publishDate: '2026-10-02'
+publishDate: '2026-08-31'
 author: Sophia Sullivan
 tags:
   - New Discoveries

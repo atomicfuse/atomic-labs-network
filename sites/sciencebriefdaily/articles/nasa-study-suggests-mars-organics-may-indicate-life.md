@@ -6,7 +6,7 @@ description: >-
   understanding of Martian geology.
 type: standard
 status: published
-publishDate: '2026-10-04'
+publishDate: '2026-09-02'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

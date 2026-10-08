@@ -5,7 +5,7 @@ description: >-
   during fall break. Tips include parking, TSA prep, and alternate routes.
 type: how-to
 status: published
-publishDate: '2026-09-29'
+publishDate: '2026-09-03'
 author: Ben Price
 tags:
   - Travel

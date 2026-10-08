@@ -7,7 +7,7 @@ description: >-
   thriving arts scene, and delicious cuisine.
 type: standard
 status: published
-publishDate: '2026-10-03'
+publishDate: '2026-08-20'
 author: Taylor Winters
 tags:
   - Destinations

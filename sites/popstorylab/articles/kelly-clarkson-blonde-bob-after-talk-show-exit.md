@@ -5,7 +5,7 @@ description: >-
   in August. Here's why the hair change is getting so much attention.
 type: standard
 status: published
-publishDate: '2026-09-18'
+publishDate: '2026-09-22'
 author: Andrew Bell
 tags:
   - Celebrity News

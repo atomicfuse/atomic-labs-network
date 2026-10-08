@@ -5,7 +5,7 @@ description: >-
   beans and rapeseed. Here's what that means for plant protein and nutrition.
 type: standard
 status: published
-publishDate: '2026-10-01'
+publishDate: '2026-10-08'
 author: Ethan Ross
 tags:
   - New Discoveries

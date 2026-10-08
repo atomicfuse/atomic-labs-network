@@ -5,7 +5,7 @@ description: >-
   fractured the crust, creating conditions that may have enabled life to emerge.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-22'
 author: Sophia Sullivan
 tags:
   - 'Space & Cosmos'

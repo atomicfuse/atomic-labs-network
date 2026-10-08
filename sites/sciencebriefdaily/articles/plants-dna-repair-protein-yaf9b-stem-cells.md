@@ -6,7 +6,7 @@ description: >-
   gene...
 type: standard
 status: published
-publishDate: '2026-09-29'
+publishDate: '2026-09-10'
 author: Sophia Sullivan
 tags:
   - New Discoveries

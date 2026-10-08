@@ -5,7 +5,7 @@ description: >-
   dead as Coluche's joke presidential run rattled France. Here's what's known.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-10-03'
 author: Andrew Bell
 tags:
   - Entertainment Nostalgia

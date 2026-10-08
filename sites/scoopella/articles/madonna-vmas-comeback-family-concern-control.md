@@ -6,7 +6,7 @@ description: >-
   the take.
 type: standard
 status: published
-publishDate: '2026-10-04'
+publishDate: '2026-09-25'
 author: Ella Hughes
 tags:
   - Celebrities

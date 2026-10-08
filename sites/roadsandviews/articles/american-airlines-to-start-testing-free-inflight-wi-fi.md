@@ -6,7 +6,7 @@ description: >-
   complimentary connectivity to passengers.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-09-16'
 author: Taylor Winters
 tags:
   - Travel

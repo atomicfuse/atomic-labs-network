@@ -5,7 +5,7 @@ description: >-
   are convinced it's the title of Taylor's next song. Here's the evidence.
 type: standard
 status: published
-publishDate: '2026-09-27'
+publishDate: '2026-09-25'
 author: Ella Hughes
 tags:
   - Pop Culture

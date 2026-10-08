@@ -7,7 +7,7 @@ description: >-
   resilience of its inhabitants.
 type: standard
 status: published
-publishDate: '2026-09-22'
+publishDate: '2026-10-05'
 author: Sophia Sullivan
 tags:
   - New Discoveries

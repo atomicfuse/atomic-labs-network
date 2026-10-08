@@ -5,7 +5,7 @@ description: >-
   before you fly and turn the good ones into a pre-trip checklist you'll reuse.
 type: how-to
 status: published
-publishDate: '2026-09-19'
+publishDate: '2026-10-03'
 author: Ben Price
 tags:
   - Travel Tips

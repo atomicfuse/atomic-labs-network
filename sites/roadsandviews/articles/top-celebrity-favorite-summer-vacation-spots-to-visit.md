@@ -7,7 +7,7 @@ description: >-
   destinations inspire fans to explore and enjoy unforgettable vacations.
 type: standard
 status: published
-publishDate: '2026-09-30'
+publishDate: '2026-08-27'
 author: Taylor Winters
 tags:
   - Destinations

@@ -8,7 +8,7 @@ description: >-
   to follow suit.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-08-25'
 author: Taylor Winters
 tags:
   - Destinations

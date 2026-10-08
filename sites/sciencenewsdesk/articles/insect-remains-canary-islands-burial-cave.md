@@ -5,7 +5,7 @@ description: >-
   found it was a grain store before becoming an Indigenous burial site.
 type: standard
 status: published
-publishDate: '2026-09-25'
+publishDate: '2026-09-27'
 author: Ethan Ross
 tags:
   - New Discoveries

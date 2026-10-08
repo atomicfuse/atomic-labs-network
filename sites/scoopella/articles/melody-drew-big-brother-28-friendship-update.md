@@ -5,7 +5,7 @@ description: >-
   breaks down why BB28 fans are convinced Melody and Drew are more than just...
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-09-28'
 author: Ella Hughes
 tags:
   - Pop Culture

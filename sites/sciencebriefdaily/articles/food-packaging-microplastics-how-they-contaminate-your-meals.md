@@ -7,7 +7,7 @@ description: >-
   and disrupting hormones.
 type: standard
 status: published
-publishDate: '2026-09-23'
+publishDate: '2026-09-15'
 author: Sophia Sullivan
 tags:
   - 'Environment & Climate'

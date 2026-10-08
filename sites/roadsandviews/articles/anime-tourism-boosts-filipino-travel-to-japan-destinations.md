@@ -6,7 +6,7 @@ description: >-
   favorite scenes into personal travel memories.
 type: standard
 status: published
-publishDate: '2026-09-30'
+publishDate: '2026-09-20'
 author: Taylor Winters
 tags:
   - Destinations

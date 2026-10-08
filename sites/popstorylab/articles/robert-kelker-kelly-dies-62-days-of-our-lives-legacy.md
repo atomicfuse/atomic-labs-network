@@ -5,7 +5,7 @@ description: >-
   surfaces, fans weigh nostalgia against Lisa Rinna's memoir allegations.
 type: standard
 status: published
-publishDate: '2026-09-21'
+publishDate: '2026-09-20'
 author: Andrew Bell
 tags:
   - Entertainment Nostalgia

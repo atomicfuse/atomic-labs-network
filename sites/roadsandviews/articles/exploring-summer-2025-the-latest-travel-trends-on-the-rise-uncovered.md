@@ -8,7 +8,7 @@ description: >-
   adventure travel.
 type: standard
 status: published
-publishDate: '2026-09-21'
+publishDate: '2026-08-21'
 author: Taylor Winters
 tags:
   - Destinations

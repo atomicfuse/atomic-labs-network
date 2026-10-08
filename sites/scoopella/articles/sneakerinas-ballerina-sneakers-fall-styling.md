@@ -6,7 +6,7 @@ description: >-
   Day angle.
 type: standard
 status: published
-publishDate: '2026-10-01'
+publishDate: '2026-09-20'
 author: Ella Hughes
 tags:
   - Fashion

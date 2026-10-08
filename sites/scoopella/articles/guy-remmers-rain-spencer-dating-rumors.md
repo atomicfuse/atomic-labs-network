@@ -5,7 +5,7 @@ description: >-
   social media clues spanning nearly a year.
 type: standard
 status: published
-publishDate: '2026-09-22'
+publishDate: '2026-09-27'
 author: Ella Hughes
 tags:
   - Celebrities

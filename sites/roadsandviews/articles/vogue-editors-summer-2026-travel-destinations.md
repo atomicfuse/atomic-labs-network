@@ -6,7 +6,7 @@ description: >-
   2026...
 type: standard
 status: published
-publishDate: '2026-10-03'
+publishDate: '2026-08-21'
 author: Ryan Rivera
 tags:
   - Travel

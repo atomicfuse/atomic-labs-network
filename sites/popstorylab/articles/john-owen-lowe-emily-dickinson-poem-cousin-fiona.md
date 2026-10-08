@@ -6,7 +6,7 @@ description: >-
   mourning.
 type: standard
 status: published
-publishDate: '2026-09-28'
+publishDate: '2026-09-29'
 author: Andrew Bell
 tags:
   - Celebrity News

@@ -5,7 +5,7 @@ description: >-
   off Cornwall. Here's how the 'floating scarecrow' works and why it matters.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-28'
 author: Ethan Ross
 tags:
   - Environment & Climate

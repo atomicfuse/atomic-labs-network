@@ -6,7 +6,7 @@ description: >-
   Here's why it...
 type: standard
 status: published
-publishDate: '2026-10-05'
+publishDate: '2026-09-25'
 author: Andrew Bell
 tags:
   - Pop Culture

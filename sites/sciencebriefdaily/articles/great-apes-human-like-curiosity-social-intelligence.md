@@ -6,7 +6,7 @@ description: >-
   primate...
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-08'
 author: Sophia Sullivan
 tags:
   - New Discoveries

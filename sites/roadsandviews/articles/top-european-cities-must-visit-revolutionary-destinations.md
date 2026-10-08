@@ -7,7 +7,7 @@ description: >-
   the travel experience with cultural and historical insights.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-08-06'
 author: Taylor Winters
 tags:
   - Destinations

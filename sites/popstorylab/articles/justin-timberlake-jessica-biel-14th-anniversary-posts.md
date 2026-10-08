@@ -5,7 +5,7 @@ description: >-
   posts, two years after his DWI arrest. Here's what the public gesture signals.
 type: standard
 status: published
-publishDate: '2026-10-02'
+publishDate: '2026-09-17'
 author: Andrew Bell
 tags:
   - Celebrity News

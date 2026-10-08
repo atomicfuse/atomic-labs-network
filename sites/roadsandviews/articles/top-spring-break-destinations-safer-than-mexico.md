@@ -7,7 +7,7 @@ description: >-
   alike.
 type: standard
 status: published
-publishDate: '2026-09-23'
+publishDate: '2026-08-27'
 author: Taylor Winters
 tags:
   - Destinations

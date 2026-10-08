@@ -5,7 +5,7 @@ description: >-
   over their sons' addiction struggles. Here's what was reported and why it...
 type: standard
 status: published
-publishDate: '2026-09-20'
+publishDate: '2026-10-06'
 author: Andrew Bell
 tags:
   - Celebrity News

@@ -6,7 +6,7 @@ description: >-
   natural wonders, and indulge in diverse culinary journeys.
 type: standard
 status: published
-publishDate: '2026-09-27'
+publishDate: '2026-09-03'
 author: Taylor Winters
 tags:
   - Destinations

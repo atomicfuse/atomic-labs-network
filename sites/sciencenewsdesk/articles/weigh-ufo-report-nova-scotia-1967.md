@@ -5,7 +5,7 @@ description: >-
   learn how to judge any UFO or UAP report, then and now.
 type: standard
 status: published
-publishDate: '2026-09-23'
+publishDate: '2026-09-18'
 author: Ethan Ross
 tags:
   - Space & Cosmos

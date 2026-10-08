@@ -5,7 +5,7 @@ description: >-
   Fashion Week's luxury landscape this season.
 type: standard
 status: published
-publishDate: '2026-09-22'
+publishDate: '2026-10-05'
 author: Ella Hughes
 tags:
   - Fashion

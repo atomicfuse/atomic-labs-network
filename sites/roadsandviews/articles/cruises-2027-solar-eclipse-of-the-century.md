@@ -5,7 +5,7 @@ description: >-
   the longest this century. These 7 cruises put you in the path of totality.
 type: listicle
 status: published
-publishDate: '2026-09-30'
+publishDate: '2026-09-08'
 author: Ryan Rivera
 tags:
   - Travel

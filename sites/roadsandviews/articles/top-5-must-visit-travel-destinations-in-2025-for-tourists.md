@@ -7,7 +7,7 @@ description: >-
   travelers seeking diverse journeys.
 type: standard
 status: published
-publishDate: '2026-09-27'
+publishDate: '2026-10-02'
 author: Taylor Winters
 tags:
   - Destinations

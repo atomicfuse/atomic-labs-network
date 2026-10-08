@@ -5,7 +5,7 @@ description: >-
   its body length. Here's how they worked and what they reveal about ancient...
 type: standard
 status: published
-publishDate: '2026-09-29'
+publishDate: '2026-09-23'
 author: Ethan Ross
 tags:
   - New Discoveries

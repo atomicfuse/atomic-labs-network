@@ -5,7 +5,7 @@ description: >-
   emissions but shouldn't replace permanent solutions for CO2, offering fresh...
 type: standard
 status: published
-publishDate: '2026-09-23'
+publishDate: '2026-08-23'
 author: Sophia Sullivan
 tags:
   - 'Environment & Climate'

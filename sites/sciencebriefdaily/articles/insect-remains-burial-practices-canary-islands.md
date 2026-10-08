@@ -5,7 +5,7 @@ description: >-
   reveal crucial insights into Indigenous burial practices.
 type: standard
 status: published
-publishDate: '2026-10-06'
+publishDate: '2026-10-03'
 author: Sophia Sullivan
 tags:
   - New Discoveries

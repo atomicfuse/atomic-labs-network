@@ -7,7 +7,7 @@ description: >-
   emphasize environmental conservation and sustainable tourism practices.
 type: standard
 status: published
-publishDate: '2026-10-04'
+publishDate: '2026-09-11'
 author: Taylor Winters
 tags:
   - Destinations

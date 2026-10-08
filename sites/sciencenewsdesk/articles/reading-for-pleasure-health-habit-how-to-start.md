@@ -5,7 +5,7 @@ description: >-
   lower dementia risk. Here's how to build the habit for yourself or your kids.
 type: standard
 status: published
-publishDate: '2026-10-03'
+publishDate: '2026-09-28'
 author: Ethan Ross
 tags:
   - Health Science

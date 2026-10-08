@@ -6,7 +6,7 @@ description: >-
   vacations.
 type: standard
 status: published
-publishDate: '2026-09-29'
+publishDate: '2026-07-31'
 author: Ryan Rivera
 tags:
   - Travel

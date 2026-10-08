@@ -5,7 +5,7 @@ description: >-
   New York Film Festival. Here's what he said about playing OpenAI's CEO.
 type: standard
 status: published
-publishDate: '2026-09-28'
+publishDate: '2026-09-18'
 author: Andrew Bell
 tags:
   - Pop Culture

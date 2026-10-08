@@ -5,7 +5,7 @@ description: >-
   wants his Oct. 9 estate hearing delayed 10 days. Here's what TMZ reported.
 type: standard
 status: published
-publishDate: '2026-10-02'
+publishDate: '2026-09-29'
 author: Andrew Bell
 tags:
   - Celebrity News

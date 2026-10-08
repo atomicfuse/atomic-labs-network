@@ -5,7 +5,7 @@ description: >-
   3–4°C of warming. Here's what the number means and how 2°C changes it.
 type: standard
 status: published
-publishDate: '2026-09-20'
+publishDate: '2026-10-04'
 author: Ethan Ross
 tags:
   - Environment & Climate

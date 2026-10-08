@@ -6,7 +6,7 @@ description: >-
   when practiced safely and consistently.
 type: standard
 status: published
-publishDate: '2026-10-04'
+publishDate: '2026-09-30'
 author: Sophia Sullivan
 tags:
   - Health Science

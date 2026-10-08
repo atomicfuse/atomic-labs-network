@@ -7,7 +7,7 @@ description: >-
   of travelers.
 type: standard
 status: published
-publishDate: '2026-09-29'
+publishDate: '2026-09-05'
 author: Taylor Winters
 tags:
   - Destinations

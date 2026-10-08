@@ -7,7 +7,7 @@ description: >-
   importance as an energy source and climate factor.
 type: standard
 status: published
-publishDate: '2026-09-19'
+publishDate: '2026-08-24'
 author: Sophia Sullivan
 tags:
   - New Discoveries

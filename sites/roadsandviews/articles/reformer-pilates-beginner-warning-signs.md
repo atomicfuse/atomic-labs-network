@@ -5,7 +5,7 @@ description: >-
   hard way: when a studio sends a chilli emoji warning, take it seriously.
 type: standard
 status: published
-publishDate: '2026-09-18'
+publishDate: '2026-09-07'
 author: Ben Price
 tags:
   - Travel

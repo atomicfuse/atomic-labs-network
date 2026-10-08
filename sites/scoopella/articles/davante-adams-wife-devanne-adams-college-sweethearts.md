@@ -5,7 +5,7 @@ description: >-
   Davante Adams, from a 2012 meeting to a 2018 wedding and four kids.
 type: standard
 status: published
-publishDate: '2026-09-25'
+publishDate: '2026-10-05'
 author: Ella Hughes
 tags:
   - Celebrities

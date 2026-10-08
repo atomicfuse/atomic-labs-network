@@ -7,7 +7,7 @@ description: >-
   travel experiences by aligning with local customs and guidelines.
 type: standard
 status: published
-publishDate: '2026-09-21'
+publishDate: '2026-09-04'
 author: Taylor Winters
 tags:
   - News

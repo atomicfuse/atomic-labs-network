@@ -6,7 +6,7 @@ description: >-
   Vikernes.
 type: standard
 status: published
-publishDate: '2026-09-23'
+publishDate: '2026-09-20'
 author: Andrew Bell
 tags:
   - Entertainment Nostalgia

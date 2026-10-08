@@ -5,7 +5,7 @@ description: >-
   guest experience and driving brand value.
 type: standard
 status: published
-publishDate: '2026-09-28'
+publishDate: '2026-09-01'
 author: Sophia Sullivan
 tags:
   - Environment & Climate

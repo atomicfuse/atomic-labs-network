@@ -6,7 +6,7 @@ description: >-
   without the...
 type: how-to
 status: published
-publishDate: '2026-09-29'
+publishDate: '2026-10-05'
 author: Ben Price
 tags:
   - Travel

@@ -5,7 +5,7 @@ description: >-
   discounts across Asia, Australia, and North America. 
 type: how-to
 status: published
-publishDate: '2026-09-24'
+publishDate: '2026-09-17'
 author: Ryan Rivera
 tags:
   - Travel

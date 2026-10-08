@@ -6,7 +6,7 @@ description: >-
   filled with culture, adventure, and unforgettable island landscapes.
 type: standard
 status: published
-publishDate: '2026-09-24'
+publishDate: '2026-09-30'
 author: Taylor Winters
 tags:
   - Destinations

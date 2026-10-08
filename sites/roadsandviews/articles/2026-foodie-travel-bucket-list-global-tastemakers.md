@@ -6,7 +6,7 @@ description: >-
   trip.
 type: how-to
 status: published
-publishDate: '2026-09-29'
+publishDate: '2026-09-03'
 author: Ryan Rivera
 tags:
   - Travel

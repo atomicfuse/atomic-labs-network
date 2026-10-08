@@ -5,7 +5,7 @@ description: >-
   restaurant globally and what makes it a must-visit for travelers.
 type: standard
 status: published
-publishDate: '2026-09-21'
+publishDate: '2026-07-29'
 author: Ben Price
 tags:
   - Food & Drink

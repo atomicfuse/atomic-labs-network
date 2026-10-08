@@ -5,7 +5,7 @@ description: >-
   bottoms with a caption about body confidence and aging. Here's the scoop.
 type: standard
 status: published
-publishDate: '2026-09-27'
+publishDate: '2026-09-30'
 author: Ella Hughes
 tags:
   - Celebrities

@@ -6,7 +6,7 @@ description: >-
   off-the-beaten-path...
 type: standard
 status: published
-publishDate: '2026-09-21'
+publishDate: '2026-07-24'
 author: Ryan Rivera
 tags:
   - Travel

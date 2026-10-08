@@ -7,7 +7,7 @@ description: >-
   major hotspots.
 type: standard
 status: published
-publishDate: '2026-10-08'
+publishDate: '2026-09-07'
 author: Taylor Winters
 tags:
   - Destinations

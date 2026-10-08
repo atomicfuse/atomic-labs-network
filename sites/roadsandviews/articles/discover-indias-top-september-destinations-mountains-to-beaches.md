@@ -7,7 +7,7 @@ description: >-
   and vivid natural scenery.
 type: standard
 status: published
-publishDate: '2026-09-29'
+publishDate: '2026-08-31'
 author: Taylor Winters
 tags:
   - Destinations

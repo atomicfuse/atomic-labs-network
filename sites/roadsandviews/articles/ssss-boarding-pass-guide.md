@@ -5,7 +5,7 @@ description: >-
   how to prepare for a smooth airport experience.
 type: how-to
 status: published
-publishDate: '2026-09-27'
+publishDate: '2026-08-09'
 author: Ryan Rivera
 tags:
   - Travel

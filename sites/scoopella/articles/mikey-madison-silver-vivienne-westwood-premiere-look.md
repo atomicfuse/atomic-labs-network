@@ -6,7 +6,7 @@ description: >-
   the scoop.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-09-29'
 author: Ella Hughes
 tags:
   - Celebrities

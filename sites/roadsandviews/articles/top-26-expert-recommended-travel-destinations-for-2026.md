@@ -7,7 +7,7 @@ description: >-
   experiences await every type of traveler.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-07-25'
 author: Taylor Winters
 tags:
   - Destinations

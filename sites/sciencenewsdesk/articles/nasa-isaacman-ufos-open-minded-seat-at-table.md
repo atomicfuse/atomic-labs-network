@@ -5,7 +5,7 @@ description: >-
   UFOs turn out to be aliens. Here's what that stance means and how to read it.
 type: standard
 status: published
-publishDate: '2026-10-05'
+publishDate: '2026-09-20'
 author: Ethan Ross
 tags:
   - Space & Cosmos

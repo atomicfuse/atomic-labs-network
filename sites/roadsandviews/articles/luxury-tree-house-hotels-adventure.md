@@ -5,7 +5,7 @@ description: >-
   experiences from Costa Rica to Tanzania. Elevate your travel game today!
 type: listicle
 status: published
-publishDate: '2026-09-24'
+publishDate: '2026-09-05'
 author: Ben Price
 tags:
   - Travel

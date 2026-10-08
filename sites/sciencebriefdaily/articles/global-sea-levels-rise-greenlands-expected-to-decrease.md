@@ -7,7 +7,7 @@ description: >-
   localized studies for effective adaptation strategies.
 type: standard
 status: published
-publishDate: '2026-09-24'
+publishDate: '2026-09-11'
 author: Sophia Sullivan
 tags:
   - 'Environment & Climate'

@@ -7,7 +7,7 @@ description: >-
   alleviating pressure on overcrowded cities.
 type: standard
 status: published
-publishDate: '2026-09-27'
+publishDate: '2026-09-24'
 author: Taylor Winters
 tags:
   - Advice

@@ -7,7 +7,7 @@ description: >-
   landscapes, and adventures that won't strain your wallet.
 type: standard
 status: published
-publishDate: '2026-10-03'
+publishDate: '2026-08-26'
 author: Taylor Winters
 tags:
   - Destinations

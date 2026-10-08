@@ -7,7 +7,7 @@ description: >-
   engagement while reducing pressure on popular spots.
 type: standard
 status: published
-publishDate: '2026-09-24'
+publishDate: '2026-08-30'
 author: Taylor Winters
 tags:
   - Destinations

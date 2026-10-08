@@ -7,7 +7,7 @@ description: >-
   fun and bonding experiences for all ages.
 type: standard
 status: published
-publishDate: '2026-10-07'
+publishDate: '2026-08-01'
 author: Taylor Winters
 tags:
   - Destinations
