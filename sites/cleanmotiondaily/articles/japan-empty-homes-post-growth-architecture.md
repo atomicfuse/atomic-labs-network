@@ -1,11 +1,9 @@
 ---
 title: Why Japan's Empty Homes Signal a Shift Towards Post-Growth Architecture
-description: >-
-  Explore how Japan's surplus of vacant homes is leading to a new architectural
-  approach that prioritizes reuse and sustainability over new construction.
+description: Explore how Japan's surplus of vacant homes is leading to a new architectural approach that prioritizes reuse and sustainability over new construction.
 type: standard
-status: review
-publishDate: '2026-09-30'
+status: published
+publishDate: 2026-09-30
 author: Max Scott
 tags:
   - News
@@ -13,11 +11,8 @@ tags:
   - architecture
   - Japan
 slug: japan-empty-homes-post-growth-architecture
-reviewer_notes: >-
-  This article is entirely off-topic for an automotive enthusiast site — it
-  covers architecture and urban planning in Japan with no connection to cars,
-  electric vehicles, or any automotive subject matter.
-source_url: 'https://phys.org/news/2026-09-asia-future-embrace-limitations-people.html'
+reviewer_notes: Approved via review queue.
+source_url: https://phys.org/news/2026-09-asia-future-embrace-limitations-people.html
 source_item_id: 6abb4a843391fdf402cd9e63
 source_title: Building Asia's future must embrace the limitations of people and planet
 generated_by: openai
@@ -29,16 +24,11 @@ score_breakdown:
   content_length: 72
   factual_accuracy: 60
   keyword_relevance: 5
-quality_note: >-
-  This article is entirely off-topic for an automotive enthusiast site — it
-  covers architecture and urban planning in Japan with no connection to cars,
-  electric vehicles, or any automotive subject matter.
+quality_note: This article is entirely off-topic for an automotive enthusiast site — it covers architecture and urban planning in Japan with no connection to cars, electric vehicles, or any automotive subject matter.
 reading_time: 3
 topics:
   - Electric Cars
-image_alt: >-
-  Traditional Japanese house thoughtfully repaired and reused amid an overgrown
-  garden
+image_alt: Traditional Japanese house thoughtfully repaired and reused amid an overgrown garden
 ---
 Japan's ongoing construction boom might seem counterintuitive, especially when considering the staggering number of vacant homes across the country—over 9 million, in fact. This paradox highlights a critical inflection point in architectural practice, pushing the concept of "post-growth architecture" to the forefront of sustainable building discussions in Asia and beyond. As demographic shifts and resource limitations set in, it's clear that Japan's future cannot rely solely on new builds; instead, it beckons a more adaptive, community-driven approach to architecture.
 
