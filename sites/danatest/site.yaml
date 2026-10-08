@@ -173,21 +173,37 @@ theme:
 grid:
   topics:
     - label: Fun under the sun
-      verticals:
-        - Pop Culture
-        - Style & Fashion
-        - Entertainment
-      bundles:
-        - 6ac4c3d064df7692b392c02d
+      verticals: []
   include_sites: []
   max_age_days: 20
   feed_ad_every: 3
-  blocked_categories:
-    - War and Conflicts
-  pinned:
-    - site: aggregator
-      slug: madison-lecroy-s-cozy-night-in-isn-t-complete-without-these-rejuvinating-face-ma-6ac476f564df7692b392bf3f
-      until: null
-    - site: scoopella
-      slug: celebrity-kids-paris-fashion-week-nepo-babies
-      until: null
+ads_config:
+  layout: standard
+  ad_placements:
+    - id: gridd-asaf
+      position: grid-feed
+      device: all
+      sizes: {}
+      desktopSizeConfig:
+        ratio:
+          x: 4
+          y: 3
+        range:
+          minWidth: 300
+          maxWidth: 300
+          minHeight: 250
+          maxHeight: 250
+        customSizes: []
+      mobileSizeConfig:
+        ratio:
+          x: 4
+          y: 3
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      page_types:
+        - all
+      exclude_pages: []
