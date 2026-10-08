@@ -206,6 +206,8 @@ grid:
   include_sites: []
   max_age_days: 20
   feed_ad_every: 3
+  blocked_domains:
+    - kansasreflector.com
 ads_config:
   layout: standard
   ad_placements:
