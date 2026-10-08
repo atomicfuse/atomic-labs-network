@@ -96,6 +96,15 @@ jobs:
           # force_all still wins, so a deliberate full resync is unaffected.
           if [[ "$FORCE_ALL" != "true" && "$GITHUB_REF_NAME" == staging/* ]]; then
             SITE="${GITHUB_REF_NAME#staging/}"
+            # Publishing copies staging → main, then points staging at that main commit. That push
+            # carries the same site files staging KV already has (synced from the edits themselves),
+            # so re-seeding it is pure duplicate work — one extra run per publish, ~10 per auto-publish
+            # tick. A branch head that is already on main is exactly that reset (or a fresh branch).
+            if git merge-base --is-ancestor "$HEAD_SHA" origin/main 2>/dev/null; then
+              echo "sites=[]" >> "$GITHUB_OUTPUT"
+              echo "→ $GITHUB_REF_NAME now points at a main commit (post-publish reset) — staging KV is already current"
+              exit 0
+            fi
             if [[ -d "sites/$SITE" ]]; then
               printf 'sites=["%s"]\n' "$SITE" >> "$GITHUB_OUTPUT"
               echo "→ Staging branch — syncing own site only: $SITE"

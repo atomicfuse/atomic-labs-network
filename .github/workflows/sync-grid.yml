@@ -25,13 +25,62 @@ on:
         description: "Re-sync every grid-summaries file"
         type: boolean
         default: false
+      recheck_images:
+        description: "Re-check every indexed bundle story's image and remove those that no longer load"
+        type: boolean
+        default: false
 
 concurrency:
   group: sync-grid
   cancel-in-progress: false
 
 jobs:
+  # Most dashboard saves rewrite dashboard-index.yaml on main (last_updated, company, zone_id…) without
+  # touching anything the network directory reads. Such a push skips the sync (seconds, not minutes).
+  # Fields read: scripts/lib/grid-directory.ts `IndexSiteEntry` — keep DIRECTORY_FIELDS in step with it.
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.check.outputs.run }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Skip index changes the directory never reads
+        id: check
+        env:
+          EVENT: ${{ github.event_name }}
+          BEFORE: ${{ github.event.before }}
+        run: |
+          set -euo pipefail
+          if [[ "$EVENT" != "push" || -z "$BEFORE" || "$BEFORE" == "0000000000000000000000000000000000000000" ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          CHANGED=$(git diff --name-only "$BEFORE" "$GITHUB_SHA" 2>/dev/null || echo "?")
+          if [[ "$CHANGED" != "dashboard-index.yaml" ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          git show "$BEFORE:dashboard-index.yaml" > "$RUNNER_TEMP/before.yaml"
+          git show "$GITHUB_SHA:dashboard-index.yaml" > "$RUNNER_TEMP/after.yaml"
+          SAME=$(python3 - "$RUNNER_TEMP/before.yaml" "$RUNNER_TEMP/after.yaml" <<'PY'
+          import sys, yaml
+          DIRECTORY_FIELDS = ("domain", "status", "vertical", "custom_domain", "deleted_at")
+          def project(path):
+              sites = (yaml.safe_load(open(path)) or {}).get("sites") or []
+              return [tuple(str(s.get(k)) for k in DIRECTORY_FIELDS) for s in sites if isinstance(s, dict)]
+          print("yes" if project(sys.argv[1]) == project(sys.argv[2]) else "no")
+          PY
+          )
+          if [[ "$SAME" == "yes" ]]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "→ Index change doesn't touch any directory field — skipping"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
   sync:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -104,4 +153,4 @@ jobs:
           KV_NAMESPACE_ID_STAGING: ${{ secrets.KV_NAMESPACE_ID_STAGING }}
           # Content Aggregator (Grid bundle stories). CONTENT_AGGREGATOR_URL is stale — never use it.
           CONTENT_API_BASE_URL: https://content-aggregator-v2-34cd--atomic.cloudgrid.io
-        run: pnpm exec tsx scripts/seed-grid.ts ${{ steps.changed.outputs.flag }}
+        run: pnpm exec tsx scripts/seed-grid.ts ${{ steps.changed.outputs.flag }} ${{ inputs.recheck_images && '--recheck-images' || '' }}
