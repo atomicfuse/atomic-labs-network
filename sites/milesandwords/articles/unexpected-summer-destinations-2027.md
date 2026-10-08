@@ -6,7 +6,7 @@ description: >-
   travel...
 type: standard
 status: published
-publishDate: 2026-1-22
+publishDate: '2026-01-22'
 author: Sapir Lavi
 tags:
   - travel trends

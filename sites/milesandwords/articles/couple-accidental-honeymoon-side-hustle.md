@@ -5,7 +5,7 @@ description: >-
   business, generating the funds for their dream honeymoon in Southeast Asia...
 type: standard
 status: published
-publishDate: 2026-1-22
+publishDate: '2026-01-22'
 author: Sophie Caldwell
 tags:
   - personal finance
