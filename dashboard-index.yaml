@@ -147,7 +147,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-09-02T13:34:16.232Z
+    last_updated: 2026-10-08T13:44:01.871Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -156,7 +156,7 @@ sites:
     site_id: "8356056232227"
     staging_branch: staging/danatest
     status: Staging
-    vertical: Travel
+    vertical: Communication
     zone_id: null
   - domain: decoratinglabs
     cf_apo: false
