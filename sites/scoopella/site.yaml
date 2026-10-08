@@ -194,9 +194,9 @@ theme:
   fonts:
     heading: Bebas Neue
     body: Poppins
-  logo: /assets/logo.png
-  favicon: /assets/favicon.png
   logo_height_footer: 86
+  logo: /assets/logo-e281fe2892.png
+  favicon: /assets/favicon-8a5dde50cf.png
 tracking:
   ga4: G-9QRW2MVXMM
   gtm: GT-K8HXGXZC
