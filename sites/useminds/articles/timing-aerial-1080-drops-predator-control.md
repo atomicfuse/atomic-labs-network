@@ -1,11 +1,9 @@
 ---
 title: Why Timing Aerial 1080 Drops Is Crucial for Predator Control
-description: >-
-  Discover why timing is essential for effective aerial 1080 drops in
-  controlling predator populations in New Zealand's ecosystems.
+description: Discover why timing is essential for effective aerial 1080 drops in controlling predator populations in New Zealand's ecosystems.
 type: standard
-status: review
-publishDate: '2026-09-14'
+status: published
+publishDate: 2026-09-14
 author: Daniel Rivera
 tags:
   - Conspiracy Theories
@@ -14,20 +12,18 @@ tags:
   - conservation
   - New Zealand wildlife
 slug: timing-aerial-1080-drops-predator-control
-reviewer_notes: 'Quality scoring failed: No text in Anthropic response'
-source_url: 'https://phys.org/news/2026-09-predators.html'
+reviewer_notes: Approved via review queue.
+source_url: https://phys.org/news/2026-09-predators.html
 source_item_id: 6aa23e0354c84d48f79be281
 source_title: Timing 1080 drops to prevent predators bouncing back
 generated_by: openai
 featuredImage: /assets/images/timing-aerial-1080-drops-predator-control.webp
 quality_score: 0
-quality_note: 'Quality scoring failed: No text in Anthropic response'
+quality_note: "Quality scoring failed: No text in Anthropic response"
 reading_time: 3
 topics:
   - Human Curiosity
-image_alt: >-
-  Misty New Zealand forest at dawn with a distant helicopter and subtle signs of
-  wildlife cycles.
+image_alt: Misty New Zealand forest at dawn with a distant helicopter and subtle signs of wildlife cycles.
 ---
 ## The Importance of Timing in Predator Control
 
