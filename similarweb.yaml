@@ -1,0 +1,394 @@
+# Similarweb status per site — written by the dashboard (Sites → Update Similarweb data). Don't edit by hand.
+sites:
+  babyparenttrends:
+    domain: babyparenttrends.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  buzzbriefdaily:
+    domain: buzzbriefdaily.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  buzzsoaps:
+    domain: buzzsoaps.com
+    has_rank: true
+    global_rank: 813504
+    monthly_visits: 68562
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  carsnewsmag:
+    domain: carsnewsmag.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  cleanmotiondaily:
+    domain: cleanmotiondaily.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  coffeeactually:
+    domain: coffeeactually.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  dailywonderlab:
+    domain: dailywonderlab.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  decoratinglabs:
+    domain: decoratinglabs.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  decoratingmom:
+    domain: decoratingmom.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  decotricksworld:
+    domain: decortricksworld.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  diydecorschool:
+    domain: diydecorschool.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  dogslabs:
+    domain: dogslabs.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  dramadispatch:
+    domain: dramadispatch.com
+    has_rank: true
+    global_rank: 1617709
+    monthly_visits: 6008
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  eznutritiontips:
+    domain: eznutritiontips.com
+    has_rank: true
+    global_rank: 459897
+    monthly_visits: 96883
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  fashionnewsbee:
+    domain: fashionnewsbee.com
+    has_rank: true
+    global_rank: 305952
+    monthly_visits: 566531
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  foreverhealty:
+    domain: foreverhealty.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  gadgetskoala:
+    domain: gadgetskoala.com
+    has_rank: true
+    global_rank: 2828367
+    monthly_visits: 7138
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  gamerswiredaily:
+    domain: gamerswiredaily.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  gamingnewsalley:
+    domain: gamingnewsalley.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  geekystudios:
+    domain: geekystudios.com
+    has_rank: true
+    global_rank: 582544
+    monthly_visits: 97398
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  geekytraveler:
+    domain: geekytraveler.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  giantsavings:
+    domain: giant-savings.co
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  gigsfreaks:
+    domain: gigsfreaks.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  hiddenstorydaily:
+    domain: hiddenstorydaily.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  journeypeaks:
+    domain: journeypeaks.com
+    has_rank: true
+    global_rank: 79692
+    monthly_visits: 1340000
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  medicalnewsalley:
+    domain: medicalnewsalley.com
+    has_rank: true
+    global_rank: 712724
+    monthly_visits: 61234
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  medicalnewscorner:
+    domain: medicalnewscorner.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  milesandwords:
+    domain: milesandwords.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  mindmedications:
+    domain: mindmedications.com
+    has_rank: true
+    global_rank: 2175162
+    monthly_visits: 16788
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  mindsbit:
+    domain: mindsbit.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  muvizz:
+    domain: muvizz.com
+    has_rank: true
+    global_rank: 395605
+    monthly_visits: 181414
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  paleobeasts:
+    domain: paleobeasts.com
+    has_rank: true
+    global_rank: 647380
+    monthly_visits: 60241
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  popnewslanecom:
+    domain: popnewslane.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  popnsnap:
+    domain: popnsnap.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  popstorylab:
+    domain: popstorylab.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  roadsandviews:
+    domain: roadsandviews.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  sciencebriefdaily:
+    domain: sciencebriefdaily.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  sciencenewsdesk:
+    domain: sciencenewsdesk.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  sciencenewslab:
+    domain: sciencenewslab.com
+    has_rank: true
+    global_rank: 177113
+    monthly_visits: 785655
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  scoopella:
+    domain: scoopella.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  soccernewsreports:
+    domain: soccernewsreports.com
+    has_rank: true
+    global_rank: 165981
+    monthly_visits: 852816
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  stroylab:
+    domain: stroylab.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  tastereporter:
+    domain: tastereporter.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  thewonderkeepers:
+    domain: thewonderkeepers.com
+    has_rank: true
+    global_rank: 1507601
+    monthly_visits: 15475
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  travelbeautytips:
+    domain: travelbeautytips.com
+    has_rank: true
+    global_rank: 1087438
+    monthly_visits: 51375
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  travelclearly:
+    domain: travelclearly.com
+    has_rank: true
+    global_rank: 526284
+    monthly_visits: 121237
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  travelnights:
+    domain: travelnights.com
+    has_rank: true
+    global_rank: 1896903
+    monthly_visits: 22232
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  trendscores:
+    domain: trendscores.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  tvshowbox:
+    domain: tvshowbox.com
+    has_rank: true
+    global_rank: 215589
+    monthly_visits: 471569
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  tvshowsmag:
+    domain: tvshowsmag.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  useminds:
+    domain: useminds.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  viralsides:
+    domain: viralsides.com
+    has_rank: true
+    global_rank: 9142096
+    monthly_visits: 1651
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  wineoceans:
+    domain: wineoceans.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  womendivision:
+    domain: womendivision.com
+    has_rank: false
+    global_rank: null
+    monthly_visits: null
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  wtpop:
+    domain: wtpop.com
+    has_rank: true
+    global_rank: 366907
+    monthly_visits: 346395
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
+  yogaterritory:
+    domain: yogaterritory.com
+    has_rank: true
+    global_rank: 752287
+    monthly_visits: 50780
+    checked_at: 2026-10-11T12:20:09.710Z
+    source: manual
