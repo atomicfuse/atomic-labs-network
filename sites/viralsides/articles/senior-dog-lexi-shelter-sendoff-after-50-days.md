@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ac86dcbce7701ccb2412018
 source_title: Senior Dog Gets The Sweetest Shelter Sendoff After Waiting 50 Days For A Home
 generated_by: claude
-featuredImage: /assets/images/viralsides-general-article.webp
+featuredImage: /assets/images/senior-dog-lexi-shelter-sendoff-after-50-days.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 68
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Animals
+image_alt: >-
+  Senior shelter dog walks toward an adopter as staff members offer a warm
+  farewell.
 ---
 Lexi, a 9-year-old shelter dog, waited 50 days at the Michigan Animal Rescue League. Then she got her family. According to The Dodo, the staff and volunteers who had cared for her gave her a sweet sendoff as she headed out to her forever home.
 

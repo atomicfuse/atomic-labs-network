@@ -20,7 +20,7 @@ source_url: 'https://www.bbc.com/news/articles/cjzxl56q30k7o'
 source_item_id: 6acad185ce7701ccb24121a4
 source_title: 'Blackpink’s Lisa Manobal: How the K-pop star faced a race scandal'
 generated_by: claude
-featuredImage: /assets/images/viralsides-general-article.webp
+featuredImage: /assets/images/always-lalisa-lisa-documentary-image-and-honesty.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Odd News
+image_alt: >-
+  A stage microphone and documentary camera face a performer’s split-lit
+  dressing-room reflection.
 ---
 A new documentary called *Always Lalisa* follows Blackpink's Lisa through a race scandal, the launch of her solo career, the pressure around Coachella, and her push to break free from K-pop's restrictions. If you want to know why this film is getting attention and what it says about how idols handle public mistakes, here's the short version: it's a test of whether a polished pop machine can show a star at her least polished.
 
