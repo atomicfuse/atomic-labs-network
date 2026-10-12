@@ -1,0 +1,21 @@
+id: andres-valderrama
+name: Andrés Valderrama
+tagline: Match reports and transfer chatter, minus the noise
+bio: "Andrés Valderrama writes match reports, transfer coverage and tactical analysis for soccernewsreports and trendscores. He likes to start with what actually happened on the pitch, then work outward to the bigger picture: why a pressing scheme fell apart, what a new signing might change, how a table is really shaping up. On transfers, he separates credible movement from the usual rumor mill and tells readers which is which. His approach is conversational and curious, written for fans who want to understand the game as well as follow it. When he isn't covering the latest results, he's usually in the Fan Zone debating lineups with readers."
+beats:
+  - Match Reports
+  - Transfers
+  - Leagues & Standings
+  - Tactical Analysis
+  - Fan Zone
+verticals:
+  - Sports
+  - Events
+  - Hobbies & Interests
+portrait:
+  kind: generated
+  path: /authors/assets/andres-valderrama-53fe8f52f6.webp
+links: {}
+exclusive_sites: []
+created_at: 2026-10-12T20:46:34.655Z
+updated_at: 2026-10-12T20:46:34.655Z
