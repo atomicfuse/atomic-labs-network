@@ -1,0 +1,58 @@
+name: Sync authors to KV
+
+# Writes ONLY `author:<id>` keys (prod + staging) from authors/<id>.yaml via scripts/seed-authors.ts.
+# Never touches site keys — editing a profile re-syncs one small key, never every site.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "authors/**"
+  workflow_dispatch:
+
+concurrency:
+  group: sync-authors
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Checkout platform code
+        uses: actions/checkout@v4
+        with:
+          repository: atomicfuse/atomic-content-platform
+          path: platform
+          token: ${{ secrets.PLATFORM_REPO_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+
+      - uses: pnpm/action-setup@v4
+        with: { version: 10 }
+
+      - name: Install dependencies
+        working-directory: platform
+        run: |
+          for attempt in 1 2 3; do
+            if pnpm install --frozen-lockfile; then exit 0; fi
+            echo "pnpm install failed (attempt $attempt/3) — retrying in 15s..."
+            sleep 15
+          done
+          echo "::error::pnpm install failed after 3 attempts."
+          exit 1
+
+      - name: Build shared-types
+        working-directory: platform
+        run: pnpm --filter @atomic-platform/shared-types build
+
+      - name: Sync authors
+        working-directory: platform/packages/site-worker
+        env:
+          NETWORK_DATA_PATH: ${{ github.workspace }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          KV_NAMESPACE_ID_PROD: ${{ secrets.KV_NAMESPACE_ID_PROD }}
+          KV_NAMESPACE_ID_STAGING: ${{ secrets.KV_NAMESPACE_ID_STAGING }}
+        run: pnpm exec tsx scripts/seed-authors.ts
