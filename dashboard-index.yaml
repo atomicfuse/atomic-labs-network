@@ -127,7 +127,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-10-12T08:13:36.635Z
+    last_updated: 2026-10-12T07:32:27.238Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -858,6 +858,26 @@ sites:
     vertical: Sports
     worker_pending_dns: false
     zone_id: 61dc1f5d027aff2ed7c41143e36d2f62
+  - domain: storynewscorner
+    cf_apo: false
+    company: null
+    created_at: 2026-10-12T07:44:26.676Z
+    custom_domain: storynewscorner.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-10-12T08:14:02.336Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=storynewscorner
+    saved_previews: null
+    site_id: "1791066676548"
+    staging_branch: staging/storynewscorner
+    status: Live
+    vertical: Human Interest Journeys
+    zone_id: d9e0c10c8a2a8ddb43e8799276c43dac
+    worker_pending_dns: false
   - domain: stroylab
     cf_apo: false
     company: NGC
@@ -1158,25 +1178,6 @@ sites:
     vertical: Healthy Living
     worker_pending_dns: false
     zone_id: 8a07bb95f686217de8d2eba14df9e49d
-  - domain: storynewscorner
-    company: null
-    vertical: Human Interest Journeys
-    status: Staging
-    site_id: "1791066676548"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-10-12T07:44:26.676Z
-    created_at: 2026-10-12T07:44:26.676Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/storynewscorner
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=storynewscorner
-    saved_previews: null
-    custom_domain: null
 deleted:
   - domain: chaibeseret
     cf_apo: false
