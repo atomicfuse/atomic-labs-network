@@ -1,10 +1,6 @@
-domain: medicalnewscorner.com
-site_name: medicalnewscorner
-site_tagline: null
-author: Lucas Ward
-groups:
-  - atl
+domain: medicalnewscorner
 active: true
+author: Lucas Ward
 brief:
   audiences:
     - Medical Health enthusiasts
@@ -58,7 +54,7 @@ brief:
           - 6a1e69709bf3ecf115d983c7
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
+        preferred_days:
           - Monday
     - name: Conditions
       source:
@@ -75,7 +71,8 @@ brief:
           - 6a034b3286fcaaeb5bc83487
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Wellness
       source:
         type: filter
@@ -92,7 +89,8 @@ brief:
           - 6a256cb040722bf12ccf9945
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Research
       source:
         type: filter
@@ -108,7 +106,8 @@ brief:
           - 6a27a3d1eb470600f970542c
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Drugs
       source:
         type: filter
@@ -123,7 +122,30 @@ brief:
           - 6a033a9c86fcaaeb5bc8331d
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: medicalnewscorner
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -164,24 +186,9 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 52
   logo_height_footer: 66
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-CPTEQD4JF7
   gtm: GT-W6VNBXK2
+authors:
+  - id: hamza-siddiqui
+    topics: []
