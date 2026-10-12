@@ -156,7 +156,7 @@ theme:
     primary: "#020617"
     accent: "#15803d"
     background: "#020617"
-    secondary: "#4ade80"
+    secondary: "#020617"
     text: "#86efac"
     muted: "#4ade80"
     surface: "#0a1f15"
@@ -195,7 +195,6 @@ theme:
   logo_height_footer: 78
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-  menu_item_font_size: 14
 tracking:
   ga4: G-Y8EB0LDEEQ
   gtm: GT-K8HBM2Q2
@@ -203,3 +202,6 @@ tracking:
   facebook_pixel: null
   facebook_domain_verification: null
   custom: []
+authors:
+  - id: andres-valderrama
+    topics: []
