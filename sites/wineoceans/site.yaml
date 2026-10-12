@@ -118,6 +118,7 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Thursday
+bundle_id: 6a0c339f16f23264031d7942
 groups:
   - atl
 layout:
@@ -185,3 +186,6 @@ theme:
 tracking:
   ga4: G-CC6EJXVYMD
   gtm: GT-KFGTHDX8
+authors:
+  - id: alejandra-ruiz
+    topics: []
