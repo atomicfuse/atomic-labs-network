@@ -1,0 +1,21 @@
+id: wanjiru-kamau
+name: Wanjiru Kamau
+tagline: Brewing guides and beans, explained with warmth
+bio: "Wanjiru Kamau writes about brewing guides and coffee beans for Coffee Actually, with an occasional detour into gear and drinks. Her approach is simple: start with the cup you want, then work backward to the beans, grind, and method that get you there. She breaks down tricky ideas like extraction, roast levels, and water ratios in plain language, and she's happy to say when a fancy tool isn't worth the counter space. Expect clear step-by-step guides, honest comparisons, and a friendly nudge to taste, tweak, and trust your own palate. Her goal is to make better coffee feel approachable for everyone."
+beats:
+  - Brewing Guides
+  - Coffee Beans
+  - Coffee Drinks
+  - Coffee Gear
+verticals:
+  - Food & Drink
+  - Hobbies & Interests
+  - Shopping
+portrait:
+  kind: generated
+  path: /authors/assets/wanjiru-kamau-f06f05cce4.webp
+links: {}
+exclusive_sites:
+  - coffeeactually
+created_at: 2026-10-12T19:58:34.346Z
+updated_at: 2026-10-12T19:58:34.346Z
