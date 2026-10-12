@@ -15,8 +15,7 @@ brief:
     - Tech Breakthroughs Unveiled
     - Everyday Science Mysteries
     - Future of Commerce
-  theme: Stories about science, nature, technology, and everyday life. “Wonder”
-    suggests fascination, while “Lab” gives it an exploratory feel
+  theme: Stories about science, nature, technology, and everyday life. “Wonder” suggests fascination, while “Lab” gives it an exploratory feel
   topics_v2:
     - name: The Nature Explorers
       source:
@@ -93,12 +92,9 @@ brief:
           - Tuesday
   seo_keywords_focus: []
   content_guidelines:
-    - Science & Discovery, Nature & Wildlife, Technology, Space, Human Interest,
-      Travel, Everyday Curiosities
+    - Science & Discovery, Nature & Wildlife, Technology, Space, Human Interest, Travel, Everyday Curiosities
   image_guidelines:
-    - Vivid, relevant photography of animals, landscapes, discoveries, and
-      technology. Clearly label illustrations or AI-generated images when they
-      could be mistaken for evidence of a real event.
+    - Vivid, relevant photography of animals, landscapes, discoveries, and technology. Clearly label illustrations or AI-generated images when they could be mistaken for evidence of a real event.
   vertical: Business and Finance
   vertical_id: 6a00793d1104bbff809b7c20
   review_percentage: 5
@@ -171,3 +167,10 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-LL88J3HZD2
+  gtm: GT-KT9JGCJC
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
