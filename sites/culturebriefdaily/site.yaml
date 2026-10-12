@@ -3,7 +3,7 @@ active: true
 author: Ethan Rivera
 brief:
   audiences: []
-  audience_type_ids: null
+  audience_type_ids: []
   tone: ""
   article_types:
     listicle: 40
@@ -15,8 +15,7 @@ brief:
     - Pop Culture Buzz
     - Style & Trends
     - Viral Moments Digest
-  theme: entertainment, pop culture, and lifestyle site, offering quick reads
-    about what people are watching, enjoying, and talking about.
+  theme: entertainment, pop culture, and lifestyle site, offering quick reads about what people are watching, enjoying, and talking about.
   topics_v2:
     - name: What To Stream
       source:
@@ -98,11 +97,9 @@ brief:
   seo_keywords_focus: []
   content_guidelines: []
   image_guidelines:
-    - Bright, relevant, properly licensed photography. Favor clear subjects and
-      natural scenes; avoid misleading images, text overlays, and third-party
-      news branding.
-  vertical: What To Stream
-  vertical_id: null
+    - Bright, relevant, properly licensed photography. Favor clear subjects and natural scenes; avoid misleading images, text overlays, and third-party news branding.
+  vertical: Entertainment
+  vertical_id: 6a00793d1104bbff809b7c32
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -131,7 +128,7 @@ layout:
   load_more:
     page_size: 4
 scripts_vars: null
-site_name: culturebriefdaily.com
+site_name: culturebriefdaily
 site_tagline: null
 theme:
   base: sunset_strip
@@ -166,14 +163,11 @@ theme:
     footer_heading: "#fff7ed"
     footer_link: "#fed7aa"
     footer_link_hover: "#ffffff"
-    header_bg_gradient: "linear-gradient(135deg, #7c1d2f 0%, #be123c 35%, #c2410c
-      70%, #c2410c 100%)"
+    header_bg_gradient: "linear-gradient(135deg, #7c1d2f 0%, #be123c 35%, #c2410c 70%, #c2410c 100%)"
     subscribe_bg_gradient: "linear-gradient(135deg, #831843 0%, #be123c 50%, #c2410c 100%)"
     footer_bg_gradient: "linear-gradient(180deg, #be123c 0%, #831843 50%, #1f0408 100%)"
     must_reads_bg_gradient: "linear-gradient(90deg, #c2410c 0%, #be123c 50%, #9d174d 100%)"
-    hero_overlay_gradient: linear-gradient(180deg, transparent 0%,
-      rgba(249,115,22,0.1) 45%, rgba(249,115,22,0.35) 80%, rgba(124,29,47,0.82)
-      100%)
+    hero_overlay_gradient: linear-gradient(180deg, transparent 0%, rgba(249,115,22,0.1) 45%, rgba(249,115,22,0.35) 80%, rgba(124,29,47,0.82) 100%)
   logo_height: 52
   menu_item_font_size: 14
   fonts:
@@ -181,3 +175,10 @@ theme:
     body: Poppins
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-D5DKKXBPCB
+  gtm: GT-WRDQWSJR
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
