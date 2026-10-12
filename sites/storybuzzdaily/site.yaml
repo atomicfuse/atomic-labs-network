@@ -4,8 +4,7 @@ author: Leo Torres
 brief:
   audiences: []
   audience_type_ids: null
-  tone: Fresh, conversational, curious, and informative. Keep articles easy to
-    scan, with catchy but accurate headlines.
+  tone: Fresh, conversational, curious, and informative. Keep articles easy to scan, with catchy but accurate headlines.
   article_types:
     listicle: 40
     standard: 30
@@ -16,8 +15,7 @@ brief:
     - Screen Scene Scoop
     - Melody Lane Musings
     - Lifestyle Trendsetter
-  theme: Pop Culture, Entertainment, TV & Movies, Music, Arts & Books, Food &
-    Travel, Lifestyle Trends
+  theme: Pop Culture, Entertainment, TV & Movies, Music, Arts & Books, Food & Travel, Lifestyle Trends
   topics_v2:
     - name: Pop Culture Pulse
       source:
@@ -98,8 +96,7 @@ brief:
   seo_keywords_focus: []
   content_guidelines: []
   image_guidelines:
-    - Clear, relevant photography with vibrant colors. Use properly licensed
-      images and avoid third-party branding or misleading visuals.
+    - Clear, relevant photography with vibrant colors. Use properly licensed images and avoid third-party branding or misleading visuals.
   vertical: Hobbies & Interests
   vertical_id: 6a00793d1104bbff809b7c44
   review_percentage: 5
@@ -169,8 +166,7 @@ theme:
     subscribe_bg_gradient: "linear-gradient(135deg, #14532d 0%, #16a34a 50%, #14532d 100%)"
     footer_bg_gradient: "linear-gradient(90deg, #020617 0%, #064e3b 50%, #020617 100%)"
     must_reads_bg_gradient: "linear-gradient(135deg, #020617 0%, #14532d 50%, #020617 100%)"
-    hero_overlay_gradient: linear-gradient(180deg, transparent 0%,
-      rgba(22,163,74,0.15) 50%, rgba(2,6,23,0.92) 100%)
+    hero_overlay_gradient: linear-gradient(180deg, transparent 0%, rgba(22,163,74,0.15) 50%, rgba(2,6,23,0.92) 100%)
   logo_height: 52
   menu_item_font_size: 14
   fonts:
@@ -178,3 +174,10 @@ theme:
     body: Source Sans 3
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-7Y3E2XWSE0
+  gtm: GT-KD78MSJF
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
