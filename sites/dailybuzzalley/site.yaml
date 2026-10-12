@@ -1,0 +1,206 @@
+domain: dailybuzzalley.com
+active: true
+author: Olivia West
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Pop Culture Pulse
+    - Everyday Joys
+    - Wanderlust Wonders
+    - Flavor Finds
+    - cooking
+  theme: Daily Buzz Alley brings you entertaining stories, everyday inspiration,
+    and surprising discoveries-from pop culture and lifestyle trends to food,
+    travel, and the world’s little wonders.
+  topics_v2:
+    - name: Pop Culture Pulse
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793d1104bbff809b7c32
+          - 6a0079401104bbff809b7fdb
+          - 6a0079401104bbff809b7fd9
+        tag_ids:
+          - 6a0b3468ac596b621e93562d
+          - 6a0b36b7ac596b621e935675
+          - 6a0b36c2ac596b621e93567e
+          - 6a04548486fcaaeb5bc83956
+          - 6a0b1bfda53fcab94b364993
+          - 6a14488116f23264031d7fed
+          - 6a1417f816f23264031d7d70
+          - 6a044f3986fcaaeb5bc838c0
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Tuesday
+          - Friday
+    - name: Everyday Joys
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7de9
+          - 6a00793d1104bbff809b7c5f
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a0b340bac596b621e935609
+          - 6a044f3986fcaaeb5bc838c0
+          - 6a22602cad9a1dd21ebb68ad
+          - 6a0b340bac596b621e93560c
+          - 6a0fdd4616f23264031d79fe
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Tuesday
+          - Friday
+    - name: Wanderlust Wonders
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7f89
+          - 6a00793e1104bbff809b7cc9
+          - 6a00793e1104bbff809b7ccb
+        tag_ids:
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a8d0d68eacb826224e5b28b
+          - 6a0b1eeea53fcab94b3649a7
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a612bf1f722718ae0aa27f0
+          - 6a0b38f5ac596b621e9356ae
+          - 6a0341a186fcaaeb5bc833f2
+          - 6a033f7d86fcaaeb5bc833e2
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Tuesday
+          - Friday
+    - name: Flavor Finds
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793e1104bbff809b7d17
+          - 6a00793e1104bbff809b7d13
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a1402bf16f23264031d7c63
+          - 6a03467486fcaaeb5bc83416
+          - 6a0348a886fcaaeb5bc83433
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Tuesday
+          - Friday
+    - name: cooking
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793e1104bbff809b7d15
+          - 6a00793e1104bbff809b7d1d
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a034da986fcaaeb5bc834e7
+          - 6a0348a886fcaaeb5bc83433
+          - 6a2f7ea132676a5c75e45162
+          - 6a3a1df7cbbe345bde1166c3
+          - 6a1831cb0fc9210eaf31ab24
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Tuesday
+          - Friday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Entertainment, Pop Culture, Lifestyle, Food, Travel, Home & Living, Human
+      Interest, Science & Curiosity
+  image_guidelines:
+    - Bright, clear images that directly match the story. Favor natural
+      photography, expressive faces, and uncluttered compositions. Avoid
+      misleading visuals, excessive text overlays, and third-party news
+      branding.
+  vertical: Pop Culture Pulse
+  vertical_id: null
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Tuesday
+      - Friday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: dailybuzzalley.com
+site_tagline: null
+theme:
+  base: tokyo_night
+  colors:
+    primary: "#1a1b2e"
+    accent: "#c81e3b"
+    background: "#0f111c"
+    secondary: "#252845"
+    text: "#e0e6f0"
+    muted: "#9aa3b8"
+    surface: "#1f2138"
+    border: "#2d2f4a"
+    heading: "#f0f3f8"
+    link: "#7c89f0"
+    link_hover: "#e94560"
+    nav_link: "#e0e6f0"
+    nav_link_hover: "#e94560"
+    footer_bg: "#0a0c14"
+    must_reads_bg: "#1a1b2e"
+    hero_title: "#f0f3f8"
+    must_reads_title: "#f0f3f8"
+    article_hero_title: "#f0f3f8"
+    article_hero_meta: "#9aa3b8"
+    feed_title: "#f0f3f8"
+    feed_desc: "#c8cee0"
+    feed_date: "#9aa3b8"
+    prose_heading: "#f0f3f8"
+    prose_body: "#c8cee0"
+    category_header_text: "#f0f3f8"
+    subscribe_heading: "#ffffff"
+    footer_text: "#9aa3b8"
+    footer_heading: "#f0f3f8"
+    footer_link: "#9aa3b8"
+    footer_link_hover: "#e94560"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Manrope
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
