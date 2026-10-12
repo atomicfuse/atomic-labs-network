@@ -18,9 +18,7 @@ brief:
     - news
     - lifestyle
     - decor
-  theme: Story News Corner explores interesting stories, surprising discoveries,
-    and everyday inspiration-from people and places to lifestyle and
-    entertainment.
+  theme: Story News Corner explores interesting stories, surprising discoveries, and everyday inspiration-from people and places to lifestyle and entertainment.
   topics_v2:
     - name: Human Interest Journeys
       source:
