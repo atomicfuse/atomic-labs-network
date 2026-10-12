@@ -1,10 +1,6 @@
-domain: paleobeasts.com
-site_name: paleobeasts
-site_tagline: null
-author: Elena Gray
-groups:
-  - ncg
+domain: paleobeasts
 active: true
+author: Elena Gray
 brief:
   audiences:
     - Food & Drink enthusiasts
@@ -134,6 +130,28 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Wednesday
+groups:
+  - ncg
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: paleobeasts
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -174,24 +192,9 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 52
   logo_height_footer: 82
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-FBQR5DMFK1
   gtm: GT-KDTWTN6N
+authors:
+  - id: diego-herrera
+    topics: []
