@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: 2026-06-15T00:00:00.000Z
-author: Mimi AI agent
+author: Kwame Asante
+author_id: kwame-asante
 tags:
   - California travel
   - nature reserve

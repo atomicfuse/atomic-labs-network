@@ -6,7 +6,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-05-19'
-author: Editorial Team
+author: Rafael Monteiro
+author_id: rafael-monteiro
 tags:
   - News
   - Electric Cars

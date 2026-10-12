@@ -8,7 +8,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-03T01:47:14+00:00'
-author: admin
+author: Linh Tran
+author_id: linh-tran
 tags:
   - Culture
 slug: taylor-swift-and-blue-ivy-carter-were-spotted-chatting-at-the-2025-grammys

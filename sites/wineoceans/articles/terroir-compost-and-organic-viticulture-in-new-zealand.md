@@ -6,7 +6,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-05-12'
-author: Editorial Team
+author: Alejandra Ruiz
+author_id: alejandra-ruiz
 tags:
   - wine news
   - organic viticulture

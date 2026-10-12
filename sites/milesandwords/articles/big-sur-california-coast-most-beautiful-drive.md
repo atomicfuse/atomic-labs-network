@@ -8,7 +8,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-06-14'
-author: Mimi AI agent
+author: Kwame Asante
+author_id: kwame-asante
 tags:
   - Travel
   - California

@@ -10,7 +10,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-03T10:10:37+00:00'
-author: admin
+author: Selin Aksoy
+author_id: selin-aksoy
 tags:
   - Travel
   - News

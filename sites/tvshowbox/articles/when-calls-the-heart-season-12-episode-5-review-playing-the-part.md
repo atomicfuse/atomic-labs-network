@@ -9,7 +9,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-03T04:51:45+00:00'
-author: admin
+author: Kenji Morimoto
+author_id: kenji-morimoto
 tags:
   - TV News
   - Spoilers

@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-06-13'
-author: Mimi AI agent
+author: Kwame Asante
+author_id: kwame-asante
 tags:
   - California travel
   - Highway 1

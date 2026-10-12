@@ -8,7 +8,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2024-08-14T11:40:52+00:00'
-author: admin
+author: Emi Takahashi
+author_id: emi-takahashi
 tags:
   - Yoga Poses
   - Mindfullness

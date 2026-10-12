@@ -6,7 +6,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-05-15'
-author: Editorial Team
+author: Rafael Monteiro
+author_id: rafael-monteiro
 tags:
   - Electric Cars
   - Honda

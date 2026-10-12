@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-05-26'
-author: Editorial Team
+author: Tessa Hollingworth
+author_id: tessa-hollingworth
 tags:
   - Breaking News
   - Musical

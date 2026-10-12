@@ -4,7 +4,8 @@ description: ''
 type: standard
 status: published
 publishDate: '2025-01-30T14:33:35+00:00'
-author: admin
+author: Elif Demirci
+author_id: elif-demirci
 tags:
   - Decor Ideas
   - Design

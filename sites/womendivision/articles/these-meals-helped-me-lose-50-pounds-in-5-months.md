@@ -6,7 +6,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-03-14T08:36:05+00:00'
-author: admin
+author: Emi Takahashi
+author_id: emi-takahashi
 tags:
   - Workout Meals
 slug: these-meals-helped-me-lose-50-pounds-in-5-months

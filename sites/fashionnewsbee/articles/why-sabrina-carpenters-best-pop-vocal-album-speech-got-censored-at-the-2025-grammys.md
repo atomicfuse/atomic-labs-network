@@ -9,7 +9,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-03T09:48:40+00:00'
-author: admin
+author: Linh Tran
+author_id: linh-tran
 tags:
   - Culture
 slug: >-

@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-03-01T18:15:33+00:00'
-author: admin
+author: Emi Takahashi
+author_id: emi-takahashi
 tags:
   - Advice
 slug: i-unlocked-the-power-of-my-deepest-core-muscles-and-ive-never-felt-stronger

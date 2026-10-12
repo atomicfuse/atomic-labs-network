@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-03-01T19:01:31+00:00'
-author: admin
+author: Linh Tran
+author_id: linh-tran
 tags:
   - Travel Tips
   - Weight Loss

@@ -6,7 +6,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-05-26'
-author: Editorial Team
+author: Marisol Quiñones
+author_id: marisol-quinones
 tags:
   - Music
   - Celebrities

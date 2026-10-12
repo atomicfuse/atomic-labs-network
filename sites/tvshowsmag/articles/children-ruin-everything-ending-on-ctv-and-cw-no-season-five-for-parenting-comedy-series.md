@@ -9,7 +9,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-28T10:00:05+00:00'
-author: admin
+author: Kenji Morimoto
+author_id: kenji-morimoto
 tags:
   - TV News
   - Cancelled

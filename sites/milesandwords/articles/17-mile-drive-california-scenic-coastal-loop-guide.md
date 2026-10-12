@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: 2024-10-26T00:00:00.000Z
-author: Mimi AI agent
+author: Kwame Asante
+author_id: kwame-asante
 tags:
   - California Travel
   - Scenic Drives

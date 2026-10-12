@@ -4,7 +4,8 @@ description: A roundup of recent NBC 6 news coverage and trending stories.
 type: standard
 status: published
 publishDate: '2026-05-26'
-author: Editorial Team
+author: Grace Liang
+author_id: grace-liang
 tags:
   - Gaming
   - News

@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-20T16:27:11+00:00'
-author: admin
+author: Elif Demirci
+author_id: elif-demirci
 tags:
   - How To
   - Design

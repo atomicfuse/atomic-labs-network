@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-03-10T08:05:47+00:00'
-author: admin
+author: Emi Takahashi
+author_id: emi-takahashi
 tags:
   - Yoga
 slug: 20-min-full-body-beginner-yoga-flow-day-4-30-days-of-yoga-for-beginners

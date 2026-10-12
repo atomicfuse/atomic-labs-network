@@ -6,7 +6,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-03-15T08:56:12+00:00'
-author: admin
+author: Emi Takahashi
+author_id: emi-takahashi
 tags:
   - Workout Meals
 slug: healthy-high-protein-meal-prep

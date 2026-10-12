@@ -6,7 +6,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-08-23'
-author: Editorial Team
+author: Kwame Asante
+author_id: kwame-asante
 tags:
   - Travel
   - Destinations

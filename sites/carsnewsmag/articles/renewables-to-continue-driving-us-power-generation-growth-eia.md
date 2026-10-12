@@ -8,7 +8,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-01T02:28:53+00:00'
-author: admin
+author: Rafael Monteiro
+author_id: rafael-monteiro
 tags:
   - Electric Cars
 slug: renewables-to-continue-driving-us-power-generation-growth-eia

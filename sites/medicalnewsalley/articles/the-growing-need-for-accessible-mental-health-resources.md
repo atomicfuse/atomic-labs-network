@@ -9,7 +9,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-28T02:20:07+00:00'
-author: admin
+author: Hamza Siddiqui
+author_id: hamza-siddiqui
 tags:
   - Mental Health
   - Drugs

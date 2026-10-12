@@ -8,7 +8,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-27T23:28:45+00:00'
-author: admin
+author: Rafael Monteiro
+author_id: rafael-monteiro
 tags:
   - Electric Cars
 slug: spacex-explains-reasoning-for-starship-7-upper-stage-loss

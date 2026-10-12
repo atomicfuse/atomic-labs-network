@@ -6,7 +6,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-02T14:59:09+00:00'
-author: admin
+author: Rafael Monteiro
+author_id: rafael-monteiro
 tags:
   - Electric Cars
 slug: aaa-still-exists-and-theyve-made-a-new-deal-with-chargepoint

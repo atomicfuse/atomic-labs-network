@@ -6,7 +6,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-05-26'
-author: Editorial Team
+author: Linh Tran
+author_id: linh-tran
 tags:
   - Beauty
   - Spring Trends

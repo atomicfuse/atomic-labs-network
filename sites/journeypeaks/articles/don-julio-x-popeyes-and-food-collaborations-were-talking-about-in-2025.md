@@ -8,7 +8,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-03T02:30:29+00:00'
-author: admin
+author: Selin Aksoy
+author_id: selin-aksoy
 tags:
   - Travel
   - Food &amp; Drink

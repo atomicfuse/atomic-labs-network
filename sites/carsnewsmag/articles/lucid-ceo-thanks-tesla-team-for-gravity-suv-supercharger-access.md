@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-01T14:48:40+00:00'
-author: admin
+author: Rafael Monteiro
+author_id: rafael-monteiro
 tags:
   - Electric Cars
 slug: lucid-ceo-thanks-tesla-team-for-gravity-suv-supercharger-access

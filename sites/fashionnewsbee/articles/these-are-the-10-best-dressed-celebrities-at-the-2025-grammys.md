@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-03T01:47:09+00:00'
-author: admin
+author: Linh Tran
+author_id: linh-tran
 tags:
   - Fashion
 slug: these-are-the-10-best-dressed-celebrities-at-the-2025-grammys

@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-05-09'
-author: Editorial Team
+author: Alejandra Ruiz
+author_id: alejandra-ruiz
 tags:
   - Wine for beginners
   - wine making

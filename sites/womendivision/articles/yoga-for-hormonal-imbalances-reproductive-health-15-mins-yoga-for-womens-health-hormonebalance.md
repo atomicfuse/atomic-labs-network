@@ -9,7 +9,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-03-13T08:24:51+00:00'
-author: admin
+author: Emi Takahashi
+author_id: emi-takahashi
 tags:
   - Yoga
 slug: >-

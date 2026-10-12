@@ -9,7 +9,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-03-01T10:00:00'
-author: admin
+author: Emre Yıldırım
+author_id: emre-y-ld-r-m
 tags:
   - Physics
 slug: this-new-quantum-tech-could-revolutionize-how-we-navigate-the-world

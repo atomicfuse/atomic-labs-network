@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-27T11:08:55+00:00'
-author: admin
+author: Rafael Monteiro
+author_id: rafael-monteiro
 tags:
   - Electric Cars
 slug: aventon-level-3-electric-bike-launched-with-big-brain-technology

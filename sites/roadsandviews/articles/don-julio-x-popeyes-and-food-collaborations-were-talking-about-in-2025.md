@@ -8,7 +8,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-09-25'
-author: admin
+author: Kwame Asante
+author_id: kwame-asante
 tags:
   - Travel
   - Food &amp; Drink

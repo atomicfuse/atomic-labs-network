@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-03-10T08:05:48+00:00'
-author: admin
+author: Emi Takahashi
+author_id: emi-takahashi
 tags:
   - Workout Meals
 slug: easy-pre-workout-meals-for-every-timeframe-trending-shorts

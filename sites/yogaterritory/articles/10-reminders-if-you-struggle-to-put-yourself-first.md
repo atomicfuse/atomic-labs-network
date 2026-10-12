@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2024-08-29T10:58:07+00:00'
-author: admin
+author: Emi Takahashi
+author_id: emi-takahashi
 tags:
   - Yoga Poses
   - Lifestyle

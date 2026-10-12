@@ -9,7 +9,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-27T02:10:44+00:00'
-author: admin
+author: Hamza Siddiqui
+author_id: hamza-siddiqui
 tags:
   - Health News
   - Drugs

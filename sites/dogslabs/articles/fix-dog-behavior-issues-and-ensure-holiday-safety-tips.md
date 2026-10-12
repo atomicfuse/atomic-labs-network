@@ -6,7 +6,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-05-26'
-author: Editorial Team
+author: Wanjiru Kamau
+author_id: wanjiru-kamau
 tags:
   - Animal Planet
   - Dogs

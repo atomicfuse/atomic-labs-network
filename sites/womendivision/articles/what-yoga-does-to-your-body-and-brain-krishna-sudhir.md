@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-03-11T08:06:44+00:00'
-author: admin
+author: Emi Takahashi
+author_id: emi-takahashi
 tags:
   - Yoga
 slug: what-yoga-does-to-your-body-and-brain-krishna-sudhir

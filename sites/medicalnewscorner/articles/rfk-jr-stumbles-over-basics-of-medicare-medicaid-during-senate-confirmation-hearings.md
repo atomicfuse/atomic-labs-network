@@ -10,7 +10,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-01-31T22:21:21+00:00'
-author: admin
+author: Hamza Siddiqui
+author_id: hamza-siddiqui
 tags:
   - Health News
   - 'Health, Fitness &amp; Food'

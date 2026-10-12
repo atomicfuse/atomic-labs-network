@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-01-31T05:00:27+00:00'
-author: admin
+author: Rafael Monteiro
+author_id: rafael-monteiro
 tags:
   - News
   - Videos

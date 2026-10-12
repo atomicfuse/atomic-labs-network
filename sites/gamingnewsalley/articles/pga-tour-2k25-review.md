@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-03-17T22:32:52+00:00'
-author: admin
+author: Grace Liang
+author_id: grace-liang
 tags:
   - Reviews
 slug: pga-tour-2k25-review

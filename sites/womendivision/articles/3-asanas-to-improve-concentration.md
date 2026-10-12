@@ -6,7 +6,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-03-12T08:15:32+00:00'
-author: admin
+author: Emi Takahashi
+author_id: emi-takahashi
 tags:
   - Yoga
 slug: 3-asanas-to-improve-concentration

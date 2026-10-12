@@ -6,7 +6,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-05-26'
-author: Editorial Team
+author: Darnell Whitfield
+author_id: darnell-whitfield
 tags:
   - Finance
   - strategic-planning

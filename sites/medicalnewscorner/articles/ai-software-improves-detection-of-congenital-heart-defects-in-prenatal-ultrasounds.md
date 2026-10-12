@@ -10,7 +10,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-01-31T05:55:15+00:00'
-author: admin
+author: Hamza Siddiqui
+author_id: hamza-siddiqui
 tags:
   - Research
   - Clinical Trials &amp; Research

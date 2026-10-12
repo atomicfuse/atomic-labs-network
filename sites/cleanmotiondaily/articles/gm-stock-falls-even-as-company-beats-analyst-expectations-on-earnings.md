@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-05-05'
-author: Editorial Team
+author: Rafael Monteiro
+author_id: rafael-monteiro
 tags:
   - News
   - GM

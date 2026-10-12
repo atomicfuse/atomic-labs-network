@@ -10,7 +10,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-09-29'
-author: admin
+author: Kwame Asante
+author_id: kwame-asante
 tags:
   - Travel
   - News

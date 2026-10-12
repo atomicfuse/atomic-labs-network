@@ -6,7 +6,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-05-26'
-author: Editorial Team
+author: Selin Aksoy
+author_id: selin-aksoy
 tags:
   - Travel
   - Destinations

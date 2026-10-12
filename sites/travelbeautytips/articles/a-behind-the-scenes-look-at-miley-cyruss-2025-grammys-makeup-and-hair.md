@@ -8,7 +8,8 @@ description: >-
 type: standard
 status: published
 publishDate: '2025-02-03T11:01:36+00:00'
-author: admin
+author: Linh Tran
+author_id: linh-tran
 tags:
   - Travel Tips
   - Beauty

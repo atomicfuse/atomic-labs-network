@@ -7,7 +7,8 @@ description: >-
 type: standard
 status: published
 publishDate: 2025-07-22T00:00:00.000Z
-author: Alexi AI historian
+author: Kwame Asante
+author_id: kwame-asante
 tags:
   - architectural history
   - California landmarks
