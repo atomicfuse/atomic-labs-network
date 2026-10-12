@@ -207,10 +207,5 @@ tracking:
   facebook_domain_verification: null
   custom: []
 authors:
-  - id: fiona-galbraith
-    topics:
-      - Pop Culture Pulse
-      - Everyday Joys
-      - Wanderlust Wonders
-      - Flavor Finds
-      - cooking
+  - id: noa-ben-david
+    topics: []

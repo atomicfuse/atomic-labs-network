@@ -19,7 +19,7 @@ source_url: 'https://www.vulture.com/article/tv-shows-canceled-2026.html'
 source_item_id: 6aae1ddb746bd4387133cb7a
 source_title: Every TV Show Canceled in 2026 So Far
 generated_by: claude
-featuredImage: /assets/images/dailybuzzalley-general-article.webp
+featuredImage: /assets/images/2026-canceled-tv-shows-so-far-sweet-magnolias-gen-v.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Pop Culture Pulse
+image_alt: Concerned viewers watch a television lineup fade into blank screens.
 ---
 The cancellation axe has been busy this year. Vulture's running tally of every TV show canceled in 2026 so far now stands at 30 titles, and the opening line of its entry on Sweet Magnolias says it all: after five seasons, "the bloom fell off" the Netflix small-town favorite.
 
