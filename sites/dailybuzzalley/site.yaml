@@ -3,7 +3,7 @@ active: true
 author: Olivia West
 brief:
   audiences: []
-  audience_type_ids: null
+  audience_type_ids: []
   tone: ""
   article_types:
     listicle: 40
@@ -16,9 +16,7 @@ brief:
     - Wanderlust Wonders
     - Flavor Finds
     - cooking
-  theme: Daily Buzz Alley brings you entertaining stories, everyday inspiration,
-    and surprising discoveries-from pop culture and lifestyle trends to food,
-    travel, and the world’s little wonders.
+  theme: Daily Buzz Alley brings you entertaining stories, everyday inspiration, and surprising discoveries-from pop culture and lifestyle trends to food, travel, and the world’s little wonders.
   topics_v2:
     - name: Pop Culture Pulse
       source:
@@ -124,15 +122,11 @@ brief:
           - Friday
   seo_keywords_focus: []
   content_guidelines:
-    - Entertainment, Pop Culture, Lifestyle, Food, Travel, Home & Living, Human
-      Interest, Science & Curiosity
+    - Entertainment, Pop Culture, Lifestyle, Food, Travel, Home & Living, Human Interest, Science & Curiosity
   image_guidelines:
-    - Bright, clear images that directly match the story. Favor natural
-      photography, expressive faces, and uncluttered compositions. Avoid
-      misleading visuals, excessive text overlays, and third-party news
-      branding.
-  vertical: Pop Culture Pulse
-  vertical_id: null
+    - Bright, clear images that directly match the story. Favor natural photography, expressive faces, and uncluttered compositions. Avoid misleading visuals, excessive text overlays, and third-party news branding.
+  vertical: Pop Culture
+  vertical_id: 6a00793d1104bbff809b7c5f
   review_percentage: 5
   schedule:
     articles_per_day: 4
@@ -162,7 +156,7 @@ layout:
   load_more:
     page_size: 4
 scripts_vars: null
-site_name: dailybuzzalley.com
+site_name: dailybuzzalley
 site_tagline: null
 theme:
   base: tokyo_night
@@ -197,10 +191,11 @@ theme:
     footer_heading: "#f0f3f8"
     footer_link: "#9aa3b8"
     footer_link_hover: "#e94560"
-  logo_height: 52
-  menu_item_font_size: 14
+  logo_height: 70
+  menu_item_font_size: 15
   fonts:
     heading: Manrope
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+  logo_height_footer: 76
