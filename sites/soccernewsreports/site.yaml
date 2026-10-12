@@ -238,3 +238,6 @@ theme:
 tracking:
   ga4: G-0DTT5EW34K
   gtm: GT-57Z9N393
+authors:
+  - id: andres-valderrama
+    topics: []
