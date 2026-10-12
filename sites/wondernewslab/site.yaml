@@ -1,0 +1,173 @@
+domain: wondernewslab.com
+active: true
+author: Elena Parker
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - The Nature Explorers
+    - Tech Breakthroughs Unveiled
+    - Everyday Science Mysteries
+    - Future of Commerce
+  theme: Stories about science, nature, technology, and everyday life. “Wonder”
+    suggests fascination, while “Lab” gives it an exploratory feel
+  topics_v2:
+    - name: The Nature Explorers
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7ccb
+          - 6a00793e1104bbff809b7e17
+          - 6a00793e1104bbff809b7e1b
+          - 6a00793f1104bbff809b7f89
+        tag_ids:
+          - 6a0bf43116f23264031d78d6
+          - 6a0b3490ac596b621e935637
+          - 6a0fdd4616f23264031d79fe
+          - 6a2b8cb87da23de6325b9b33
+          - 6a0bf43616f23264031d78de
+          - 6a0fe1b316f23264031d7a33
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Tuesday
+    - name: Tech Breakthroughs Unveiled
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c77
+          - 6a00793d1104bbff809b7c68
+          - 6a00793f1104bbff809b7f57
+          - 6a00793f1104bbff809b7f5b
+        tag_ids:
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a007aebe9d30be04c0c6008
+          - 6a142f5c16f23264031d7f92
+          - 6a2a46ba7da23de6325b9a98
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Tuesday
+    - name: Everyday Science Mysteries
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793e1104bbff809b7e23
+          - 6a00793e1104bbff809b7e17
+          - 6a00793e1104bbff809b7e19
+        tag_ids:
+          - 6a1417e016f23264031d7d63
+          - 6a0bf43116f23264031d78d6
+          - 6a892e0a63a7e9d3e6ee45bc
+          - 6a3a1905cbbe345bde116630
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Tuesday
+    - name: Future of Commerce
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7edf
+          - 6a00793d1104bbff809b7c6e
+          - 6a00793f1104bbff809b7f57
+          - 6a00793d1104bbff809b7c77
+        tag_ids:
+          - 6a2515e640722bf12ccf991d
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6ab0bb1a0c196d947f9153cd
+          - 6a03361486fcaaeb5bc83261
+          - 6aa2f173ba714d8fce5221c2
+          - 6ab21cf50c196d947f9154fc
+          - 6a2a46ba7da23de6325b9a98
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Tuesday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Science & Discovery, Nature & Wildlife, Technology, Space, Human Interest,
+      Travel, Everyday Curiosities
+  image_guidelines:
+    - Vivid, relevant photography of animals, landscapes, discoveries, and
+      technology. Clearly label illustrations or AI-generated images when they
+      could be mistaken for evidence of a real event.
+  vertical: Business and Finance
+  vertical_id: 6a00793d1104bbff809b7c20
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - Tuesday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: wondernewslab.com
+site_tagline: null
+theme:
+  base: graphite_tech
+  colors:
+    primary: "#0f0f0f"
+    accent: "#1d4ed8"
+    background: "#fafafa"
+    secondary: "#fafafa"
+    text: "#0a0a0a"
+    muted: "#6b7280"
+    surface: "#f3f4f6"
+    border: "#e5e7eb"
+    heading: "#0a0a0a"
+    link: "#1d4ed8"
+    link_hover: "#1e40af"
+    nav_link: "#fafafa"
+    nav_link_hover: "#60a5fa"
+    footer_bg: "#0f0f0f"
+    must_reads_bg: "#0f0f0f"
+    hero_title: "#fafafa"
+    must_reads_title: "#fafafa"
+    article_hero_title: "#fafafa"
+    article_hero_meta: "#9ca3af"
+    feed_title: "#0a0a0a"
+    feed_desc: "#1f2937"
+    feed_date: "#6b7280"
+    prose_heading: "#0a0a0a"
+    prose_body: "#1f2937"
+    category_header_text: "#fafafa"
+    subscribe_heading: "#fafafa"
+    footer_text: "#9ca3af"
+    footer_heading: "#fafafa"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#60a5fa"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Space Grotesk
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
