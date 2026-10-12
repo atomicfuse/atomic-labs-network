@@ -132,8 +132,8 @@ brief:
       - Monday
     preferred_time: 10:00
   audience_type_ids: []
-  vertical_id: ""
-  vertical: ""
+  vertical_id: 6a00793d1104bbff809b7c6b
+  vertical: Sensitive Topics
   image_guidelines: []
   quality_threshold: 40
   quality_weights:
@@ -164,7 +164,7 @@ layout:
     explicit: []
   load_more:
     page_size: 4
-site_name: Hidden Story Daily
+site_name: HiddenStoryDaily
 site_tagline: null
 theme:
   base: midnight
