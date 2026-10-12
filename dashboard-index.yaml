@@ -127,7 +127,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-10-12T07:35:46.822Z
+    last_updated: 2026-10-12T08:13:36.635Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -136,7 +136,7 @@ sites:
     site_id: "1790347238571"
     staging_branch: staging/dailybuzzalley
     status: Live
-    vertical: Pop Culture Pulse
+    vertical: Pop Culture
     zone_id: 1d60fd8ef59fa51bf29a0f41b2cfc8aa
     worker_pending_dns: false
   - domain: dailywonderlab
