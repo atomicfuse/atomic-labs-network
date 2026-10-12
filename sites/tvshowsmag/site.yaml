@@ -181,3 +181,6 @@ theme:
 tracking:
   ga4: G-HHQM49XZKG
   gtm: GT-5NRXC58K
+authors:
+  - id: kenji-morimoto
+    topics: []
