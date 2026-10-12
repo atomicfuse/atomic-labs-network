@@ -1,0 +1,22 @@
+id: karim-nassar
+name: Karim Nassar
+tagline: PC and console games, news and honest reviews
+bio: "Karim Nassar covers PC and console games for Gaming News Alley, from breaking news and release roundups to in-depth reviews and gameplay breakdowns. He's drawn to the details that shape how a game actually feels to play: the pacing, the controls, the way a system rewards curiosity. His reviews aim to be honest and useful, pointing out what works, what doesn't, and who a game is really for. Karim writes in a conversational voice, like a friend explaining why a game is worth your weekend or your wallet. He enjoys sharing both big-budget blockbusters and smaller games that deserve a closer look."
+beats:
+  - Gaming News
+  - PC Game Reviews
+  - Console Game Reviews
+  - Gameplay Impressions
+  - PC vs. Console Performance
+verticals:
+  - Video Gaming
+  - Technology & Computing
+  - Entertainment
+portrait:
+  kind: generated
+  path: /authors/assets/karim-nassar-db53dbcc2e.webp
+links: {}
+exclusive_sites:
+  - gamingnewsalley
+created_at: 2026-10-12T20:05:34.444Z
+updated_at: 2026-10-12T20:05:34.444Z
