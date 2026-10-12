@@ -127,7 +127,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-10-12T09:04:32.608Z
+    last_updated: 2026-10-12T11:11:51.674Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -136,7 +136,7 @@ sites:
     site_id: "1795698543865"
     staging_branch: staging/culturebriefdaily
     status: Live
-    vertical: What To Stream
+    vertical: Entertainment
     zone_id: 78856374fd466f6e6e7f82a43f5cfabc
     worker_pending_dns: false
   - domain: dailybuzzalley
