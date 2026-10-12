@@ -1,10 +1,6 @@
-domain: yogaterritory.com
-site_name: yogaterritory
-site_tagline: null
-author: Lucas Price
-groups:
-  - ncg
+domain: yogaterritory
 active: true
+author: Lucas Price
 brief:
   audiences:
     - Healthy Living enthusiasts
@@ -128,6 +124,28 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Friday
+groups:
+  - ncg
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: yogaterritory
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -168,24 +186,9 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 52
   logo_height_footer: 80
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-L4H3R5C37D
   gtm: GT-KV5DGKH9
+authors:
+  - id: emi-takahashi
+    topics: []
