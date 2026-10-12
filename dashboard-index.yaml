@@ -526,7 +526,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-07-01T09:18:26.189Z
+    last_updated: 2026-10-12T11:12:54.900Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -535,7 +535,7 @@ sites:
     site_id: "0486296570218"
     staging_branch: staging/hiddenstorydaily
     status: Live
-    vertical: ""
+    vertical: Sensitive Topics
     zone_id: 1a8dfdaf5cba5d6a9d92a6bca8bd5cf2
     worker_pending_dns: false
   - domain: journeypeaks
