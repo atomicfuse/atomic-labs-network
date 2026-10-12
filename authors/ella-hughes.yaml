@@ -1,11 +1,21 @@
 id: ella-hughes
 name: Ella Hughes
-tagline: ""
-bio: ""
-beats: []
-verticals: []
+tagline: Celebrity scoop, red carpet looks and fashion buzz
+bio: "Ella Hughes covers the corners of pop culture people love to talk about: celebrity news, entertainment gossip, fashion trends and red carpet style. She has a soft spot for the details that make a look memorable, from a surprising color pairing to the way a gown moves on the steps. When she reports a scoop, she weighs what's confirmed against what's chatter and says plainly which is which. Her approach is curious and good-humored, and she aims to be fun without being unkind. Ella writes for readers who want to stay in the loop, enjoy the spectacle, and come away with a few ideas for their own wardrobe."
+beats:
+  - Celebrity news and scoop
+  - Fashion trends
+  - Entertainment gossip
+  - Red carpet style
+verticals:
+  - Pop Culture
+  - Entertainment
+  - Style & Fashion
+portrait:
+  kind: generated
+  path: /authors/assets/ella-hughes-981a93b07a.webp
 links: {}
 exclusive_sites:
   - scoopella
 created_at: 2026-10-12T20:56:11.716Z
-updated_at: 2026-10-12T20:56:11.716Z
+updated_at: 2026-10-12T21:25:58.130Z
