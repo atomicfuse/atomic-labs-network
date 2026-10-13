@@ -133,48 +133,49 @@ site_tagline: null
 theme:
   base: sunset_strip
   colors:
-    primary: "#7c1d2f"
-    accent: "#c2410c"
-    background: "#fff7ed"
-    secondary: "#fff7ed"
-    text: "#451a03"
-    muted: "#9a6b4e"
-    surface: "#fed7aa"
-    border: "#fdba74"
-    heading: "#451a03"
-    link: "#be123c"
-    link_hover: "#c2410c"
-    nav_link: "#fff7ed"
+    primary: "#180a25"
+    accent: "#be185d"
+    background: "#180a25"
+    secondary: "#2c1640"
+    text: "#fce7f3"
+    muted: "#d8b4d8"
+    surface: "#1f0f30"
+    border: "#3d1a4a"
+    heading: "#fce7f3"
+    link: "#f472b6"
+    link_hover: "#fbcfe8"
+    nav_link: "#fce7f3"
     nav_link_hover: "#ffffff"
-    footer_bg: "#7c1d2f"
-    must_reads_bg: "#7c1d2f"
-    hero_title: "#fff7ed"
-    must_reads_title: "#fff7ed"
-    article_hero_title: "#fff7ed"
-    article_hero_meta: "#fdba74"
-    feed_title: "#451a03"
-    feed_desc: "#7c2d12"
-    feed_date: "#9a6b4e"
-    prose_heading: "#451a03"
-    prose_body: "#7c2d12"
-    category_header_text: "#fff7ed"
-    subscribe_heading: "#fff7ed"
-    footer_text: "#fed7aa"
-    footer_heading: "#fff7ed"
-    footer_link: "#fed7aa"
-    footer_link_hover: "#ffffff"
-    header_bg_gradient: "linear-gradient(135deg, #7c1d2f 0%, #be123c 35%, #c2410c 70%, #c2410c 100%)"
-    subscribe_bg_gradient: "linear-gradient(135deg, #831843 0%, #be123c 50%, #c2410c 100%)"
-    footer_bg_gradient: "linear-gradient(180deg, #be123c 0%, #831843 50%, #1f0408 100%)"
-    must_reads_bg_gradient: "linear-gradient(90deg, #c2410c 0%, #be123c 50%, #9d174d 100%)"
-    hero_overlay_gradient: linear-gradient(180deg, transparent 0%, rgba(249,115,22,0.1) 45%, rgba(249,115,22,0.35) 80%, rgba(124,29,47,0.82) 100%)
-  logo_height: 52
-  menu_item_font_size: 14
+    footer_bg: "#0e051a"
+    must_reads_bg: "#1f0f30"
+    hero_title: "#fce7f3"
+    must_reads_title: "#fce7f3"
+    article_hero_title: "#fce7f3"
+    article_hero_meta: "#d8b4d8"
+    feed_title: "#fce7f3"
+    feed_desc: "#f9a8d4"
+    feed_date: "#d8b4d8"
+    prose_heading: "#fce7f3"
+    prose_body: "#f9a8d4"
+    category_header_text: "#fce7f3"
+    subscribe_heading: "#ffffff"
+    footer_text: "#d8b4d8"
+    footer_heading: "#fce7f3"
+    footer_link: "#d8b4d8"
+    footer_link_hover: "#f472b6"
+    header_bg_gradient: "linear-gradient(135deg, #180a25 0%, #831843 30%, #db2777 50%, #831843 70%, #180a25 100%)"
+    subscribe_bg_gradient: "linear-gradient(135deg, #831843 0%, #be185d 50%, #db2777 100%)"
+    footer_bg_gradient: "linear-gradient(180deg, #831843 0%, #4a0e2a 50%, #0e051a 100%)"
+    must_reads_bg_gradient: "linear-gradient(135deg, #4a0e2a 0%, #831843 50%, #4a0e2a 100%)"
+    hero_overlay_gradient: linear-gradient(180deg, transparent 0%, rgba(219,39,119,0.15) 50%, rgba(24,10,37,0.92) 100%)
+  logo_height: 66
+  menu_item_font_size: 16
   fonts:
-    heading: Bebas Neue
-    body: Poppins
+    heading: Playfair Display
+    body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+  logo_height_footer: 82
 tracking:
   ga4: G-D5DKKXBPCB
   gtm: GT-WRDQWSJR
