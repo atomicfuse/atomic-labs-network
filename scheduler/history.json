@@ -1,5 +1,290 @@
 [
   {
+    "timestamp": "2026-10-13T06:04:19.959Z",
+    "timezone": "EST",
+    "forced": false,
+    "sites": [
+      {
+        "domain": "wondernewslab",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "culturebriefdaily",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "coffeeactually",
+        "status": "success",
+        "articlesCreated": 1,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "travelnights",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "stroylab",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "tvshowsmag",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "gigsfreaks",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "buzzbriefdaily",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "geekystudios",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "medicalnewsalley",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "dailybuzzalley",
+        "status": "success",
+        "articlesCreated": 4,
+        "articlesRequested": 4
+      },
+      {
+        "domain": "mindsbit",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "fashionnewsbee",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "buzzsoaps",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      }
+    ],
+    "skipped": [
+      {
+        "domain": "babyparenttrends",
+        "reason": "not a preferred day (Wednesday)"
+      },
+      {
+        "domain": "carsnewsmag",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "cleanmotiondaily",
+        "reason": "not a preferred day (Wednesday)"
+      },
+      {
+        "domain": "dailywonderlab",
+        "reason": "not a preferred day (Friday, Wednesday)"
+      },
+      {
+        "domain": "danatest",
+        "reason": "grid template"
+      },
+      {
+        "domain": "decoratinglabs",
+        "reason": "not a preferred day (Wednesday)"
+      },
+      {
+        "domain": "decoratingmom",
+        "reason": "not a preferred day (Sunday)"
+      },
+      {
+        "domain": "decotricksworld",
+        "reason": "not a preferred day (Wednesday)"
+      },
+      {
+        "domain": "diydecorschool",
+        "reason": "not a preferred day (Thursday)"
+      },
+      {
+        "domain": "dogslabs",
+        "reason": "not a preferred day (Thursday)"
+      },
+      {
+        "domain": "dramadispatch",
+        "reason": "not a preferred day (Thursday)"
+      },
+      {
+        "domain": "eznutritiontips",
+        "reason": "not a preferred day (Sunday)"
+      },
+      {
+        "domain": "foreverhealty",
+        "reason": "not a preferred day (Wednesday)"
+      },
+      {
+        "domain": "gadgetskoala",
+        "reason": "not a preferred day (Wednesday)"
+      },
+      {
+        "domain": "gamerswiredaily",
+        "reason": "not a preferred day (Wednesday)"
+      },
+      {
+        "domain": "gamingnewsalley",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "geekytraveler",
+        "reason": "not a preferred day (Thursday)"
+      },
+      {
+        "domain": "giantsavings",
+        "reason": "not a preferred day (Sunday)"
+      },
+      {
+        "domain": "hiddenstorydaily",
+        "reason": "not a preferred day (Wednesday, Monday)"
+      },
+      {
+        "domain": "journeypeaks",
+        "reason": "not a preferred day (Wednesday)"
+      },
+      {
+        "domain": "medicalnewscorner",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "milesandwords",
+        "reason": "not a preferred day (Sunday)"
+      },
+      {
+        "domain": "mindmedications",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "muvizz",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "paleobeasts",
+        "reason": "not a preferred day (Wednesday)"
+      },
+      {
+        "domain": "popnewslanecom",
+        "reason": "not a preferred day (Thursday)"
+      },
+      {
+        "domain": "popnsnap",
+        "reason": "not a preferred day (Sunday)"
+      },
+      {
+        "domain": "popstorylab",
+        "reason": "not a preferred day (Wednesday)"
+      },
+      {
+        "domain": "roadsandviews",
+        "reason": "not a preferred day (Wednesday)"
+      },
+      {
+        "domain": "sciencebriefdaily",
+        "reason": "not a preferred day (Wednesday)"
+      },
+      {
+        "domain": "sciencenewsdesk",
+        "reason": "not a preferred day (Thursday)"
+      },
+      {
+        "domain": "sciencenewslab",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "scoopella",
+        "reason": "not a preferred day (Wednesday)"
+      },
+      {
+        "domain": "soccernewsreports",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "storybuzzdaily",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "storynewscorner",
+        "reason": "not a preferred day (Monday, Wednesday)"
+      },
+      {
+        "domain": "tastereporter",
+        "reason": "not a preferred day (Wednesday)"
+      },
+      {
+        "domain": "thewonderkeepers",
+        "reason": "not a preferred day (Thursday)"
+      },
+      {
+        "domain": "travelbeautytips",
+        "reason": "not a preferred day (Sunday)"
+      },
+      {
+        "domain": "travelclearly",
+        "reason": "not a preferred day (Wednesday)"
+      },
+      {
+        "domain": "trendscores",
+        "reason": "not a preferred day (Thursday)"
+      },
+      {
+        "domain": "tvshowbox",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "useminds",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "viralsides",
+        "reason": "not a preferred day (Sunday)"
+      },
+      {
+        "domain": "wineoceans",
+        "reason": "not a preferred day (Sunday)"
+      },
+      {
+        "domain": "womendivision",
+        "reason": "not a preferred day (Sunday)"
+      },
+      {
+        "domain": "wtpop",
+        "reason": "not a preferred day (Sunday)"
+      },
+      {
+        "domain": "yogaterritory",
+        "reason": "not a preferred day (Monday)"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-12T06:03:50.158Z",
     "timezone": "EST",
     "forced": false,
@@ -10863,223 +11148,6 @@
       {
         "domain": "yogaterritory",
         "reason": "not a preferred day (Monday)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-03T06:01:28.891Z",
-    "timezone": "EST",
-    "forced": false,
-    "sites": [
-      {
-        "domain": "useminds",
-        "status": "success",
-        "articlesCreated": 2,
-        "articlesRequested": 2
-      },
-      {
-        "domain": "medicalnewscorner",
-        "status": "success",
-        "articlesCreated": 2,
-        "articlesRequested": 2
-      },
-      {
-        "domain": "sciencenewslab",
-        "status": "success",
-        "articlesCreated": 2,
-        "articlesRequested": 2
-      },
-      {
-        "domain": "muvizz",
-        "status": "success",
-        "articlesCreated": 2,
-        "articlesRequested": 2
-      },
-      {
-        "domain": "gamingnewsalley",
-        "status": "success",
-        "articlesCreated": 2,
-        "articlesRequested": 2
-      },
-      {
-        "domain": "soccernewsreports",
-        "status": "success",
-        "articlesCreated": 2,
-        "articlesRequested": 2
-      },
-      {
-        "domain": "tvshowbox",
-        "status": "success",
-        "articlesCreated": 2,
-        "articlesRequested": 2
-      },
-      {
-        "domain": "mindmedications",
-        "status": "success",
-        "articlesCreated": 2,
-        "articlesRequested": 2
-      },
-      {
-        "domain": "carsnewsmag",
-        "status": "success",
-        "articlesCreated": 2,
-        "articlesRequested": 2
-      },
-      {
-        "domain": "yogaterritory",
-        "status": "success",
-        "articlesCreated": 2,
-        "articlesRequested": 2
-      }
-    ],
-    "skipped": [
-      {
-        "domain": "babyparenttrends",
-        "reason": "not a preferred day (Wednesday)"
-      },
-      {
-        "domain": "buzzsoaps",
-        "reason": "not a preferred day (Tuesday)"
-      },
-      {
-        "domain": "cleanmotiondaily",
-        "reason": "not a preferred day (Wednesday)"
-      },
-      {
-        "domain": "coffeeactually",
-        "reason": "not a preferred day (Tuesday)"
-      },
-      {
-        "domain": "decoratinglabs",
-        "reason": "not a preferred day (Wednesday)"
-      },
-      {
-        "domain": "decoratingmom",
-        "reason": "not a preferred day (Sunday)"
-      },
-      {
-        "domain": "decotricksworld",
-        "reason": "not a preferred day (Wednesday)"
-      },
-      {
-        "domain": "diydecorschool",
-        "reason": "not a preferred day (Thursday)"
-      },
-      {
-        "domain": "dogslabs",
-        "reason": "not a preferred day (Thursday)"
-      },
-      {
-        "domain": "dramadispatch",
-        "reason": "not a preferred day (Thursday)"
-      },
-      {
-        "domain": "eznutritiontips",
-        "reason": "not a preferred day (Sunday)"
-      },
-      {
-        "domain": "fashionnewsbee",
-        "reason": "not a preferred day (Tuesday)"
-      },
-      {
-        "domain": "foreverhealty",
-        "reason": "not a preferred day (Wednesday)"
-      },
-      {
-        "domain": "gadgetskoala",
-        "reason": "not a preferred day (Wednesday)"
-      },
-      {
-        "domain": "gamerswiredaily",
-        "reason": "not a preferred day (Wednesday)"
-      },
-      {
-        "domain": "geekystudios",
-        "reason": "not a preferred day (Tuesday)"
-      },
-      {
-        "domain": "geekytraveler",
-        "reason": "not a preferred day (Thursday)"
-      },
-      {
-        "domain": "giantsavings",
-        "reason": "not a preferred day (Sunday)"
-      },
-      {
-        "domain": "gigsfreaks",
-        "reason": "not a preferred day (Tuesday)"
-      },
-      {
-        "domain": "hiddenstorydaily",
-        "reason": "not a preferred day (Wednesday)"
-      },
-      {
-        "domain": "journeypeaks",
-        "reason": "not a preferred day (Wednesday)"
-      },
-      {
-        "domain": "medicalnewsalley",
-        "reason": "not a preferred day (Tuesday)"
-      },
-      {
-        "domain": "milesandwords",
-        "reason": "not a preferred day (Sunday)"
-      },
-      {
-        "domain": "mindsbit",
-        "reason": "not a preferred day (Tuesday)"
-      },
-      {
-        "domain": "paleobeasts",
-        "reason": "not a preferred day (Wednesday)"
-      },
-      {
-        "domain": "popnsnap",
-        "reason": "not a preferred day (Sunday)"
-      },
-      {
-        "domain": "stroylab",
-        "reason": "not a preferred day (Tuesday)"
-      },
-      {
-        "domain": "thewonderkeepers",
-        "reason": "not a preferred day (Thursday)"
-      },
-      {
-        "domain": "travelbeautytips",
-        "reason": "not a preferred day (Sunday)"
-      },
-      {
-        "domain": "travelclearly",
-        "reason": "not a preferred day (Wednesday)"
-      },
-      {
-        "domain": "travelnights",
-        "reason": "not a preferred day (Tuesday)"
-      },
-      {
-        "domain": "trendscores",
-        "reason": "not a preferred day (Thursday)"
-      },
-      {
-        "domain": "tvshowsmag",
-        "reason": "not a preferred day (Tuesday)"
-      },
-      {
-        "domain": "viralsides",
-        "reason": "not a preferred day (Sunday)"
-      },
-      {
-        "domain": "wineoceans",
-        "reason": "not a preferred day (Sunday)"
-      },
-      {
-        "domain": "womendivision",
-        "reason": "not a preferred day (Sunday)"
-      },
-      {
-        "domain": "wtpop",
-        "reason": "not a preferred day (Sunday)"
       }
     ]
   }
