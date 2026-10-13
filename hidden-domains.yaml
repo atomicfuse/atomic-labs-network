@@ -1,0 +1,3 @@
+# Cloudflare domains hidden from the site platform — written by the dashboard (Settings → Domains).
+domains:
+  - dazzr.com
