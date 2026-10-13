@@ -20,7 +20,7 @@ source_url: 'https://yyhh.org/blog/2026/10/ai-is-a-tool/'
 source_item_id: 6acdbada31b485c3d50521fc
 source_title: AI is a tool and using it well takes skill
 generated_by: claude
-featuredImage: /assets/images/wondernewslab-general-article.webp
+featuredImage: /assets/images/using-ai-as-a-tool-without-outsourcing-thinking.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Tech Breakthroughs Unveiled
+image_alt: >-
+  Hand reviewing AI-assisted work beside a laptop, with corrections marked on
+  printed notes.
 ---
 A blog post from Yyhh, titled "AI is a tool and using it well takes skill," has been drawing attention on the Hacker News front page, with 287 points and 238 comments at the time of writing. Its core idea is useful whether you code, write, research, or study: the quality of what you get from a large language model (LLM) depends heavily on what you bring to it. By the end of this piece, you'll have a clear way to think about that and a few habits to put it into practice.
 

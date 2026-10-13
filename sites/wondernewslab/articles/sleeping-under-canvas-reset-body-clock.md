@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6a8cf722eacb826224e5b238
 source_title: Is Sleeping Under Canvas the Secret to Better Rest?
 generated_by: claude
-featuredImage: /assets/images/wondernewslab-general-article.webp
+featuredImage: /assets/images/sleeping-under-canvas-reset-body-clock.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - The Nature Explorers
+image_alt: >-
+  A calm canvas tent bedroom opens onto a sunlit landscape, with a phone resting
+  face down beside the bed.
 ---
 You can spend a lot of money on sleep gadgets. A recent Vogue piece makes a quieter case: the better tool might be a tent. By the end of this article, you'll know why sleeping under canvas is said to help your rest, what you can borrow from it even if you never leave home, and which two tented retreats Vogue spotlights.
 
