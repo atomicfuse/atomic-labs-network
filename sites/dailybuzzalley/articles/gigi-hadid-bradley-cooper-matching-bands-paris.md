@@ -23,7 +23,7 @@ source_title: >-
   Gigi Hadid and Bradley Cooper Show Off Their Matching Bands During Romantic
   Paris Outing
 generated_by: claude
-featuredImage: /assets/images/dailybuzzalley-general-article.webp
+featuredImage: /assets/images/gigi-hadid-bradley-cooper-matching-bands-paris.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 62
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Joys
+image_alt: >-
+  Two anonymous hands wearing matching gold bands at a softly blurred Paris café
+  table
 ---
 Gigi Hadid and Bradley Cooper were photographed in Paris on October 4, and the detail everyone is zooming in on is on their hands: matching gold bands. That's per InStyle, which reported on the outing and has been walking readers through the pair's current relationship status.
 

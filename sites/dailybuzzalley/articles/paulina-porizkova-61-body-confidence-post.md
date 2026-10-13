@@ -23,7 +23,7 @@ source_title: >-
   Paulina Porizkova, 61, Goes Topless, Wears Nothing but Tiny Black and White
   String Bikini Bottoms
 generated_by: claude
-featuredImage: /assets/images/dailybuzzalley-general-article.webp
+featuredImage: /assets/images/paulina-porizkova-61-body-confidence-post.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 66
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Everyday Joys
+image_alt: >-
+  Sunlit coastal still life with linen, mirror, flowers, and swimwear-inspired
+  stripes.
 ---
 Supermodel Paulina Porizkova, 61, shared a topless photo of herself this week wearing only black-and-white string bikini bottoms, along with a caption about body confidence and aging, per InStyle. The outlet described the caption as powerful, and that's the part worth lingering on.
 
