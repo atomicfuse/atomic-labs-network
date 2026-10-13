@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6acd90a4da6dc6464d26d4b1
 source_title: Could Ezra Frech Be the Next Bachelor? Here’s What He Said About Those Rumors
 generated_by: claude
-featuredImage: /assets/images/culturebriefdaily-general-article.webp
+featuredImage: /assets/images/ezra-frech-next-bachelor-rumors-dwts.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 66
@@ -39,6 +39,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Pop Culture Buzz
+image_alt: A ballroom dance shoe beside a red rose on a softly lit studio floor
 ---
 Ezra Frech has heard the rumors, and he has thoughts. Per Cosmopolitan, the Paralympian and Dancing With the Stars standout has responded to chatter that he could be the next Bachelor, reacting with surprise and openness. Meanwhile, Bachelor Nation figures and fans have been debating one big question: is he too young for the role?
 
