@@ -24,7 +24,7 @@ source_title: >-
   Netflix secures Spanish broadcasting rights for 2030 World Cup - The New York
   Times
 generated_by: claude
-featuredImage: /assets/images/trendscores-general-article.webp
+featuredImage: /assets/images/netflix-spanish-broadcasting-rights-2030-world-cup.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 68
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Standings
+image_alt: >-
+  Soccer ball and streaming remote face a television showing a generic live
+  football match.
 ---
 Netflix has secured Spanish broadcasting rights for the 2030 World Cup, according to The New York Times. If you watch football in Spain, or care about how you'll watch it by the end of this decade, here is what that deal tells you, what it doesn't, and what to do about it now.
 
