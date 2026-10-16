@@ -21,7 +21,7 @@ source_url: 'https://www.cp24.com/video/2026/10/14/sponsored-blue-rewards-travel
 source_item_id: 6acfdf4531b485c3d5052327
 source_title: 'SPONSORED: Blue Rewards travel tips'
 generated_by: claude
-featuredImage: /assets/images/dailybuzzalley-general-article.webp
+featuredImage: /assets/images/barry-choi-blue-rewards-winter-travel-planning-tips.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Wanderlust Wonders
+image_alt: >-
+  Traveler reviews rewards and trip-planning materials beside a winter coat and
+  snowy window.
 ---
 A sponsored travel segment on CP24 this week puts personal finance and travel expert Barry Choi front and center, with practical advice for Canadians preparing for fall getaways, holiday trips and winter escapes. The segment is tied to the Blue Rewards program and is labeled as sponsored content, so read it with that in mind.
 

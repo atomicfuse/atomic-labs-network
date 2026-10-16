@@ -24,7 +24,7 @@ source_title: >-
   Meghan Markle and Prince Harry Have Different Plans for Their First Christmas
   Back in the U.K.
 generated_by: claude
-featuredImage: /assets/images/dailybuzzalley-general-article.webp
+featuredImage: /assets/images/harry-meghan-christmas-doria-ragland-sandringham.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 72
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Joys
+image_alt: >-
+  A warmly set three-person Christmas table in a bright home, with a distant
+  country estate visible through the window.
 ---
 Harry and Meghan are moving back to the U.K., and the first big question has already been answered: they reportedly won't be spending Christmas with the royal family. Per Elle, the couple plans to celebrate their first holiday season back in Britain with Meghan's mother, Doria Ragland, rather than joining the royals at Sandringham.
 

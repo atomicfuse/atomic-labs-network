@@ -23,7 +23,7 @@ source_title: >-
   Consumers need clearer answers before they can trust precision fermentation,
   new report finds
 generated_by: claude
-featuredImage: /assets/images/dailybuzzalley-general-article.webp
+featuredImage: /assets/images/precision-fermentation-consumer-trust-first-taste.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - cooking
+image_alt: >-
+  Consumer tastes a fermented food sample beside familiar bread, yogurt, cheese,
+  and a stainless vessel.
 ---
 Shoppers may not fully understand precision fermentation yet, but plenty of them are curious enough to try the results. That's the headline from new qualitative research by the EIT Food Consumer Observatory, published ahead of World Food Day and reported by Phys. The catch: curiosity isn't trust, and according to the findings, trust needs clearer explanations, tangible product benefits, and a strong first taste experience.
 

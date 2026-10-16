@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6acdc1dcda6dc6464d26d515
 source_title: 'Below Deck Season-13 Premiere Recap: New Boat, New Mind-set'
 generated_by: claude
-featuredImage: /assets/images/dailybuzzalley-general-article.webp
+featuredImage: /assets/images/below-deck-season-13-premiere-new-boat-new-mind-set.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Pop Culture Pulse
+image_alt: >-
+  Generic yacht crew review plans on a bright Phuket deck, balancing a polished
+  reset with subtle tension.
 ---
 Season 13 of *Below Deck* has dropped anchor in Phuket, Thailand, aboard a new boat, the Azul V, and per Vulture's premiere recap, the crew is trying hard to leave last season's baggage on the dock. The recap's verdict is polite but pointed: the vibes on the boat still aren't quite right.
 
