@@ -21,7 +21,7 @@ source_title: >-
   Celebrity-packed competition lets burger lovers sample from host city's
   contenders
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/taste-like-a-judge-at-wine-and-food-festival.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Wine for beginners
+image_alt: 'Mini burger, wine glass, and tasting notebook at a lively food festival table'
 ---
 The New York City Wine & Food Festival kicks off with a burger competition, per Fox News. Local restaurants serve their contenders to fans, celebrities and TV personalities, and attendees vote on the standouts. Fox News describes it as an evening of tasting, voting and friendly competition between some of the city's restaurants.
 

@@ -29,7 +29,7 @@ source_title: >-
   You're probably cooking rice wrong, and chefs reveal the simple mistake to
   avoid
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/rinse-rice-for-fluffy-grains-chef-tips.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 78
@@ -47,6 +47,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Wine tips
+image_alt: >-
+  Hand rinsing white rice in cloudy water beside a measuring cup and jar of
+  rice.
 ---
 If your rice keeps coming out clumpy or gummy, the fix probably starts before the pot ever hits the stove. Chefs speaking to Fox News say the most common mistake is skipping the rinse, especially with basmati and jasmine rice. By the end of this article, you'll know which rice needs which treatment, and what to do after the cooking is done.
 
