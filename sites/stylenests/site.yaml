@@ -1,0 +1,253 @@
+domain: stylenests.com
+active: true
+author: Ben Rodriguez
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Affordable Decor Finds
+    - Small Space Solutions
+    - DIY Home Upgrades
+    - Comfortable Living Ideas
+    - home decor
+    - seasonal styling
+    - budget friendly
+  theme: StyleNests helps readers create beautiful, comfortable homes with
+    practical decorating tips, affordable upgrades, and inspiration for spaces
+    of every size.
+  topics_v2:
+    - name: Affordable Decor Finds
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793d1104bbff809b7c6e
+          - 6a00793f1104bbff809b7e37
+        tag_ids:
+          - 6a13f95216f23264031d7b10
+          - 6a0fe1bf16f23264031d7a3d
+          - 6a2515e640722bf12ccf991d
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a13f99716f23264031d7b2c
+          - 6a2777cfeb470600f9705333
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Small Space Solutions
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7deb
+        tag_ids:
+          - 6a13f95216f23264031d7b10
+          - 6a0fe1bf16f23264031d7a3d
+          - 6a2777cfeb470600f9705333
+          - 6a13f99716f23264031d7b2c
+          - 6a2777cfeb470600f9705335
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a13fbc716f23264031d7b51
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: DIY Home Upgrades
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d51
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d3b
+        tag_ids:
+          - 6a13f95216f23264031d7b10
+          - 6a0fe1bf16f23264031d7a3d
+          - 6a13f98016f23264031d7b25
+          - 6a2777cfeb470600f9705333
+          - 6a13f99716f23264031d7b2c
+          - 6a13f99416f23264031d7b27
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Comfortable Living Ideas
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d59
+        tag_ids:
+          - 6a13f95216f23264031d7b10
+          - 6a0fe1bf16f23264031d7a3d
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a13f99716f23264031d7b2c
+          - 6a2777cfeb470600f9705333
+          - 6a13fbc716f23264031d7b51
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: home decor
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793d1104bbff809b7c4a
+        tag_ids:
+          - 6a13f95216f23264031d7b10
+          - 6a0fe1bf16f23264031d7a3d
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a13f99716f23264031d7b2c
+          - 6a2777cfeb470600f9705333
+          - 6a13f95216f23264031d7b0b
+          - 6a5f2841645f578778864f0c
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: seasonal styling
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d63
+          - 6a00793d1104bbff809b7c47
+          - 6a00793e1104bbff809b7e27
+        tag_ids:
+          - 6a13f95216f23264031d7b10
+          - 6a0fe1bf16f23264031d7a3d
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a5f2841645f578778864f0c
+          - 6a80fed297fd409b180842c1
+          - 6a13f99716f23264031d7b2c
+          - 6a2777cfeb470600f9705333
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: budget friendly
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7e29
+        tag_ids:
+          - 6a13f95216f23264031d7b10
+          - 6a0fe1bf16f23264031d7a3d
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a2515e640722bf12ccf991d
+          - 6a13f99716f23264031d7b2c
+          - 6a5ee91bad19af32462e0292
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Write helpful, engaging articles about home décor, organization, small
+      spaces, and everyday living. Use a warm, approachable tone with clear
+      headings, short paragraphs, and practical tips. Include affordable ideas
+      for different home sizes and budgets. Keep headlines accurate and
+      specific, and ensure every article delivers on its promise. Create
+      original content; verify factual claims and avoid invented expert quotes
+      or unsupported product claims.
+  image_guidelines:
+    - Use bright, high-quality images of inviting interiors, décor details,
+      organized spaces, and realistic home improvements. Favor natural light,
+      balanced compositions, and a warm, cohesive palette. Match images closely
+      to the article’s subject and include varied home styles and sizes. Use
+      original or properly licensed images. Avoid watermarks, text overlays,
+      visible third-party logos, distorted objects, and misleading
+      before-and-after comparisons.
+  vertical: Affordable Decor Finds
+  vertical_id: null
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Monday
+      - Friday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: Style Nests
+site_tagline: null
+theme:
+  base: slate
+  colors:
+    primary: "#334155"
+    accent: "#6366f1"
+    background: "#ffffff"
+    secondary: "#1e293b"
+    text: "#1e293b"
+    muted: "#94a3b8"
+    surface: "#f1f5f9"
+    border: "#e2e8f0"
+    heading: "#1e293b"
+    link: "#334155"
+    link_hover: "#6366f1"
+    nav_link: "#ffffff"
+    nav_link_hover: "#6366f1"
+    footer_bg: "#1e293b"
+    must_reads_bg: "#1e293b"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#94a3b8"
+    feed_title: "#1e293b"
+    feed_desc: "#334155"
+    feed_date: "#94a3b8"
+    prose_heading: "#1e293b"
+    prose_body: "#334155"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#334155"
+    footer_text: "#94a3b8"
+    footer_heading: "#ffffff"
+    footer_link: "#94a3b8"
+    footer_link_hover: "#ffffff"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: DM Sans
+    body: DM Sans
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
