@@ -20,7 +20,7 @@ source_url: 'https://phys.org/news/2026-08-galpagos-yellow-sea-turtles-homebodie
 source_item_id: 6a8fc901b98b673237bb2e54
 source_title: 'Some Galápagos ''yellow'' sea turtles remain homebodies, surprising scientists'
 generated_by: claude
-featuredImage: /assets/images/wondernewslab-general-article.webp
+featuredImage: /assets/images/galapagos-yellow-sea-turtles-stay-local.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - The Nature Explorers
+image_alt: Yellow-morph green sea turtle foraging over a shallow rocky Galápagos seabed.
 ---
 Sea turtles have a reputation as the ocean's great travelers. Scientists tracking yellow-morph green sea turtles in the Galápagos found something that cuts against that image: these turtles stayed put. By the end of this article, you'll know what the researchers found, how tracking reveals this kind of hidden behavior, and why a stay-at-home turtle changes how we think about protecting wildlife.
 
