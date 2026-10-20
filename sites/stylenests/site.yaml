@@ -231,7 +231,7 @@ theme:
     footer_link: "#9bbf9b"
     footer_link_hover: "#fbbf24"
   logo_height: 66
-  menu_item_font_size: 13
+  menu_item_font_size: 14
   fonts:
     heading: Lora
     body: Source Sans 3
