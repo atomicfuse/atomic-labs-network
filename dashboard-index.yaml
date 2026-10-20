@@ -946,7 +946,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-10-20T09:15:17.122Z
+    last_updated: 2026-10-20T10:34:14.544Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -955,7 +955,7 @@ sites:
     site_id: "2487470719406"
     staging_branch: staging/stylenests
     status: Live
-    vertical: Affordable Decor Finds
+    vertical: Style & Fashion
     zone_id: 3d64f06385cc2319fb3e1a3fbf3bfea4
     worker_pending_dns: false
   - domain: tastereporter
