@@ -200,46 +200,41 @@ site_tagline: null
 theme:
   base: slate
   colors:
-    primary: "#0a0a0a"
-    accent: "#a16207"
-    background: "#0a0a0a"
-    secondary: "#0a0a0a"
-    text: "#f5e8c7"
-    muted: "#a8997a"
-    surface: "#1a1410"
-    border: "#2d2418"
-    heading: "#f5e8c7"
-    link: "#d4a657"
-    link_hover: "#f5e8c7"
-    nav_link: "#f5e8c7"
-    nav_link_hover: "#ffffff"
-    footer_bg: "#0a0a0a"
-    must_reads_bg: "#1a1410"
-    hero_title: "#f5e8c7"
-    must_reads_title: "#f5e8c7"
-    article_hero_title: "#f5e8c7"
-    article_hero_meta: "#a8997a"
-    feed_title: "#f5e8c7"
-    feed_desc: "#d4c79d"
-    feed_date: "#a8997a"
-    prose_heading: "#f5e8c7"
-    prose_body: "#d4c79d"
-    category_header_text: "#f5e8c7"
-    subscribe_heading: "#0a0a0a"
-    footer_text: "#d4c79d"
-    footer_heading: "#f5e8c7"
-    footer_link: "#d4c79d"
-    footer_link_hover: "#ffffff"
-    header_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a 50%, #2d2418 75%, #0a0a0a 100%)"
-    subscribe_bg_gradient: "linear-gradient(135deg, #8a6508 0%, #b8860b 30%, #f5e8c7 50%, #b8860b 70%, #8a6508 100%)"
-    footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a 50%, #2d2418 75%, #0a0a0a 100%)"
-    must_reads_bg_gradient: "linear-gradient(135deg, #0a0a0a 0%, #3d2c1a 30%, #6b4a1a 50%, #3d2c1a 70%, #0a0a0a 100%)"
-    hero_overlay_gradient: linear-gradient(180deg, transparent 45%, rgba(10,10,10,0.85) 100%)
-  logo_height: 70
-  menu_item_font_size: 16
+    primary: "#1f5128"
+    accent: "#b45309"
+    background: "#f9f7e8"
+    secondary: "#1a2418"
+    text: "#1a2418"
+    muted: "#6b7a5f"
+    surface: "#eef0d8"
+    border: "#d8d8b8"
+    heading: "#1a2418"
+    link: "#1f5128"
+    link_hover: "#b45309"
+    nav_link: "#f9f7e8"
+    nav_link_hover: "#fbbf24"
+    footer_bg: "#0f1f15"
+    must_reads_bg: "#0f1f15"
+    hero_title: "#f9f7e8"
+    must_reads_title: "#f9f7e8"
+    article_hero_title: "#f9f7e8"
+    article_hero_meta: "#9bbf9b"
+    feed_title: "#1a2418"
+    feed_desc: "#2c3e23"
+    feed_date: "#6b7a5f"
+    prose_heading: "#1a2418"
+    prose_body: "#2c3e23"
+    category_header_text: "#f9f7e8"
+    subscribe_heading: "#1a2418"
+    footer_text: "#9bbf9b"
+    footer_heading: "#f9f7e8"
+    footer_link: "#9bbf9b"
+    footer_link_hover: "#fbbf24"
+  logo_height: 66
+  menu_item_font_size: 13
   fonts:
-    heading: Playfair Display
-    body: Lora
+    heading: Lora
+    body: Source Sans 3
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   logo_height_footer: 80
