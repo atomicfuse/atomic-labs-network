@@ -1,0 +1,108 @@
+domain: hypezen.com
+active: true
+author: Sam Chen
+brief:
+  audiences: []
+  audience_type_ids: []
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics: []
+  theme: null
+  topics_v2: null
+  seo_keywords_focus: []
+  content_guidelines: []
+  image_guidelines: null
+  vertical: Entertainment
+  vertical_id: 6a00793d1104bbff809b7c32
+  review_percentage: 5
+  schedule:
+    articles_per_day: 0
+    preferred_days: []
+    preferred_time: 10:00
+grid:
+  topics:
+    - label: trending news
+      verticals: []
+      bundles:
+        - 6ac77c90ce7701ccb2411f38
+    - label: entertiment
+      verticals: []
+      bundles:
+        - 6ac4c3d064df7692b392c02d
+    - label: business & finance
+      verticals: []
+      bundles:
+        - 6ac780bb64df7692b392c16c
+    - label: health
+      verticals: []
+      bundles:
+        - 6ac780e864df7692b392c16d
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: hypezen.com
+site_tagline: null
+theme:
+  base: midnight
+  template: grid
+  colors:
+    primary: "#581c87"
+    accent: "#a855f7"
+    background: "#0f0720"
+    secondary: "#1e1038"
+    text: "#f0e6ff"
+    muted: "#a78bfa"
+    surface: "#1e1038"
+    border: "#2e1a50"
+    heading: "#f0e6ff"
+    link: "#a855f7"
+    link_hover: "#c084fc"
+    nav_link: "#f0e6ff"
+    nav_link_hover: "#c084fc"
+    footer_bg: "#1e1038"
+    must_reads_bg: "#1e1038"
+    hero_title: "#ffffff"
+    must_reads_title: "#f0e6ff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#a78bfa"
+    feed_title: "#f0e6ff"
+    feed_desc: "#d8c8f0"
+    feed_date: "#a78bfa"
+    prose_heading: "#f0e6ff"
+    prose_body: "#d8c8f0"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#581c87"
+    footer_text: "#a78bfa"
+    footer_heading: "#ffffff"
+    footer_link: "#a78bfa"
+    footer_link_hover: "#ffffff"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Lora
+    body: Source Sans 3
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
