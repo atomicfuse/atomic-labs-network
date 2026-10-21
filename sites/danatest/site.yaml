@@ -188,7 +188,8 @@ grid:
       bundles:
         - 6ac780bb64df7692b392c16c
     - label: Science & Space
-      verticals: []
+      verticals:
+        - Science
       bundles:
         - 6ac7780dce7701ccb2411f34
     - label: Health
@@ -203,6 +204,8 @@ grid:
       verticals: []
       bundles:
         - 6ac77d10ce7701ccb2411f3a
+    - label: ""
+      verticals: []
   include_sites: []
   max_age_days: 20
   feed_ad_every: 3
