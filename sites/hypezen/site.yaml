@@ -63,7 +63,7 @@ layout:
   load_more:
     page_size: 4
 scripts_vars: null
-site_name: hypezen.com
+site_name: hypezen
 site_tagline: What’s trending, made sense of
 theme:
   base: midnight
