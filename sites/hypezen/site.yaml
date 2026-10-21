@@ -25,24 +25,25 @@ brief:
     preferred_time: 10:00
 grid:
   topics:
-    - label: trending news
+    - label: Trending news
       verticals: []
       bundles:
         - 6ac77c90ce7701ccb2411f38
-    - label: entertainment
+    - label: Entertainment
       verticals: []
       bundles:
         - 6ac4c3d064df7692b392c02d
-    - label: business & finance
+    - label: Business & Finance
       verticals: []
       bundles:
         - 6ac780bb64df7692b392c16c
-    - label: health
+    - label: Health
       verticals: []
       bundles:
         - 6ac780e864df7692b392c16d
+  per_bundle_limit: 50
 groups:
-  - ready
+  - atl
 iab_vertical_code: null
 layout:
   hero:
