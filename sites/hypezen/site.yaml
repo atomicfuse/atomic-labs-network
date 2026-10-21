@@ -108,6 +108,8 @@ theme:
     body: Manrope
   card: {}
   footer_logo: /assets/logo-footer-838fa1d15a.png
+  logo: /assets/logo-3625599dc3.png
+  favicon: /assets/favicon-9a910d3509.png
 tracking:
   ga4: G-L5S0Q19SGR
   gtm: GT-PB63Z593
