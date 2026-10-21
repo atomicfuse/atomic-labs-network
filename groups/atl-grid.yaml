@@ -113,18 +113,18 @@ ads_config:
       sizes: {}
       desktopSizeConfig:
         ratio:
-          x: 16
-          y: 9
+          x: 4
+          y: 3
         range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
+          minWidth: 300
+          maxWidth: 300
+          minHeight: 250
+          maxHeight: 250
         customSizes: []
       mobileSizeConfig:
         ratio:
-          x: 16
-          y: 9
+          x: 4
+          y: 3
         range:
           minWidth: null
           maxWidth: null
@@ -134,6 +134,11 @@ ads_config:
       page_types:
         - all
       exclude_pages: []
+      code: |-
+        <div id="widget1" style='background-color:#fcfbf7'></div>
+        <script>
+            _sf_loadWidget("widget1", {qs: "g_lo=v&layout=vsm&count=1&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+        </script>
 ads_txt:
   - "# NGC Digital Websites #"
   - ownerdomain=ngcdigital.io
