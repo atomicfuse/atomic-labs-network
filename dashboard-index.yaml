@@ -546,7 +546,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-10-21T11:10:27.810Z
+    last_updated: 2026-10-21T12:32:58.828Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -555,7 +555,7 @@ sites:
     site_id: "2575275694826"
     staging_branch: staging/hypezen
     status: Live
-    vertical: Technology & Computing
+    vertical: War and Conflicts
     zone_id: 2bc2e02ce50886f98ed6c6cb70282f39
     worker_pending_dns: false
   - domain: journeypeaks
