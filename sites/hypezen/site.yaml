@@ -44,7 +44,7 @@ grid:
   per_bundle_limit: 50
   feed_ad_every: 3
 groups:
-  - atl
+  - atl-grid
 iab_vertical_code: null
 layout:
   hero:
@@ -107,8 +107,7 @@ theme:
     heading: Manrope
     body: Manrope
   card: {}
-  footer_logo: /assets/logo-footer-798e2bea04.png
-  favicon: /assets/favicon-47c57959cf.png
+  footer_logo: /assets/logo-footer-838fa1d15a.png
 tracking:
   ga4: G-L5S0Q19SGR
   gtm: GT-PB63Z593
