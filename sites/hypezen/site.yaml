@@ -108,3 +108,10 @@ theme:
   favicon: /assets/favicon-9a910d3509.png
   card: {}
   footer_logo: /assets/logo-footer-85c0a2cb37.png
+tracking:
+  ga4: G-L5S0Q19SGR
+  gtm: GT-PB63Z593
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
