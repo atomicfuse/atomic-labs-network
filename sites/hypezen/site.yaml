@@ -69,40 +69,41 @@ theme:
   base: midnight
   template: grid
   colors:
-    primary: "#581c87"
-    accent: "#a855f7"
-    background: "#0f0720"
-    secondary: "#1e1038"
-    text: "#f0e6ff"
-    muted: "#a78bfa"
-    surface: "#1e1038"
-    border: "#2e1a50"
-    heading: "#f0e6ff"
-    link: "#a855f7"
-    link_hover: "#c084fc"
-    nav_link: "#f0e6ff"
-    nav_link_hover: "#c084fc"
-    footer_bg: "#1e1038"
-    must_reads_bg: "#1e1038"
-    hero_title: "#ffffff"
-    must_reads_title: "#f0e6ff"
-    article_hero_title: "#ffffff"
-    article_hero_meta: "#a78bfa"
-    feed_title: "#f0e6ff"
-    feed_desc: "#d8c8f0"
-    feed_date: "#a78bfa"
-    prose_heading: "#f0e6ff"
-    prose_body: "#d8c8f0"
-    category_header_text: "#ffffff"
-    subscribe_heading: "#581c87"
-    footer_text: "#a78bfa"
-    footer_heading: "#ffffff"
-    footer_link: "#a78bfa"
-    footer_link_hover: "#ffffff"
+    primary: "#1c1c1c"
+    accent: "#3a3a3a"
+    background: "#f5f3ef"
+    secondary: "#f5f3ef"
+    text: "#1c1c1c"
+    muted: "#a0a0a0"
+    surface: "#ebe8e2"
+    border: "#d6d2c9"
+    heading: "#1c1c1c"
+    link: "#1c1c1c"
+    link_hover: "#5a5a5a"
+    nav_link: "#f5f3ef"
+    nav_link_hover: "#d6d2c9"
+    footer_bg: "#1c1c1c"
+    must_reads_bg: "#1c1c1c"
+    hero_title: "#f5f3ef"
+    must_reads_title: "#f5f3ef"
+    article_hero_title: "#f5f3ef"
+    article_hero_meta: "#a0a0a0"
+    feed_title: "#1c1c1c"
+    feed_desc: "#2a2a2a"
+    feed_date: "#a0a0a0"
+    prose_heading: "#1c1c1c"
+    prose_body: "#2a2a2a"
+    category_header_text: "#f5f3ef"
+    subscribe_heading: "#f5f3ef"
+    footer_text: "#a0a0a0"
+    footer_heading: "#f5f3ef"
+    footer_link: "#a0a0a0"
+    footer_link_hover: "#f5f3ef"
   logo_height: 52
   menu_item_font_size: 14
   fonts:
-    heading: Lora
-    body: Source Sans 3
+    heading: Manrope
+    body: Manrope
   logo: /assets/logo-1c7c04379a.png
   favicon: /assets/favicon-43b7bc22e9.png
+  card: {}
