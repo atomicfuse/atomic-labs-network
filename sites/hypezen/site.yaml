@@ -16,8 +16,8 @@ brief:
   seo_keywords_focus: []
   content_guidelines: []
   image_guidelines: null
-  vertical: Technology & Computing
-  vertical_id: 6a00793d1104bbff809b7c77
+  vertical: ""
+  vertical_id: ""
   review_percentage: 5
   schedule:
     articles_per_day: 0
@@ -42,6 +42,7 @@ grid:
       bundles:
         - 6ac780e864df7692b392c16d
   per_bundle_limit: 50
+  feed_ad_every: 3
 groups:
   - atl
 iab_vertical_code: null
@@ -64,8 +65,8 @@ layout:
   load_more:
     page_size: 4
 scripts_vars: null
-site_name: hypezen
-site_tagline: What’s trending, made sense of
+site_name: HypeZen
+site_tagline: Everything everywhere around the globe!
 theme:
   base: midnight
   template: grid
@@ -105,10 +106,9 @@ theme:
   fonts:
     heading: Manrope
     body: Manrope
-  logo: /assets/logo-3625599dc3.png
-  favicon: /assets/favicon-9a910d3509.png
   card: {}
-  footer_logo: /assets/logo-footer-85c0a2cb37.png
+  footer_logo: /assets/logo-footer-798e2bea04.png
+  favicon: /assets/favicon-47c57959cf.png
 tracking:
   ga4: G-L5S0Q19SGR
   gtm: GT-PB63Z593
