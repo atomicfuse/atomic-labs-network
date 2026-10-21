@@ -131,6 +131,70 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
+      code: |-
+        <div id="widget1" style='background-color:#fcfbf7'></div>
+        <script>
+            _sf_loadWidget("widget1", {qs: "g_lo=v&layout=vsm&count=1&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+        </script>
+      page_types:
+        - all
+      exclude_pages: []
+    - id: block4
+      position: after-paragraph-1
+      device: all
+      sizes: {}
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      code: |-
+        <div id="widget1" style='background-color:#fcfbf7'></div>
+        <script>
+            _sf_loadWidget("widget1", {qs: "g_lo=v&layout=vsm&count=1&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+        </script>
+      page_types:
+        - all
+      exclude_pages: []
+    - id: block5
+      position: sticky-bottom
+      device: all
+      sizes: {}
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
       page_types:
         - all
       exclude_pages: []
