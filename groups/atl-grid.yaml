@@ -70,7 +70,7 @@ ads_config:
       code: |-
         <div id="feed-card"></div>
         <script>
-            _sf_loadWidget("feed-card", {qs: "layout=vsm&count=1&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+            _sf_loadWidget("feed-card", {qs: "layout=vsmpr&g_inv=0&count=1&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
         </script>
       page_types:
         - all
