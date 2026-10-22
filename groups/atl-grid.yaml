@@ -70,7 +70,7 @@ ads_config:
       code: |-
         <div id="feed-card"></div>
         <script>
-            _sf_loadWidget("widget1", {qs: "layout=vsm&count=1&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+            _sf_loadWidget("feed-card", {qs: "layout=vsm&count=1&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
         </script>
       page_types:
         - all
@@ -102,7 +102,7 @@ ads_config:
       code: |-
         <div id="feed-divider"></div>
         <script>
-            _sf_loadWidget("widget1", {qs: "layout=vsm&count=4&g_lo=4&g_mcol=2&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+            _sf_loadWidget("feed-divider", {qs: "layout=vsm&count=4&g_lo=4&g_mcol=2&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
         </script>
       page_types:
         - homepage
@@ -135,7 +135,7 @@ ads_config:
       code: |-
         <div id="rail-left"></div>
         <script>
-            _sf_loadWidget("widget2", {qs: "layout=vsm&count=2&g_lo=1&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+            _sf_loadWidget("rail-left", {qs: "layout=vsm&count=2&g_lo=1&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
         </script>
       page_types:
         - all
@@ -167,14 +167,14 @@ ads_config:
       code: |-
         <div id="rail-right"></div>
         <script>
-            _sf_loadWidget("widget2", {qs: "layout=vsm&count=2&g_lo=1&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+            _sf_loadWidget("rail-right", {qs: "layout=vsm&count=2&g_lo=1&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
         </script>
       page_types:
         - all
       exclude_pages: []
     - id: story-top
       position: above-content
-      device: mobile
+      device: all
       sizes: {}
       desktopSizeConfig:
         ratio:
@@ -199,7 +199,7 @@ ads_config:
       code: |-
         <div id="story-top"></div>
         <script>
-            _sf_loadWidget("widget2", {qs: "layout=hsm&count=1&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+            _sf_loadWidget("story-top", {qs: "layout=hsm&count=1&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
         </script>
       page_types:
         - article
@@ -231,7 +231,7 @@ ads_config:
       code: |-
         <div id="story-mid"></div>
         <script>
-            _sf_loadWidget("widget1", {qs: "layout=vsm&count=2&g_lo=2&g_mcol=2&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+            _sf_loadWidget("story-mid", {qs: "layout=vsm&count=2&g_lo=2&g_mcol=2&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
         </script>
       page_types:
         - article
@@ -263,7 +263,7 @@ ads_config:
       code: |-
         <div id="story-footer"></div>
         <script>
-            _sf_loadWidget("widget2", {qs: "layout=vsm&count=6&g_lo=3&g_mcol=2&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+            _sf_loadWidget("story-footer", {qs: "layout=vsm&count=6&g_lo=2&g_mcol=1&g_title=none&g_imgrt=32&g_intro=1&g_trunc=3&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
         </script>
       page_types:
         - article
@@ -295,7 +295,7 @@ ads_config:
       code: |-
         <div id="side-top"></div>
         <script>
-            _sf_loadWidget("widget2", {qs: "layout=vsm&count=1&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+            _sf_loadWidget("side-top", {qs: "layout=vsm&count=1&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
         </script>
       page_types:
         - article
@@ -327,7 +327,7 @@ ads_config:
       code: |-
         <div id="side-bottom"></div>
         <script>
-            _sf_loadWidget("widget1", {qs: "layout=hsm&count=4&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+            _sf_loadWidget("side-bottom", {qs: "layout=hsm&count=4&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
         </script>
       page_types:
         - article
@@ -359,7 +359,7 @@ ads_config:
       code: |-
         <div id="sticky"></div>
         <script>
-            _sf_loadWidget("widget2", {qs: "layout=hsm&count=1&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+            _sf_loadWidget("sticky", {qs: "layout=hsm&count=1&g_title=none&g_imgrt=43&g_intro=0&g_trunc=1&g_badge=AD&g_badge_p=br&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
         </script>
       page_types:
         - all
