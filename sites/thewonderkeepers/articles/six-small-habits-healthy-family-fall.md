@@ -22,7 +22,7 @@ source_url: >-
 source_item_id: 6ad84b8437d64fe192a6e0f9
 source_title: 'National Parenting Week: 6 Tips for Healthy Families'
 generated_by: claude
-featuredImage: /assets/images/thewonderkeepers-general-article.webp
+featuredImage: /assets/images/six-small-habits-healthy-family-fall.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 68
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Stories
+image_alt: >-
+  Parent and child prepare colorful vegetables together in a bright kitchen with
+  water nearby.
 ---
 Picture a kitchen on a Tuesday evening in late October. A bag of leftover Halloween candy sits on the counter, backpacks are dumped by the door, and somebody is asking what's for dinner. Most parents know this scene. Most of us also quietly wonder whether we're doing enough.
 

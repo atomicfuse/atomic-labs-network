@@ -21,7 +21,7 @@ source_url: 'https://www.youtube.com/watch?v=YmLPOMwv_GI'
 source_item_id: 6ad7081492f27405dfb90420
 source_title: 'The Basement: Jeffrey Kripal | Inside the Archives of the Impossible'
 generated_by: claude
-featuredImage: /assets/images/thewonderkeepers-general-article.webp
+featuredImage: /assets/images/the-third-space-holding-mystery-with-an-open-heart.webp
 quality_score: 86
 score_breakdown:
   seo_quality: 72
@@ -42,6 +42,9 @@ videos:
     position: after-paragraph-1
 topics:
   - Mind
+image_alt: >-
+  An open archival box sits between two document stacks in a quiet, softly lit
+  reading room.
 ---
 Somewhere at Rice University, there is a collection of more than a million documents about experiences most people never say out loud. Dreams that came true. Visitations. Strange lights. Moments when the ordinary world seemed to part like a curtain.
 
