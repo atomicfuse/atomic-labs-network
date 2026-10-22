@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6acedfcc31b485c3d50522b8
 source_title: 'World Soccer Rankings: Why Manchester City Is Ahead Of Barcelona, For Now'
 generated_by: claude
-featuredImage: /assets/images/trendscores-general-article.webp
+featuredImage: /assets/images/man-city-ahead-of-barcelona-club-rankings.webp
 quality_score: 58
 score_breakdown:
   seo_quality: 66
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Teams
+image_alt: >-
+  Unbranded sky-blue and red-and-blue soccer jerseys face off in a stadium
+  tunnel beside a match ball.
 ---
 Seven weeks into the 2026-27 club season, Fox Sports has ranked the top 20 teams in world soccer, and Manchester City sits at No. 1, just ahead of Barcelona. If you want a quick read on who is strong right now, and which names might surprise you, this breakdown gives you the order and the logic behind it.
 
