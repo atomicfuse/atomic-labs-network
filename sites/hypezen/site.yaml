@@ -44,7 +44,7 @@ grid:
   per_bundle_limit: 50
   feed_ad_every: 3
 groups:
-  - atl-grid
+  - mock-ads
 iab_vertical_code: null
 layout:
   hero:
