@@ -43,8 +43,7 @@ grid:
         - 6ac780e864df7692b392c16d
   per_bundle_limit: 50
   feed_ad_every: 3
-groups:
-  - atl-grid
+groups: []
 iab_vertical_code: null
 layout:
   hero:
