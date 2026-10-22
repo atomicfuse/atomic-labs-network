@@ -111,6 +111,7 @@ ads_txt:
   - "# NGC Digital Websites #"
   - ownerdomain=ngcdigital.io
   - "#outbrain"
+  - start.io, 174400975, RESELLER
   - outbrain.com, 00bd0383feaf83753aef29b9565e898a06, DIRECT
   - openx.com, 540393169, RESELLER, 6a698e2ec38604c6
   - sharethrough.com, 3820, RESELLER, d53b998a7bd4ecd2
