@@ -3,7 +3,7 @@ active: true
 author: Leo Torres
 brief:
   audiences: []
-  audience_type_ids: null
+  audience_type_ids: []
   tone: Fresh, conversational, curious, and informative. Keep articles easy to scan, with catchy but accurate headlines.
   article_types:
     listicle: 40
@@ -127,7 +127,7 @@ layout:
   load_more:
     page_size: 4
 scripts_vars: null
-site_name: storybuzzdaily.com
+site_name: StoryBuzzDaily
 site_tagline: null
 theme:
   base: matrix
@@ -172,8 +172,8 @@ theme:
   fonts:
     heading: Space Grotesk
     body: Source Sans 3
-  logo: /assets/logo.png
-  favicon: /assets/favicon.png
+  logo: /assets/logo-f67db4a32e.png
+  favicon: /assets/favicon-0521827101.png
 tracking:
   ga4: G-7Y3E2XWSE0
   gtm: GT-KD78MSJF
