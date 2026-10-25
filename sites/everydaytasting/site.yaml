@@ -1,0 +1,202 @@
+domain: everydaytasting.com
+active: true
+author: Chloe Gray
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: friendly, informative
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Quick Weeknight Meals
+    - Seasonal Ingredient Spotlight
+    - Global Flavor Journeys
+    - Pantry Staple Creations
+    - dishes
+    - recipes
+  theme: An approachable food site focused on easy recipes, everyday cooking, and
+    discovering new flavors.
+  topics_v2:
+    - name: Quick Weeknight Meals
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793e1104bbff809b7d1d
+        tag_ids:
+          - 6a034d6286fcaaeb5bc834b1
+          - 6a034da986fcaaeb5bc834e7
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Seasonal Ingredient Spotlight
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793e1104bbff809b7d1d
+          - 6a00793e1104bbff809b7d0f
+        tag_ids:
+          - 6a034da986fcaaeb5bc834e7
+          - 6a0e976116f23264031d799d
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Global Flavor Journeys
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d17
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a184492454e8b9490eacaab
+          - 6a8d0d68eacb826224e5b28b
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a184bc4454e8b9490eacb2d
+          - 6a0430ce86fcaaeb5bc8363b
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Pantry Staple Creations
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d1d
+          - 6a00793e1104bbff809b7d0f
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a034da986fcaaeb5bc834e7
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: dishes
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793e1104bbff809b7d15
+          - 6a00793e1104bbff809b7d1d
+        tag_ids:
+          - 6a2f7ea132676a5c75e45162
+          - 6a034da986fcaaeb5bc834e7
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab23
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: recipes
+      source:
+        type: filter
+        category_ids: []
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Cover quick meals, affordable recipes, ingredient swaps, and cooking
+      basics.
+    - Use clear instructions, accurate quantities, and realistic preparation
+      times.
+    - Keep the tone friendly and accessible to beginner cooks.
+    - Include flavor discoveries and approachable dishes from different cultures.
+  image_guidelines:
+    - Use appetizing, realistic food photography with natural light.
+    - Show achievable meals, everyday kitchens, and simple plating.
+    - Match photos to the recipe’s ingredients and finished result.
+    - Avoid heavy filters, text overlays, and artificial-looking food.
+  vertical: Quick Weeknight Meals
+  vertical_id: null
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Monday
+      - Friday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: everydaytasting.com
+site_tagline: null
+theme:
+  base: ocean
+  colors:
+    primary: "#0f4c81"
+    accent: "#10b981"
+    background: "#f8fafc"
+    secondary: "#0f172a"
+    text: "#0f172a"
+    muted: "#64748b"
+    surface: "#e2e8f0"
+    border: "#cbd5e1"
+    heading: "#0f172a"
+    link: "#0f4c81"
+    link_hover: "#10b981"
+    nav_link: "#ffffff"
+    nav_link_hover: "#10b981"
+    footer_bg: "#0f172a"
+    must_reads_bg: "#0f172a"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#64748b"
+    feed_title: "#0f172a"
+    feed_desc: "#0f172a"
+    feed_date: "#64748b"
+    prose_heading: "#0f172a"
+    prose_body: "#1e293b"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#0f4c81"
+    footer_text: "#94a3b8"
+    footer_heading: "#ffffff"
+    footer_link: "#94a3b8"
+    footer_link_hover: "#ffffff"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Inter
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
