@@ -19,7 +19,7 @@ source_url: 'https://www.foxnews.com/tech/new-iphone-spyware-steal-passwords-pho
 source_item_id: 6ad6064637d64fe192a6df4d
 source_title: New iPhone spyware can steal passwords and photos
 generated_by: claude
-featuredImage: /assets/images/msmax-general-article.webp
+featuredImage: /assets/images/iphone-security-checks-to-do-today.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 74
@@ -37,6 +37,7 @@ reading_time: 4
 topics:
   - Digital Security Simplified
   - apps
+image_alt: Hands check an iPhone's Software Update screen in a softly lit home setting.
 ---
 Fox News reports on a newly identified iPhone spyware variant called P7 DarkSword. By the end of this guide, you will know what it can reportedly reach on a phone and the short checklist that puts you on solid footing. The most important item takes about two minutes.
 
