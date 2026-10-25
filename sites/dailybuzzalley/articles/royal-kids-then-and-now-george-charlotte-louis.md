@@ -25,7 +25,7 @@ source_title: >-
   15 Photos of Prince William and Kate Middleton’s Kids Over the Years, From
   Their Christenings to Boarding School
 generated_by: claude
-featuredImage: /assets/images/dailybuzzalley-general-article.webp
+featuredImage: /assets/images/royal-kids-then-and-now-george-charlotte-louis.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -43,6 +43,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Everyday Joys
+image_alt: >-
+  Three pairs of children's shoes and coats arranged from smallest to largest in
+  a bright, sunlit hallway.
 ---
 InStyle has pulled together a 15-photo retrospective tracing the three children of Prince William and Kate Middleton, from their christenings through early public appearances and school days to boarding school. The facts at the foundation: Prince George, second in line to the British throne, was born July 22, 2013. Princess Charlotte arrived May 2, 2015. Prince Louis followed on April 23, 2018.
 

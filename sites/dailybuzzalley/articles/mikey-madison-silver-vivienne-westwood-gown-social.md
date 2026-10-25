@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ac45625ce7701ccb2411d44
 source_title: 'Mikey Madison Turns Heads in a Plunging, Glittering Naked Dress'
 generated_by: claude
-featuredImage: /assets/images/dailybuzzalley-general-article.webp
+featuredImage: /assets/images/mikey-madison-silver-vivienne-westwood-gown-social.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Everyday Joys
+image_alt: >-
+  A glittering silver gown on a dress form evokes a polished premiere fashion
+  moment.
 ---
 Mikey Madison arrived at the New York premiere of *The Social Reckoning* in a silver Vivienne Westwood gown with a plunging neckline and glittering detailing, per InStyle. It's the kind of look that makes a red carpet photographer's afternoon.
 
