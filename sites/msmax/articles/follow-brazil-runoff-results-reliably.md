@@ -22,7 +22,7 @@ source_title: >-
   Brazil Votes In A Tense Lula vs. Bolsonaro Runoff With U.S. Influence Over
   Latin America At Stake
 generated_by: claude
-featuredImage: /assets/images/msmax-general-article.webp
+featuredImage: /assets/images/follow-brazil-runoff-results-reliably.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 68
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - apps
+image_alt: >-
+  Hand checks a smartphone showing a simple election-results verification
+  checklist beside a notebook and coffee.
 ---
 Brazil is voting in a runoff between President Luiz Inácio Lula da Silva and Flávio Bolsonaro, and HuffPost describes the race as razor-close. Close races produce fast, noisy information, and plenty of it will be wrong. This guide gives you a simple setup on your phone or computer to follow the count reliably and to spot misleading claims before you share them.
 
