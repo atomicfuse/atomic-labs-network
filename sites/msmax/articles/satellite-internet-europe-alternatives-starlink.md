@@ -19,7 +19,7 @@ source_url: 'https://www.bbc.com/news/articles/c65yn97xe7ypo'
 source_item_id: 6add46860a9c94d1ee7f8c5d
 source_title: Why is Ukraine so reliant on Starlink and can Europe plug the gap?
 generated_by: claude
-featuredImage: /assets/images/msmax-general-article.webp
+featuredImage: /assets/images/satellite-internet-europe-alternatives-starlink.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 62
@@ -36,6 +36,9 @@ reading_time: 3
 topics:
   - App Mastery Guides
   - apps
+image_alt: >-
+  Portable satellite terminal and power equipment beside a bundled technician
+  outdoors in cold weather.
 ---
 If you have ever lost your home Wi-Fi in the middle of a video call, you know how much a single connection can matter. Now picture that connection running drone operations and military communications. That is the position Ukraine is in with Starlink, and this explainer covers why the dependence runs so deep, why Europe can't simply swap in another service, and what it teaches the rest of us about relying on one provider.
 
