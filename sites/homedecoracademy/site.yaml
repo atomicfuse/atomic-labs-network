@@ -1,0 +1,154 @@
+domain: homedecoracademy
+site_name: homedecoracademy.com
+site_tagline: null
+author: Alex Morgan
+groups:
+  - ready
+active: true
+brief:
+  audiences: []
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Budget-Friendly Makeovers
+    - Thrifty Decor Finds
+    - Everyday Style Lessons
+    - DIY Decor Projects
+  theme: Simple decorating lessons for real homes and everyday budgets.
+  topics_v2:
+    - name: Budget-Friendly Makeovers
+      source:
+        type: filter
+        category_ids: []
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+          - Friday
+    - name: Thrifty Decor Finds
+      source:
+        type: filter
+        category_ids: []
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Everyday Style Lessons
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d59
+        tag_ids:
+          - 6a13f95216f23264031d7b10
+          - 6a0fe1bf16f23264031d7a3d
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a13f99716f23264031d7b2c
+          - 6a2777cfeb470600f9705333
+          - 6a13f95216f23264031d7b0b
+          - 6a13f98016f23264031d7b25
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: DIY Decor Projects
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d3b
+          - 6a00793d1104bbff809b7c4a
+        tag_ids:
+          - 6a13f95216f23264031d7b10
+          - 6a0fe1bf16f23264031d7a3d
+          - 6a13f99716f23264031d7b2c
+          - 6a13f95216f23264031d7b0b
+          - 6a13f98016f23264031d7b25
+          - 6a5f2841645f578778864f0c
+          - 6a2777cfeb470600f9705333
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+  seo_keywords_focus: []
+  content_guidelines:
+    - Beginner-friendly decorating advice with clear, actionable steps.
+    - Focus on room styling, small spaces, color, lighting, and budget updates.
+    - Use short paragraphs, helpful lists, and realistic examples.
+    - Keep the tone warm and approachable; avoid jargon and exaggerated promises.
+  image_guidelines:
+    - Bright, realistic interiors that feel inviting and achievable.
+    - Show varied home sizes, styles, and budgets.
+    - Match each image to the specific decorating tip.
+    - Favor natural light, accurate colors, and uncluttered compositions.
+    - Avoid overly luxurious spaces, heavy filters, text overlays, and distorted AI details.
+  vertical: Home & Garden
+  vertical_id: 6a00793d1104bbff809b7c4a
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days: *a1
+    preferred_time: 10:00
+theme:
+  base: editorial_black
+  colors:
+    primary: "#18181b"
+    accent: "#be185d"
+    background: "#fafafa"
+    secondary: "#fafafa"
+    text: "#09090b"
+    muted: "#64748b"
+    surface: "#f4f4f5"
+    border: "#e4e4e7"
+    heading: "#09090b"
+    link: "#18181b"
+    link_hover: "#be185d"
+    nav_link: "#fafafa"
+    nav_link_hover: "#f472b6"
+    footer_bg: "#18181b"
+    must_reads_bg: "#18181b"
+    hero_title: "#fafafa"
+    must_reads_title: "#fafafa"
+    article_hero_title: "#fafafa"
+    article_hero_meta: "#a1a1aa"
+    feed_title: "#09090b"
+    feed_desc: "#27272a"
+    feed_date: "#71717a"
+    prose_heading: "#09090b"
+    prose_body: "#27272a"
+    category_header_text: "#fafafa"
+    subscribe_heading: "#fafafa"
+    footer_text: "#a1a1aa"
+    footer_heading: "#fafafa"
+    footer_link: "#a1a1aa"
+    footer_link_hover: "#f472b6"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Playfair Display
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
