@@ -15,18 +15,23 @@ brief:
     - Fact Or Fiction
     - Unseen World Explained
     - Future Science Now
-  theme: >-
+  theme: |-
     Everyday questions. Fascinating science.
-
-    A science and discovery site that explains the world through questions
-    people naturally ask: why we dream, how animals navigate, what happens
-    inside a black hole, and whether everyday “facts” are actually true.
+    A science and discovery site that explains the world through questions people naturally ask: why we dream, how animals navigate, what happens inside a black hole, and whether everyday “facts” are actually true.
   topics_v2:
     - name: Why We Ask
       source:
         type: filter
-        category_ids: []
-        tag_ids: []
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793e1104bbff809b7e17
+          - 6a00793e1104bbff809b7e23
+          - 6a00793e1104bbff809b7e25
+        tag_ids:
+          - 6a205326ad9a1dd21ebb66a0
+          - 6a0bf43116f23264031d78d6
+          - 6a892e0a63a7e9d3e6ee45bc
+          - 6a0b1f2ca53fcab94b3649d3
       schedule:
         articles_per_week: 1
         preferred_days:
@@ -35,8 +40,17 @@ brief:
     - name: Fact Or Fiction
       source:
         type: filter
-        category_ids: []
-        tag_ids: []
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793e1104bbff809b7e17
+          - 6a00793e1104bbff809b7e23
+        tag_ids:
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a03361286fcaaeb5bc83259
+          - 6a1448e216f23264031d800b
+          - 6a03361f86fcaaeb5bc83268
+          - 6a27b1c3eb470600f9705525
+          - 6a03361e86fcaaeb5bc83267
       schedule:
         articles_per_week: 1
         preferred_days:
@@ -45,8 +59,15 @@ brief:
     - name: Unseen World Explained
       source:
         type: filter
-        category_ids: []
-        tag_ids: []
+        category_ids:
+          - 6a00793e1104bbff809b7e17
+          - 6a00793e1104bbff809b7e23
+          - 6a00793e1104bbff809b7e25
+          - 6a00793e1104bbff809b7e19
+        tag_ids:
+          - 6a892e0a63a7e9d3e6ee45bc
+          - 6a8fca2fb98b673237bb2e68
+          - 6a27b1c3eb470600f9705525
       schedule:
         articles_per_week: 1
         preferred_days:
@@ -55,8 +76,15 @@ brief:
     - name: Future Science Now
       source:
         type: filter
-        category_ids: []
-        tag_ids: []
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793e1104bbff809b7e25
+          - 6a00793f1104bbff809b7f57
+          - 6a00793e1104bbff809b7e17
+        tag_ids:
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a007aebe9d30be04c0c6008
+          - 6a892e0a63a7e9d3e6ee45bc
       schedule:
         articles_per_week: 1
         preferred_days:
@@ -64,15 +92,9 @@ brief:
           - Friday
   seo_keywords_focus: []
   content_guidelines:
-    - Make readers feel smarter without making them work hard. Accessible
-      stories with a surprising takeaway, clear explanations, and strong
-      visuals. Create accessible, engaging articles about science, nature,
-      space, technology, and the human mind and body. Each article should answer
-      a clear question, explain an interesting phenomenon, or explore a
-      discovery.
+    - Make readers feel smarter without making them work hard. Accessible stories with a surprising takeaway, clear explanations, and strong visuals. Create accessible, engaging articles about science, nature, space, technology, and the human mind and body. Each article should answer a clear question, explain an interesting phenomenon, or explore a discovery.
   image_guidelines:
-    - Use compelling, scientifically accurate visuals that make each topic
-      easier to understand and spark curiosity.
+    - Use compelling, scientifically accurate visuals that make each topic easier to understand and spark curiosity.
   vertical: Science
   vertical_id: 6a00793d1104bbff809b7c68
   review_percentage: 5
