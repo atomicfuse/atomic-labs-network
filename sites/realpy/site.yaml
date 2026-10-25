@@ -1,0 +1,185 @@
+domain: realpy
+site_name: Realpy.com
+site_tagline: null
+author: Leo Mitchell
+groups:
+  - ready
+active: true
+brief:
+  audiences: []
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Regional Dish Deep Dives
+    - Chef's Local Favorites
+    - Market To Table
+    - Food Festival Journeys
+    - food
+  theme: |-
+    Discover Places Through Food
+    A food-led travel site exploring regional dishes, local traditions, and the places behind them. Each story connects something delicious with its origins, the people who make it, and where to experience it.
+  topics_v2:
+    - name: Regional Dish Deep Dives
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d17
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a184492454e8b9490eacaab
+          - 6a184bc4454e8b9490eacb2d
+          - 6a8cf866e04b499a4e888be5
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+          - Friday
+    - name: Chef's Local Favorites
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d17
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793e1104bbff809b7cd1
+          - 6a00793e1104bbff809b7d13
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a184492454e8b9490eacaab
+          - 6a8cf866e04b499a4e888be5
+          - 6a8d0d68eacb826224e5b28b
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Market To Table
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793f1104bbff809b7e2f
+          - 6a00793f1104bbff809b7ec7
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a184492454e8b9490eacaab
+          - 6a0e976116f23264031d799d
+          - 6a184bc4454e8b9490eacb2d
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Food Festival Journeys
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793d1104bbff809b7c35
+          - 6a00793d1104bbff809b7c7a
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a184492454e8b9490eacaab
+          - 6a33be3f32676a5c75e45646
+          - 6a8d0d68eacb826224e5b28b
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: food
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793e1104bbff809b7d17
+          - 6a00793e1104bbff809b7d13
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a184492454e8b9490eacaab
+          - 6a8cf866e04b499a4e888be5
+          - 6a184bc4454e8b9490eacb2d
+          - 6a1831e00fc9210eaf31ab2d
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+  seo_keywords_focus: []
+  content_guidelines:
+    - Create engaging food and travel articles that help readers discover places through regional dishes, local ingredients, and culinary traditions.
+  image_guidelines:
+    - Use appetizing, authentic visuals that connect food with its place and culture.
+  vertical: Food & Drink
+  vertical_id: 6a00793d1104bbff809b7c3e
+  review_percentage: 5
+  schedule:
+    articles_per_day: 3
+    preferred_days: *a1
+    preferred_time: 10:00
+theme:
+  base: solarpunk
+  colors:
+    primary: "#1f5128"
+    accent: "#b45309"
+    background: "#f9f7e8"
+    secondary: "#1a2418"
+    text: "#1a2418"
+    muted: "#6b7a5f"
+    surface: "#eef0d8"
+    border: "#d8d8b8"
+    heading: "#1a2418"
+    link: "#1f5128"
+    link_hover: "#b45309"
+    nav_link: "#f9f7e8"
+    nav_link_hover: "#fbbf24"
+    footer_bg: "#0f1f15"
+    must_reads_bg: "#0f1f15"
+    hero_title: "#f9f7e8"
+    must_reads_title: "#f9f7e8"
+    article_hero_title: "#f9f7e8"
+    article_hero_meta: "#9bbf9b"
+    feed_title: "#1a2418"
+    feed_desc: "#2c3e23"
+    feed_date: "#6b7a5f"
+    prose_heading: "#1a2418"
+    prose_body: "#2c3e23"
+    category_header_text: "#f9f7e8"
+    subscribe_heading: "#1a2418"
+    footer_text: "#9bbf9b"
+    footer_heading: "#f9f7e8"
+    footer_link: "#9bbf9b"
+    footer_link_hover: "#fbbf24"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Lora
+    body: Source Sans 3
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
