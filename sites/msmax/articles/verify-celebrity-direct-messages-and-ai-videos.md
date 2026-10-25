@@ -22,7 +22,7 @@ source_title: >-
   Jon Bon Jovi impersonator uses AI videos to scam woman out of $10K, nearly
   costing her home
 generated_by: claude
-featuredImage: /assets/images/msmax-general-article.webp
+featuredImage: /assets/images/verify-celebrity-direct-messages-and-ai-videos.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ reading_time: 4
 topics:
   - Digital Security Simplified
   - apps
+image_alt: >-
+  Smartphone showing a suspicious celebrity-style DM beside a laptop with a
+  questionable video call.
 ---
 A fake Jon Bon Jovi account on Instagram used AI-generated videos to build trust with a Louisiana woman over months, and she lost more than $10,000, nearly costing her home, according to Fox News. By the end of this guide, you'll know the specific red flags that give a celebrity DM away, and exactly what to do the moment one shows up in your inbox.
 
