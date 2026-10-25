@@ -19,7 +19,7 @@ source_url: 'https://www.foxnews.com/tech/credit-look-normal-while-someone-steal
 source_item_id: 6adcf228571b7d0a4db2d819
 source_title: Your credit can look normal while someone steals your identity
 generated_by: claude
-featuredImage: /assets/images/msmax-general-article.webp
+featuredImage: /assets/images/credit-monitoring-gaps-and-warning-signs-to-watch.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 80
@@ -36,6 +36,9 @@ reading_time: 3
 topics:
   - Digital Security Simplified
   - apps
+image_alt: >-
+  Person checks a smartphone and laptop beside a wallet and statements during a
+  monthly identity-security review.
 ---
 Your credit score is steady, your monitoring app is quiet, and you feel safe. That feeling can be wrong. Per a Fox News report, a clean credit report doesn't mean your identity is secure, because several kinds of fraud never touch your credit file. Below are six of them, followed by a monthly routine that catches what alerts miss.
 
