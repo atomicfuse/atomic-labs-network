@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6add46850a9c94d1ee7f8c4f
 source_title: 'France sees another weekend of mass protests, with nearly 1,000 detained'
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/france-civic-gatherings-public-order-analysis.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 68
@@ -40,6 +40,9 @@ topics:
   - Why We Ask
   - Unseen World Explained
   - Future Science Now
+image_alt: >-
+  Peaceful protest crowd stands behind a metal barricade on a rainy French
+  boulevard as police wait in the distance.
 ---
 Hundreds of thousands of people protested across France on Saturday, according to the country's Interior Ministry, in demonstrations that were largely peaceful. Nearly 1,000 people were still detained over the weekend, CNN reported. That pairing raises a question worth answering: how can a mostly calm protest produce so many detentions? By the end of this article, you'll know how to read numbers like these and which questions to ask when you see them.
 
