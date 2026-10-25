@@ -21,7 +21,7 @@ source_title: >-
   Synthetic public opinion polling: AI personas don't always change their minds
   like real voters do
 generated_by: claude
-featuredImage: /assets/images/msmax-general-article.webp
+featuredImage: /assets/images/why-ai-personas-cant-replace-real-poll-respondents.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ reading_time: 4
 topics:
   - Digital Security Simplified
   - apps
+image_alt: >-
+  Laptop showing uniform AI survey avatars beside varied paper responses on a
+  desk
 ---
 Some polling firms are starting to survey AI personas instead of people. By the end of this article, you'll know what synthetic polling is, why it can mislead, and which questions to ask the next time a poll or market-research claim cites "AI respondents."
 
