@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6adc49650a9c94d1ee7f8c04
 source_title: android devices showing january 2027 update
 generated_by: claude
-featuredImage: /assets/images/msmax-general-article.webp
+featuredImage: /assets/images/motorola-android-17-update-check-razr-edge.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ reading_time: 4
 topics:
   - App Mastery Guides
   - apps
+image_alt: >-
+  Purple foldable and slab smartphones beside a readable Android System update
+  settings screen.
 ---
 Motorola's Android 17 rollout is reaching more phones, and some owners are searching for a "January 2027 update" they see on their devices. This guide shows you how to check what your Razr or Edge is actually offering, how to get the update installed, and what to do if nothing appears.
 
