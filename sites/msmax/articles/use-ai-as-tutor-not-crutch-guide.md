@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ad0c045da6dc6464d26d7e1
 source_title: 'Dependence on AI makes human brains less nimble, MIT professor says'
 generated_by: claude
-featuredImage: /assets/images/msmax-general-article.webp
+featuredImage: /assets/images/use-ai-as-tutor-not-crutch-guide.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 74
@@ -38,6 +38,7 @@ reading_time: 4
 topics:
   - Gadget Workflow Hacks
   - apps
+image_alt: Student takes notes beside a laptop showing a hint-based AI tutoring chat.
 ---
 MIT professor Eric So argues that leaning too hard on AI can weaken memory, problem-solving, and foundational mastery, according to Fox News. His point isn't that you should delete your chatbot. He says AI is harmful when it works as an answer machine, but valuable when it works as a tutor or cognitive trainer.
 
