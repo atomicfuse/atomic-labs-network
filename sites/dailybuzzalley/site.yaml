@@ -134,8 +134,7 @@ brief:
       - Tuesday
       - Friday
     preferred_time: 10:00
-groups:
-  - ready
+groups: []
 iab_vertical_code: null
 layout:
   hero:
