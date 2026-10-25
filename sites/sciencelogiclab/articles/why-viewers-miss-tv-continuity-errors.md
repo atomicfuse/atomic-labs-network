@@ -23,7 +23,7 @@ source_title: >-
   Bradley Whitford Calls Out ‘West Wing’ Continuity Error That Flew Under the
   Radar
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/why-viewers-miss-tv-continuity-errors.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 70
@@ -43,6 +43,9 @@ topics:
   - Why We Ask
   - Fact Or Fiction
   - Future Science Now
+image_alt: >-
+  Viewer watches fictional TV frames where a small facial scar appears in one
+  shot but not the other.
 ---
 Bradley Whitford says there is a continuity error in "The West Wing" that fans still haven't called out. The reason nobody caught it is a neat lesson in how your brain watches television, and by the end you'll know how to spot these slips yourself.
 
