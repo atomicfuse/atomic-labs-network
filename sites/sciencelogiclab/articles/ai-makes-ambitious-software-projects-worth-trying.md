@@ -20,7 +20,7 @@ source_url: 'https://danluu.com/ambitious/'
 source_item_id: 6add8cd8571b7d0a4db2d867
 source_title: We should be more ambitious with the software we build
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/ai-makes-ambitious-software-projects-worth-trying.webp
 quality_score: 59
 score_breakdown:
   seo_quality: 62
@@ -40,6 +40,9 @@ topics:
   - Why We Ask
   - Fact Or Fiction
   - Future Science Now
+image_alt: >-
+  Developer testing AI-assisted code with automated tests and performance
+  benchmarks on a laptop
 ---
 Most of us carry around a mental list of projects that are too big to try. Rewrite that slow tool. Build a better version of something everyone tolerates. Dan Luu, in a post titled "We should be more ambitious with the software we build," argues that list is out of date. By the end of this article you'll know his core claim, the examples he uses, and a simple way to audit your own "too big" list.
 
