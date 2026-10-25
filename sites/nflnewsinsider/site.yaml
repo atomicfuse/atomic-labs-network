@@ -1,0 +1,182 @@
+domain: nflnewsinsider.com
+active: true
+author: Elena Mitchell
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Team Season Previews
+    - Player Spotlight Stories
+    - Game Day Analysis
+    - Draft Prospect Watch
+    - nfl
+    - American football
+  theme: A football news and analysis site covering NFL teams, players, and the
+    stories behind the game.
+  topics_v2:
+    - name: Team Season Previews
+      source:
+        type: filter
+        category_ids: []
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Player Spotlight Stories
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e3b
+          - 6a00793d1104bbff809b7c71
+        tag_ids:
+          - 6a15235f16f23264031d819e
+          - 6a16d7298c60bc3c84eb2d44
+          - 6aa93478ee95cf186f57c405
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Game Day Analysis
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e3b
+          - 6a00793d1104bbff809b7c71
+        tag_ids:
+          - 6a15235f16f23264031d819e
+          - 6a16d7298c60bc3c84eb2d44
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Draft Prospect Watch
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e3b
+          - 6a00793f1104bbff809b7ea1
+          - 6a00793f1104bbff809b7e41
+        tag_ids:
+          - 6a15235f16f23264031d819e
+          - 6a16d7298c60bc3c84eb2d44
+          - 6aa93478ee95cf186f57c405
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: nfl
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e3b
+          - 6a00793d1104bbff809b7c71
+        tag_ids:
+          - 6a16d7298c60bc3c84eb2d44
+          - 6a15235f16f23264031d819e
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: American football
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e3b
+        tag_ids:
+          - 6a16d7298c60bc3c84eb2d44
+          - 6a15235f16f23264031d819e
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Cover game recaps, team updates, trades, player profiles, and football
+      explainers.
+    - Verify news with reliable sources; label rumors and opinion clearly.
+    - Keep headlines accurate and articles concise, engaging, and easy to follow.
+    - Avoid implying official NFL affiliation or exclusive insider access.
+  image_guidelines:
+    - Use licensed editorial photos of players, games, stadiums, and fans.
+    - Match images to the specific team, player, or event.
+    - Avoid misleading edits or AI images presented as real game photography.
+    - Use original site branding that is distinct from NFL and team logos.
+  vertical: Sports
+  vertical_id: 6a00793d1104bbff809b7c71
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Wednesday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: nflnewsinsider.com
+site_tagline: null
+theme:
+  base: classic
+  colors:
+    primary: "#1a1a2e"
+    accent: "#f4c542"
+    background: "#ffffff"
+    secondary: "#1a1a2e"
+    text: "#1a1a2e"
+    muted: "#6b7280"
+    surface: "#f8f9fa"
+    border: "#e5e7eb"
+    heading: "#1a1a2e"
+    link: "#1a1a2e"
+    link_hover: "#f4c542"
+    nav_link: "#ffffff"
+    nav_link_hover: "#f4c542"
+    footer_bg: "#1a1a2e"
+    must_reads_bg: "#1a1a2e"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#6b7280"
+    feed_title: "#1a1a2e"
+    feed_desc: "#1a1a2e"
+    feed_date: "#6b7280"
+    prose_heading: "#1a1a2e"
+    prose_body: "#1a1a2e"
+    category_header_text: "#1a1a2e"
+    subscribe_heading: "#1a1a2e"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Manrope
+    body: Manrope
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
