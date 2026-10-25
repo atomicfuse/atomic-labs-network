@@ -23,7 +23,7 @@ source_title: >-
   Husband Surprises Wife With a 1992 Chevy Blazer Like They Had When They
   Started Dating
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/restored-1992-chevy-blazer-gift-idea.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 68
@@ -43,6 +43,9 @@ topics:
   - Why We Ask
   - Fact Or Fiction
   - Future Science Now
+image_alt: >-
+  A beige 1992 Blazer is shown half-cleaned in a workshop, contrasting grime
+  with freshly restored surfaces.
 ---
 A 1992 Chevrolet Blazer that doesn't run, doesn't drive, and sits under a layer of grime sounds like a candidate for the scrapyard. According to Autoevolution, it was instead the starting point for a surprise: a husband wanted to give his wife the same kind of SUV they had when they started dating.
 

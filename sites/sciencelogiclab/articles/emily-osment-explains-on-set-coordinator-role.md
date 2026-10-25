@@ -22,7 +22,7 @@ source_title: >-
   Emily Osment Asked for Intimacy Coordinator Over ‘Uncomfortable’ Age Gap With
   Co-Star on ‘Young Sheldon’
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/emily-osment-explains-on-set-coordinator-role.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 72
@@ -42,6 +42,9 @@ topics:
   - Why We Ask
   - Unseen World Explained
   - Future Science Now
+image_alt: >-
+  An intimacy coordinator guides two television actors through a respectful
+  staged kissing scene on a sitcom set.
 ---
 Emily Osment has said she asked for an intimacy coordinator on "Young Sheldon" because kissing scenes with co-star Montana Jordan felt uncomfortable, per a report from TheWrap. She pointed to two things: the age gap between them and the fact that they didn't know each other well. Osment and Jordan now headline the spin-off "Georgie & Mandy's First Marriage."
 

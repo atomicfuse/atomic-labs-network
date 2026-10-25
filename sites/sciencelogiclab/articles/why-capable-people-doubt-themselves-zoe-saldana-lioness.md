@@ -20,7 +20,7 @@ source_url: 'https://www.tvline.com/2293638/why-zoe-saldana-turned-down-lioness-
 source_item_id: 6add56ec571b7d0a4db2d850
 source_title: Why Zoe Saldaña Turned Down Her Lioness Role For A Year Before Accepting It
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/why-capable-people-doubt-themselves-zoe-saldana-lioness.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 62
@@ -41,6 +41,9 @@ topics:
   - Why We Ask
   - Fact Or Fiction
   - Unseen World Explained
+image_alt: >-
+  Zoe Saldaña sits beside a closed script in a softly lit rehearsal room,
+  looking thoughtful.
 ---
 Zoe Saldaña, one of the most successful action stars working today, said no to a lead role for a full year because she didn't think she could pull it off. If that can happen to her, it can happen to anyone. Here is what her story shows about self-doubt, and a few practical ways to work with it.
 

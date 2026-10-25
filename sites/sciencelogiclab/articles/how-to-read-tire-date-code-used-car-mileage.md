@@ -21,7 +21,7 @@ source_title: >-
   Man Buys 10-Year-Old Mercedes With Only 31,000 Miles. Then He Spots Something
   Fishy On The Tires
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/how-to-read-tire-date-code-used-car-mileage.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 68
@@ -43,6 +43,9 @@ topics:
   - Why We Ask
   - Unseen World Explained
   - Future Science Now
+image_alt: >-
+  Close-up of a performance-car tire with the molded date code 0717 illuminated
+  for inspection.
 ---
 A Utah driver recently bought a 2016 Mercedes-AMG C63 S with a very low odometer reading, then looked closely at the tires. According to Motor1, they were stamped from early 2017. That detail did two things at once: it backed up the car's low-mileage story, and it raised a safety problem. By the end of this article, you'll know how to read the date code on any tire, what it can tell you about a used car, and why it matters even when the tread looks fine.
 

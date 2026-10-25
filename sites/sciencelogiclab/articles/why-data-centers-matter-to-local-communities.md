@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6add46860a9c94d1ee7f8c5a
 source_title: How data centers became a bipartisan political issue in Wisconsin
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/why-data-centers-matter-to-local-communities.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ topics:
   - Why We Ask
   - Fact Or Fiction
   - Unseen World Explained
+image_alt: >-
+  Data center, power lines, water pond, farmland, and homes share a
+  Wisconsin-inspired landscape.
 ---
 Data centers used to be invisible. They were big, windowless buildings you drove past without a second thought. Now they are showing up in county meetings, campaign messaging, and conversations about your utility bill. By the end of this article, you'll understand why a technology topic turned into a local political fight, and what to look for when a proposal lands near you.
 

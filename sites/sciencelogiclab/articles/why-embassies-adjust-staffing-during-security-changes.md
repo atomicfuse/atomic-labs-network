@@ -21,7 +21,7 @@ source_title: >-
   ‘Fair game’: Iranian officials tell NYT US diplomats could be targeted in new
   war
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/why-embassies-adjust-staffing-during-security-changes.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 68
@@ -40,6 +40,9 @@ topics:
   - Fact Or Fiction
   - Unseen World Explained
   - Future Science Now
+image_alt: >-
+  Diplomatic staff with luggage leave a guarded embassy compound as evening
+  lights go dark.
 ---
 Iranian officials have told The New York Times that U.S. diplomats and government personnel could be targeted in any new war, according to a report by Ynetnews. By the end of this piece, you will understand why governments respond to a warning like this by quietly shrinking their embassies, and what that move does and does not tell you.
 

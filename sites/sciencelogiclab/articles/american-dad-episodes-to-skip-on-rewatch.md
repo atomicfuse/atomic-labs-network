@@ -19,7 +19,7 @@ source_url: 'https://www.tvline.com/2296167/american-dad-episodes-skip-rewatch/'
 source_item_id: 6add56ec571b7d0a4db2d84a
 source_title: 10 American Dad Episodes To Skip On A Rewatch
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/american-dad-episodes-to-skip-on-rewatch.webp
 quality_score: 53
 score_breakdown:
   seo_quality: 62
@@ -39,6 +39,9 @@ topics:
   - Why We Ask
   - Fact Or Fiction
   - Future Science Now
+image_alt: >-
+  A remote hovers over a paused adult-animation episode beside a notebook
+  marking four skips.
 ---
 Rewatching a favorite sitcom feels like comfort food until one episode makes you wince. With American Dad past 400 episodes and still easy to find on streaming, plenty of fans now pick and choose instead of watching straight through. By the end of this piece, you'll have four episodes to consider skipping and a simple test for spotting which jokes tend to age badly.
 

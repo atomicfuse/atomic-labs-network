@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6add9ae7571b7d0a4db2d879
 source_title: Economic woes transform the Midwest into a massive midterms battleground
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/midwest-household-costs-and-political-loyalty.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ topics:
   - Fact Or Fiction
   - Unseen World Explained
   - Future Science Now
+image_alt: >-
+  Adult reviews household expenses beside groceries and a sealed ballot envelope
+  at a kitchen table.
 ---
 Does economic pain beat party loyalty? That question is being tested in the Midwest this midterm season. CNN reports that anger over high costs, along with doubt that President Donald Trump will change the nation's trajectory, is loosening the Republican Party's grip on working-class voters across the region. Democrats, per CNN, could be poised for a revival in the heartland.
 

@@ -20,7 +20,7 @@ source_url: 'https://www.bbc.com/news/articles/c65yn97xe7ypo'
 source_item_id: 6add46860a9c94d1ee7f8c5d
 source_title: Why is Ukraine so reliant on Starlink and can Europe plug the gap?
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/satellite-internet-starlink-europe-alternatives.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ topics:
   - Why We Ask
   - Fact Or Fiction
   - Future Science Now
+image_alt: >-
+  Portable satellite internet terminal on a folding table beneath a visible
+  satellite constellation.
 ---
 A recent Starlink slowdown showed how much Ukraine leans on a single network. According to the BBC, Ukraine relies on SpaceX's Starlink and Starshield services for battlefield communications, drone operations and wider defense work. Europe has alternatives in development, the BBC reports, but none can yet match Starlink's speed, scale, portability or military usefulness.
 

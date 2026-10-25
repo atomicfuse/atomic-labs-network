@@ -22,7 +22,7 @@ source_title: >-
   Brazil's Lula, Bolsonaro Close Arguments To Voters Ahead Of Nail-Biting
   Election Runoff
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/brazil-runoff-turnout-lula-bolsonaro.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 72
@@ -43,6 +43,9 @@ topics:
   - Fact Or Fiction
   - Unseen World Explained
   - Future Science Now
+image_alt: >-
+  Brazilian voting machine in focus as anonymous voters approach an election
+  polling station.
 ---
 Brazil's presidential runoff is close enough that the winner may be decided by people who aren't in the polls' favorite column at all: the ones who stay home. By the end of this piece, you'll know why turnout is the number to watch and how to read the final-day rallies without getting swept up in them.
 

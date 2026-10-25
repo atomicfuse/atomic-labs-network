@@ -22,7 +22,7 @@ source_title: >-
   Country singer and author Jessie James Decker shares cooking lesson she
   learned the hard way
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/how-your-mood-shapes-your-cooking.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 68
@@ -41,6 +41,9 @@ topics:
   - Fact Or Fiction
   - Unseen World Explained
   - Future Science Now
+image_alt: >-
+  Woman calmly stirs a pot in a warmly lit home kitchen surrounded by fresh
+  ingredients.
 ---
 Country singer and author Jessie James Decker has a cooking lesson she says she learned the hard way: the food you make is shaped by the emotions you bring into the kitchen. Her new cookbook, "The Secret Sauce," is built around that idea, treating food as a reflection of care, mood, and connection, according to Fox News.
 

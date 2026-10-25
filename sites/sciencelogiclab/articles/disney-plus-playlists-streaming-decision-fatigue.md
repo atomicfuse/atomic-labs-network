@@ -23,7 +23,7 @@ source_title: >-
   Disney+ Just Rolled Out A New Feature For People Like Me Who Just Keep
   Doomscrolling
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/disney-plus-playlists-streaming-decision-fatigue.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 72
@@ -44,6 +44,9 @@ topics:
   - Why We Ask
   - Fact Or Fiction
   - Unseen World Explained
+image_alt: >-
+  Viewer selects an organized streaming playlist while a television replaces a
+  cluttered grid with fewer choices.
 ---
 Disney+ has expanded its "Playlists" feature, and it targets a habit most of us know well: opening a streaming app, scrolling for 40 minutes, and watching nothing. Per a Yahoo-published piece by a writer who admits to doing exactly that, the feature groups movies and shows by theme, genre, franchise, rating, or vibe, so you spend less time browsing and more time watching.
 

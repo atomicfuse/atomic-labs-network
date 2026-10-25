@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6add6754571b7d0a4db2d85e
 source_title: You Won't Believe How Much This BMW X5 Sold For
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/used-bmw-x5-diesel-depreciation-explained.webp
 quality_score: 61
 score_breakdown:
   seo_quality: 62
@@ -40,6 +40,9 @@ topics:
   - Why We Ask
   - Unseen World Explained
   - Future Science Now
+image_alt: >-
+  White BMW X5 diesel SUV being inspected with its hood open in a bright service
+  bay.
 ---
 A 2015 BMW X5 xDrive35d recently sold after a Cars&Bids auction for $15,800, according to Autoevolution. That's a luxury SUV that once stickered in the neighborhood of $60K. By the end of this article, you'll understand why cars like this lose so much value, what makes this particular X5 interesting, and what to look at before you chase a similar deal.
 

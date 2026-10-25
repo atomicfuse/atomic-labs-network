@@ -20,7 +20,7 @@ source_url: 'https://www.foxnews.com/video/6407369925112'
 source_item_id: 6add9ae7571b7d0a4db2d87e
 source_title: Arizona child murder suspect detained in Mexico after over a decade on the run
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/international-jurisdiction-and-cross-border-cooperation.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 62
@@ -39,6 +39,9 @@ topics:
   - Fact Or Fiction
   - Unseen World Explained
   - Future Science Now
+image_alt: >-
+  Investigation materials map a cross-border fugitive case between Arizona and
+  Mexico.
 ---
 A woman accused of killing her daughter in Arizona has been detained in Mexico after more than 12 years as a fugitive, according to Fox News, citing FOX 10. The suspect, Anna Marlene Somoza, was arrested by the U.S. Marshals Service. Authorities said her ties to cartels helped her avoid apprehension for so long.
 

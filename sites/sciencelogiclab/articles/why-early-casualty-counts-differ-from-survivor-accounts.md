@@ -19,7 +19,7 @@ source_url: 'https://www.bbc.com/news/articles/cq1kdlm1ze7do'
 source_item_id: 6add9ae7571b7d0a4db2d888
 source_title: Gunmen kill at least 10 villagers and loot shops in northeast Nigeria
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/why-early-casualty-counts-differ-from-survivor-accounts.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ topics:
   - Fact Or Fiction
   - Unseen World Explained
   - Future Science Now
+image_alt: >-
+  Two notebooks with different tally marks sit beside a radio and phone near a
+  rural village road.
 ---
 After a reported attack on Binnari village in Taraba state, northeast Nigeria, officials and witnesses are giving different pictures of how many people died. By the end of this article, you will know why those numbers so often disagree, and how to read an early casualty figure without being misled.
 

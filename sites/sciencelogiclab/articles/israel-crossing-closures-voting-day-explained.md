@@ -19,7 +19,7 @@ source_url: 'https://www.bbc.com/news/articles/c6y93ylpl5p2o'
 source_item_id: 6add9ae7571b7d0a4db2d87a
 source_title: Israel to close West Bank crossings on election day as crackdown escalates
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/israel-crossing-closures-voting-day-explained.webp
 quality_score: 56
 score_breakdown:
   seo_quality: 60
@@ -40,6 +40,9 @@ topics:
   - Fact Or Fiction
   - Unseen World Explained
   - Future Science Now
+image_alt: >-
+  Closed orange crossing barrier beside a work bag and boots on a dry, fenced
+  roadway
 ---
 Israel will close all West Bank land crossings on election day and bar Palestinian workers from settlements, according to the BBC, which reported that the Israeli Defense Forces announced the restrictions ahead of Tuesday's vote. By the end of this piece, you will understand what a crossing closure actually does, who feels it first, and why the timing is being read politically.
 

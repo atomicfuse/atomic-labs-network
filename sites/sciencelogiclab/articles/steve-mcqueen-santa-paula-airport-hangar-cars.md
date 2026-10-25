@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6add6754571b7d0a4db2d863
 source_title: This Sleepy Airport Hangar Once Hid Steve McQueen's Legendary Car Collection
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/steve-mcqueen-santa-paula-airport-hangar-cars.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 72
@@ -42,6 +42,9 @@ topics:
   - Why We Ask
   - Fact Or Fiction
   - Future Science Now
+image_alt: >-
+  Photorealistic airport hangar with a green Jaguar XKSS, vintage Hudson,
+  motorcycle, and classic aircraft.
 ---
 Steve McQueen was one of the most recognizable faces on the planet. So where does a star like that go when he wants to disappear? According to Slashgear, one answer was a little-known hangar at Santa Paula Airport, where he kept his prized cars, motorcycles, and planes away from Hollywood's spotlight.
 
