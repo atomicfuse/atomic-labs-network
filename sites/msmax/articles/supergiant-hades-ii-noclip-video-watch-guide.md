@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6abf415c5b22be6773eca49c
 source_title: "Supergiant Games Talks About Making a Sequel in New Collaboration Video with\_/noclip"
 generated_by: claude
-featuredImage: /assets/images/msmax-general-article.webp
+featuredImage: /assets/images/supergiant-hades-ii-noclip-video-watch-guide.webp
 quality_score: 62
 score_breakdown:
   seo_quality: 62
@@ -40,6 +40,9 @@ reading_time: 4
 topics:
   - Smart Home Solutions
   - apps
+image_alt: >-
+  Home gaming workstation showing a behind-the-scenes game-development video on
+  a monitor.
 ---
 Supergiant Games has released a 20-minute documentary-style video with the YouTuber /noclip about making Hades II, the sequel to its hit Hades. Per Gamegrin, which reported the release, the video covers the studio's creative process and its journey from indie darling to industry powerhouse. Gamegrin also describes Hades II as the highest-rated game of its launch year.
 
