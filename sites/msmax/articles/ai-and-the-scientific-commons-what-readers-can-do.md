@@ -20,7 +20,7 @@ source_url: 'https://arxiv.org/abs/2610.27251'
 source_item_id: 6adae9d937d64fe192a6e28d
 source_title: AI and the Enclosure of the Scientific Commons
 generated_by: claude
-featuredImage: /assets/images/msmax-general-article.webp
+featuredImage: /assets/images/ai-and-the-scientific-commons-what-readers-can-do.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ reading_time: 4
 topics:
   - Gadget Workflow Hacks
   - apps
+image_alt: >-
+  Person compares scientific papers with a scholarly article on a laptop at a
+  desk.
 ---
 A paper posted to arXiv, titled "AI and the Enclosure of the Scientific Commons," makes a pointed argument: the world's scientific literature is a shared resource, and AI could be used to fence it off and turn it into private wealth. The post drew 126 points and 74 comments on the Hacker News front page, so people are clearly arguing about it.
 
