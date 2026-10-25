@@ -22,7 +22,7 @@ source_title: >-
   CBS News political experts weigh in on Texas Senate race halfway through early
   voting
 generated_by: claude
-featuredImage: /assets/images/msmax-general-article.webp
+featuredImage: /assets/images/texas-senate-early-voting-check-your-voter-status.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 66
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - apps
+image_alt: >-
+  Hand holding a smartphone beside a Texas map and a simple voter-status
+  checklist.
 ---
 Early voting is underway in Texas, and the U.S. Senate race is close enough that turnout could decide it. Per CBS News, its latest poll showed Democrat James Talarico leading Republican Ken Paxton 51% to 49%, well within the margin of error. This article covers what CBS News political experts say will matter, then walks you through using your phone to make sure your own vote is ready to count.
 
