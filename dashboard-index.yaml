@@ -546,7 +546,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-10-21T12:38:35.354Z
+    last_updated: 2026-10-21T09:34:35.694Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -817,6 +817,26 @@ sites:
     status: Live
     vertical: Science
     zone_id: a771e6e2aa304793643cd3b059970d27
+    worker_pending_dns: false
+  - domain: sciencelogiclab
+    cf_apo: false
+    company: null
+    created_at: 2026-10-25T10:48:56.816Z
+    custom_domain: sciencelogiclab.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-10-25T10:52:24.895Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=sciencelogiclab
+    saved_previews: null
+    site_id: "2925336816601"
+    staging_branch: staging/sciencelogiclab
+    status: Live
+    vertical: Science
+    zone_id: 59783bbee052dfeb3b4ba042d2c1b7a5
     worker_pending_dns: false
   - domain: sciencenewsdesk
     cf_apo: false
@@ -1278,25 +1298,6 @@ sites:
     vertical: Healthy Living
     worker_pending_dns: false
     zone_id: 8a07bb95f686217de8d2eba14df9e49d
-  - domain: sciencelogiclab
-    company: null
-    vertical: Science
-    status: Staging
-    site_id: "2925336816601"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-10-25T10:48:56.816Z
-    created_at: 2026-10-25T10:48:56.816Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/sciencelogiclab
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=sciencelogiclab
-    saved_previews: null
-    custom_domain: null
 deleted:
   - domain: chaibeseret
     cf_apo: false
