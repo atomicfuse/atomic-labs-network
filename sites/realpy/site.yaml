@@ -1,12 +1,9 @@
 domain: realpy
-site_name: Realpy.com
-site_tagline: null
-author: Leo Mitchell
-groups:
-  - ready
 active: true
+author: Leo Mitchell
 brief:
   audiences: []
+  audience_type_ids: null
   tone: ""
   article_types:
     listicle: 40
@@ -38,7 +35,7 @@ brief:
           - 6a8cf866e04b499a4e888be5
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
+        preferred_days:
           - Monday
           - Friday
     - name: Chef's Local Favorites
@@ -58,7 +55,9 @@ brief:
           - 6a8d0d68eacb826224e5b28b
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
+          - Friday
     - name: Market To Table
       source:
         type: filter
@@ -76,7 +75,9 @@ brief:
           - 6a184bc4454e8b9490eacb2d
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
+          - Friday
     - name: Food Festival Journeys
       source:
         type: filter
@@ -94,7 +95,9 @@ brief:
           - 6a8d0d68eacb826224e5b28b
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
+          - Friday
     - name: food
       source:
         type: filter
@@ -112,7 +115,9 @@ brief:
           - 6a1831e00fc9210eaf31ab2d
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
+          - Friday
   seo_keywords_focus: []
   content_guidelines:
     - Create engaging food and travel articles that help readers discover places through regional dishes, local ingredients, and culinary traditions.
@@ -123,8 +128,34 @@ brief:
   review_percentage: 5
   schedule:
     articles_per_day: 3
-    preferred_days: *a1
+    preferred_days:
+      - Monday
+      - Friday
     preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: Realpy.com
+site_tagline: null
 theme:
   base: solarpunk
   colors:
@@ -165,21 +196,10 @@ theme:
     body: Source Sans 3
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 4
+authors:
+  - id: marcia-campbell
+    topics: []
+  - id: kwame-asante
+    topics: []
+  - id: diego-herrera
+    topics: []
