@@ -18,8 +18,7 @@ brief:
     - computers
     - apps
     - AI
-  theme: A practical technology site helping everyday users get more from their
-    devices, apps, and digital tools. Make everyday tech work better for you.
+  theme: A practical technology site helping everyday users get more from their devices, apps, and digital tools. Make everyday tech work better for you.
   topics_v2:
     - name: Gadget Workflow Hacks
       source:
@@ -120,8 +119,7 @@ brief:
           - Friday
   seo_keywords_focus: []
   content_guidelines:
-    - Cover smartphone tips, useful apps, computer basics, and simple
-      troubleshooting.
+    - Cover smartphone tips, useful apps, computer basics, and simple troubleshooting.
     - Write clear, step-by-step guides for nontechnical readers.
     - Specify relevant devices and software versions.
     - Use independent branding; avoid implying Microsoft affiliation.
@@ -196,14 +194,10 @@ theme:
     footer_heading: "#f5e8c7"
     footer_link: "#d4c79d"
     footer_link_hover: "#ffffff"
-    header_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a
-      50%, #2d2418 75%, #0a0a0a 100%)"
-    subscribe_bg_gradient: "linear-gradient(135deg, #8a6508 0%, #b8860b 30%, #f5e8c7
-      50%, #b8860b 70%, #8a6508 100%)"
-    footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a
-      50%, #2d2418 75%, #0a0a0a 100%)"
-    must_reads_bg_gradient: "linear-gradient(135deg, #0a0a0a 0%, #3d2c1a 30%,
-      #6b4a1a 50%, #3d2c1a 70%, #0a0a0a 100%)"
+    header_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a 50%, #2d2418 75%, #0a0a0a 100%)"
+    subscribe_bg_gradient: "linear-gradient(135deg, #8a6508 0%, #b8860b 30%, #f5e8c7 50%, #b8860b 70%, #8a6508 100%)"
+    footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a 50%, #2d2418 75%, #0a0a0a 100%)"
+    must_reads_bg_gradient: "linear-gradient(135deg, #0a0a0a 0%, #3d2c1a 30%, #6b4a1a 50%, #3d2c1a 70%, #0a0a0a 100%)"
     hero_overlay_gradient: linear-gradient(180deg, transparent 45%, rgba(10,10,10,0.85) 100%)
   logo_height: 52
   menu_item_font_size: 14
@@ -212,3 +206,6 @@ theme:
     body: Lora
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-EFSLQEF53N
+  gtm: GT-PBCTVQWL
