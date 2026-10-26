@@ -20,7 +20,7 @@ source_url: 'https://www.buzzfeed.com/cierracowan/shoes-blister-free-an'
 source_item_id: 6adec234571b7d0a4db2d946
 source_title: 26 Shoes That Reviewers Say Keep Their Feet Blister Free
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/how-to-shop-for-comfortable-shoes-without-blisters.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ reading_time: 3
 topics:
   - Thrifty Decor Finds
   - Budget-Friendly Makeovers
+image_alt: >-
+  Shopper fastening comfortable walking shoes beside a phone and travel tote in
+  a bright entryway.
 ---
 A homedecoracademy.com note up front: shoes are a bit outside our usual territory of paint, pillows, and lamps. But the lesson underneath this story is one we preach in every room of the house. Buy what real people have actually lived with, not what looks good in a photo.
 
