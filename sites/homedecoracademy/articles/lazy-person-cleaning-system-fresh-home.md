@@ -21,7 +21,7 @@ source_title: >-
   Hate Cleaning, But Want A Clean House? These 25 Products Make It Astoundingly
   Simple
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/lazy-person-cleaning-system-fresh-home.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ reading_time: 3
 topics:
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Person wipes a kitchen counter beside a compact cleaning caddy in a bright,
+  tidy apartment.
 ---
 BuzzFeed Shopping recently rounded up 25 cleaning products for people who hate cleaning but still want a tidy home. The list's pitch is simple: less scrubbing, wiping, and organizing. Its description even jokes that there's no excuse for a stinky toilet when flower-style toilet gels exist.
 
