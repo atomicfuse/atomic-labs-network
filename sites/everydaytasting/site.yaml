@@ -17,8 +17,7 @@ brief:
     - Pantry Staple Creations
     - dishes
     - recipes
-  theme: An approachable food site focused on easy recipes, everyday cooking, and
-    discovering new flavors.
+  theme: An approachable food site focused on easy recipes, everyday cooking, and discovering new flavors.
   topics_v2:
     - name: Quick Weeknight Meals
       source:
@@ -116,10 +115,8 @@ brief:
           - Friday
   seo_keywords_focus: []
   content_guidelines:
-    - Cover quick meals, affordable recipes, ingredient swaps, and cooking
-      basics.
-    - Use clear instructions, accurate quantities, and realistic preparation
-      times.
+    - Cover quick meals, affordable recipes, ingredient swaps, and cooking basics.
+    - Use clear instructions, accurate quantities, and realistic preparation times.
     - Keep the tone friendly and accessible to beginner cooks.
     - Include flavor discoveries and approachable dishes from different cultures.
   image_guidelines:
@@ -200,3 +197,6 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-QVX2X2HJHS
+  gtm: GT-PZZH8W37
