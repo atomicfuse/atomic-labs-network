@@ -1,0 +1,171 @@
+domain: bestpaleosecrets.com
+active: true
+author: Lily West
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: practical
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Seasonal Paleo Menus
+    - Family-Friendly Paleo
+    - Paleo On The Go
+    - Beyond Basic Paleo
+  theme: A practical guide to Paleo-inspired cooking, with simple recipes,
+    ingredient swaps, and everyday meal ideas.
+  topics_v2:
+    - name: Seasonal Paleo Menus
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d1d
+          - 6a00793e1104bbff809b7d1b
+        tag_ids:
+          - 6a034da986fcaaeb5bc834e7
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a034d6286fcaaeb5bc834b1
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Friday
+    - name: Family-Friendly Paleo
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d1d
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d1b
+          - 6a00793e1104bbff809b7cf1
+        tag_ids:
+          - 6a04518e86fcaaeb5bc838fa
+          - 6a034da986fcaaeb5bc834e7
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a142cfe16f23264031d7f59
+          - 6a142afc16f23264031d7f46
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+    - name: Paleo On The Go
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d1d
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d1b
+        tag_ids:
+          - 6a034da986fcaaeb5bc834e7
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a034d6286fcaaeb5bc834b1
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+    - name: Beyond Basic Paleo
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d1d
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d1b
+        tag_ids:
+          - 6a034d6286fcaaeb5bc834b1
+          - 6a034da986fcaaeb5bc834e7
+          - 6a042b0a86fcaaeb5bc83515
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+  seo_keywords_focus: []
+  content_guidelines:
+    - "Easy Paleo Recipes: Quick breakfasts, one-pan dinners, soups, and snacks."
+    - "Paleo Basics: Ingredient guides, pantry essentials, and beginner tips."
+    - "Smart Swaps: Alternatives to wheat flour, dairy, and refined sugar."
+    - "Meal Prep: Weekly menus, batch cooking, and portable lunches."
+    - "Sweet Treats: Fruit-based desserts and Paleo-friendly baking."
+  image_guidelines:
+    - Use realistic, appetizing food photography with natural light, fresh
+      ingredients, and simple kitchen settings. Show finished dishes and useful
+      preparation steps. Avoid body-transformation photos, medical imagery, and
+      text-heavy graphics.
+  vertical: Seasonal Paleo Menus
+  vertical_id: null
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: bestpaleosecrets.com
+site_tagline: null
+theme:
+  base: coastal
+  colors:
+    primary: "#1e3a5f"
+    accent: "#06b6d4"
+    background: "#f4f7f9"
+    secondary: "#0c1f33"
+    text: "#0c1f33"
+    muted: "#6b8095"
+    surface: "#e3ecf2"
+    border: "#cbd9e3"
+    heading: "#0c1f33"
+    link: "#1e3a5f"
+    link_hover: "#06b6d4"
+    nav_link: "#f4f7f9"
+    nav_link_hover: "#67e8f9"
+    footer_bg: "#0c1f33"
+    must_reads_bg: "#0c1f33"
+    hero_title: "#f4f7f9"
+    must_reads_title: "#f4f7f9"
+    article_hero_title: "#f4f7f9"
+    article_hero_meta: "#94a8bc"
+    feed_title: "#0c1f33"
+    feed_desc: "#1e3a5f"
+    feed_date: "#6b8095"
+    prose_heading: "#0c1f33"
+    prose_body: "#1e3a5f"
+    category_header_text: "#f4f7f9"
+    subscribe_heading: "#1e3a5f"
+    footer_text: "#94a8bc"
+    footer_heading: "#f4f7f9"
+    footer_link: "#94a8bc"
+    footer_link_hover: "#67e8f9"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: DM Sans
+    body: DM Sans
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
