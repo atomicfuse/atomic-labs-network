@@ -19,6 +19,26 @@ sites:
     vertical: Family and Relationships
     worker_pending_dns: false
     zone_id: a5e5c710ef2fa56f03b7a721a8216c51
+  - domain: bestpaleosecrets
+    cf_apo: false
+    company: null
+    created_at: 2026-10-26T07:57:53.473Z
+    custom_domain: bestpaleosecrets.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-10-26T08:01:53.839Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=bestpaleosecrets
+    saved_previews: null
+    site_id: "3001473474401"
+    staging_branch: staging/bestpaleosecrets
+    status: Live
+    vertical: Seasonal Paleo Menus
+    zone_id: 3a515f2ec1683a419dde751f8faf8146
+    worker_pending_dns: false
   - domain: buzzbriefdaily
     cf_apo: false
     company: ATL
@@ -725,7 +745,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-10-25T15:13:09.030Z
+    last_updated: 2026-10-25T15:05:17.002Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -1397,25 +1417,6 @@ sites:
     vertical: Healthy Living
     worker_pending_dns: false
     zone_id: 8a07bb95f686217de8d2eba14df9e49d
-  - domain: bestpaleosecrets
-    company: null
-    vertical: Seasonal Paleo Menus
-    status: Staging
-    site_id: "3001473474401"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-10-26T07:57:53.473Z
-    created_at: 2026-10-26T07:57:53.473Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/bestpaleosecrets
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=bestpaleosecrets
-    saved_previews: null
-    custom_domain: null
 deleted:
   - domain: chaibeseret
     cf_apo: false
