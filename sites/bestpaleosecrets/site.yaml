@@ -15,8 +15,7 @@ brief:
     - Family-Friendly Paleo
     - Paleo On The Go
     - Beyond Basic Paleo
-  theme: A practical guide to Paleo-inspired cooking, with simple recipes,
-    ingredient swaps, and everyday meal ideas.
+  theme: A practical guide to Paleo-inspired cooking, with simple recipes, ingredient swaps, and everyday meal ideas.
   topics_v2:
     - name: Seasonal Paleo Menus
       source:
@@ -89,10 +88,7 @@ brief:
     - "Meal Prep: Weekly menus, batch cooking, and portable lunches."
     - "Sweet Treats: Fruit-based desserts and Paleo-friendly baking."
   image_guidelines:
-    - Use realistic, appetizing food photography with natural light, fresh
-      ingredients, and simple kitchen settings. Show finished dishes and useful
-      preparation steps. Avoid body-transformation photos, medical imagery, and
-      text-heavy graphics.
+    - Use realistic, appetizing food photography with natural light, fresh ingredients, and simple kitchen settings. Show finished dishes and useful preparation steps. Avoid body-transformation photos, medical imagery, and text-heavy graphics.
   vertical: Seasonal Paleo Menus
   vertical_id: null
   review_percentage: 5
