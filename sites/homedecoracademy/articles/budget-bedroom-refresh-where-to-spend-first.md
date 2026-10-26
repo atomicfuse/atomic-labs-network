@@ -23,7 +23,7 @@ source_title: >-
   28 Target Items To Help You Create The Bedroom Of Your Dreams, Even If You’re
   On A Tight Budget
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/budget-bedroom-refresh-where-to-spend-first.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 68
@@ -41,6 +41,9 @@ topics:
   - DIY Decor Projects
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Bright budget bedroom with cozy bedding, bedside lamp, storage basket, and
+  simple decor.
 ---
 BuzzFeed Shopping recently rounded up 28 Target finds meant to help you build a dream bedroom without overspending. The list is a handy starting point, but a long list of products can leave you with a full cart and a room that still doesn't feel right.
 
