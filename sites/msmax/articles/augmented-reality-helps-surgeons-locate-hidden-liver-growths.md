@@ -20,7 +20,8 @@ source_url: >-
 source_item_id: 6ad6fa0492f27405dfb903ed
 source_title: Interactive 3D technology reveals hidden tumors during surgery
 generated_by: claude
-featuredImage: /assets/images/msmax-general-article.webp
+featuredImage: >-
+  /assets/images/augmented-reality-helps-surgeons-locate-hidden-liver-growths.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 68
@@ -38,6 +39,9 @@ reading_time: 4
 topics:
   - Digital Security Simplified
   - apps
+image_alt: >-
+  Medical monitor showing a text-free AR liver navigation model beside a
+  tracking marker.
 ---
 You have probably used augmented reality to preview a sofa in your living room or catch a creature on your phone screen. The same basic idea is now being used in an operating room, and understanding how it works says a lot about where everyday AR technology is heading.
 
