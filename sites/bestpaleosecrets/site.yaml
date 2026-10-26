@@ -165,3 +165,6 @@ theme:
     body: DM Sans
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  gtm: GT-NN6SH6M9
+  ga4: G-F7CTF6LXST
