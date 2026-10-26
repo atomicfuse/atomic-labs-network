@@ -17,8 +17,7 @@ brief:
     - Draft Prospect Watch
     - nfl
     - American football
-  theme: A football news and analysis site covering NFL teams, players, and the
-    stories behind the game.
+  theme: A football news and analysis site covering NFL teams, players, and the stories behind the game.
   topics_v2:
     - name: Team Season Previews
       source:
@@ -98,8 +97,7 @@ brief:
           - Wednesday
   seo_keywords_focus: []
   content_guidelines:
-    - Cover game recaps, team updates, trades, player profiles, and football
-      explainers.
+    - Cover game recaps, team updates, trades, player profiles, and football explainers.
     - Verify news with reliable sources; label rumors and opinion clearly.
     - Keep headlines accurate and articles concise, engaging, and easy to follow.
     - Avoid implying official NFL affiliation or exclusive insider access.
@@ -180,3 +178,6 @@ theme:
     body: Manrope
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-M6JPHZRX3G
+  gtm: GT-MKR855QQ
