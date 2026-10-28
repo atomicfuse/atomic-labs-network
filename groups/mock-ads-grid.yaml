@@ -8,7 +8,7 @@ scripts:
       src: /mock-ad-fill.js
   before_footer: []
 ads_config:
-  interstitial: false
+  interstitial: true
   interstitial_config:
     script_url: https://example.com/mock-interstitial.js
     script_inline: ""
@@ -60,6 +60,9 @@ ads_config:
         customSizes:
           - width: 320
             height: 100
+      code: |-
+        <script src="https://digi-widget.pages.dev/atl.widget.js"></script>
+        <script>window._atl_loadWidget(false,{feedid:"demo_responsive",auth:"demo",qs:"count=1"},"responsive",{qs:"g_rtb=1&g_uid=demo-r-card-1&g_fill=card&g_cta=1&g_by=1&g_title=none"});</script>
       page_types:
         - all
       exclude_pages: []
@@ -97,6 +100,9 @@ ads_config:
         customSizes:
           - width: 320
             height: 100
+      code: |-
+        <script src="https://digi-widget.pages.dev/atl.widget.js"></script>
+        <script>window._atl_loadWidget(false,{feedid:"demo_responsive",auth:"demo",qs:"count=1"},"responsive",{qs:"g_rtb=1&g_uid=demo-r-card-1&g_fill=card&g_cta=1&g_by=1&g_title=none"});</script>
       page_types:
         - all
       exclude_pages: []
@@ -134,6 +140,9 @@ ads_config:
         customSizes:
           - width: 320
             height: 100
+      code: |-
+        <script src="https://digi-widget.pages.dev/atl.widget.js"></script>
+        <script>window._atl_loadWidget(false,{feedid:"demo_responsive",auth:"demo",qs:"count=1"},"responsive",{qs:"g_rtb=1&g_uid=demo-r-card-1&g_fill=card&g_cta=1&g_by=1&g_title=none"});</script>
       page_types:
         - all
       exclude_pages: []
@@ -171,6 +180,9 @@ ads_config:
         customSizes:
           - width: 300
             height: 250
+      code: |-
+        <script src="https://digi-widget.pages.dev/atl.widget.js"></script>
+        <script>window._atl_loadWidget(false,{feedid:"demo_responsive",auth:"demo",qs:"count=1"},"responsive",{qs:"g_rtb=1&g_uid=demo-r-card-1&g_fill=card&g_cta=1&g_by=1&g_title=none"});</script>
       page_types:
         - all
       exclude_pages: []
@@ -208,6 +220,9 @@ ads_config:
         customSizes:
           - width: 300
             height: 250
+      code: |-
+        <script src="https://digi-widget.pages.dev/atl.widget.js"></script>
+        <script>window._atl_loadWidget(false,{feedid:"demo_responsive",auth:"demo",qs:"count=1"},"responsive",{qs:"g_rtb=1&g_uid=demo-r-card-1&g_fill=card&g_cta=1&g_by=1&g_title=none"});</script>
       page_types:
         - all
       exclude_pages: []
@@ -245,6 +260,9 @@ ads_config:
         customSizes:
           - width: 300
             height: 250
+      code: |-
+        <script src="https://digi-widget.pages.dev/atl.widget.js"></script>
+        <script>window._atl_loadWidget(false,{feedid:"demo_responsive",auth:"demo",qs:"count=1"},"responsive",{qs:"g_rtb=1&g_uid=demo-r-card-1&g_fill=card&g_cta=1&g_by=1&g_title=none"});</script>
       page_types:
         - all
       exclude_pages: []
@@ -282,6 +300,9 @@ ads_config:
         customSizes:
           - width: 300
             height: 250
+      code: |-
+        <script src="https://digi-widget.pages.dev/atl.widget.js"></script>
+        <script>window._atl_loadWidget(false,{feedid:"demo_responsive",auth:"demo",qs:"count=1"},"responsive",{qs:"g_rtb=1&g_uid=demo-r-card-1&g_fill=card&g_cta=1&g_by=1&g_title=none"});</script>
       page_types:
         - all
       exclude_pages: []
@@ -319,6 +340,9 @@ ads_config:
         customSizes:
           - width: 300
             height: 250
+      code: |-
+        <script src="https://digi-widget.pages.dev/atl.widget.js"></script>
+        <script>window._atl_loadWidget(false,{feedid:"demo_responsive",auth:"demo",qs:"count=1"},"responsive",{qs:"g_rtb=1&g_uid=demo-r-card-1&g_fill=card&g_cta=1&g_by=1&g_title=none"});</script>
       page_types:
         - all
       exclude_pages: []
@@ -356,6 +380,9 @@ ads_config:
         customSizes:
           - width: 320
             height: 50
+      code: |-
+        <script src="https://digi-widget.pages.dev/atl.widget.js"></script>
+        <script>window._atl_loadWidget(false,{feedid:"demo_responsive",auth:"demo",qs:"count=1"},"responsive",{qs:"g_rtb=1&g_uid=demo-r-card-1&g_fill=card&g_cta=1&g_by=1&g_title=none"});</script>
       page_types:
         - all
       exclude_pages: []
@@ -393,6 +420,9 @@ ads_config:
         customSizes:
           - width: 300
             height: 250
+      code: |-
+        <script src="https://digi-widget.pages.dev/atl.widget.js"></script>
+        <script>window._atl_loadWidget(false,{feedid:"demo_responsive",auth:"demo",qs:"count=1"},"responsive",{qs:"g_rtb=1&g_uid=demo-r-card-1&g_fill=card&g_cta=1&g_by=1&g_title=none"});</script>
       page_types:
         - all
       exclude_pages: []
@@ -430,6 +460,9 @@ ads_config:
         customSizes:
           - width: 320
             height: 100
+      code: |-
+        <script src="https://digi-widget.pages.dev/atl.widget.js"></script>
+        <script>window._atl_loadWidget(false,{feedid:"demo_responsive",auth:"demo",qs:"count=1"},"responsive",{qs:"g_rtb=1&g_uid=demo-r-card-1&g_fill=card&g_cta=1&g_by=1&g_title=none"});</script>
       page_types:
         - all
       exclude_pages: []
@@ -462,6 +495,9 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
+      code: |-
+        <script src="https://digi-widget.pages.dev/atl.widget.js"></script>
+        <script>window._atl_loadWidget(false,{feedid:"demo_responsive",auth:"demo",qs:"count=1"},"responsive",{qs:"g_rtb=1&g_uid=demo-r-card-1&g_fill=card&g_cta=1&g_by=1&g_title=none"});</script>
       page_types:
         - all
       exclude_pages: []
@@ -494,6 +530,9 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
+      code: |-
+        <script src="https://digi-widget.pages.dev/atl.widget.js"></script>
+        <script>window._atl_loadWidget(false,{feedid:"demo_responsive",auth:"demo",qs:"count=1"},"responsive",{qs:"g_rtb=1&g_uid=demo-r-card-1&g_fill=card&g_cta=1&g_by=1&g_title=none"});</script>
       page_types:
         - all
       exclude_pages: []
@@ -526,6 +565,9 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
+      code: |-
+        <script src="https://digi-widget.pages.dev/atl.widget.js"></script>
+        <script>window._atl_loadWidget(false,{feedid:"demo_responsive",auth:"demo",qs:"count=1"},"responsive",{qs:"g_rtb=1&g_uid=demo-r-card-1&g_fill=card&g_cta=1&g_by=1&g_title=none"});</script>
       page_types:
         - all
       exclude_pages: []
@@ -566,6 +608,9 @@ ads_config:
       page_types:
         - all
       exclude_pages: []
+      code: |-
+        <script src="https://digi-widget.pages.dev/atl.widget.js"></script>
+        <script>window._atl_loadWidget(false,{feedid:"demo_responsive",auth:"demo",qs:"count=1"},"responsive",{qs:"g_rtb=1&g_uid=demo-r-card-1&g_fill=card&g_cta=1&g_by=1&g_title=none"});</script>
 tracking:
   ga4: null
   gtm: null
