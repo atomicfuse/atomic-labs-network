@@ -1,0 +1,579 @@
+id: mock-ads-grid
+name: Mock Ads GRID (Demo)
+scripts:
+  head: []
+  body_start: []
+  body_end:
+    - id: mock-ad-fill
+      src: /mock-ad-fill.js
+  before_footer: []
+ads_config:
+  interstitial: false
+  interstitial_config:
+    script_url: https://example.com/mock-interstitial.js
+    script_inline: ""
+    trigger:
+      type: delay
+      delay_seconds: 5
+      scroll_percent: 50
+    frequency:
+      type: once_per_session
+      max_per_session: 1
+    page_types:
+      - all
+    close_delay_seconds: 3
+    device: both
+    exclude_pages: []
+  layout: standard
+  ad_placements:
+    - id: homepage-top-banner
+      position: homepage-top
+      device: all
+      sizes:
+        desktop:
+          - - 970
+            - 90
+        mobile:
+          - - 320
+            - 100
+      desktopSizeConfig:
+        ratio:
+          x: 97
+          y: 9
+        range:
+          minWidth: 970
+          maxWidth: 970
+          minHeight: 90
+          maxHeight: 90
+        customSizes:
+          - width: 970
+            height: 90
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 5
+        range:
+          minWidth: 320
+          maxWidth: 320
+          minHeight: 100
+          maxHeight: 100
+        customSizes:
+          - width: 320
+            height: 100
+      page_types:
+        - all
+      exclude_pages: []
+    - id: category-top-banner
+      position: category-top
+      device: all
+      sizes:
+        desktop:
+          - - 970
+            - 90
+        mobile:
+          - - 320
+            - 100
+      desktopSizeConfig:
+        ratio:
+          x: 97
+          y: 9
+        range:
+          minWidth: 970
+          maxWidth: 970
+          minHeight: 90
+          maxHeight: 90
+        customSizes:
+          - width: 970
+            height: 90
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 5
+        range:
+          minWidth: 320
+          maxWidth: 320
+          minHeight: 100
+          maxHeight: 100
+        customSizes:
+          - width: 320
+            height: 100
+      page_types:
+        - all
+      exclude_pages: []
+    - id: top-banner
+      position: above-content
+      device: all
+      sizes:
+        desktop:
+          - - 728
+            - 90
+        mobile:
+          - - 320
+            - 100
+      desktopSizeConfig:
+        ratio:
+          x: 364
+          y: 45
+        range:
+          minWidth: 728
+          maxWidth: 728
+          minHeight: 90
+          maxHeight: 90
+        customSizes:
+          - width: 728
+            height: 90
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 5
+        range:
+          minWidth: 320
+          maxWidth: 320
+          minHeight: 100
+          maxHeight: 100
+        customSizes:
+          - width: 320
+            height: 100
+      page_types:
+        - all
+      exclude_pages: []
+    - id: in-content-1
+      position: after-paragraph-2
+      device: all
+      sizes:
+        desktop:
+          - - 336
+            - 280
+        mobile:
+          - - 300
+            - 250
+      desktopSizeConfig:
+        ratio:
+          x: 6
+          y: 5
+        range:
+          minWidth: 336
+          maxWidth: 336
+          minHeight: 280
+          maxHeight: 280
+        customSizes:
+          - width: 336
+            height: 280
+      mobileSizeConfig:
+        ratio:
+          x: 6
+          y: 5
+        range:
+          minWidth: 300
+          maxWidth: 300
+          minHeight: 250
+          maxHeight: 250
+        customSizes:
+          - width: 300
+            height: 250
+      page_types:
+        - all
+      exclude_pages: []
+    - id: in-content-2
+      position: after-paragraph-4
+      device: all
+      sizes:
+        desktop:
+          - - 336
+            - 280
+        mobile:
+          - - 300
+            - 250
+      desktopSizeConfig:
+        ratio:
+          x: 6
+          y: 5
+        range:
+          minWidth: 336
+          maxWidth: 336
+          minHeight: 280
+          maxHeight: 280
+        customSizes:
+          - width: 336
+            height: 280
+      mobileSizeConfig:
+        ratio:
+          x: 6
+          y: 5
+        range:
+          minWidth: 300
+          maxWidth: 300
+          minHeight: 250
+          maxHeight: 250
+        customSizes:
+          - width: 300
+            height: 250
+      page_types:
+        - all
+      exclude_pages: []
+    - id: in-content-3
+      position: after-paragraph-6
+      device: all
+      sizes:
+        desktop:
+          - - 336
+            - 280
+        mobile:
+          - - 300
+            - 250
+      desktopSizeConfig:
+        ratio:
+          x: 6
+          y: 5
+        range:
+          minWidth: 336
+          maxWidth: 336
+          minHeight: 280
+          maxHeight: 280
+        customSizes:
+          - width: 336
+            height: 280
+      mobileSizeConfig:
+        ratio:
+          x: 6
+          y: 5
+        range:
+          minWidth: 300
+          maxWidth: 300
+          minHeight: 250
+          maxHeight: 250
+        customSizes:
+          - width: 300
+            height: 250
+      page_types:
+        - all
+      exclude_pages: []
+    - id: taboola-below
+      position: below-content
+      device: all
+      sizes:
+        desktop:
+          - - 728
+            - 90
+        mobile:
+          - - 300
+            - 250
+      desktopSizeConfig:
+        ratio:
+          x: 364
+          y: 45
+        range:
+          minWidth: 728
+          maxWidth: 728
+          minHeight: 90
+          maxHeight: 90
+        customSizes:
+          - width: 728
+            height: 90
+      mobileSizeConfig:
+        ratio:
+          x: 6
+          y: 5
+        range:
+          minWidth: 300
+          maxWidth: 300
+          minHeight: 250
+          maxHeight: 250
+        customSizes:
+          - width: 300
+            height: 250
+      page_types:
+        - all
+      exclude_pages: []
+    - id: sidebar-sticky
+      position: sidebar
+      device: all
+      sizes:
+        desktop:
+          - - 300
+            - 600
+        mobile:
+          - - 300
+            - 250
+      desktopSizeConfig:
+        ratio:
+          x: 1
+          y: 2
+        range:
+          minWidth: 300
+          maxWidth: 300
+          minHeight: 600
+          maxHeight: 600
+        customSizes:
+          - width: 300
+            height: 600
+      mobileSizeConfig:
+        ratio:
+          x: 6
+          y: 5
+        range:
+          minWidth: 300
+          maxWidth: 300
+          minHeight: 250
+          maxHeight: 250
+        customSizes:
+          - width: 300
+            height: 250
+      page_types:
+        - all
+      exclude_pages: []
+    - id: sticky-bottom
+      position: sticky-bottom
+      device: all
+      sizes:
+        desktop:
+          - - 728
+            - 90
+        mobile:
+          - - 320
+            - 50
+      desktopSizeConfig:
+        ratio:
+          x: 364
+          y: 45
+        range:
+          minWidth: 728
+          maxWidth: 728
+          minHeight: 90
+          maxHeight: 90
+        customSizes:
+          - width: 728
+            height: 90
+      mobileSizeConfig:
+        ratio:
+          x: 32
+          y: 5
+        range:
+          minWidth: 320
+          maxWidth: 320
+          minHeight: 50
+          maxHeight: 50
+        customSizes:
+          - width: 320
+            height: 50
+      page_types:
+        - all
+      exclude_pages: []
+    - id: grid-feed
+      position: grid-feed
+      device: all
+      sizes:
+        desktop:
+          - - 300
+            - 250
+        mobile:
+          - - 300
+            - 250
+      desktopSizeConfig:
+        ratio:
+          x: 6
+          y: 5
+        range:
+          minWidth: 300
+          maxWidth: 300
+          minHeight: 250
+          maxHeight: 250
+        customSizes:
+          - width: 300
+            height: 250
+      mobileSizeConfig:
+        ratio:
+          x: 6
+          y: 5
+        range:
+          minWidth: 300
+          maxWidth: 300
+          minHeight: 250
+          maxHeight: 250
+        customSizes:
+          - width: 300
+            height: 250
+      page_types:
+        - all
+      exclude_pages: []
+    - id: grid-divider
+      position: grid-divider
+      device: all
+      sizes:
+        desktop:
+          - - 970
+            - 250
+        mobile:
+          - - 320
+            - 100
+      desktopSizeConfig:
+        ratio:
+          x: 97
+          y: 25
+        range:
+          minWidth: 970
+          maxWidth: 970
+          minHeight: 250
+          maxHeight: 250
+        customSizes:
+          - width: 970
+            height: 250
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 5
+        range:
+          minWidth: 320
+          maxWidth: 320
+          minHeight: 100
+          maxHeight: 100
+        customSizes:
+          - width: 320
+            height: 100
+      page_types:
+        - all
+      exclude_pages: []
+    - id: left-rail
+      position: left-rail
+      device: desktop
+      sizes:
+        desktop:
+          - - 300
+            - 600
+      desktopSizeConfig:
+        ratio:
+          x: 1
+          y: 2
+        range:
+          minWidth: 300
+          maxWidth: 300
+          minHeight: 600
+          maxHeight: 600
+        customSizes:
+          - width: 300
+            height: 600
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      page_types:
+        - all
+      exclude_pages: []
+    - id: right-rail
+      position: right-rail
+      device: desktop
+      sizes:
+        desktop:
+          - - 300
+            - 600
+      desktopSizeConfig:
+        ratio:
+          x: 1
+          y: 2
+        range:
+          minWidth: 300
+          maxWidth: 300
+          minHeight: 600
+          maxHeight: 600
+        customSizes:
+          - width: 300
+            height: 600
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      page_types:
+        - all
+      exclude_pages: []
+    - id: sidebar-bottom
+      position: sidebar-bottom
+      device: desktop
+      sizes:
+        desktop:
+          - - 300
+            - 250
+      desktopSizeConfig:
+        ratio:
+          x: 6
+          y: 5
+        range:
+          minWidth: 300
+          maxWidth: 300
+          minHeight: 250
+          maxHeight: 250
+        customSizes:
+          - width: 300
+            height: 250
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      page_types:
+        - all
+      exclude_pages: []
+    - id: between-stories
+      position: between-stories
+      device: all
+      sizes:
+        desktop:
+          - - 728
+            - 90
+        mobile:
+          - - 300
+            - 250
+      desktopSizeConfig:
+        ratio:
+          x: 364
+          y: 45
+        range:
+          minWidth: 728
+          maxWidth: 728
+          minHeight: 90
+          maxHeight: 90
+        customSizes:
+          - width: 728
+            height: 90
+      mobileSizeConfig:
+        ratio:
+          x: 6
+          y: 5
+        range:
+          minWidth: 300
+          maxWidth: 300
+          minHeight: 250
+          maxHeight: 250
+        customSizes:
+          - width: 300
+            height: 250
+      page_types:
+        - all
+      exclude_pages: []
+tracking:
+  ga4: null
+  gtm: null
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
+scripts_vars: {}
+ads_txt: []
+theme: {}
+legal: {}
