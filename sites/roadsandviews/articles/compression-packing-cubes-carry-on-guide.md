@@ -23,7 +23,7 @@ source_title: >-
   If You Love Everything About Traveling Except The Actual Travel Part, Check
   Out These 28 Things
 generated_by: claude
-featuredImage: /assets/images/roadsandviews-general-article.webp
+featuredImage: /assets/images/compression-packing-cubes-carry-on-guide.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 80
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Travel Tips
+image_alt: >-
+  Open carry-on suitcase organized with tightly packed compression cubes and
+  folded travel clothes.
 ---
 Most of us love being somewhere new. The getting there part, with its sprawling airports, overstuffed bags, and baggage fees, is the tax we pay. A recent BuzzFeed shopping roundup of 28 products for people who love travel but hate the actual travel part included one deceptively simple fix for the packing side of that: compression packing cubes.
 
