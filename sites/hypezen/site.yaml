@@ -117,4 +117,14 @@ tracking:
   facebook_domain_verification: null
   custom: []
 ads_txt:
+  - "# NGC Digital Websites #"
+  - ownerdomain=ngcdigital.io
   - google.com, pub-8316809043439376, DIRECT, f08c47fec0942fa0
+scripts:
+  head:
+    - id: adsense
+      src: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8316809043439376
+      async: true
+  body_start: []
+  body_end: []
+  before_footer: []
