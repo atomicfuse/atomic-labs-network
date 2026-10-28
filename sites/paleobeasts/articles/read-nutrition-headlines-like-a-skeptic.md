@@ -22,7 +22,7 @@ source_title: >-
   Stanford prison experiment: Why do controversial psychology studies still have
   such a hold on us?
 generated_by: claude
-featuredImage: /assets/images/paleobeasts-general-article.webp
+featuredImage: /assets/images/read-nutrition-headlines-like-a-skeptic.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 80
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 5
 topics:
   - Paleo Diet
+image_alt: >-
+  A hand lifts a nutrition magazine page to reveal research papers beside
+  Paleo-style foods.
 ---
 Netflix's *The New Stanford Prison Experiment* has pushed the 1971 study back into conversation, and Phys recently revisited why it, and Milgram's obedience studies, still fascinate us. The piece describes major critiques of the studies' methods, ethics, and interpretations. Yet they endure, Phys argues, because of the disturbing question they pose: why do ordinary people choose harm when they could refuse?
 
