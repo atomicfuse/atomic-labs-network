@@ -22,7 +22,7 @@ source_title: >-
   Moose Johnston: Jimmy Johnson and Jerry Jones Were Never Interested in Sharing
   “Credit” | Don't @ Me w/ Dan Dakich
 generated_by: claude
-featuredImage: /assets/images/nflnewsinsider-general-article.webp
+featuredImage: /assets/images/moose-johnston-jimmy-johnson-jerry-jones-credit.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 66
@@ -39,6 +39,7 @@ reading_time: 3
 topics:
   - Draft Prospect Watch
   - Team Season Previews
+image_alt: Split football workspaces face off across a championship trophy and football.
 ---
 Former Cowboys fullback Moose Johnston says the breakup of Jimmy Johnson and Jerry Jones came down to ego and credit. Speaking on "Don't @ Me w/ Dan Dakich," per Fox News, Johnston argued that neither man was interested in sharing credit for turning the Dallas franchise around.
 
