@@ -22,7 +22,7 @@ source_url: >-
 source_item_id: 6ae036dc0a9c94d1ee7f8df7
 source_title: 'This 4,000-square-foot apartment in Mumbai is shaped like a horseshoe'
 generated_by: claude
-featuredImage: /assets/images/decotricksworld-general-article.webp
+featuredImage: /assets/images/make-awkward-floor-plan-feel-intentional.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 68
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - In-Depth Reviews
+image_alt: >-
+  Photorealistic apartment interior showing a curved layout, cohesive seating
+  area, and a private zone beyond.
 ---
 Got a layout that refuses to behave? A long hallway, a strange curve, two spaces that never quite became one? A recent Mumbai project shows what to do with it: stop fighting the shape and design around it.
 
