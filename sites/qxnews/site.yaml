@@ -1,0 +1,135 @@
+domain: qxnews.com
+active: true
+author: Chloe Scott
+brief:
+  audiences: []
+  audience_type_ids: []
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics: []
+  theme: null
+  topics_v2: null
+  seo_keywords_focus: []
+  content_guidelines: []
+  image_guidelines: null
+  vertical: ""
+  vertical_id: ""
+  review_percentage: 5
+  schedule:
+    articles_per_day: 0
+    preferred_days: []
+    preferred_time: 10:00
+grid:
+  topics:
+    - label: World News
+      verticals: []
+      bundles:
+        - 6ac77c90ce7701ccb2411f38
+        - 6ac77ccece7701ccb2411f39
+    - label: Business & Finance
+      verticals: []
+      bundles:
+        - 6ac780bb64df7692b392c16c
+    - label: Health
+      verticals: []
+      bundles:
+        - 6ac780e864df7692b392c16d
+    - label: Entertainment
+      verticals: []
+      bundles:
+        - 6ac4c3d064df7692b392c02d
+    - label: Science & Space
+      verticals: []
+      bundles:
+        - 6ac7780dce7701ccb2411f34
+    - label: See the World
+      verticals: []
+      bundles:
+        - 6ac77d10ce7701ccb2411f3a
+groups: []
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: QXNews
+site_tagline: null
+theme:
+  base: graphite_tech
+  template: grid
+  colors:
+    primary: "#0f0f0f"
+    accent: "#1d4ed8"
+    background: "#fafafa"
+    secondary: "#fafafa"
+    text: "#0a0a0a"
+    muted: "#6b7280"
+    surface: "#f3f4f6"
+    border: "#e5e7eb"
+    heading: "#0a0a0a"
+    link: "#1d4ed8"
+    link_hover: "#1e40af"
+    nav_link: "#fafafa"
+    nav_link_hover: "#60a5fa"
+    footer_bg: "#0f0f0f"
+    must_reads_bg: "#0f0f0f"
+    hero_title: "#fafafa"
+    must_reads_title: "#fafafa"
+    article_hero_title: "#fafafa"
+    article_hero_meta: "#9ca3af"
+    feed_title: "#0a0a0a"
+    feed_desc: "#1f2937"
+    feed_date: "#6b7280"
+    prose_heading: "#0a0a0a"
+    prose_body: "#1f2937"
+    category_header_text: "#fafafa"
+    subscribe_heading: "#fafafa"
+    footer_text: "#9ca3af"
+    footer_heading: "#fafafa"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#60a5fa"
+  logo_height: 66
+  menu_item_font_size: 15
+  fonts:
+    heading: Space Grotesk
+    body: Inter
+  logo: /assets/logo-7fe47f9ceb.png
+  favicon: /assets/favicon-3f60c847ea.png
+  footer_logo: /assets/logo-footer-92a7b78214.png
+  logo_height_footer: 70
+  card: {}
+ads_txt:
+  - "# NGC Digital Websites #"
+  - ownerdomain=ngcdigital.io
+  - google.com, pub-8316809043439376, DIRECT, f08c47fec0942fa0
+scripts:
+  head:
+    - id: adsense
+      src: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8316809043439376
+      async: true
+tracking:
+  ga4: G-DTBLYP9FT2
+  gtm: GT-MQDHLPGM
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
