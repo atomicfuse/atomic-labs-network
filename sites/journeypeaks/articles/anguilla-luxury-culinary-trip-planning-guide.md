@@ -24,7 +24,7 @@ source_title: >-
   Anguilla named Caribbean’s leading culinary &amp; luxury island destination at
   2026 World Travel Awards
 generated_by: claude
-featuredImage: /assets/images/journeypeaks-general-article.webp
+featuredImage: /assets/images/anguilla-luxury-culinary-trip-planning-guide.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 72
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Travel
+image_alt: >-
+  Elegant Caribbean seafood meal on a beachfront table overlooking turquoise
+  water in Anguilla
 ---
 Anguilla just picked up two of the Caribbean's top travel honors, and if you're weighing where to spend a splurge-worthy week, it's worth a serious look. Per Breakingtravelnews, the island won Caribbean's Leading Culinary Destination and Caribbean's Leading Luxury Island Destination at the 2026 World Travel Awards. Below is how to use that news to decide whether Anguilla fits your trip, and how to plan one built around eating well.
 
