@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae0e6a6571b7d0a4db2db59
 source_title: Political Analysts Weigh Predictions for Midterm Elections
 generated_by: claude
-featuredImage: /assets/images/nflnewsinsider-general-article.webp
+featuredImage: /assets/images/how-to-read-nfl-predictions-like-an-analyst.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Team Season Previews
+image_alt: >-
+  Forecast sheets and a football sit on an analyst’s desk overlooking an empty
+  stadium field.
 ---
 Every NFL season brings a flood of predictions: power rankings, win totals, playoff brackets. Most of them are hard to use. This guide gives you a short, repeatable method for judging any forecast, so you can tell a useful read from a hot take.
 
