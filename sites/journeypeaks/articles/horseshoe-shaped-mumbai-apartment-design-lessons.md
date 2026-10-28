@@ -22,7 +22,7 @@ source_url: >-
 source_item_id: 6ae036dc0a9c94d1ee7f8df7
 source_title: 'This 4,000-square-foot apartment in Mumbai is shaped like a horseshoe'
 generated_by: claude
-featuredImage: /assets/images/journeypeaks-general-article.webp
+featuredImage: /assets/images/horseshoe-shaped-mumbai-apartment-design-lessons.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Lifestyle
+image_alt: >-
+  Calm luxury living room with a curved passage, cream sofa, mustard chairs, and
+  warm natural materials.
 ---
 Travel has a way of making you notice rooms. You walk into a hotel suite or a rental, and within a minute you know whether it works: where you'd drop your bag, whether two people could share it without friction, whether it feels calm. A recently profiled Mumbai apartment is a useful case study in exactly that instinct, and you can borrow its lessons for how you pick and judge places to stay.
 
