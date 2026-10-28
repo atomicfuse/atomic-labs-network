@@ -24,7 +24,7 @@ source_title: >-
   Tiger Woods and Vanessa Trump's relationship 'stronger than ever' with
   marriage talks on the table: report
 generated_by: claude
-featuredImage: /assets/images/popstorylab-general-article.webp
+featuredImage: /assets/images/tiger-woods-vanessa-trump-marriage-talk-report.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 68
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Celebrity News
+image_alt: >-
+  Photorealistic editorial portrait of Tiger Woods and Vanessa Trump standing
+  together in a softly lit lounge.
 ---
 Tiger Woods and Vanessa Trump are reportedly "stronger than ever," and marriage has reportedly come up. That's the headline from a Fox News report published this week, which says the couple have leaned on each other through a difficult year that included Woods' arrest on DUI charges and Trump's breast cancer diagnosis.
 
