@@ -20,7 +20,7 @@ source_url: 'https://www.fox9.com/video/fmc-lgtbvanorhyypczz'
 source_item_id: 6ae036dd0a9c94d1ee7f8dfc
 source_title: 'Anoka Halloween: House decorating contest winner'
 generated_by: claude
-featuredImage: /assets/images/decoratinglabs-general-article.webp
+featuredImage: /assets/images/anoka-monster-house-halloween-display-visit-tips.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 80
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Tips & Advice
+image_alt: >-
+  Families admire a playful, family-friendly monster-themed Halloween house
+  display at dusk.
 ---
 Anoka's Halloween house decorating contest has picked its top family-friendly winner: the Monster House at 1318 Sunny Ln. According to Fox9, public viewing runs October 30 and 31 from 6:30 p.m. to 9:30 p.m. Below you'll find what to plan for if you go, plus ways to borrow the idea for your own porch or yard.
 
