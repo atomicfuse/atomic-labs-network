@@ -23,7 +23,7 @@ source_title: >-
   11 Designer-Approved Decor Pieces to Add to Your Living Room—All at an Amazon
   Budget
 generated_by: claude
-featuredImage: /assets/images/decotricksworld-general-article.webp
+featuredImage: /assets/images/budget-living-room-decor-swaps-that-look-designer.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Tips & Advice
+image_alt: >-
+  Bright living room with a patterned rug, tan sofa, coffee-table books,
+  coasters, side table, and framed decor.
 ---
 A living room rarely looks unfinished because of one big missing piece. It usually looks that way because of the small stuff: bare surfaces, a rug that doesn't fit, frames that never got filled. The good news is that the small stuff is cheap to fix.
 
