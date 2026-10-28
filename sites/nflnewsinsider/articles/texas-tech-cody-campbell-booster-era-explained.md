@@ -23,7 +23,7 @@ source_title: >-
   College football’s Jerry Jones? Texas Tech booster Cody Campbell demands
   return on investment
 generated_by: claude
-featuredImage: /assets/images/nflnewsinsider-general-article.webp
+featuredImage: /assets/images/texas-tech-cody-campbell-booster-era-explained.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -41,6 +41,9 @@ reading_time: 4
 topics:
   - Player Spotlight Stories
   - Team Season Previews
+image_alt: >-
+  Booster figure watches a football field from a stadium suite beside a football
+  and closed portfolio.
 ---
 Texas Tech booster Cody Campbell has put millions into the Red Raiders' football program, and after the team's loss to Cincinnati he didn't stay quiet about it. Per a Fox News report, that reaction is being read as a sign of something bigger: a new era in which the biggest NIL funders behave less like donors and more like team owners.
 
