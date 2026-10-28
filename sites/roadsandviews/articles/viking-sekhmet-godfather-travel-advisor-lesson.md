@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6adda69c571b7d0a4db2d8a4
 source_title: How Viking Godfather Michael Consoli Shared the Honor With Clients
 generated_by: claude
-featuredImage: /assets/images/roadsandviews-general-article.webp
+featuredImage: /assets/images/viking-sekhmet-godfather-travel-advisor-lesson.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Destinations
+image_alt: >-
+  Travel advisor shares a Nile cruise video with clients on a luxury riverboat
+  deck.
 ---
 Travel advisor Michael Consoli was named godfather of Viking Sekhmet, Viking's new ship on the Nile, and he chose to share the moment with his clients through a video, according to TravelPulse. If you're a Gen Z traveler who books everything yourself, that detail is worth a second look. It shows what a good advisor relationship looks like, and it gives you a checklist for deciding whether you want one on your next big trip.
 
