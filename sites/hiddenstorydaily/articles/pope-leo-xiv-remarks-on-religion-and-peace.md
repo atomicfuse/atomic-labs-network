@@ -23,7 +23,7 @@ source_title: >-
   Pope says 'there is no such thing as a holy war' in message to religious
   leaders
 generated_by: claude
-featuredImage: /assets/images/hiddenstorydaily-general-article.webp
+featuredImage: /assets/images/pope-leo-xiv-remarks-on-religion-and-peace.webp
 quality_score: 52
 score_breakdown:
   seo_quality: 62
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Unexplained Events
+image_alt: >-
+  Pope Leo XIV stands in a sunlit stone cloister, making a calm open-handed
+  gesture.
 ---
 The words were short and the target was wide. Pope Leo XIV, the first American pope, told religious leaders gathered in Assisi that "there is no such thing as a holy war," according to NBC News. By the end of this article you will know what he said, what he was pushing against, and how to read the gap between a symbolic speech and the quieter work the Vatican is doing on the ground.
 
