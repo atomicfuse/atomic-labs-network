@@ -27,7 +27,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-10-26T08:01:53.839Z
+    last_updated: 2026-10-28T08:52:29.034Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -36,7 +36,7 @@ sites:
     site_id: "3001473474401"
     staging_branch: staging/bestpaleosecrets
     status: Live
-    vertical: Seasonal Paleo Menus
+    vertical: Food & Drink
     zone_id: 3a515f2ec1683a419dde751f8faf8146
     worker_pending_dns: false
   - domain: buzzbriefdaily
