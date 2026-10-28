@@ -22,7 +22,7 @@ source_title: >-
   Oregon fires OC Drew Mehringer after stunning fall from championship
   contention
 generated_by: claude
-featuredImage: /assets/images/nflnewsinsider-general-article.webp
+featuredImage: /assets/images/oregon-ducks-coaching-change-drew-mehringer.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 72
@@ -41,6 +41,9 @@ reading_time: 4
 topics:
   - Game Day Analysis
   - Team Season Previews
+image_alt: >-
+  Open football playbook and headset beside a green-and-gold jacket in an empty
+  stadium office.
 ---
 Oregon has fired offensive coordinator Drew Mehringer, according to The New York Times, following what the outlet describes as the program's stunning fall from championship contention. By the end of this piece, you'll know what has been reported, what hasn't, and the questions that will decide whether the Ducks' next hire fixes anything.
 
