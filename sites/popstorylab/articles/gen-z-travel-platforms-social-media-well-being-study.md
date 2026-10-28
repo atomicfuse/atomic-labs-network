@@ -23,7 +23,7 @@ source_title: >-
   Social media on travel platforms can boost Gen Z well-being when it encourages
   positive emotional engagement
 generated_by: claude
-featuredImage: /assets/images/popstorylab-general-article.webp
+featuredImage: /assets/images/gen-z-travel-platforms-social-media-well-being-study.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 68
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Viral Stories
+image_alt: >-
+  Young travelers share a smartphone while planning a trip together at a leafy
+  outdoor café.
 ---
 Your trip-planning app may be doing more than helping you find a hotel. According to a study reported by Phys, social media communication on online travel platforms can contribute to customer well-being when it encourages participation and positive emotional experiences. The research surveyed 210 Generation Z users in Greater Jakarta.
 
