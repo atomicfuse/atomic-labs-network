@@ -22,7 +22,8 @@ source_url: >-
 source_item_id: 6adc3dac0a9c94d1ee7f8bec
 source_title: STRONG Pilates to Open New Fitness Studio in Gambrills Near Waugh Chapel
 generated_by: claude
-featuredImage: /assets/images/paleobeasts-general-article.webp
+featuredImage: >-
+  /assets/images/strong-pilates-gambrills-what-to-eat-before-and-after-class.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 62
@@ -39,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Healthy Snacks
+image_alt: >-
+  Healthy snacks and water arranged beside workout equipment in a bright fitness
+  studio.
 ---
 A new boutique fitness studio is headed to Anne Arundel County, and if you plan to sign up, what you eat around class will shape how good you feel in it. Here's the news, then a practical way to fuel for a Pilates, strength and cardio hybrid workout.
 
