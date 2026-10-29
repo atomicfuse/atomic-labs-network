@@ -67,3 +67,5 @@ legal:
   company_country: Israel
   effective_date: 2026-01-01
 theme: {}
+consent:
+  enabled: true
