@@ -120,6 +120,8 @@ ads_txt:
   - "# NGC Digital Websites #"
   - ownerdomain=ngcdigital.io
   - google.com, pub-8316809043439376, DIRECT, f08c47fec0942fa0
+  # Empty last entry = ads.txt ends with a final newline (IAB spec). Test for AdSense "not found".
+  - ""
 scripts:
   head:
     - id: adsense
