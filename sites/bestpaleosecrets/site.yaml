@@ -89,8 +89,8 @@ brief:
     - "Sweet Treats: Fruit-based desserts and Paleo-friendly baking."
   image_guidelines:
     - Use realistic, appetizing food photography with natural light, fresh ingredients, and simple kitchen settings. Show finished dishes and useful preparation steps. Avoid body-transformation photos, medical imagery, and text-heavy graphics.
-  vertical: Seasonal Paleo Menus
-  vertical_id: null
+  vertical: Food & Drink
+  vertical_id: 6a00793d1104bbff809b7c3e
   review_percentage: 5
   schedule:
     articles_per_day: 1
