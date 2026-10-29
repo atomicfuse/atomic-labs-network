@@ -202,3 +202,5 @@ tracking:
 authors:
   - id: eleni-papadakis
     topics: []
+consent:
+  enabled: true
