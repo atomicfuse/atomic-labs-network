@@ -121,5 +121,7 @@ ads_txt:
   - smartadserver.com, 3820, RESELLER
   - indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc
   - pubmatic.com, 160065, RESELLER, 5d62403b186f2ace
+  - "#google"
+  - google.com, pub-8316809043439376, DIRECT, f08c47fec0942fa0
 theme: {}
 legal: {}
