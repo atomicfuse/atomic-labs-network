@@ -20,7 +20,7 @@ source_url: 'https://www.fox9.com/video/fmc-lgtbvanorhyypczz'
 source_item_id: 6ae036dd0a9c94d1ee7f8dfc
 source_title: 'Anoka Halloween: House decorating contest winner'
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/anoka-monster-house-halloween-display-lessons.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,7 @@ topics:
   - DIY Decor Projects
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: Family-friendly monster decorations brighten a suburban home at dusk.
 ---
 Anoka's Halloween house decorating contest has named its top family-friendly winner: the Monster House at 1318 Sunny Ln. If you're local, you can go see it. If you're not, you can still steal a few ideas for your own porch before Halloween night.
 
