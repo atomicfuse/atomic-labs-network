@@ -22,7 +22,7 @@ source_title: >-
   27 Kitchen Products You’ll Use So Much, You May Start Referring To Them As
   Your BFFs
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/kitchen-tools-that-earn-counter-space.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ reading_time: 3
 topics:
   - Thrifty Decor Finds
   - Budget-Friendly Makeovers
+image_alt: >-
+  Bright home kitchen counter with everyday cooking tools arranged for easy
+  access and a few stored nearby.
 ---
 BuzzFeed Shopping recently published a roundup of 27 kitchen products pitched as so handy you might start calling them your BFFs. The idea is appealing: small tools that make daily cooking less annoying.
 
