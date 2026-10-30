@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae41d4c6fa9fb73f2382e01
 source_title: Pet First | 6 Festive Home Decoration Safety Tips To Keep Dogs And Cats Safe
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/pet-safe-festive-decorating-tips-dogs-cats.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 74
@@ -38,6 +38,9 @@ reading_time: 4
 topics:
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Dog and cat relax in a safely decorated festive living room with secured
+  lights and out-of-reach décor.
 ---
 You don't have to skip the string lights, flowers, or rangoli to keep your dog or cat safe. You just have to decorate with a little forethought.
 
