@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae036dc0a9c94d1ee7f8df7
 source_title: 'This 4,000-square-foot apartment in Mumbai is shaped like a horseshoe'
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/make-awkward-floor-plan-feel-intentional.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ topics:
   - Everyday Style Lessons
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Bright living room arranged along a gentle curved passage with warm wood,
+  cream seating, and mustard chairs.
 ---
 Got a room or a whole layout that never quite works? A Mumbai apartment recently featured by Architectural Digest shows that the odd shape you're fighting can become the best thing about your home. You can borrow the thinking without a 4,000-square-foot budget.
 
