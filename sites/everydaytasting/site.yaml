@@ -124,8 +124,8 @@ brief:
     - Show achievable meals, everyday kitchens, and simple plating.
     - Match photos to the recipe’s ingredients and finished result.
     - Avoid heavy filters, text overlays, and artificial-looking food.
-  vertical: Quick Weeknight Meals
-  vertical_id: null
+  vertical: Food & Drink
+  vertical_id: 6a00793d1104bbff809b7c3e
   review_percentage: 5
   schedule:
     articles_per_day: 4
