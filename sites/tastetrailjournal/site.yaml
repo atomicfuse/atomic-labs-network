@@ -1,0 +1,196 @@
+domain: tastetrailjournal.com
+active: true
+author: Sarah Foster
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: Friendly
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Regional Dish Deep Dive
+    - Flavorful Destination Guides
+    - Local Ingredient Spotlights
+    - Culinary Heritage Journeys
+    - culinary spotlight
+  theme: A food and travel site exploring regional dishes, local food traditions,
+    and destinations worth visiting for their flavors.
+  topics_v2:
+    - name: Regional Dish Deep Dive
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d17
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a184492454e8b9490eacaab
+          - 6a1402bf16f23264031d7c63
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Flavorful Destination Guides
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793e1104bbff809b7d17
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a8d0d68eacb826224e5b28b
+          - 6a184492454e8b9490eacaab
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a1402bf16f23264031d7c63
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Local Ingredient Spotlights
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793e1104bbff809b7d13
+          - 6a00793f1104bbff809b7ec7
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a184492454e8b9490eacaab
+          - 6a8d0d68eacb826224e5b28b
+          - 6a034da986fcaaeb5bc834e7
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Culinary Heritage Journeys
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793e1104bbff809b7cc1
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a184492454e8b9490eacaab
+          - 6a8d0d68eacb826224e5b28b
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a1402bf16f23264031d7c63
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: culinary spotlight
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793e1104bbff809b7d17
+          - 6a00793e1104bbff809b7cd1
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a184492454e8b9490eacaab
+          - 6a1402bf16f23264031d7c63
+          - 6a8cf866e04b499a4e888be5
+          - 6a8d0d68eacb826224e5b28b
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Cover local specialties, street food, food markets, and regional dining
+      customs.
+    - "Publish practical guides: “What to Eat in Lisbon” or “A Food Lover’s
+      Weekend in Sicily.”"
+    - Include approachable recipes inspired by featured destinations.
+    - Keep the tone warm, curious, and informative. Avoid invented firsthand
+      experiences.
+  image_guidelines:
+    - Use realistic, appetizing food photography with natural lighting.
+    - Mix close-ups of dishes with markets, cafés, and destination scenery.
+    - Match each image to the specific dish and location; avoid text overlays
+      and overly polished stock photos.
+  vertical: Food & Drink
+  vertical_id: 6a00793d1104bbff809b7c3e
+  review_percentage: 5
+  schedule:
+    articles_per_day: 5
+    preferred_days:
+      - Wednesday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: tastetrailjournal.com
+site_tagline: null
+theme:
+  base: botanical
+  colors:
+    primary: "#1f3d2b"
+    accent: "#3d6b4c"
+    background: "#f7f5ee"
+    secondary: "#f7f5ee"
+    text: "#1f2d24"
+    muted: "#6b7a6f"
+    surface: "#eee9dd"
+    border: "#d9d3c4"
+    heading: "#1f3d2b"
+    link: "#1f3d2b"
+    link_hover: "#3d6b4c"
+    nav_link: "#f7f5ee"
+    nav_link_hover: "#cfe0c2"
+    footer_bg: "#1f3d2b"
+    must_reads_bg: "#1f3d2b"
+    hero_title: "#f7f5ee"
+    must_reads_title: "#f7f5ee"
+    article_hero_title: "#f7f5ee"
+    article_hero_meta: "#a8b3a4"
+    feed_title: "#1f3d2b"
+    feed_desc: "#2c4a37"
+    feed_date: "#6b7a6f"
+    prose_heading: "#1f3d2b"
+    prose_body: "#2c4a37"
+    category_header_text: "#f7f5ee"
+    subscribe_heading: "#1f3d2b"
+    footer_text: "#a8b3a4"
+    footer_heading: "#f7f5ee"
+    footer_link: "#a8b3a4"
+    footer_link_hover: "#cfe0c2"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Lora
+    body: Lora
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
