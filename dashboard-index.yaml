@@ -777,6 +777,26 @@ sites:
     vertical: Technology & Computing
     worker_pending_dns: false
     zone_id: d0b77cca61b51acdf4828c12a9f0b19e
+  - domain: motorhubdaily
+    cf_apo: false
+    company: null
+    created_at: 2026-11-02T08:27:10.450Z
+    custom_domain: motorhubdaily.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-11-02T08:31:40.703Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=motorhubdaily
+    saved_previews: null
+    site_id: "3608030450193"
+    staging_branch: staging/motorhubdaily
+    status: Live
+    vertical: Automotive
+    zone_id: 56dca8d0b9edadef203f0fa1296ed1e3
+    worker_pending_dns: false
   - domain: msmax
     cf_apo: false
     company: null
@@ -1525,7 +1545,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-11-02T08:15:53.270Z
+    last_updated: 2026-11-02T08:15:33.754Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -1537,25 +1557,6 @@ sites:
     vertical: Food & Drink
     zone_id: 99ae10b3318a3dd44e9b2ee07b9a4b4c
     worker_pending_dns: false
-  - domain: motorhubdaily
-    company: null
-    vertical: Automotive
-    status: Staging
-    site_id: "3608030450193"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-11-02T08:27:10.450Z
-    created_at: 2026-11-02T08:27:10.450Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/motorhubdaily
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=motorhubdaily
-    saved_previews: null
-    custom_domain: null
 deleted:
   - domain: chaibeseret
     cf_apo: false
