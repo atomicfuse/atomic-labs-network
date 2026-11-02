@@ -19,7 +19,7 @@ source_url: 'https://www.nbcnews.com/politics/2026-elections/texas-results'
 source_item_id: 6ae5d8441123ffa4dd38f837
 source_title: 'Texas Midterm Elections 2026: Key Races, Candidates and Past Results'
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/texas-election-night-watch-party-home-decor.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ reading_time: 4
 topics:
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Friends gather in a cozy living room with snacks and seating arranged around a
+  television.
 ---
 Texas is one of the most closely watched states in national politics, and NBC News has put together a hub for the 2026 Texas midterms covering key races, candidates, and past results. If you plan to follow along with friends or family, you'll want a room that works for a long evening of refreshing results pages.
 
