@@ -85,19 +85,14 @@ brief:
           - Friday
   seo_keywords_focus: []
   content_guidelines:
-    - Cover celebrity updates, TV and film highlights, inspiring achievements,
-      and nostalgic stories.
-    - "Favor engaging angles: “Where Are Your Favorite TV Stars Now?” or “Meet
-      the People Bringing Their Communities Together.”"
+    - Cover celebrity updates, TV and film highlights, inspiring achievements, and nostalgic stories.
+    - "Favor engaging angles: “Where Are Your Favorite TV Stars Now?” or “Meet the People Bringing Their Communities Together.”"
     - Keep the tone conversational, accessible, and respectful.
-    - Verify claims, credit original reporting, and avoid misleading headlines
-      or unconfirmed gossip.
+    - Verify claims, credit original reporting, and avoid misleading headlines or unconfirmed gossip.
   image_guidelines:
-    - Use licensed editorial photos of featured people, events, and
-      entertainment.
+    - Use licensed editorial photos of featured people, events, and entertainment.
     - Favor clear subjects, expressive faces, and strong mobile-friendly crops.
-    - Match images to the actual story; avoid misleading edits, text overlays,
-      and AI depictions presented as real events.
+    - Match images to the actual story; avoid misleading edits, text overlays, and AI depictions presented as real events.
   vertical: Entertainment
   vertical_id: 6a00793d1104bbff809b7c32
   review_percentage: 5
@@ -159,3 +154,6 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-X7H092JQLS
+  gtm: GT-P3F3Z437
