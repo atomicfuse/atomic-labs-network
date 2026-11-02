@@ -15,11 +15,9 @@ brief:
     - Culinary Journey Destinations
     - Food Festival Spotlights
     - Local Ingredient Stories
-  theme: >-
+  theme: |-
     Discover the World Through Food
-
-    A food and travel site exploring regional dishes, local food traditions, and
-    destinations worth visiting for their flavors.
+    A food and travel site exploring regional dishes, local food traditions, and destinations worth visiting for their flavors.
   topics_v2:
     - name: Regional Dish Deep-Dive
       source:
@@ -95,18 +93,14 @@ brief:
           - Monday
   seo_keywords_focus: []
   content_guidelines:
-    - Cover local specialties, street food, food markets, and regional dining
-      customs.
-    - "Publish practical guides: “What to Eat in Lisbon” or “A Food Lover’s
-      Weekend in Sicily.”"
+    - Cover local specialties, street food, food markets, and regional dining customs.
+    - "Publish practical guides: “What to Eat in Lisbon” or “A Food Lover’s Weekend in Sicily.”"
     - Include approachable recipes inspired by featured destinations.
-    - Keep the tone warm, curious, and informative. Avoid invented firsthand
-      experiences.
+    - Keep the tone warm, curious, and informative. Avoid invented firsthand experiences.
   image_guidelines:
     - Use realistic, appetizing food photography with natural lighting.
     - Mix close-ups of dishes with markets, cafés, and destination scenery.
-    - Match each image to the specific dish and location; avoid text overlays
-      and overly polished stock photos.
+    - Match each image to the specific dish and location; avoid text overlays and overly polished stock photos.
   vertical: Travel
   vertical_id: 6a00793d1104bbff809b7c7a
   review_percentage: 5
@@ -179,3 +173,6 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-EYFM3MWQDD
+  gtm: GT-PJS7JLX4
