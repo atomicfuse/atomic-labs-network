@@ -15,8 +15,7 @@ brief:
     - Family Dinner Favorites
     - Weeknight Meal Planning
     - Homemade Dessert Delights
-  theme: A food site centered on comforting homemade meals, simple family
-    favorites, and seasonal recipes for cozy nights in.
+  theme: A food site centered on comforting homemade meals, simple family favorites, and seasonal recipes for cozy nights in.
   topics_v2:
     - name: Seasonal Comfort Foods
       source:
@@ -94,18 +93,14 @@ brief:
           - Friday
   seo_keywords_focus: []
   content_guidelines:
-    - Focus on hearty soups, casseroles, one-pot dinners, slow-cooker meals, and
-      nostalgic desserts.
-    - "Favor practical stories: “Comforting Dinners for Chilly Evenings” or
-      “Small-Batch Meals for Two.”"
+    - Focus on hearty soups, casseroles, one-pot dinners, slow-cooker meals, and nostalgic desserts.
+    - "Favor practical stories: “Comforting Dinners for Chilly Evenings” or “Small-Batch Meals for Two.”"
     - Keep the tone warm, reassuring, and approachable.
-    - Include clear portions, realistic cooking times, affordable substitutions,
-      and tested recipe instructions.
+    - Include clear portions, realistic cooking times, affordable substitutions, and tested recipe instructions.
   image_guidelines:
     - Use realistic food photography with warm lighting and inviting textures.
     - Feature rustic bowls, simple table settings, and natural kitchen scenes.
-    - Match images to the recipe; avoid overly staged settings, text overlays,
-      and artificial-looking food.
+    - Match images to the recipe; avoid overly staged settings, text overlays, and artificial-looking food.
   vertical: Food & Drink
   vertical_id: 6a00793d1104bbff809b7c3e
   review_percentage: 5
@@ -171,3 +166,6 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-1G8YVHEXTC
+  gtm: GT-KTTMKXVH
