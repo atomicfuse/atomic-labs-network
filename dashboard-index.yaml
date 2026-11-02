@@ -147,7 +147,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-11-02T10:45:10.614Z
+    last_updated: 2026-11-02T10:43:21.087Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -661,11 +661,11 @@ sites:
     cf_apo: false
     company: null
     created_at: 2026-11-02T10:39:16.902Z
-    custom_domain: null
+    custom_domain: dinnermag.com
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-11-02T10:39:16.902Z
+    last_updated: 2026-11-02T10:50:31.080Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -673,9 +673,10 @@ sites:
     saved_previews: null
     site_id: "3615956902337"
     staging_branch: staging/httpsdinnermag
-    status: Staging
+    status: Live
     vertical: Food & Drink
-    zone_id: null
+    zone_id: e5d16584a153d8e5601e8eb6d865f940
+    worker_pending_dns: false
   - domain: hypezen
     cf_apo: false
     company: null
