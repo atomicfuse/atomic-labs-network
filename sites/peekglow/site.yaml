@@ -1,0 +1,194 @@
+domain: peekglow.com
+active: true
+author: Mia Sanders
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Everyday Style Boosts
+    - Home Refresh Finds
+    - Mindful Routine Ideas
+    - Simple Pleasure Picks
+  theme: >-
+    Small Discoveries for Brighter Living
+
+    A lifestyle site sharing fresh ideas for home, personal style, everyday
+    routines, and simple pleasures
+  topics_v2:
+    - name: Everyday Style Boosts
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c74
+          - 6a00793f1104bbff809b7f45
+          - 6a00793f1104bbff809b7f49
+          - 6a00793f1104bbff809b7f43
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a2515e640722bf12ccf991d
+          - 6a682124edec940b41029c24
+          - 6a0b350eac596b621e935655
+          - 6a8d1947e04b499a4e888c3a
+          - 6a30af9d32676a5c75e451d0
+          - 6a0bca0116f23264031d77cb
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Home Refresh Finds
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d55
+        tag_ids:
+          - 6a13f95216f23264031d7b10
+          - 6a0fe1bf16f23264031d7a3d
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a2515e640722bf12ccf991d
+          - 6a2777cfeb470600f9705333
+          - 6ac792abce7701ccb2411f87
+          - 6a2777cfeb470600f9705335
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Mindful Routine Ideas
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+          - 6a00793e1104bbff809b7e03
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a034d6286fcaaeb5bc834b1
+          - 6a04411786fcaaeb5bc83764
+          - 6a033ab186fcaaeb5bc8332e
+          - 6a0b1f2ca53fcab94b3649d3
+          - 6a2777cfeb470600f9705333
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Simple Pleasure Picks
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7e2d
+          - 6a00793d1104bbff809b7c6e
+          - 6a00793e1104bbff809b7d57
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a2515e640722bf12ccf991d
+          - 6a13f95216f23264031d7b10
+          - 6ac7908064df7692b392c1c8
+          - 6ac792c1ce7701ccb2411f8c
+          - 6ac79519ce7701ccb2411f98
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Cover approachable beauty routines, affordable style, cozy interiors, and
+      everyday inspiration.
+    - "Favor useful stories: “Small Touches That Make a Room Feel Warmer” or
+      “How to Build a Simple Everyday Wardrobe.”"
+    - Keep the tone warm, upbeat, and practical.
+    - Avoid exaggerated product promises and unsupported health claims.
+  image_guidelines:
+    - Use realistic photography with natural light, soft colors, and inviting
+      settings.
+    - Feature attainable homes, diverse people, and clear product details.
+    - Match images closely to each article; avoid heavy retouching, clutter, and
+      text overlays.
+  vertical: Style & Fashion
+  vertical_id: 6a00793d1104bbff809b7c74
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days:
+      - Monday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: peekglow.com
+site_tagline: null
+theme:
+  base: art_deco_brass
+  colors:
+    primary: "#0a0a0a"
+    accent: "#a16207"
+    background: "#0a0a0a"
+    secondary: "#0a0a0a"
+    text: "#f5e8c7"
+    muted: "#a8997a"
+    surface: "#1a1410"
+    border: "#2d2418"
+    heading: "#f5e8c7"
+    link: "#d4a657"
+    link_hover: "#f5e8c7"
+    nav_link: "#f5e8c7"
+    nav_link_hover: "#ffffff"
+    footer_bg: "#0a0a0a"
+    must_reads_bg: "#1a1410"
+    hero_title: "#f5e8c7"
+    must_reads_title: "#f5e8c7"
+    article_hero_title: "#f5e8c7"
+    article_hero_meta: "#a8997a"
+    feed_title: "#f5e8c7"
+    feed_desc: "#d4c79d"
+    feed_date: "#a8997a"
+    prose_heading: "#f5e8c7"
+    prose_body: "#d4c79d"
+    category_header_text: "#f5e8c7"
+    subscribe_heading: "#0a0a0a"
+    footer_text: "#d4c79d"
+    footer_heading: "#f5e8c7"
+    footer_link: "#d4c79d"
+    footer_link_hover: "#ffffff"
+    header_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a
+      50%, #2d2418 75%, #0a0a0a 100%)"
+    subscribe_bg_gradient: "linear-gradient(135deg, #8a6508 0%, #b8860b 30%, #f5e8c7
+      50%, #b8860b 70%, #8a6508 100%)"
+    footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a
+      50%, #2d2418 75%, #0a0a0a 100%)"
+    must_reads_bg_gradient: "linear-gradient(135deg, #0a0a0a 0%, #3d2c1a 30%,
+      #6b4a1a 50%, #3d2c1a 70%, #0a0a0a 100%)"
+    hero_overlay_gradient: linear-gradient(180deg, transparent 45%, rgba(10,10,10,0.85) 100%)
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Playfair Display
+    body: Lora
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
