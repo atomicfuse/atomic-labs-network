@@ -1,0 +1,173 @@
+domain: zestguide.com
+active: true
+author: Daniel Gray
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Quick Weeknight Meals
+    - Seasonal Ingredient Spotlights
+    - Cooking Skill Builders
+    - Pantry Staple Recipes
+  theme: >-
+    Cover quick dinners, seasonal recipes, ingredient guides, and cooking
+    techniques.
+
+    Favor practical stories: “Five Ways to Upgrade Roasted Vegetables” or “Easy
+    Dinners Using Pantry Staples.”
+
+    Keep the tone friendly, clear, and approachable.
+
+    Include accurate measurements, realistic preparation times, and tested
+    instructions.
+  topics_v2:
+    - name: Quick Weeknight Meals
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793d1104bbff809b7c3e
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Seasonal Ingredient Spotlights
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793e1104bbff809b7d1d
+        tag_ids:
+          - 6a034da986fcaaeb5bc834e7
+          - 6ac79519ce7701ccb2411f98
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Cooking Skill Builders
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793d1104bbff809b7c3e
+        tag_ids:
+          - 6ac79519ce7701ccb2411f98
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Pantry Staple Recipes
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793d1104bbff809b7c3e
+        tag_ids:
+          - 6ac79519ce7701ccb2411f98
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Cover quick dinners, seasonal recipes, ingredient guides, and cooking
+      techniques.
+    - "Favor practical stories: “Five Ways to Upgrade Roasted Vegetables” or
+      “Easy Dinners Using Pantry Staples.”"
+    - Keep the tone friendly, clear, and approachable.
+    - Include accurate measurements, realistic preparation times, and tested
+      instructions.
+  image_guidelines:
+    - "- Use realistic, appetizing food photography with natural light."
+    - "- Feature attainable dishes, fresh ingredients, and simple kitchen
+      settings."
+    - "- Match photos to the recipe’s ingredients and finished result; avoid
+      text overlays and excessive styling."
+  vertical: Food & Drink
+  vertical_id: 6a00793d1104bbff809b7c3e
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Monday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: zestguide.com
+site_tagline: null
+theme:
+  base: sunset_strip
+  colors:
+    primary: "#7c1d2f"
+    accent: "#c2410c"
+    background: "#fff7ed"
+    secondary: "#fff7ed"
+    text: "#451a03"
+    muted: "#9a6b4e"
+    surface: "#fed7aa"
+    border: "#fdba74"
+    heading: "#451a03"
+    link: "#be123c"
+    link_hover: "#c2410c"
+    nav_link: "#fff7ed"
+    nav_link_hover: "#ffffff"
+    footer_bg: "#7c1d2f"
+    must_reads_bg: "#7c1d2f"
+    hero_title: "#fff7ed"
+    must_reads_title: "#fff7ed"
+    article_hero_title: "#fff7ed"
+    article_hero_meta: "#fdba74"
+    feed_title: "#451a03"
+    feed_desc: "#7c2d12"
+    feed_date: "#9a6b4e"
+    prose_heading: "#451a03"
+    prose_body: "#7c2d12"
+    category_header_text: "#fff7ed"
+    subscribe_heading: "#fff7ed"
+    footer_text: "#fed7aa"
+    footer_heading: "#fff7ed"
+    footer_link: "#fed7aa"
+    footer_link_hover: "#ffffff"
+    header_bg_gradient: "linear-gradient(135deg, #7c1d2f 0%, #be123c 35%, #c2410c
+      70%, #c2410c 100%)"
+    subscribe_bg_gradient: "linear-gradient(135deg, #831843 0%, #be123c 50%, #c2410c 100%)"
+    footer_bg_gradient: "linear-gradient(180deg, #be123c 0%, #831843 50%, #1f0408 100%)"
+    must_reads_bg_gradient: "linear-gradient(90deg, #c2410c 0%, #be123c 50%, #9d174d 100%)"
+    hero_overlay_gradient: linear-gradient(180deg, transparent 0%,
+      rgba(249,115,22,0.1) 45%, rgba(249,115,22,0.35) 80%, rgba(124,29,47,0.82)
+      100%)
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Bebas Neue
+    body: Poppins
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
