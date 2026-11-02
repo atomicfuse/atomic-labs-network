@@ -586,7 +586,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-11-02T08:06:08.578Z
+    last_updated: 2026-11-02T08:04:20.526Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -857,6 +857,26 @@ sites:
     vertical: Food & Drink
     worker_pending_dns: false
     zone_id: c9c78880290f6088f6571421bbcba4b6
+  - domain: peekglow
+    cf_apo: false
+    company: null
+    created_at: 2026-11-02T08:12:22.414Z
+    custom_domain: peekglow.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-11-02T08:12:59.347Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=peekglow
+    saved_previews: null
+    site_id: "3607142414190"
+    staging_branch: staging/peekglow
+    status: Live
+    vertical: Style & Fashion
+    zone_id: 0ab0dc5c01476d19b92b8b8c650e4c99
+    worker_pending_dns: false
   - domain: popnewslanecom
     cf_apo: false
     company: ATL
@@ -1497,25 +1517,6 @@ sites:
     vertical: Healthy Living
     worker_pending_dns: false
     zone_id: 8a07bb95f686217de8d2eba14df9e49d
-  - domain: peekglow
-    company: null
-    vertical: Style & Fashion
-    status: Staging
-    site_id: "3607142414190"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-11-02T08:12:22.414Z
-    created_at: 2026-11-02T08:12:22.414Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/peekglow
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=peekglow
-    saved_previews: null
-    custom_domain: null
 deleted:
   - domain: chaibeseret
     cf_apo: false
