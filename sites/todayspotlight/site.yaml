@@ -1,0 +1,161 @@
+domain: todayspotlight.com
+active: true
+author: Daniel Scott
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Behind The Scenes
+    - Soundtrack Stories
+    - Rising Stars
+    - Fandom Focus
+  theme: People, Stories, and Moments Worth Your Attention
+  topics_v2:
+    - name: Behind The Scenes
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b7fdb
+          - 6a00793f1104bbff809b7f29
+        tag_ids:
+          - 6a14488116f23264031d7fed
+          - 6a033d0b86fcaaeb5bc83372
+          - 6a0b1bfda53fcab94b364993
+          - 6a04548486fcaaeb5bc83956
+          - 6a0435ac86fcaaeb5bc836f0
+          - 6a1417f816f23264031d7d70
+          - 6a04330d86fcaaeb5bc8367c
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Friday
+    - name: Soundtrack Stories
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b800b
+          - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b7fdb
+        tag_ids:
+          - 6a0b1bfda53fcab94b364993
+          - 6a04330d86fcaaeb5bc8367c
+          - 6a1417f816f23264031d7d70
+          - 6a0b36c2ac596b621e93567e
+          - 6a0bc82716f23264031d77be
+          - 6a2795cfeb470600f97053a2
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Friday
+    - name: Rising Stars
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7de7
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Friday
+    - name: Fandom Focus
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fd7
+          - 6a00793d1104bbff809b7c5f
+          - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b7fdb
+        tag_ids:
+          - 6a14488116f23264031d7fed
+          - 6a0b1bfda53fcab94b364993
+          - 6a0435ac86fcaaeb5bc836f0
+          - 6a04548486fcaaeb5bc83956
+          - 6a0b36c2ac596b621e93567e
+          - 6a14263916f23264031d7eb8
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Friday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Cover celebrity updates, TV and film highlights, inspiring achievements,
+      and nostalgic stories.
+    - "Favor engaging angles: “Where Are Your Favorite TV Stars Now?” or “Meet
+      the People Bringing Their Communities Together.”"
+    - Keep the tone conversational, accessible, and respectful.
+    - Verify claims, credit original reporting, and avoid misleading headlines
+      or unconfirmed gossip.
+  image_guidelines:
+    - Use licensed editorial photos of featured people, events, and
+      entertainment.
+    - Favor clear subjects, expressive faces, and strong mobile-friendly crops.
+    - Match images to the actual story; avoid misleading edits, text overlays,
+      and AI depictions presented as real events.
+  vertical: Entertainment
+  vertical_id: 6a00793d1104bbff809b7c32
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Friday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: todayspotlight.com
+site_tagline: null
+theme:
+  base: classic
+  colors:
+    primary: "#1a1a2e"
+    accent: "#f4c542"
+    background: "#ffffff"
+    secondary: "#1a1a2e"
+    text: "#1a1a2e"
+    muted: "#6b7280"
+    surface: "#f8f9fa"
+    border: "#e5e7eb"
+    footer_bg: "#1a1a2e"
+    must_reads_bg: "#1a1a2e"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    feed_title: "#1a1a2e"
+    feed_desc: "#1a1a2e"
+    feed_date: "#6b7280"
+    prose_heading: "#1a1a2e"
+    prose_body: "#1a1a2e"
+    category_header_text: "#ffffff"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Inter
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
