@@ -1,0 +1,160 @@
+domain: motorhubdaily.com
+active: true
+author: Nora Price
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - New Model Showcases
+    - EV Transition Tracker
+    - Car Care Chronicles
+    - Ownership Cost Analysis
+  theme: An automotive site covering new models, car ownership, maintenance, and
+    the shift toward electric vehicles.
+  topics_v2:
+    - name: New Model Showcases
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c1a
+          - 6a00793d1104bbff809b7c94
+          - 6a00793d1104bbff809b7c98
+        tag_ids:
+          - 6a14488116f23264031d7fed
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: EV Transition Tracker
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c98
+          - 6a00793d1104bbff809b7c1a
+          - 6a00793f1104bbff809b7ee5
+        tag_ids:
+          - 6a0b1f14a53fcab94b3649c5
+          - 6a0bf43616f23264031d78de
+          - 6a8f7f4a0ab3ca3e5b33f2fd
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Car Care Chronicles
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c1a
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Ownership Cost Analysis
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c1a
+          - 6a00793d1104bbff809b7c98
+          - 6a00793e1104bbff809b7da3
+          - 6a00793d1104bbff809b7c56
+        tag_ids:
+          - 6ab0bb1a0c196d947f9153cd
+          - 6ab21cf50c196d947f9154fc
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Cover vehicle comparisons, buying guides, maintenance basics, EV
+      ownership, and automotive news.
+    - "Favor practical stories: “Hybrid vs. Electric: Which Fits Your Routine?”
+      or “What to Check Before Buying a Used Car.”"
+    - Keep the tone clear, informative, and accessible to everyday drivers.
+    - Verify specifications by model year and market; distinguish researched
+      comparisons from firsthand test drives.
+  image_guidelines:
+    - Use realistic, sharp photos of vehicles, interiors, and relevant
+      mechanical details.
+    - Match the exact make, model, and generation discussed.
+    - Favor natural road and driveway settings; avoid distorted logos,
+      inaccurate dashboards, and text overlays.
+  vertical: Automotive
+  vertical_id: 6a00793d1104bbff809b7c1a
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Monday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: motorhubdaily.com
+site_tagline: null
+theme:
+  base: warm
+  colors:
+    primary: "#7c2d12"
+    accent: "#ea580c"
+    background: "#fffbeb"
+    secondary: "#1c1917"
+    text: "#1c1917"
+    muted: "#78716c"
+    surface: "#fef3c7"
+    border: "#d6d3d1"
+    heading: "#1c1917"
+    link: "#7c2d12"
+    link_hover: "#ea580c"
+    nav_link: "#ffffff"
+    nav_link_hover: "#ea580c"
+    footer_bg: "#1c1917"
+    must_reads_bg: "#1c1917"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#78716c"
+    feed_title: "#1c1917"
+    feed_desc: "#1c1917"
+    feed_date: "#78716c"
+    prose_heading: "#1c1917"
+    prose_body: "#292524"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#7c2d12"
+    footer_text: "#a8a29e"
+    footer_heading: "#ffffff"
+    footer_link: "#a8a29e"
+    footer_link_hover: "#ffffff"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Inter
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
