@@ -15,8 +15,7 @@ brief:
     - Internet Culture Explainer
     - Hollywood Heartthrobs
     - Showbiz Scandal Sheet
-  theme: Entertainment site covering trending stories, celebrities, TV, movies,
-    and internet culture.
+  theme: Entertainment site covering trending stories, celebrities, TV, movies, and internet culture.
   topics_v2:
     - name: Fandom Theories Debunked
       source:
@@ -93,17 +92,14 @@ brief:
           - Wednesday
   seo_keywords_focus: []
   content_guidelines:
-    - Cover entertainment news, streaming recommendations, nostalgic throwbacks,
-      and viral trends.
+    - Cover entertainment news, streaming recommendations, nostalgic throwbacks, and viral trends.
     - "Add context: explain why a story or trend is getting attention."
     - Keep the tone light, conversational, and engaging.
     - Verify claims and distinguish confirmed news from rumors.
   image_guidelines:
-    - Use licensed editorial photos, authorized publicity stills, and relevant
-      lifestyle photography.
+    - Use licensed editorial photos, authorized publicity stills, and relevant lifestyle photography.
     - Favor clear subjects, expressive faces, and clean compositions for mobile.
-    - Avoid misleading edits, text overlays, and AI images presented as real
-      celebrity photos.
+    - Avoid misleading edits, text overlays, and AI images presented as real celebrity photos.
   vertical: Entertainment
   vertical_id: 6a00793d1104bbff809b7c32
   review_percentage: 5
@@ -176,3 +172,6 @@ theme:
     body: DM Sans
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-R59JZ04VL5
+  gtm: GT-P3FCZKLB
