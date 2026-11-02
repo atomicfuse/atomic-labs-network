@@ -15,8 +15,7 @@ brief:
     - EV Transition Tracker
     - Car Care Chronicles
     - Ownership Cost Analysis
-  theme: An automotive site covering new models, car ownership, maintenance, and
-    the shift toward electric vehicles.
+  theme: An automotive site covering new models, car ownership, maintenance, and the shift toward electric vehicles.
   topics_v2:
     - name: New Model Showcases
       source:
@@ -73,19 +72,14 @@ brief:
           - Monday
   seo_keywords_focus: []
   content_guidelines:
-    - Cover vehicle comparisons, buying guides, maintenance basics, EV
-      ownership, and automotive news.
-    - "Favor practical stories: “Hybrid vs. Electric: Which Fits Your Routine?”
-      or “What to Check Before Buying a Used Car.”"
+    - Cover vehicle comparisons, buying guides, maintenance basics, EV ownership, and automotive news.
+    - "Favor practical stories: “Hybrid vs. Electric: Which Fits Your Routine?” or “What to Check Before Buying a Used Car.”"
     - Keep the tone clear, informative, and accessible to everyday drivers.
-    - Verify specifications by model year and market; distinguish researched
-      comparisons from firsthand test drives.
+    - Verify specifications by model year and market; distinguish researched comparisons from firsthand test drives.
   image_guidelines:
-    - Use realistic, sharp photos of vehicles, interiors, and relevant
-      mechanical details.
+    - Use realistic, sharp photos of vehicles, interiors, and relevant mechanical details.
     - Match the exact make, model, and generation discussed.
-    - Favor natural road and driveway settings; avoid distorted logos,
-      inaccurate dashboards, and text overlays.
+    - Favor natural road and driveway settings; avoid distorted logos, inaccurate dashboards, and text overlays.
   vertical: Automotive
   vertical_id: 6a00793d1104bbff809b7c1a
   review_percentage: 5
@@ -158,3 +152,6 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-N6Q6KCQ8Q3
+  gtm: GT-NCLX7H6F
