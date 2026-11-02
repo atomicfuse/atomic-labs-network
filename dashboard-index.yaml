@@ -167,7 +167,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-11-02T08:00:13.521Z
+    last_updated: 2026-11-02T07:57:35.285Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -578,6 +578,26 @@ sites:
     vertical: Entertainment
     worker_pending_dns: false
     zone_id: aa706fb538ef73dd9b15c812ebcec796
+  - domain: glazepost
+    cf_apo: false
+    company: null
+    created_at: 2026-11-02T08:04:20.526Z
+    custom_domain: glazepost.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-11-02T08:06:08.578Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=glazepost
+    saved_previews: null
+    site_id: "3606660526964"
+    staging_branch: staging/glazepost
+    status: Live
+    vertical: Entertainment
+    zone_id: 41536eaa8b9798491ec7178fbb9dff9a
+    worker_pending_dns: false
   - domain: hiddenstorydaily
     cf_apo: false
     company: ATL
@@ -1477,25 +1497,6 @@ sites:
     vertical: Healthy Living
     worker_pending_dns: false
     zone_id: 8a07bb95f686217de8d2eba14df9e49d
-  - domain: glazepost
-    company: null
-    vertical: Entertainment
-    status: Staging
-    site_id: "3606660526964"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-11-02T08:04:20.526Z
-    created_at: 2026-11-02T08:04:20.526Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/glazepost
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=glazepost
-    saved_previews: null
-    custom_domain: null
 deleted:
   - domain: chaibeseret
     cf_apo: false
