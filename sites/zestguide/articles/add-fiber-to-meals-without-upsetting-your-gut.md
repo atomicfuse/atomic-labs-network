@@ -19,7 +19,7 @@ source_url: 'https://www.womenshealthmag.com/health/a73854181/too-much-fiber-sig
 source_item_id: 6ab913545b22be6773eca1eb
 source_title: Signs You’re Eating Too Much Fiber
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/add-fiber-to-meals-without-upsetting-your-gut.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Seasonal Ingredient Spotlights
+image_alt: >-
+  A balanced lentil, grain, vegetable, and greens bowl beside water in a softly
+  lit kitchen.
 ---
 Fiber is having a moment. Between gut-health content, "fibermaxxing" trends, and packaged foods boasting big fiber numbers, it's easy to assume more is always better. According to Women's Health, it's uncommon but possible to eat too much, and the core message is simple: fiber is healthy and most people need more, but ramping up too aggressively can upset your gut.
 

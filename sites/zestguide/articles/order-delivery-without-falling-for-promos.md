@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae2d785e1e12f284fc63b5a
 source_title: Meal delivery apps could be driving us toward unhealthy choices
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/order-delivery-without-falling-for-promos.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Quick Weeknight Meals
+image_alt: >-
+  A balanced delivery grain bowl sits beside a smartphone displaying blurred
+  food promotions in a home kitchen.
 ---
 A national Australian study, reported by Medicalxpress, finds that meal delivery apps like Uber Eats and DoorDash are seen as "treat food" platforms, and that deals and app design nudge users toward less healthy choices. The researchers argue governments should update nutrition policy to cover these digital food environments, and Australia is already weighing stronger rules on unhealthy food promotion, especially to children.
 

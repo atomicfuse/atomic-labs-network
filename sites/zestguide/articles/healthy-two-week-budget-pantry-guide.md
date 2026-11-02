@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6aa8d584ee95cf186f57c390
 source_title: How to build a nutritious emergency food stockpile
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/healthy-two-week-budget-pantry-guide.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Seasonal Ingredient Spotlights
+image_alt: >-
+  Nourishing grain bowl with canned vegetables and fish beside an opened can and
+  can opener.
 ---
 A UK government watchdog has said UK homes aren't prepared for possible food supply disruptions caused by events like cyberattacks, power outages, disease outbreaks or extreme weather, as reported by Medicalxpress. The advice on what to actually stock is often vague: "nonperishable food" doesn't tell you what to put in the cart.
 

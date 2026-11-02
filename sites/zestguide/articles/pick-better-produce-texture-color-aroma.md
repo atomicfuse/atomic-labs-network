@@ -21,7 +21,7 @@ source_title: >-
   Better home cooking starts before you even enter the kitchen, cookbook author
   says
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/pick-better-produce-texture-color-aroma.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Quick Weeknight Meals
+image_alt: >-
+  Hands examine colorful tomatoes and smell fresh basil beside a basket of
+  market produce.
 ---
 A great meal often gets decided before you turn on the stove. According to Fox News, Los Angeles-based cookbook author Carmen Perr, who wrote "Cook What Grows," argues that better home cooking starts at the market, with how you choose your fruits, vegetables and herbs. Her focus: pay attention to texture, color and aroma while you shop.
 

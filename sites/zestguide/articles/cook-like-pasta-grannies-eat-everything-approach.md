@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ab1e1240c196d947f915419
 source_title: 'How to Live the Real La Dolce Vita, According to Italy’s “Pasta Grannies”'
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/cook-like-pasta-grannies-eat-everything-approach.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Cooking Skill Builders
+image_alt: >-
+  Older hands shape handmade pasta beside a bowl of fresh vegetables in a sunlit
+  kitchen.
 ---
 Most of us think of la dolce vita as a vacation aesthetic: spritzes, linen, a sunny piazza. According to Vogue's profile of Vicky Bennison, creator of Pasta Grannies, the real version looks different. It's a kitchen, an older woman, a pile of flour, and a habit of using what's in front of her. Here's how to bring that mindset into your own cooking this week.
 
