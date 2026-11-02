@@ -15,17 +15,11 @@ brief:
     - Seasonal Ingredient Spotlights
     - Cooking Skill Builders
     - Pantry Staple Recipes
-  theme: >-
-    Cover quick dinners, seasonal recipes, ingredient guides, and cooking
-    techniques.
-
-    Favor practical stories: “Five Ways to Upgrade Roasted Vegetables” or “Easy
-    Dinners Using Pantry Staples.”
-
+  theme: |-
+    Cover quick dinners, seasonal recipes, ingredient guides, and cooking techniques.
+    Favor practical stories: “Five Ways to Upgrade Roasted Vegetables” or “Easy Dinners Using Pantry Staples.”
     Keep the tone friendly, clear, and approachable.
-
-    Include accurate measurements, realistic preparation times, and tested
-    instructions.
+    Include accurate measurements, realistic preparation times, and tested instructions.
   topics_v2:
     - name: Quick Weeknight Meals
       source:
@@ -78,19 +72,14 @@ brief:
           - Monday
   seo_keywords_focus: []
   content_guidelines:
-    - Cover quick dinners, seasonal recipes, ingredient guides, and cooking
-      techniques.
-    - "Favor practical stories: “Five Ways to Upgrade Roasted Vegetables” or
-      “Easy Dinners Using Pantry Staples.”"
+    - Cover quick dinners, seasonal recipes, ingredient guides, and cooking techniques.
+    - "Favor practical stories: “Five Ways to Upgrade Roasted Vegetables” or “Easy Dinners Using Pantry Staples.”"
     - Keep the tone friendly, clear, and approachable.
-    - Include accurate measurements, realistic preparation times, and tested
-      instructions.
+    - Include accurate measurements, realistic preparation times, and tested instructions.
   image_guidelines:
     - "- Use realistic, appetizing food photography with natural light."
-    - "- Feature attainable dishes, fresh ingredients, and simple kitchen
-      settings."
-    - "- Match photos to the recipe’s ingredients and finished result; avoid
-      text overlays and excessive styling."
+    - "- Feature attainable dishes, fresh ingredients, and simple kitchen settings."
+    - "- Match photos to the recipe’s ingredients and finished result; avoid text overlays and excessive styling."
   vertical: Food & Drink
   vertical_id: 6a00793d1104bbff809b7c3e
   review_percentage: 5
@@ -156,14 +145,11 @@ theme:
     footer_heading: "#fff7ed"
     footer_link: "#fed7aa"
     footer_link_hover: "#ffffff"
-    header_bg_gradient: "linear-gradient(135deg, #7c1d2f 0%, #be123c 35%, #c2410c
-      70%, #c2410c 100%)"
+    header_bg_gradient: "linear-gradient(135deg, #7c1d2f 0%, #be123c 35%, #c2410c 70%, #c2410c 100%)"
     subscribe_bg_gradient: "linear-gradient(135deg, #831843 0%, #be123c 50%, #c2410c 100%)"
     footer_bg_gradient: "linear-gradient(180deg, #be123c 0%, #831843 50%, #1f0408 100%)"
     must_reads_bg_gradient: "linear-gradient(90deg, #c2410c 0%, #be123c 50%, #9d174d 100%)"
-    hero_overlay_gradient: linear-gradient(180deg, transparent 0%,
-      rgba(249,115,22,0.1) 45%, rgba(249,115,22,0.35) 80%, rgba(124,29,47,0.82)
-      100%)
+    hero_overlay_gradient: linear-gradient(180deg, transparent 0%, rgba(249,115,22,0.1) 45%, rgba(249,115,22,0.35) 80%, rgba(124,29,47,0.82) 100%)
   logo_height: 52
   menu_item_font_size: 14
   fonts:
@@ -171,3 +157,5 @@ theme:
     body: Poppins
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-NEMET9WLJQ
