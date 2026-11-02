@@ -1,9 +1,9 @@
-domain: dinnermag
+domain: dinnermag.com
 active: true
 author: Chloe Chen
 brief:
   audiences: []
-  audience_type_ids: null
+  audience_type_ids: []
   tone: ""
   article_types:
     listicle: 40
@@ -117,7 +117,7 @@ layout:
   load_more:
     page_size: 4
 scripts_vars: null
-site_name: https://dinnermag.com/
+site_name: dinnermag.com
 site_tagline: null
 theme:
   base: midnight
