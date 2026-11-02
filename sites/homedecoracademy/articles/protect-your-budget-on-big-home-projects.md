@@ -22,7 +22,7 @@ source_title: >-
   Some crewmembers on the evacuated Odyssey cruise ship say they’re waiting
   without pay in Cambodia
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/protect-your-budget-on-big-home-projects.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 66
@@ -40,6 +40,9 @@ reading_time: 4
 topics:
   - Thrifty Decor Finds
   - Budget-Friendly Makeovers
+image_alt: >-
+  Homeowner and contractor review a phased renovation budget in a bright, modest
+  kitchen.
 ---
 Big plans are exciting. A fresh kitchen, a new sofa order, a full-room makeover. But the plan only works if the people and companies behind it deliver. Here is how to set up your next home project so a broken promise costs you a hassle instead of a disaster.
 
