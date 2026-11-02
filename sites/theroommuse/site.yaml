@@ -15,8 +15,7 @@ brief:
     - Personal Touches DIY
     - Small Space Solutions
     - Seasonal Decor Swaps
-  theme: A home and interiors site sharing practical decorating ideas, room
-    makeovers, and clever ways to make spaces feel personal
+  theme: A home and interiors site sharing practical decorating ideas, room makeovers, and clever ways to make spaces feel personal
   topics_v2:
     - name: Real-Life Room Revamps
       source:
@@ -87,21 +86,14 @@ brief:
           - Thursday
   seo_keywords_focus: []
   content_guidelines:
-    - Cover room styling, color palettes, lighting, furniture layouts, and
-      small-space solutions.
-    - "Favor accessible stories: “How to Make a Small Living Room Feel Bigger”
-      or “Refresh Your Bedroom Without Replacing the Furniture.”"
-    - Keep the tone inspiring, friendly, and practical, with options for
-      different budgets.
-    - Include useful measurements and material details; clearly label conceptual
-      makeovers.
+    - Cover room styling, color palettes, lighting, furniture layouts, and small-space solutions.
+    - "Favor accessible stories: “How to Make a Small Living Room Feel Bigger” or “Refresh Your Bedroom Without Replacing the Furniture.”"
+    - Keep the tone inspiring, friendly, and practical, with options for different budgets.
+    - Include useful measurements and material details; clearly label conceptual makeovers.
   image_guidelines:
-    - "- Use realistic interior photography with natural light and attainable
-      furnishings."
-    - "- Mix full-room views with close-ups of textures, lighting, and
-      decorative details."
-    - "- Match the room and style discussed; avoid distorted furniture,
-      impossible layouts, and text overlays."
+    - "- Use realistic interior photography with natural light and attainable furnishings."
+    - "- Mix full-room views with close-ups of textures, lighting, and decorative details."
+    - "- Match the room and style discussed; avoid distorted furniture, impossible layouts, and text overlays."
   vertical: Home & Garden
   vertical_id: 6a00793d1104bbff809b7c4a
   review_percentage: 5
@@ -167,14 +159,10 @@ theme:
     footer_heading: "#f5e8c7"
     footer_link: "#d4c79d"
     footer_link_hover: "#ffffff"
-    header_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a
-      50%, #2d2418 75%, #0a0a0a 100%)"
-    subscribe_bg_gradient: "linear-gradient(135deg, #8a6508 0%, #b8860b 30%, #f5e8c7
-      50%, #b8860b 70%, #8a6508 100%)"
-    footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a
-      50%, #2d2418 75%, #0a0a0a 100%)"
-    must_reads_bg_gradient: "linear-gradient(135deg, #0a0a0a 0%, #3d2c1a 30%,
-      #6b4a1a 50%, #3d2c1a 70%, #0a0a0a 100%)"
+    header_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a 50%, #2d2418 75%, #0a0a0a 100%)"
+    subscribe_bg_gradient: "linear-gradient(135deg, #8a6508 0%, #b8860b 30%, #f5e8c7 50%, #b8860b 70%, #8a6508 100%)"
+    footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a 50%, #2d2418 75%, #0a0a0a 100%)"
+    must_reads_bg_gradient: "linear-gradient(135deg, #0a0a0a 0%, #3d2c1a 30%, #6b4a1a 50%, #3d2c1a 70%, #0a0a0a 100%)"
     hero_overlay_gradient: linear-gradient(180deg, transparent 45%, rgba(10,10,10,0.85) 100%)
   logo_height: 52
   menu_item_font_size: 14
@@ -183,3 +171,6 @@ theme:
     body: Lora
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-6DHDDFGGXS
+  gtm: GT-5NRB9CCW
