@@ -1,0 +1,181 @@
+domain: culturesidenotes.com
+active: true
+author: Sophia Adams
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Regional Dish Deep-Dive
+    - Culinary Journey Destinations
+    - Food Festival Spotlights
+    - Local Ingredient Stories
+  theme: >-
+    Discover the World Through Food
+
+    A food and travel site exploring regional dishes, local food traditions, and
+    destinations worth visiting for their flavors.
+  topics_v2:
+    - name: Regional Dish Deep-Dive
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d17
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a184492454e8b9490eacaab
+          - 6a1402bf16f23264031d7c63
+          - 6a8cf866e04b499a4e888be5
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Culinary Journey Destinations
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793f1104bbff809b7f7d
+          - 6a00793f1104bbff809b7f81
+          - 6a00793e1104bbff809b7d17
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a8d0d68eacb826224e5b28b
+          - 6a184492454e8b9490eacaab
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a1402bf16f23264031d7c63
+          - 6a184bc4454e8b9490eacb2d
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Food Festival Spotlights
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793d1104bbff809b7c35
+          - 6a00793d1104bbff809b7c7a
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a184492454e8b9490eacaab
+          - 6a8d0d68eacb826224e5b28b
+          - 6a1831e00fc9210eaf31ab2d
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Local Ingredient Stories
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793f1104bbff809b7ec7
+          - 6a00793e1104bbff809b7d13
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a184492454e8b9490eacaab
+          - 6a034da986fcaaeb5bc834e7
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Cover local specialties, street food, food markets, and regional dining
+      customs.
+    - "Publish practical guides: “What to Eat in Lisbon” or “A Food Lover’s
+      Weekend in Sicily.”"
+    - Include approachable recipes inspired by featured destinations.
+    - Keep the tone warm, curious, and informative. Avoid invented firsthand
+      experiences.
+  image_guidelines:
+    - Use realistic, appetizing food photography with natural lighting.
+    - Mix close-ups of dishes with markets, cafés, and destination scenery.
+    - Match each image to the specific dish and location; avoid text overlays
+      and overly polished stock photos.
+  vertical: Travel
+  vertical_id: 6a00793d1104bbff809b7c7a
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Monday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: CultureSideNotes.com
+site_tagline: null
+theme:
+  base: slate
+  colors:
+    primary: "#334155"
+    accent: "#6366f1"
+    background: "#ffffff"
+    secondary: "#1e293b"
+    text: "#1e293b"
+    muted: "#94a3b8"
+    surface: "#f1f5f9"
+    border: "#e2e8f0"
+    heading: "#1e293b"
+    link: "#334155"
+    link_hover: "#6366f1"
+    nav_link: "#ffffff"
+    nav_link_hover: "#6366f1"
+    footer_bg: "#1e293b"
+    must_reads_bg: "#1e293b"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#94a3b8"
+    feed_title: "#1e293b"
+    feed_desc: "#334155"
+    feed_date: "#94a3b8"
+    prose_heading: "#1e293b"
+    prose_body: "#334155"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#334155"
+    footer_text: "#94a3b8"
+    footer_heading: "#ffffff"
+    footer_link: "#94a3b8"
+    footer_link_hover: "#ffffff"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Inter
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
