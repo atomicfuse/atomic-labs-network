@@ -15,8 +15,7 @@ brief:
     - Weekend Dinner Parties
     - Seasonal Produce Spotlights
     - Global Dinner Cuisines
-  theme: A food site dedicated to dinner inspiration, from quick weeknight meals
-    to relaxed weekend gatherings.
+  theme: A food site dedicated to dinner inspiration, from quick weeknight meals to relaxed weekend gatherings.
   topics_v2:
     - name: Weeknight Meal Planner
       source:
@@ -80,18 +79,14 @@ brief:
           - Monday
   seo_keywords_focus: []
   content_guidelines:
-    - Cover easy dinners, one-pan meals, seasonal menus, side dishes, and casual
-      entertaining.
-    - "Favor practical stories: “A Week of Dinners with One Grocery List” or
-      “Easy Mains for Your Next Dinner Party.”"
+    - Cover easy dinners, one-pan meals, seasonal menus, side dishes, and casual entertaining.
+    - "Favor practical stories: “A Week of Dinners with One Grocery List” or “Easy Mains for Your Next Dinner Party.”"
     - Keep the tone warm, approachable, and useful for home cooks.
-    - Include clear portions, accurate timings, ingredient substitutions, and
-      tested recipe instructions.
+    - Include clear portions, accurate timings, ingredient substitutions, and tested recipe instructions.
   image_guidelines:
     - Use realistic food photography with warm, natural lighting.
     - Mix close-ups of finished dishes with inviting dinner-table scenes.
-    - Match images to the actual recipe; avoid excessive styling, text overlays,
-      and unrealistic portions.
+    - Match images to the actual recipe; avoid excessive styling, text overlays, and unrealistic portions.
   vertical: Food & Drink
   vertical_id: 6a00793d1104bbff809b7c3e
   review_percentage: 5
@@ -164,3 +159,6 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-R1PJ7B7DLM
+  gtm: GT-PLFJG9N3
