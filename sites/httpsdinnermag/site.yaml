@@ -1,0 +1,166 @@
+domain: dinnermag.com
+active: true
+author: Chloe Chen
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Weeknight Meal Planner
+    - Weekend Dinner Parties
+    - Seasonal Produce Spotlights
+    - Global Dinner Cuisines
+  theme: A food site dedicated to dinner inspiration, from quick weeknight meals
+    to relaxed weekend gatherings.
+  topics_v2:
+    - name: Weeknight Meal Planner
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d1d
+          - 6a00793f1104bbff809b7e2f
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a2777cfeb470600f9705333
+          - 6a034da986fcaaeb5bc834e7
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Weekend Dinner Parties
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d57
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d0f
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a0348a886fcaaeb5bc83433
+          - 6a03466b86fcaaeb5bc8340e
+          - 6a03467486fcaaeb5bc83416
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Seasonal Produce Spotlights
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d1d
+          - 6a00793e1104bbff809b7d0d
+        tag_ids:
+          - 6a034da986fcaaeb5bc834e7
+          - 6a0b1f14a53fcab94b3649c5
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Global Dinner Cuisines
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d0f
+          - 6a00793e1104bbff809b7d13
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a184bc4454e8b9490eacb2d
+          - 6a184492454e8b9490eacaab
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Cover easy dinners, one-pan meals, seasonal menus, side dishes, and casual
+      entertaining.
+    - "Favor practical stories: “A Week of Dinners with One Grocery List” or
+      “Easy Mains for Your Next Dinner Party.”"
+    - Keep the tone warm, approachable, and useful for home cooks.
+    - Include clear portions, accurate timings, ingredient substitutions, and
+      tested recipe instructions.
+  image_guidelines:
+    - Use realistic food photography with warm, natural lighting.
+    - Mix close-ups of finished dishes with inviting dinner-table scenes.
+    - Match images to the actual recipe; avoid excessive styling, text overlays,
+      and unrealistic portions.
+  vertical: Food & Drink
+  vertical_id: 6a00793d1104bbff809b7c3e
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Monday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: https://dinnermag.com/
+site_tagline: null
+theme:
+  base: midnight
+  colors:
+    primary: "#581c87"
+    accent: "#a855f7"
+    background: "#0f0720"
+    secondary: "#1e1038"
+    text: "#f0e6ff"
+    muted: "#a78bfa"
+    surface: "#1e1038"
+    border: "#2e1a50"
+    heading: "#f0e6ff"
+    link: "#a855f7"
+    link_hover: "#c084fc"
+    nav_link: "#f0e6ff"
+    nav_link_hover: "#c084fc"
+    footer_bg: "#1e1038"
+    must_reads_bg: "#1e1038"
+    hero_title: "#ffffff"
+    must_reads_title: "#f0e6ff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#a78bfa"
+    feed_title: "#f0e6ff"
+    feed_desc: "#d8c8f0"
+    feed_date: "#a78bfa"
+    prose_heading: "#f0e6ff"
+    prose_body: "#d8c8f0"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#581c87"
+    footer_text: "#a78bfa"
+    footer_heading: "#ffffff"
+    footer_link: "#a78bfa"
+    footer_link_hover: "#ffffff"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Inter
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
