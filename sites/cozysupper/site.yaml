@@ -1,0 +1,173 @@
+domain: cozysupper.com
+active: true
+author: Ben Bennett
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Seasonal Comfort Foods
+    - Family Dinner Favorites
+    - Weeknight Meal Planning
+    - Homemade Dessert Delights
+  theme: A food site centered on comforting homemade meals, simple family
+    favorites, and seasonal recipes for cozy nights in.
+  topics_v2:
+    - name: Seasonal Comfort Foods
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d15
+          - 6a00793d1104bbff809b7c3e
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+    - name: Family Dinner Favorites
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793e1104bbff809b7d15
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a04518e86fcaaeb5bc838fa
+          - 6ac79519ce7701ccb2411f98
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+    - name: Weeknight Meal Planning
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d1d
+          - 6a00793f1104bbff809b7e2f
+          - 6a00793d1104bbff809b7c3e
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a2777cfeb470600f9705333
+          - 6a034da986fcaaeb5bc834e7
+          - 6ac79519ce7701ccb2411f98
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+    - name: Homemade Dessert Delights
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d15
+          - 6a00793e1104bbff809b7d13
+          - 6a00793d1104bbff809b7c3e
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Focus on hearty soups, casseroles, one-pot dinners, slow-cooker meals, and
+      nostalgic desserts.
+    - "Favor practical stories: “Comforting Dinners for Chilly Evenings” or
+      “Small-Batch Meals for Two.”"
+    - Keep the tone warm, reassuring, and approachable.
+    - Include clear portions, realistic cooking times, affordable substitutions,
+      and tested recipe instructions.
+  image_guidelines:
+    - Use realistic food photography with warm lighting and inviting textures.
+    - Feature rustic bowls, simple table settings, and natural kitchen scenes.
+    - Match images to the recipe; avoid overly staged settings, text overlays,
+      and artificial-looking food.
+  vertical: Food & Drink
+  vertical_id: 6a00793d1104bbff809b7c3e
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: cozysupper.com
+site_tagline: null
+theme:
+  base: classic
+  colors:
+    primary: "#1a1a2e"
+    accent: "#f4c542"
+    background: "#ffffff"
+    secondary: "#1a1a2e"
+    text: "#1a1a2e"
+    muted: "#6b7280"
+    surface: "#f8f9fa"
+    border: "#e5e7eb"
+    footer_bg: "#1a1a2e"
+    must_reads_bg: "#1a1a2e"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    feed_title: "#1a1a2e"
+    feed_desc: "#1a1a2e"
+    feed_date: "#6b7280"
+    prose_heading: "#1a1a2e"
+    prose_body: "#1a1a2e"
+    category_header_text: "#ffffff"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Inter
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
