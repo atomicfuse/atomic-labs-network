@@ -1537,6 +1537,25 @@ sites:
     vertical: Food & Drink
     zone_id: 99ae10b3318a3dd44e9b2ee07b9a4b4c
     worker_pending_dns: false
+  - domain: motorhubdaily
+    company: null
+    vertical: Automotive
+    status: Staging
+    site_id: "3608030450193"
+    exclusivity: null
+    ob_epid: null
+    ga_info: null
+    cf_apo: false
+    fixed_ad: false
+    last_updated: 2026-11-02T08:27:10.450Z
+    created_at: 2026-11-02T08:27:10.450Z
+    pages_project: null
+    pages_subdomain: null
+    zone_id: null
+    staging_branch: staging/motorhubdaily
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=motorhubdaily
+    saved_previews: null
+    custom_domain: null
 deleted:
   - domain: chaibeseret
     cf_apo: false
