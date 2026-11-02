@@ -1,0 +1,178 @@
+domain: glazepost.com
+active: true
+author: Elena Scott
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Fandom Theories Debunked
+    - Internet Culture Explainer
+    - Hollywood Heartthrobs
+    - Showbiz Scandal Sheet
+  theme: Entertainment site covering trending stories, celebrities, TV, movies,
+    and internet culture.
+  topics_v2:
+    - name: Fandom Theories Debunked
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b7fdb
+          - 6a0079401104bbff809b7fd7
+        tag_ids:
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a1448e216f23264031d800b
+          - 6a03361286fcaaeb5bc83259
+          - 6a205021ad9a1dd21ebb6654
+          - 6a0b1bfda53fcab94b364993
+          - 6a1417f816f23264031d7d70
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Internet Culture Explainer
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b8052
+          - 6a00793e1104bbff809b7de9
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793f1104bbff809b7f6b
+        tag_ids:
+          - 6a0bca2816f23264031d77de
+          - 6a044f3986fcaaeb5bc838c0
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a205021ad9a1dd21ebb6654
+          - 6a0b36b7ac596b621e935675
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Hollywood Heartthrobs
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a0079401104bbff809b7fd9
+          - 6a00793e1104bbff809b7de3
+          - 6a00793e1104bbff809b7de7
+        tag_ids:
+          - 6a0b36b7ac596b621e935675
+          - 6a0b350eac596b621e935655
+          - 6a04330d86fcaaeb5bc8367c
+          - 6a1417f816f23264031d7d70
+          - 6a0b1bfda53fcab94b364993
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Showbiz Scandal Sheet
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7de5
+          - 6a00793e1104bbff809b7de3
+          - 6a00793e1104bbff809b7ddd
+        tag_ids:
+          - 6a0b36b7ac596b621e935675
+          - 6a0b365aac596b621e93565d
+          - 6a04548486fcaaeb5bc83956
+          - 6a0b36e4ac596b621e93568d
+          - 6a0bc57f16f23264031d7757
+          - 6a0b1bfda53fcab94b364993
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Cover entertainment news, streaming recommendations, nostalgic throwbacks,
+      and viral trends.
+    - "Add context: explain why a story or trend is getting attention."
+    - Keep the tone light, conversational, and engaging.
+    - Verify claims and distinguish confirmed news from rumors.
+  image_guidelines:
+    - Use licensed editorial photos, authorized publicity stills, and relevant
+      lifestyle photography.
+    - Favor clear subjects, expressive faces, and clean compositions for mobile.
+    - Avoid misleading edits, text overlays, and AI images presented as real
+      celebrity photos.
+  vertical: Entertainment
+  vertical_id: 6a00793d1104bbff809b7c32
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Wednesday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: glazepost.com
+site_tagline: null
+theme:
+  base: coastal
+  colors:
+    primary: "#1e3a5f"
+    accent: "#06b6d4"
+    background: "#f4f7f9"
+    secondary: "#0c1f33"
+    text: "#0c1f33"
+    muted: "#6b8095"
+    surface: "#e3ecf2"
+    border: "#cbd9e3"
+    heading: "#0c1f33"
+    link: "#1e3a5f"
+    link_hover: "#06b6d4"
+    nav_link: "#f4f7f9"
+    nav_link_hover: "#67e8f9"
+    footer_bg: "#0c1f33"
+    must_reads_bg: "#0c1f33"
+    hero_title: "#f4f7f9"
+    must_reads_title: "#f4f7f9"
+    article_hero_title: "#f4f7f9"
+    article_hero_meta: "#94a8bc"
+    feed_title: "#0c1f33"
+    feed_desc: "#1e3a5f"
+    feed_date: "#6b8095"
+    prose_heading: "#0c1f33"
+    prose_body: "#1e3a5f"
+    category_header_text: "#f4f7f9"
+    subscribe_heading: "#1e3a5f"
+    footer_text: "#94a8bc"
+    footer_heading: "#f4f7f9"
+    footer_link: "#94a8bc"
+    footer_link_hover: "#67e8f9"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: DM Sans
+    body: DM Sans
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
