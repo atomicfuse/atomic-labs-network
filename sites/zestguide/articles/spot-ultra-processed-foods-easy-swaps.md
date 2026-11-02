@@ -23,7 +23,7 @@ source_title: >-
   These Common Foods May Be Fueling Inflammation In Your Body—With Serious
   Consequences
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/spot-ultra-processed-foods-easy-swaps.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Seasonal Ingredient Spotlights
+image_alt: >-
+  A hand compares a packaged snack with a bowl of yogurt, berries, oats, and
+  nuts.
 ---
 You don't need a perfect pantry to eat well. You need to know which items in your cart are ultra-processed, and a few easy swaps for the ones you reach for most. That's the practical takeaway from recent coverage in Women's Health, which reports on new research linking higher intake of ultra-processed foods (UPFs) to elevated markers of inflammation.
 
