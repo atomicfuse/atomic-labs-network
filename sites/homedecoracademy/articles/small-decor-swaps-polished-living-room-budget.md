@@ -23,7 +23,7 @@ source_title: >-
   11 Designer-Approved Decor Pieces to Add to Your Living Room—All at an Amazon
   Budget
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/small-decor-swaps-polished-living-room-budget.webp
 quality_score: 86
 score_breakdown:
   seo_quality: 72
@@ -41,6 +41,9 @@ topics:
   - DIY Decor Projects
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Bright living room with a botanical rug, tan sofa, side table, books,
+  coasters, and framed decor.
 ---
 You don't need a big budget or a weekend of work to make a living room feel more pulled together. Sometimes it's a handful of small pieces in the right places.
 
