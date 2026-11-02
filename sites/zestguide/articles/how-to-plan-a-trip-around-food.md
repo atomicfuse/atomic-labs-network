@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae272bd38d9b485696e7ff5
 source_title: 'Travelling for food: Culinary tourism is on the rise - The Business Times'
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/how-to-plan-a-trip-around-food.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Cooking Skill Builders
+image_alt: >-
+  A traveler plans a food-focused trip beside a fresh, appetizing meal and
+  ingredients.
 ---
 Travelling for food is having a moment. The Business Times reports that culinary tourism is on the rise, with travellers choosing destinations based on food experiences, local cuisine, restaurants, markets, and dining culture. Per the report, people are looking for more immersive, authentic experiences beyond sightseeing.
 

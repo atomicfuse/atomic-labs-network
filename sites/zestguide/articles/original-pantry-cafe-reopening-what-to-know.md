@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae005a7571b7d0a4db2da38
 source_title: Iconic diner that closed after 100 years in business makes comeback
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/original-pantry-cafe-reopening-what-to-know.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Quick Weeknight Meals
+image_alt: >-
+  Golden pancakes with butter and syrup beside coffee on a classic diner
+  counter.
 ---
 If you've ever wanted a plate of diner-style pancakes that also does some civic good, a downtown Los Angeles landmark is about to give you the chance. The Original Pantry Cafe is set to reopen Nov. 19, per Fox Business, after closing following 100 years in business. This time it comes back as a nonprofit social enterprise.
 

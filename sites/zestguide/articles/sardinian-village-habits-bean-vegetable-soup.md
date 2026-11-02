@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6adf40c7571b7d0a4db2d9ab
 source_title: People living past 100 in one tiny village share 3 daily habits
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/sardinian-village-habits-bean-vegetable-soup.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Quick Weeknight Meals
+image_alt: >-
+  A rustic bowl of bean and vegetable minestrone with fresh ingredients on a
+  sunlit kitchen table.
 ---
 Researchers at National Geographic are studying Bolotana, a small village in Sardinia, as a potential new "blue zone." Per Fox News, the village has 10 centenarians among 2,262 residents, and the habits behind that number are surprisingly ordinary: natural movement all day, a mostly plant-based diet, and strong social connection.
 
