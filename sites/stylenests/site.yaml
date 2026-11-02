@@ -173,7 +173,8 @@ brief:
       - Monday
       - Friday
     preferred_time: 10:00
-groups: []
+groups:
+  - atl
 iab_vertical_code: null
 layout:
   hero:
