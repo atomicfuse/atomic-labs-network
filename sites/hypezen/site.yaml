@@ -100,7 +100,7 @@ theme:
     footer_heading: "#f5f3ef"
     footer_link: "#a0a0a0"
     footer_link_hover: "#f5f3ef"
-  logo_height: 52
+  logo_height: 60
   menu_item_font_size: 14
   fonts:
     heading: Manrope
@@ -120,7 +120,6 @@ ads_txt:
   - "# NGC Digital Websites #"
   - ownerdomain=ngcdigital.io
   - google.com, pub-8316809043439376, DIRECT, f08c47fec0942fa0
-  # Empty last entry = ads.txt ends with a final newline (IAB spec). Test for AdSense "not found".
   - ""
 scripts:
   head:
