@@ -97,22 +97,24 @@ brief:
     - "Favor practical stories: “Comforting Dinners for Chilly Evenings” or “Small-Batch Meals for Two.”"
     - Keep the tone warm, reassuring, and approachable.
     - Include clear portions, realistic cooking times, affordable substitutions, and tested recipe instructions.
-  image_guidelines:
-    - Use realistic food photography with warm lighting and inviting textures.
-    - Feature rustic bowls, simple table settings, and natural kitchen scenes.
-    - Match images to the recipe; avoid overly staged settings, text overlays, and artificial-looking food.
+  image_guidelines: []
   vertical: Food & Drink
   vertical_id: 6a00793d1104bbff809b7c3e
   review_percentage: 5
   schedule:
-    articles_per_day: 1
+    articles_per_day: 4
     preferred_days:
-      - Monday
-      - Tuesday
-      - Wednesday
-      - Thursday
       - Friday
     preferred_time: 10:00
+  quality_threshold: 40
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  category_ids: []
+  tag_ids: []
 groups:
   - ready
 iab_vertical_code: null
