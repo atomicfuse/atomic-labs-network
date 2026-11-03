@@ -162,3 +162,8 @@ theme:
 tracking:
   ga4: G-R1PJ7B7DLM
   gtm: GT-PLFJG9N3
+authors:
+  - id: diego-herrera
+    topics: []
+  - id: noa-ben-david
+    topics: []
