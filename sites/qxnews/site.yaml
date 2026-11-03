@@ -50,6 +50,7 @@ grid:
       verticals: []
       bundles:
         - 6ac77d10ce7701ccb2411f3a
+  external_story_mode: ai_summary
 groups: []
 iab_vertical_code: null
 layout:
