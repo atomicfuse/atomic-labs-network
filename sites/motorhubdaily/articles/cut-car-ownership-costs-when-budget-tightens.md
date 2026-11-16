@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae729c4f299e0a830f394d2
 source_title: Obamacare continues to shrink as enrollment opens for 2027
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/cut-car-ownership-costs-when-budget-tightens.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Driver checks a car tire with a pressure gauge beside maintenance tools in a
+  residential driveway.
 ---
 Household budgets get squeezed from many directions at once, and your car is one of the few big line items you can adjust without giving anything up that matters. This guide walks through six places to trim ownership costs, in order of how much control you have, without cutting corners on safety.
 
