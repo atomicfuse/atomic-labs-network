@@ -24,7 +24,7 @@ source_title: >-
   FIFA flags nonbinding host city commitments as risk in 2031 Women’s World Cup
   bid
 generated_by: claude
-featuredImage: /assets/images/soccernewsreports-general-article.webp
+featuredImage: /assets/images/fifa-host-city-commitments-2031-womens-world-cup-bid.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 72
@@ -41,6 +41,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Analysis
+image_alt: Unsigned contracts beside a soccer stadium model and U.S. city skyline models
 ---
 FIFA has called the contractual framework of the U.S.-led 2031 Women's World Cup bid high risk, and the reason comes down to one word: nonbinding. By the end of this piece, you'll know what that flag means, why it hasn't derailed the bid, and why host cities suddenly have a bit of leverage they didn't expect.
 
