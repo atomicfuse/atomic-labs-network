@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ad6ebf592f27405dfb903ac
 source_title: Hilary Swank’s Colorful Chunky Knit Is the Fall Refresh We’ve Been Craving
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/style-colorful-chunky-knit-cardigan-fall.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Model wearing a colorful striped chunky-knit cardigan with jeans on a leafy
+  fall street.
 ---
 If your fall closet is a sea of beige, gray and oatmeal, one bold cardigan can change the whole mood without a full wardrobe overhaul. Here's how to wear a colorful chunky knit so it looks intentional, plus a budget-friendly option to start with.
 
