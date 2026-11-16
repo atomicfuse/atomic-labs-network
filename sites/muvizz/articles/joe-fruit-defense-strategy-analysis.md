@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6af7f1dc55a76e575e6262d5
 source_title: Traitor Joe Defends His ‘New Blood’ Murder in Plain Sight
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/joe-fruit-defense-strategy-analysis.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - TV Shows
+image_alt: A red apple beside a toppled chess king under a dramatic spotlight.
 ---
 Joe Vanella has been banished from *The Traitors: New Blood*, and he is not conceding that the apple was a mistake. In a post-elimination interview with Vulture, Joe defended his "murder in plain sight" move and explained how Victor's "Fruitgate" theory exposed both him and Tomica as Traitors.
 
