@@ -22,7 +22,7 @@ source_title: >-
   English country-house charm meets colourful maximalism in this interior
   designer's Melbourne townhouse
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/make-plain-home-characterful-colour-art-antiques.webp
 quality_score: 86
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Colourful living room with layered art, patterned walls, vintage furniture and
+  antiques.
 ---
 A plain 1990s semi doesn't have to stay plain. You can give a bland home real character with paint, pattern, art and a few well-chosen older pieces, and you don't need to knock down a single wall to do it.
 
