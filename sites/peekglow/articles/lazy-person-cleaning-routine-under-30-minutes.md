@@ -22,7 +22,7 @@ source_title: >-
   Hate Cleaning, But Want A Clean House? These 25 Products Make It Astoundingly
   Simple
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/lazy-person-cleaning-routine-under-30-minutes.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Simple Pleasure Picks
+image_alt: >-
+  Adult wipes a kitchen counter beside a compact cleaning caddy and timer in a
+  tidy apartment.
 ---
 BuzzFeed Shopping recently rounded up 25 cleaning products for people who hate cleaning but still want a tidy home, including toilet gels that leave a floral scent behind. The list's pitch is simple: less scrubbing, wiping, and organizing, more clean-looking space. We can't walk you through all 25 picks here, so this piece takes the idea behind them and turns it into something you can use today: a 30-minute routine for people who would rather be doing anything else.
 
