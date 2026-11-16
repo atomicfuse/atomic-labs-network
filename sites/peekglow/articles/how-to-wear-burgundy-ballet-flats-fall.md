@@ -21,7 +21,7 @@ source_title: >-
   Margot Robbie and Kendall Jenner Are Wearing These Rich-Girl Shoes in Fall’s
   Favorite Color—Shop Styles From $29
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/how-to-wear-burgundy-ballet-flats-fall.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Burgundy ballet flats styled with dark jeans, a camel sweater, and a brown
+  fall jacket.
 ---
 One pair of shoes can make a whole fall wardrobe feel more put together, and this season that pair is burgundy ballet flats. Below you'll find how to style them, what to pair them with, and where to look for options without paying luxury prices.
 
