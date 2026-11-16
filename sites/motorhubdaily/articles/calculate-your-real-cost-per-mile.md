@@ -20,7 +20,7 @@ source_url: 'https://www.foxbusiness.com/video/6407548984112'
 source_item_id: 6ae2c4c58bd58874456902ca
 source_title: 'Larry Kudlow: Media ignoring the good news in Trump''s economy'
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/calculate-your-real-cost-per-mile.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Driver calculates fuel cost per mile with a calculator, receipt, and car
+  dashboard.
 ---
 Economic coverage tends to split into two camps, and gas prices sit in the middle of the argument. This week, Fox Business host Larry Kudlow argued that the media is overlooking positive signs in the economy, including consumer spending, productivity and stock market gains, even as gas prices remain high, per Fox Business. Whether you find that persuasive or not, the national debate won't tell you what your own commute costs.
 
