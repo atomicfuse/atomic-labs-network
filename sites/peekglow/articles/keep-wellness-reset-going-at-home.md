@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ab753ac5b22be6773eca154
 source_title: Why the best wellness reset isn’t an escape from your life
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/keep-wellness-reset-going-at-home.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Mindful Routine Ideas
+image_alt: 'Person practicing Pilates on a mat in a bright, lived-in home.'
 ---
 A Vogue editor recently checked into Halcyon House for the latest Fluidform Pilates retreat and came away with an idea worth borrowing: the best wellness reset isn't an escape from your life. In conversation with Fluidform founder Kirsten King, the piece explores wellness that integrates into everyday life instead of living in a weekend away.
 
