@@ -23,7 +23,7 @@ source_title: >-
   2027 Ford Torino Cobra Jet Digital Muscle Car Slots Above the Mustang in a
   Positive Virtual Future
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/digital-ford-torino-cobra-jet-concept-above-mustang.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - EV Transition Tracker
+image_alt: >-
+  Speculative muscle car concept rendered on a design monitor above a smaller
+  modern muscle-car silhouette.
 ---
 A digital artist has put a 2027 Ford Torino Cobra Jet above the Mustang in an imagined Ford lineup. Before you start searching dealer lots, know this: it's a render, not a product. Ford has not announced it, and nothing in the reporting suggests otherwise. What you can get from it is a clearer sense of how to read concept art, and why a revived nameplate sparks so much debate.
 
