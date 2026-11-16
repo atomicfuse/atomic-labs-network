@@ -20,7 +20,7 @@ source_url: 'https://www.glamour.com/story/best-drugstore-sunscreens'
 source_item_id: 6ad6cb2792f27405dfb9034d
 source_title: '8 Best Drugstore Sunscreens 2026, Approved by Dermatologists'
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/how-to-choose-a-drugstore-sunscreen.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Shopper compares unbranded sunscreen bottles on a brightly lit drugstore
+  shelf.
 ---
 You don't need a $50 bottle to get a good sunscreen. According to Glamour's roundup of dermatologist-approved drugstore picks, affordable formulas can perform as well as luxury ones when they check a few key boxes. This guide walks you through those boxes so you can stand in the sunscreen aisle and choose with confidence.
 
