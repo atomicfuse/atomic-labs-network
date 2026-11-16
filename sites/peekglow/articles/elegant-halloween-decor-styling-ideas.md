@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ac4875cce7701ccb2411dde
 source_title: '20 Elegant Halloween Decor That’s Festive, Not Tacky'
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/elegant-halloween-decor-styling-ideas.webp
 quality_score: 88
 score_breakdown:
   seo_quality: 80
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Elegant Halloween mantel with black, ivory, and copper decor, pumpkins,
+  candles, and dried branches.
 ---
 House Beautiful recently rounded up 20 elegant Halloween pieces, mostly from Pottery Barn and other retailers, that lean spooky without veering into tacky. You don't need to buy all 20. The pattern across the list is the useful part: a handful of design rules that make Halloween look intentional. Here's how to use them in three spots at home, plus a few shortcuts for stretching a smaller budget.
 
