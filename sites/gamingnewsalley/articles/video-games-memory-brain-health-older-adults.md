@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6af6a05c444c59acb194e92b
 source_title: 'Opinion: Video Games Are the Antidote to Neurocognitive Decline'
 generated_by: claude
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: /assets/images/video-games-memory-brain-health-older-adults.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - PC Games
+image_alt: Older adult focused on a colorful puzzle game at a desktop computer.
 ---
 Games have spent decades as the punching bag of screen-time debates. An opinion piece in the Pepperdine Graphic, written by Perspectives Staff Writer Abby Samuel, flips that script: it argues video games can improve brain function in people already experiencing early memory loss. Here is what the piece claims, how to read it sensibly, and how you can play with your brain in mind.
 
