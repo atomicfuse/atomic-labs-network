@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6add6754571b7d0a4db2d85e
 source_title: You Won't Believe How Much This BMW X5 Sold For
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/used-bmw-x5-diesel-buying-checklist.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 80
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - New Model Showcases
+image_alt: >-
+  Used BMW X5 diesel with its hood open during a professional inspection in an
+  automotive workshop.
 ---
 A 2015 BMW X5 xDrive35d reportedly sold for $15,800 after a Cars&Bids auction, per Autoevolution. That's a luxury SUV that once cost close to $60,000 new, now priced like a mainstream used crossover. If you're tempted by a deal like that, this guide covers what the price does and doesn't tell you, and what to check before you buy a used F15 X5 of your own.
 
