@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ac08e2b3391fdf402cda06e
 source_title: 'For poor balance: Why Vrikshasana is more than a yoga pose'
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/why-tree-pose-feels-wobbly-how-to-steady-it.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 74
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Adult practicing Tree Pose with low foot placement beside a wall in a calm
+  yoga room.
 ---
 If you've ever wobbled through Vrikshasana, or Tree Pose, and wondered why standing on one leg feels so much harder than it looks, you're in good company. By the end of this article, you'll know what your body is doing during those shaky seconds and have a few simple ways to make the pose feel steadier.
 
