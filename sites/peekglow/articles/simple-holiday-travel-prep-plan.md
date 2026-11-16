@@ -21,7 +21,7 @@ source_title: >-
   38 Travel Products You’ll Thank Yourself For Grabbing Before The Holidays Roll
   Around
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/simple-holiday-travel-prep-plan.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Simple Pleasure Picks
+image_alt: >-
+  Open suitcase with organized travel essentials, car keys, and packing cubes
+  ready for a holiday trip.
 ---
 Holiday travel has a way of arriving faster than anyone expects. Buzzfeed's shopping team recently rounded up 38 travel products to grab before the season gets busy, with a simple message: prep early, and the trip feels easier when crowds, delays, and last-minute packing show up.
 
