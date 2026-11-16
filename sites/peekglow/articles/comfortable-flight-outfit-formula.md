@@ -23,7 +23,7 @@ source_title: >-
   23 Things That Are Actually Comfortable Enough For You To Wear On Your Next
   Flight
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/comfortable-flight-outfit-formula.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 74
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Traveler in a layered polished outfit sits comfortably in an airport lounge
+  beside a carry-on.
 ---
 BuzzFeed Shopping recently rounded up 23 travel-friendly clothing and accessory picks that are meant to be comfortable enough for a flight. The list is built around a simple idea: restrictive outfits can ruin a long travel day. The full list of products lives at BuzzFeed, so rather than reconstruct it here, this guide takes the idea behind it and turns it into a formula you can use with clothes you already own.
 
