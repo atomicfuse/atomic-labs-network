@@ -21,7 +21,7 @@ source_title: >-
   “FS8 combines Pilates, Tone, and Yoga into one workout” – New Gym coming to
   the Parks at Walter Reed
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/pilates-tone-yoga-hybrid-class-what-to-expect.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Beginners practice Pilates, toning exercises, and yoga together in a bright
+  fitness studio.
 ---
 A new fitness studio is heading to the Parks at Walter Reed in Washington, DC, and its pitch is simple: one workout that blends Pilates, Tone, and Yoga. If you've ever wanted to try all three but couldn't decide where to start, this is a handy way to think about hybrid classes and how to ease into one without feeling lost.
 
