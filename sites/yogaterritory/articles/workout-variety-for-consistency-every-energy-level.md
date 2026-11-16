@@ -23,7 +23,7 @@ source_title: >-
   Review: No excuses to skip workout as Relive Studio offers range of fitness
   options
 generated_by: claude
-featuredImage: /assets/images/yogaterritory-general-article.webp
+featuredImage: /assets/images/workout-variety-for-consistency-every-energy-level.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Wellness
+image_alt: >-
+  Adult choosing among a yoga mat, light weights, and a stationary bike in a
+  bright fitness studio.
 ---
 A recent review from Arab News of Relive Studio makes a simple case: when a studio offers a range of fitness options, you lose most of your excuses for skipping a workout. The review's reporting is brief on specifics, so I won't invent details about classes or schedules. But the idea behind it is worth borrowing, and you can put it to work this week: build a small menu of workouts matched to your energy, so there's always something you'll actually do.
 
