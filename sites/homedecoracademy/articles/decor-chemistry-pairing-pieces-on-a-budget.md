@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6afa9be6444c59acb194eb42
 source_title: the body netflix cast
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/decor-chemistry-pairing-pieces-on-a-budget.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 62
@@ -39,6 +39,9 @@ reading_time: 4
 topics:
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Living room with a rust armchair, blue sofa, layered textures, and warm
+  budget-friendly lighting
 ---
 Searches for Netflix's *The Body* cast are climbing this week, and much of the buzz centers on two actors, Kristina Bogic and Sara Boustany, who play Anya and Elise. Teen Vogue's interview headline says the pair have "killer" chemistry, and GO Magazine's calls it "electric."
 
