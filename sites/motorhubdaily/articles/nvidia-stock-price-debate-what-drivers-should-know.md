@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae486c5ca5815d901e33df0
 source_title: nvidia stock price
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/nvidia-stock-price-debate-what-drivers-should-know.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Automotive AI processor beside an electric vehicle console with an abstract
+  driver-assistance display.
 ---
 Searches for "nvidia stock price" are climbing in the US, and the headlines behind them point in opposite directions. If you follow cars, that matters more than it might seem: chips sit underneath the software-heavy vehicles the industry is moving toward. This article lays out what three finance outlets are saying, so you can read the debate without getting lost in it.
 
