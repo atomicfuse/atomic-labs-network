@@ -19,7 +19,7 @@ source_url: 'https://www.slashgear.com/2288602/tools-that-make-tire-changes-at-h
 source_item_id: 6ad42cd5a9cd9b7b63efac40
 source_title: 'Changing Tires At Home Could Be Easier: 5 Tools That Can Help The Process'
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/home-tire-change-tools-beginner-setup.webp
 quality_score: 86
 score_breakdown:
   seo_quality: 80
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 5
 topics:
   - EV Transition Tracker
+image_alt: >-
+  Car tire surrounded by five home garage tools for lifting, removing,
+  inflating, and servicing it.
 ---
 If you have a little garage space and want to stop paying for every tire swap, a small set of tools covers most of the job. Slashgear recently rounded up five highly rated options for inflating, removing, lifting, breaking beads, and reseating tires. This guide sorts them by what each one does and when you would actually need it, so you can build a kit in the right order instead of buying everything at once.
 
