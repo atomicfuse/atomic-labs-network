@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6aed63841123ffa4dd38fdb3
 source_title: 'Beyond iron and calcium: Why Moringa deserves a place in every woman''s diet'
 generated_by: claude
-featuredImage: /assets/images/dinnermag-general-article.webp
+featuredImage: /assets/images/moringa-weeknight-dinner-recipes.webp
 quality_score: 88
 score_breakdown:
   seo_quality: 80
@@ -38,6 +38,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Seasonal Produce Spotlights
+image_alt: Moringa leaves beside bowls of lentil dal and egg scramble in a warm kitchen.
 ---
 Moringa has a reputation as a supplement-aisle superfood, but it started as a leafy green you cook. By the end of this article you'll know why some nutrition writers want it on women's plates, and you'll have two dinners, a lentil dal and a ten-minute egg scramble, that put it there without any fuss.
 
