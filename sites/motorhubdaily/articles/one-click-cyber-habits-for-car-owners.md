@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae2c4c68bd58874456902ce
 source_title: The Next Cyber Threat Could Be One Click Away
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/one-click-cyber-habits-for-car-owners.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 74
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Car owner pauses before tapping a phone beside a connected car and home EV
+  charger.
 ---
 Forbes recently argued that the biggest cybersecurity threat facing businesses isn't always fraudsters finding clever ways to break into systems. Often, it's everyday user behavior: one careless click that opens the door. That point applies to anyone who owns a car, too. Your vehicle is tied to accounts, apps and payments, and each is a place where a single click can cause trouble.
 
