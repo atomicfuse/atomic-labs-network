@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6aa6085322000eee72257aed
 source_title: 'French Tiny House Caroline: Built for Family Dinners and Cozy Lounging'
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/tiny-house-caroline-family-dinner-design.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 68
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Car Care Chronicles
+image_alt: >-
+  Family eats at a fold-out table inside a compact tiny house with a raised
+  lounge.
 ---
 Most tiny homes are designed around one person eating alone at a counter. Tiny House Caroline, a custom build from French company Tibi House, starts from a different question: where does a family actually sit down together? Per Autoevolution, which profiled the home, the answer is a set of deliberate compromises that make a compact, road-legal frame feel social instead of cramped.
 
