@@ -20,7 +20,7 @@ source_url: 'https://www.glamour.com/story/kiehls-1cc-collashot-plumping-serum-r
 source_item_id: 6ae005a7571b7d0a4db2da31
 source_title: Kiehl's 1cc CollaShot Plumping Serum Review on 4 Different Skin Types
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/kiehls-collashot-plumping-serum-review.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Style Boosts
+image_alt: Kiehl's serum bottle beside a serum droplet on a softly lit bathroom vanity.
 ---
 Plumping skin care is having a moment, and it's easy to see why. If you want skin that looks bouncy and smooth without booking an injector appointment, a serum is a far gentler place to start. Glamour editors recently tested Kiehl's 1cc CollaShot Plump Serum across several skin types, and their verdict is useful if you're deciding whether it deserves a spot on your shelf.
 
