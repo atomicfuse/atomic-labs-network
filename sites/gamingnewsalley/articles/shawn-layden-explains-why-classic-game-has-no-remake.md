@@ -24,7 +24,7 @@ source_title: >-
   Why ‘Bloodborne’ Still Hasn’t Gotten a Remake, According to a Former
   PlayStation CEO
 generated_by: claude
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: /assets/images/shawn-layden-explains-why-classic-game-has-no-remake.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 72
@@ -41,6 +41,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Console Games
+image_alt: Game controller and gothic game world separated by a locked metal gate
 ---
 Bloodborne fans have waited a long time for a remake, a remaster, a PC port or even a scrap of new content. According to Vice, former PlayStation executive Shawn Layden has now offered an explanation for the silence, and it has less to do with demand than with how complicated reviving a game like this can be.
 
