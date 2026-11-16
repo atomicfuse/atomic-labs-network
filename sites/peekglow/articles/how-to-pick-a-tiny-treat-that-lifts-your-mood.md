@@ -19,7 +19,7 @@ source_url: 'https://www.buzzfeed.com/bekoconnell/tiny-gifts-burst-dopamine'
 source_item_id: 6ae7fcb51123ffa4dd38f986
 source_title: 39 Tiny Gifts To Give Yourself When You Want A Little Burst Of Dopamine
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/how-to-pick-a-tiny-treat-that-lifts-your-mood.webp
 quality_score: 86
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Simple Pleasure Picks
+image_alt: >-
+  A hand chooses among press-on nails, a cat mug warmer, and a colorful bumper
+  sticker on a sunny desk.
 ---
 Buzzfeed recently published a roundup of 39 tiny gifts to give yourself "when you want a little burst of dopamine," and it's a fun scroll. But a list of 39 things can leave you with 39 maybes and no purchase. So here's a more useful takeaway: a simple way to figure out which small treat is right for you, using a few items from the list as examples.
 
