@@ -23,7 +23,7 @@ source_title: >-
   Reviewers Say They “Love” These 28 Beauty Products, And It’s Not Hard To See
   Why
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/how-to-read-beauty-reviews-before-you-buy.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 66
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Shopper compares unbranded beauty products with blurred reviews on a
+  smartphone.
 ---
 BuzzFeed Shopping recently published a roundup of 28 beauty products that reviewers say they "love," from skin care to hair care to fragrance. One item in the lineup is described as a body and hair mist that is "literally sweater weather in a bottle." The full list lives on BuzzFeed, and the individual product details are there, not here.
 
