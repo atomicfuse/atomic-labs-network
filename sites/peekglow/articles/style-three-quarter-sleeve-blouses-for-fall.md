@@ -23,7 +23,7 @@ source_title: >-
   Fall Patterns! 17 Boutique-Looking, Three-Quarter-Sleeve Blouses That Flatter
   the Upper Arms
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/style-three-quarter-sleeve-blouses-for-fall.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Woman styling a striped three-quarter-sleeve blouse with camel trousers and a
+  jacket for fall.
 ---
 If your fall wardrobe needs a few polished pieces that don't feel heavy, the three-quarter-sleeve blouse is a smart place to start. By the end of this guide, you'll know which prints and colors to look for, how to style them with pieces you already own, and which outfit formulas work for work, brunch, and weekends.
 
