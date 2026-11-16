@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae005a7571b7d0a4db2da3d
 source_title: Annie Meyers-Shyer and the Secrets of the Nancy Meyers Aesthetic
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/nancy-meyers-look-lived-in-home-without-staging.webp
 quality_score: 86
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Warm, lived-in kitchen and sitting area with layered textures, mismatched
+  chairs, and personal decor.
 ---
 Annie Meyers-Shyer, daughter of filmmaker Nancy Meyers, has gone from renovating privately to being a decor influencer through her This Oak House project, per Vanity Fair. The magazine connects her Beverly Hills renovation to the "Nancy Meyers aesthetic" and argues that it is less a passing trend than a design language handed down through the family.
 
