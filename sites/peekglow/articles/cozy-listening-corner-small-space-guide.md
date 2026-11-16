@@ -23,7 +23,7 @@ source_title: >-
   This Cozy Room Trend Is on the Rise, and Designers Say It Makes Any Home Feel
   More Relaxing
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/cozy-listening-corner-small-space-guide.webp
 quality_score: 88
 score_breakdown:
   seo_quality: 72
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Cozy listening corner with a plush chair, turntable, vinyl records, warm lamp,
+  and compact speakers.
 ---
 Designers are talking about a new kind of room: the listening room. Per House Beautiful, it's inspired by Japanese jazz kissa cafés, where vinyl, sound quality, and atmosphere turn music into a slow, intentional ritual. The article describes it as a room meant for one thing: pressing play.
 
