@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ac08e2b3391fdf402cda06f
 source_title: 4 Low-Cortisol Workouts That Can Help You Exercise Without Overdoing It
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/gentle-low-cortisol-workouts-walking-pilates-swimming-yoga.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 78
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Woman practicing gentle yoga in a sunlit studio with a Pilates ring and
+  walking shoes nearby.
 ---
 You don't have to finish a workout drenched and shaky for it to count. If hard-charging routines leave you wiped out, there's a gentler lane, and this guide covers four ways to take it: walking, Pilates, swimming, and yoga.
 
