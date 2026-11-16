@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6aebad3cf299e0a830f39823
 source_title: 15 of the Best Places in the World for Food Right Now - National Geographic
 generated_by: claude
-featuredImage: /assets/images/culturesidenotes-general-article.webp
+featuredImage: /assets/images/plan-a-food-trip-from-a-best-places-to-eat-list.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Regional Dish Deep-Dive
+image_alt: >-
+  Traveler plans a food-focused trip beside a map, fresh market ingredients, and
+  a regional dish.
 ---
 National Geographic recently published a list of 15 of the best places in the world for food right now. A list like that is a great spark, but it doesn't tell you what to do on a Tuesday night when you're staring at a map in an unfamiliar city. This guide shows you how to turn any "best places to eat" roundup into a trip you can actually plan: pick a destination, build a food-first itinerary, eat like a local, and bring the flavors home.
 
