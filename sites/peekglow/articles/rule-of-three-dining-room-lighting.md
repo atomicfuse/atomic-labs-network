@@ -22,7 +22,7 @@ source_title: >-
   Kris Jenner's 'Rule of 3' Lighting Trick is a Lesson in Modern Luxury – It
   Reimagines Heritage Dining Rooms for 2027
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/rule-of-three-dining-room-lighting.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Three crystal chandeliers hang evenly above a long dining table in a warm
+  modern dining room.
 ---
 Three chandeliers over one dining table sounds like a lot. Yet that is the look Kris Jenner has in her California dining room, and Homes & Gardens points to it as a lesson in modern luxury. By the end of this article, you will know why the "rule of three" works, how to size and space a lighting trio, and how to keep the effect warm instead of showy.
 
