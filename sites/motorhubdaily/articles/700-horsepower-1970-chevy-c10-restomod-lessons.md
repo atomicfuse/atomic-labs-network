@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ab87d543391fdf402cd9d2a
 source_title: 1970 Chevy C10 Has 700 Horsepower Under the Hood and a Surprise on Top of It
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/700-horsepower-1970-chevy-c10-restomod-lessons.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 70
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - New Model Showcases
+image_alt: >-
+  Patina-covered 1970 Chevy C10 restomod with its turbocharged V8 visible
+  outside a garage.
 ---
 A 1970 Chevy C10 nicknamed "Material Girl" looks like a farm truck that has seen some things. Underneath, per Autoevolution's report, it's a turbocharged 5.3-liter V8 sending around 700 horsepower to the wheels. If you've ever wondered what separates a restomod that's fun to drive from one that's merely fun to photograph, this build is a useful case study.
 
