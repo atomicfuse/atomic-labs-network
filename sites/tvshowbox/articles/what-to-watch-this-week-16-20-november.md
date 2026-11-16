@@ -22,7 +22,7 @@ source_url: >-
 source_item_id: 6af9066d444c59acb194ea8e
 source_title: The Top TV Shows And Films To Watch On This Week (16th
 generated_by: claude
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/what-to-watch-this-week-16-20-november.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Recommendations
+image_alt: >-
+  A remote and five cozy viewing cues sit on a coffee table in colorful
+  television light.
 ---
 The week of Monday 16th to Friday 20th November has landed with a spread of five picks, per a roundup from Vibe1076: a reality-TV launch, a drama, a true-crime tech story, a returning fantasy series and a comedy. That's a decent range for the cosy-season sofa. The angle here is simple: instead of ranking them, let's match each one to the kind of evening you're actually having.
 
