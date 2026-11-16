@@ -19,7 +19,7 @@ source_url: 'https://www.buzzfeed.com/dayshavedewi/warm-and-cozy-home-before-win
 source_item_id: 6afa71b7444c59acb194eb29
 source_title: 36 Things To Make Your Home As Warm And Cozy As Possible Before Winter Hits
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/make-your-home-cozy-for-winter-on-a-budget.webp
 quality_score: 87
 score_breakdown:
   seo_quality: 80
@@ -37,6 +37,7 @@ topics:
   - Everyday Style Lessons
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: 'Cozy living room with a knit throw, soft rug, cushions, and warm lamp light.'
 ---
 Buzzfeed recently rounded up 36 products meant to make a home feel warmer, softer, and cozier before winter arrives. The full list isn't something we can reproduce here, so this guide skips the shopping spree and focuses on the idea behind it: you don't need a redesign to make staying in feel good. A few small upgrades, done in the right order, will do most of the work.
 
