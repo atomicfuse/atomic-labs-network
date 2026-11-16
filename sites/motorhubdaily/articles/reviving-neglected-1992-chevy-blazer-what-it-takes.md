@@ -23,7 +23,7 @@ source_title: >-
   Husband Surprises Wife With a 1992 Chevy Blazer Like They Had When They
   Started Dating
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/reviving-neglected-1992-chevy-blazer-what-it-takes.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 72
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - New Model Showcases
+image_alt: >-
+  Neglected 1992 Chevrolet Blazer sits in a garage with its hood open and
+  restoration tools nearby.
 ---
 A husband wanted to surprise his wife with the same kind of SUV they had when they started dating: a 1992 Chevrolet Blazer. What he got, per Autoevolution's report, was a neglected example that doesn't run, doesn't drive, and sits dormant under a layer of grime. The story follows its deep clean and mechanical revival, and it doubles as a useful lesson in how to approach any neglected older vehicle.
 
