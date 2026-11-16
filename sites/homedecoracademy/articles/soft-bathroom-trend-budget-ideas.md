@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6af2abdc444c59acb194e66a
 source_title: The “Soft Bathroom” Trend Transforms This Space Into a Dreamy Cocoon
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/soft-bathroom-trend-budget-ideas.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ topics:
   - DIY Decor Projects
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Cozy bathroom with a textured rug, dim sconces, framed art, greenery, and soft
+  fabric accents.
 ---
 Your bathroom probably works fine. It just doesn't feel like much. The "soft bathroom" trend, as covered by Good Housekeeping, aims to change that by turning a utilitarian room into a warm, spa-like cocoon. You don't need a renovation to try it. By the end of this article, you'll have a short list of affordable swaps that make a bathroom feel more like a cozy living room or a boutique hotel.
 
