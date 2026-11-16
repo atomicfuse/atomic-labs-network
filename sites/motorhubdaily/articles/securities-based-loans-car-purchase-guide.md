@@ -20,7 +20,7 @@ source_url: 'https://www.foxbusiness.com/video/6407684820112'
 source_item_id: 6ae80ac51123ffa4dd38f98c
 source_title: Securities-based loans growing in popularity
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/securities-based-loans-car-purchase-guide.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Car keys and investment documents on a desk with a vehicle visible through the
+  window
 ---
 If you are shopping for a car and also hold a investment portfolio, you may have heard about a financing option that lets you borrow against those holdings instead of selling them. This article explains what that option is, what it could mean for the cost of your next vehicle, and which questions to answer before you consider it.
 
