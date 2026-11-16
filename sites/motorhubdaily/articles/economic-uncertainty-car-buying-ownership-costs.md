@@ -21,7 +21,7 @@ source_title: >-
   Everything that could go wrong for the US economy, has gone wrong: Anthony
   Pompliano
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/economic-uncertainty-car-buying-ownership-costs.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Prospective car buyer reviews a budget, loan papers, keys, and a maintenance
+  checklist beside a parked car.
 ---
 Anthony Pompliano has argued that the U.S. economy is facing a pileup of negative pressures. Fox Business reports that he framed current conditions as a worst-case scenario, with everything that could go wrong having gone wrong. The network's "Big Money Show" panel discussed the Federal Reserve's policy decision, inflation risks from AI, rising bond yields, and the potential path for future interest rate hikes.
 
