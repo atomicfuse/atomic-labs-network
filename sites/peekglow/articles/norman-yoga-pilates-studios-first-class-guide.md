@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae5782d1123ffa4dd38f7e5
 source_title: 'Best Yoga &amp; Pilates Studio in Norman: 2026 Winners'
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/norman-yoga-pilates-studios-first-class-guide.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Beginner choosing a spot in a bright studio with a yoga mat and Pilates
+  reformer.
 ---
 OU Daily readers have voted, and Sweat at Selah is the 2026 winner for Best Yoga & Pilates Studio in Norman. Three other studios were also nominated: Simply Yoga, SPACE Yoga, and Pilates Fitness Center. If you've been meaning to start a movement routine and don't know where to begin, a reader-voted shortlist is a handy place to start. Below is a simple way to turn four names into one booked class.
 
