@@ -22,7 +22,7 @@ source_title: >-
   It’s Official—I’m Skipping These 6 Outdated Jacket Styles in Favor of These
   Fall Trends
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/fall-jacket-swaps-frog-closure-fur-trim.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 74
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Model in a frog-closure fall jacket beside a fur-trimmed jacket on a clothing
+  rack.
 ---
 Your fall jacket is the first thing people see and the last thing you put on, so it does a lot of work. The good news: you don't need a new wardrobe to make it feel fresh. According to InStyle, fashion insiders are skipping six familiar jacket styles this fall in favor of newer swaps, and the main idea is that small changes in silhouette, texture, and detail are enough to make an outfit feel current.
 
