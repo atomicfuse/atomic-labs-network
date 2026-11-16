@@ -19,7 +19,7 @@ source_url: 'https://www.slashgear.com/2292335/all-terrain-vehicles-that-can-go-
 source_item_id: 6add6754571b7d0a4db2d85d
 source_title: These 11 Extreme All Terrain Vehicles Can Go Just About Anywhere
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/extreme-all-terrain-vehicles-what-makes-them-capable.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 70
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - New Model Showcases
+image_alt: >-
+  Tracked all-terrain vehicle crosses a muddy ravine while a lifted pickup waits
+  at the trail edge.
 ---
 Most people shopping for an off-roader compare ground clearance, tire size, and a badge. Slashgear's roundup of 11 extreme all-terrain vehicles makes a different point: when the terrain gets truly hard, the vehicles that cope are built around a specific problem, not a generic checklist. Read on and you'll know which design features solve which kinds of terrain, and how to judge any "go anywhere" claim.
 
