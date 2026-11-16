@@ -22,7 +22,7 @@ source_title: >-
   This Affordable, Cabin-Like Camper Van Is a Full-Time Home on Wheels for a
   Retired Adventurer
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/retired-full-timer-diy-promaster-camper-van-lessons.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 66
@@ -40,6 +40,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - New Model Showcases
+image_alt: 'Older man''s hands work on a warm, cabin-style DIY camper van interior.'
 ---
 A retired man named Steve built a camper van with no prior building experience and has now lived in it full-time for five years, according to Autoevolution. His rig is a 2021 Ram ProMaster 2500 with a warm, cabin-style interior. It is a useful case study if you've wondered whether a van can be a real home without a luxury-level budget.
 
