@@ -23,7 +23,7 @@ source_title: >-
   Designers Are Ditching Neutral Kitchens for This Controversial Color—and It
   Looks Surprisingly Good
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/how-to-try-red-kitchen-color-trend.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 70
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Photorealistic warm kitchen with brick-red cabinets balanced by pale counters,
+  white walls, and natural wood.
 ---
 If an all-white kitchen has started to feel more like a showroom than a place you actually live, red might be the nudge you need. Per House Beautiful, designers are moving away from neutral kitchens and toward red tones, from burgundy to brick, as a bold, warm choice with personality. Below is how to try it, from a full commitment down to a small test run, without the room feeling overwhelming.
 
