@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ab2125b3391fdf402cd9a82
 source_title: 41 Fall Table Decorating Ideas You’ll Want to Try for Your Next Dinner Party
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/fall-table-ideas-beyond-pumpkins.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Autumn dinner table styled with apples, candles, colored glasses, linen, and
+  cozy seasonal textures.
 ---
 House Beautiful rounded up 41 fall table decorating ideas for dinner parties, and its main takeaway is a freeing one: an autumn table can go far beyond orange pumpkins. Rich color, a few seasonal details, and a dose of your own taste do most of the work.
 
