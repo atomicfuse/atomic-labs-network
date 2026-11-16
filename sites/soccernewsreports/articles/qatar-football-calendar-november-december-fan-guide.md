@@ -23,7 +23,7 @@ source_title: >-
   Football extravaganza: Qatar ready to host series of top international
   tournaments
 generated_by: claude
-featuredImage: /assets/images/soccernewsreports-general-article.webp
+featuredImage: /assets/images/qatar-football-calendar-november-december-fan-guide.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 66
@@ -41,6 +41,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Match Reports
+image_alt: Fans plan a busy football schedule outside a modern Qatar stadium at dusk.
 ---
 Qatar's Local Organizing Committee (LOC) for Football Events says the country is ready to host a dense run of tournaments and matches across November and December, per Gulf-times. If you're following the action or thinking about making the trip, this guide shows what's on the slate and how to approach planning around it.
 

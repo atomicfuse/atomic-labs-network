@@ -20,7 +20,7 @@ source_url: 'https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoa
 source_item_id: 6afa9be6444c59acb194eb41
 source_title: Searching for the Last Stoats of Waiheke Island
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/waiheke-island-elusive-stoats-wildlife-conservation.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Unseen World Explained
+image_alt: A wary stoat watches a monitoring tunnel from dense Waiheke Island vegetation.
 ---
 Waiheke Island, a tourist destination in New Zealand, is trying to become the first urban island to rid itself of stoats. According to the New York Times, more than 280 of these introduced predators have been trapped there since 2020. The hard part is what remains: a handful of animals described as "shy," which ignore the traps that caught their relatives. Their story explains why finishing an eradication is much harder than starting one.
 

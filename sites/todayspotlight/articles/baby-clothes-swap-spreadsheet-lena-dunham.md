@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6abb4cdb3391fdf402cd9e7c
 source_title: Lena Dunham Has a Spreadsheet For Her Vintage Baby Clothes
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/baby-clothes-swap-spreadsheet-lena-dunham.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Rising Stars
+image_alt: >-
+  Folded vintage baby clothes arranged beside a laptop showing a simple
+  spreadsheet.
 ---
 Lena Dunham has a spreadsheet for her vintage baby clothes. According to The Cut, which originally reported the story, she tracks vintage and thrifted baby items organized by age, and the list is shared among a parent "trading club." The Cut frames the approach as quirky, relatable, and part of a broader upcycled parenting habit.
 

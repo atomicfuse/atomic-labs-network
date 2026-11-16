@@ -19,7 +19,7 @@ source_url: 'https://www.yogajournal.com/practice/ankle-mobility-yoga-poses/'
 source_item_id: 6ac9c8abce7701ccb2412120
 source_title: 'Your Ankles Need Love, Too. These 5 Yoga Poses Support This Overlooked Joint.'
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/yoga-poses-for-ankle-mobility-and-stability.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Yoga practitioner holds Half Moon Pose with the supporting ankle clearly
+  visible on a studio mat.
 ---
 Ankles rarely get a thank-you. They carry you up stairs, across kitchens, and through every yoga class, and most of us only notice them when something feels stiff or wobbly. This guide walks you through five yoga poses that Yoga Journal highlights for stretching, strengthening, and stabilizing the ankles, plus simple ways to make each one friendlier if your ankles feel tight.
 

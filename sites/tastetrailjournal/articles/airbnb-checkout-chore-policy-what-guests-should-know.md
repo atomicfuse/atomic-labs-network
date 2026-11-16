@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae6e11c1123ffa4dd38f912
 source_title: What Airbnb’s New Cleaning Policy Means for Your Next Stay
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/airbnb-checkout-chore-policy-what-guests-should-know.webp
 quality_score: 61
 score_breakdown:
   seo_quality: 62
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Culinary Heritage Journeys
+image_alt: >-
+  Traveler leaves a vacation rental kitchen with a packed suitcase and dishes
+  beside the sink.
 ---
 Starting November 20, 2026, Airbnb hosts can no longer require you to strip the beds, run a load of laundry, wash the dishes, or haul out the garbage before you leave. By the end of this guide, you'll know what the rule covers, what it doesn't, and how to plan a food-focused stay around it.
 

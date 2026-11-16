@@ -21,7 +21,7 @@ source_title: >-
   Spoiler candidate, Cheesecake Factory and sibling rivalry: Recounting the many
   late 2026 midterm sideshows
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/reading-late-midterm-campaign-sideshows.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Soundtrack Stories
+image_alt: >-
+  A hand isolates one bright channel on a mixing console amid campaign papers
+  and a cheesecake slice.
 ---
 The final stretch of the 2026 midterm campaign has been crowded with oddities. CNN's recent roundup, titled "Spoiler candidate, Cheesecake Factory and sibling rivalry: Recounting the many late 2026 midterm sideshows," describes October surprises that, in the outlet's words, have been "chock full" of moments that are "rather silly and even corrosive."
 

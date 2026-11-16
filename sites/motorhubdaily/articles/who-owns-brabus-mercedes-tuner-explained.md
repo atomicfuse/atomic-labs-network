@@ -19,7 +19,7 @@ source_url: 'https://www.slashgear.com/2257919/who-owns-brabus-not-mercedes/'
 source_item_id: 6aaf42d40c196d947f915366
 source_title: Brabus Isn't Owned By Mercedes – Here's Who Owns The Famous Benz Tuning Brand
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/who-owns-brabus-mercedes-tuner-explained.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 78
@@ -36,6 +36,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - New Model Showcases
+image_alt: Tuned black luxury sedan displayed inside an independent performance workshop.
 ---
 If you've ever assumed Brabus is Mercedes-Benz's own performance arm, you're in good company. You'll leave this article knowing who actually owns it, where the name comes from, and why that matters if you ever price out a Brabus-modified car.
 

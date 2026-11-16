@@ -22,7 +22,7 @@ source_title: >-
   'Back to the Future' writer Bob Gale on 'The Complete Screenplay,' movie
   memories
 generated_by: claude
-featuredImage: /assets/images/glazepost-general-article.webp
+featuredImage: /assets/images/bob-gale-back-to-the-future-complete-screenplay.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Hollywood Heartthrobs
+image_alt: >-
+  Bob Gale sits beside an annotated screenplay manuscript and a bound screenplay
+  book.
 ---
 Bob Gale, co-writer and co-creator of *Back to the Future*, is talking about *The Complete Screenplay*, a release built around his personal script, complete with notes and photos, according to a Fox News interview. In it, Gale also revisits memories from the set with Michael J. Fox and Christopher Lloyd, and touches on what year another film might have been set in.
 

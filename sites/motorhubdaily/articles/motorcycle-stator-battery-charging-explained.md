@@ -20,7 +20,7 @@ source_url: 'https://www.slashgear.com/2257920/what-does-stator-do-on-motorcycle
 source_item_id: 6aaf42d40c196d947f915363
 source_title: What Does A Stator Do On A Motorcycle?
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/motorcycle-stator-battery-charging-explained.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 80
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - New Model Showcases
+image_alt: >-
+  Motorcycle with its side cover removed, exposing stator coils as a multimeter
+  tests the battery.
 ---
 You replace the battery on your motorcycle, and a few weeks later it's dead again. Before you buy a third one, look at the part that's supposed to keep it charged: the stator. Understanding what it does can save you money and keep you from getting stranded.
 

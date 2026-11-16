@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ac08e2c3391fdf402cda084
 source_title: Bangkok’s top Pilates studios
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/choose-bangkok-pilates-studio.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Welcoming Bangkok Pilates studio with a beginner using a reformer during a
+  calm class.
 ---
 Pilates in Bangkok has gone from niche recovery practice to a regular fixture of the weekly routine. Per Time Out's guide to the city's top studios, new spaces are spreading across Sukhumvit, demand is outpacing supply, and reformer slots can book out days in advance. That's good news if you want options. It's also a reason to know what you're looking for before you start booking.
 

@@ -20,7 +20,7 @@ source_url: 'https://www.koreaherald.com/article/10920383'
 source_item_id: 6ae42b5c6fa9fb73f2382e3b
 source_title: PUBG live-action series in the works at Netflix
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/donald-glover-pubg-netflix-series-what-we-know.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Behind The Scenes
+image_alt: >-
+  Conceptual portrait of Donald Glover at a soundstage table with storyboards
+  and a battle-royale-inspired prop.
 ---
 A live-action series based on PUBG: Battlegrounds is in development at Netflix, with Donald Glover attached to write, direct, star and executive produce, per a report from the Korea Herald. Krafton, the company behind the game, is involved in the project. Below, you'll get what's actually been reported, and a clear-eyed look at the one question that matters most: how do you turn a battle royale into a TV show worth watching?
 

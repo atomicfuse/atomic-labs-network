@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae005a7571b7d0a4db2da34
 source_title: 25 Best Heidi Klum Halloween Costumes So Far
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/heidi-klum-halloween-costumes-through-the-years.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 66
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Rising Stars
+image_alt: >-
+  Heidi Klum poses in an elaborate original Halloween transformation under
+  dramatic studio lighting.
 ---
 Heidi Klum treats Halloween the way some people treat the Oscars. Glamour has rounded up her most memorable costumes, and the list reads like a timeline of escalating ambition. This guide walks you through the standout eras of her costume history, shows what makes her approach different, and gives you ideas you can borrow for your own Halloween, no prosthetics budget required.
 

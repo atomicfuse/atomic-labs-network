@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ac4875cce7701ccb2411de0
 source_title: This Wallpaper Turns Any Room Into a Jungle Fantasy
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/how-to-style-jungle-wallpaper-wall-any-budget.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Dining room with a jungle wallpaper wall featuring monkeys, toucans,
+  butterflies, and a simple wood table.
 ---
 Designer Ken Fulk has released a jungle wallcovering called "Monkey Business" for Perennials' fall collection, per Elle Decor. It features spider monkeys, toucans, and butterflies printed on sisal grass cloth. Fulk envisions it as a statement piece for dining rooms and other bold design moments, according to the report.
 

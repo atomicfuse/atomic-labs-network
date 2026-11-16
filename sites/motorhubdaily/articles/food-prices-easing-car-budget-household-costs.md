@@ -21,7 +21,7 @@ source_title: >-
   Agriculture Secretary praises Trump administration's affordability policies as
   food inflation eases
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/food-prices-easing-car-budget-household-costs.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Household budget items with car keys, groceries, receipts, and a calculator on
+  a kitchen table
 ---
 Grocery prices are one of the loudest budget worries in American households, and this week brought a sign of relief. U.S. Agriculture Secretary Brooke Rollins praised the Trump administration's affordability policies on Fox Business's "Kudlow," pointing to easing food inflation after a period of elevated prices, as reported by Fox Business. The comments come ahead of the midterm elections.
 

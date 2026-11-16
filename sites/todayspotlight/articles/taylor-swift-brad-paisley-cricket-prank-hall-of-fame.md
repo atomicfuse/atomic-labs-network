@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae026750a9c94d1ee7f8db9
 source_title: Taylor Swift Jokes About Estrangement From Brad Paisley
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/taylor-swift-brad-paisley-cricket-prank-hall-of-fame.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 66
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Fandom Focus
+image_alt: >-
+  Acoustic guitar, gold induction medallion, and a small cricket inside a tour
+  bus
 ---
 At her Nashville Songwriters Hall of Fame induction, Taylor Swift took a moment to joke about a feud with Brad Paisley. By the end of this piece, you'll know what the joke was, where it came from, and why it landed in the middle of a very big night.
 

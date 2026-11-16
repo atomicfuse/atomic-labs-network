@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6af54c8455a76e575e626197
 source_title: Independent technique validates landmark M87* image
 generated_by: claude
-featuredImage: /assets/images/useminds-general-article.webp
+featuredImage: /assets/images/independent-check-confirms-first-black-hole-image.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mind-Blowing Science
+image_alt: >-
+  Scientist reviews multiple computer reconstructions of a glowing black hole
+  ring.
 ---
 A black hole image went around the world in 2019, and a fair question followed: how do you know that glowing ring is real and not something your software invented? You'll finish this article knowing how scientists answer that, and why a new independent check matters.
 

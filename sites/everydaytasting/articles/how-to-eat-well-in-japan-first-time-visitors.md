@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6aebad3df299e0a830f39824
 source_title: 9 Tips For Finding The Best Food While Traveling In Japan - Tasting Table
 generated_by: claude
-featuredImage: /assets/images/everydaytasting-general-article.webp
+featuredImage: /assets/images/how-to-eat-well-in-japan-first-time-visitors.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 82
@@ -39,6 +39,9 @@ reading_time: 4
 topics:
   - Global Flavor Journeys
   - recipes
+image_alt: >-
+  Traveler explores a Japanese department-store food hall filled with prepared
+  dishes and regional specialties.
 ---
 Japan is one of the most food-focused travel destinations around, and a little planning goes a long way. Tasting Table recently rounded up nine tips for finding the best food while traveling there. Here they are, with practical ways to put each one to use, so you can eat like a local rather than just follow the crowd.
 

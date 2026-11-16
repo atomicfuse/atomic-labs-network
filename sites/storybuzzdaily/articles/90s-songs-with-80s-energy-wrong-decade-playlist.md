@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6af7f1dc55a76e575e6262d2
 source_title: 'Out Of Time: 10 Songs From The 90s That Belonged In The 80s'
 generated_by: claude
-featuredImage: /assets/images/storybuzzdaily-general-article.webp
+featuredImage: /assets/images/90s-songs-with-80s-energy-wrong-decade-playlist.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Melody Lane Musings
+image_alt: >-
+  A vintage stereo sits beside a cassette and compact disc, suggesting music
+  crossing between decades.
 ---
 A Medium piece titled "Out Of Time: 10 Songs From The 90s That Belonged In The 80s" makes a pitch that anyone who grew up near a radio will recognize: some 90s songs showed up late to the 80s party. The writer's framing is that pop music changed abruptly when the decade turned, and a handful of tracks carried production, melodies, or attitudes that felt more at home in the decade before.
 

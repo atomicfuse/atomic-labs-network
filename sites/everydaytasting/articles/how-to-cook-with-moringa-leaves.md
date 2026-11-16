@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6aed63841123ffa4dd38fdb3
 source_title: 'Beyond iron and calcium: Why Moringa deserves a place in every woman''s diet'
 generated_by: claude
-featuredImage: /assets/images/everydaytasting-general-article.webp
+featuredImage: /assets/images/how-to-cook-with-moringa-leaves.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 80
@@ -37,6 +37,7 @@ reading_time: 4
 topics:
   - Seasonal Ingredient Spotlight
   - recipes
+image_alt: Fresh moringa leaves beside a skillet of simple home cooking in a warm kitchen
 ---
 Moringa leaves are a familiar ingredient in many South Asian kitchens, and they're easy to cook with once you know a couple of tricks. This guide covers what the leaves are said to offer, the food-first thinking behind the current interest, and two simple dishes you can make this week with ordinary pantry staples.
 

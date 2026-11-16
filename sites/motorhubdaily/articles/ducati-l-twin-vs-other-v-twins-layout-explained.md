@@ -22,7 +22,7 @@ source_title: >-
   What Makes An L-Twin Motorcycle Engine's Cylinder Layout Different From Other
   V-Twins?
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/ducati-l-twin-vs-other-v-twins-layout-explained.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 68
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - New Model Showcases
+image_alt: >-
+  Two motorcycle chassis show contrasting L-twin and V-twin engine layouts in a
+  studio comparison.
 ---
 Two motorcycles can both call their engines "V-twins" and still feel completely different at a stoplight and in a corner. By the end of this piece, you'll know what the Ducati L-twin does differently, what that means for how a bike rides, and what trade-off comes with it. That's useful when you're comparing sport bikes and cruisers beyond the horsepower figures on a spec sheet.
 

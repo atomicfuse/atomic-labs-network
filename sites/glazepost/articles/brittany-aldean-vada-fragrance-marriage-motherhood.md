@@ -19,7 +19,7 @@ source_url: 'https://www.foxnews.com/video/6407612659112'
 source_item_id: 6ae52f856fa9fb73f2382ecb
 source_title: 'Brittany Aldean gets candid about balancing marriage, motherhood and business'
 generated_by: claude
-featuredImage: /assets/images/glazepost-general-article.webp
+featuredImage: /assets/images/brittany-aldean-vada-fragrance-marriage-motherhood.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 68
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Hollywood Heartthrobs
+image_alt: >-
+  Brittany Aldean beside an unbranded fragrance bottle in a softly lit home
+  setting.
 ---
 Brittany Aldean is talking about how she keeps her marriage, her kids and a new business all in the air at once. Per Fox News, she opened up about balancing marriage, motherhood and entrepreneurship as she launches her fragrance brand, VADA, and about how she and husband Jason Aldean intentionally make time for each other despite demanding schedules.
 

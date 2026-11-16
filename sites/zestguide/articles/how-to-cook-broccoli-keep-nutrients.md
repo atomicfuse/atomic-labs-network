@@ -22,7 +22,7 @@ source_title: >-
   Popular cooking methods may destroy key health benefits of broccoli, experts
   warn
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/how-to-cook-broccoli-keep-nutrients.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 80
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Pantry Staple Recipes
+image_alt: >-
+  Fresh broccoli is chopped on a cutting board beside florets steaming in a
+  basket.
 ---
 Boiling is the way many of us learned to cook broccoli, and it may be the worst way to do it. Experts quoted by Fox News warn that boiling drains vitamin C and glucoraphanin, a compound linked to broccoli's antioxidant and anti-inflammatory reputation. The good news: the fixes are small. By the end of this guide you'll know how to chop, wait, and cook broccoli so you keep more of what makes it worth eating.
 

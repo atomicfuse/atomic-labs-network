@@ -20,7 +20,7 @@ source_url: 'https://www.foxbusiness.com/video/6407675116112'
 source_item_id: 6ae80ac51123ffa4dd38f992
 source_title: 'AWS CEO: Potential for our business is ‘massive’'
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/cloud-ai-boom-what-it-means-for-car-buyers.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Prospective buyer compares connected-car features on a smartphone beside a
+  modern vehicle.
 ---
 AWS CEO Matt Garman recently described the potential for Amazon Web Services as "massive," according to Fox Business. He was speaking on *The Claman Countdown* about AWS's third-quarter earnings, sales of cloud capacity, and demand for artificial intelligence chips.
 

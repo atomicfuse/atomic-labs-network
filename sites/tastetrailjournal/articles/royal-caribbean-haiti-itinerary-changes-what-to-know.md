@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae6e11c1123ffa4dd38f90c
 source_title: 'Royal Caribbean International Extends Haiti Cruise Ban Through Spring, 2028'
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/royal-caribbean-haiti-itinerary-changes-what-to-know.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 66
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Culinary Heritage Journeys
+image_alt: >-
+  Cruise ship sails past Haiti as a route overlay curves toward alternate
+  Caribbean destinations.
 ---
 If you have a Royal Caribbean cruise on the calendar, or you're eyeing one, here's the short version: Haiti is off the menu for a long while. Per TravelPulse, the cruise line has extended its suspension of Haiti calls through spring 2028, rerouting dozens of itineraries that previously stopped at Labadee. The report ties the decision to ongoing military operations by El Salvador's forces in Haiti.
 

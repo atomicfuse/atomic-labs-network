@@ -23,7 +23,7 @@ source_title: >-
   Designer Emily Ruff Took This Small, Uninhabited 100-Year-Old Home and Filled
   It With Warmth, Charm, and Character
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/make-renovated-home-feel-warm-and-historic.webp
 quality_score: 86
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Warm historic living and dining room with floral fabrics, wood furniture,
+  brass accents, and soft yellow details.
 ---
 A newer or freshly renovated home can look right on paper and still feel a little cold. If that sounds familiar, a recent project from designer Emily Ruff offers a useful playbook. Per Homes & Gardens, Ruff took a stripped-back 1926 Seattle home and turned it into a warm, characterful sanctuary built for hosting. Below, you'll find the repeatable moves behind that approach, plus ways to scale each one to your budget.
 

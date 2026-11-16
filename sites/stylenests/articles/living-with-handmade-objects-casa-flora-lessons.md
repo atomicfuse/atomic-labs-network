@@ -23,7 +23,7 @@ source_title: >-
   Inside Designer Carla Fernández’s Vibrant Mexico City Home, Full of Indigenous
   Textiles and Art
 generated_by: claude
-featuredImage: /assets/images/stylenests-general-article.webp
+featuredImage: /assets/images/living-with-handmade-objects-casa-flora-lessons.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Comfortable Living Ideas
+image_alt: >-
+  Sunlit Mérida-inspired room with a woven textile, handmade ceramics, wood
+  furniture, and lived-in decor.
 ---
 Vogue recently took readers inside Casa Flora, designer Carla Fernández's home and studio in Mérida, Mexico. The home appears in *Mesoamerican Modern*, a book by Su Wu. It's filled with Indigenous textiles, Mesoamerican art, and artisan-made design. The book's argument, as Vogue frames it, is that pre-Hispanic and Indigenous design ideas aren't museum pieces. They're living influences that shape how people decorate today.
 

@@ -19,7 +19,7 @@ source_url: 'https://www.slashgear.com/2264597/why-wired-android-auto-uses-phone
 source_item_id: 6ab87d543391fdf402cd9d29
 source_title: Why Does Wired Android Auto Still Use Your Phone's Bluetooth?
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/why-wired-android-auto-still-uses-bluetooth.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 80
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - EV Transition Tracker
+image_alt: >-
+  Phone plugged into a car dashboard while wireless Bluetooth waves connect it
+  to the audio system.
 ---
 You plug your phone into the car with a USB cable, Android Auto launches, and yet the Bluetooth icon is still lit. Calls sound thinner than your music, too. You're not imagining it, and nothing is broken. This article explains why that happens and what you can check to make the setup work better.
 

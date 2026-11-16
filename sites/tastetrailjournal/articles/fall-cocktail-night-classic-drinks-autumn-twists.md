@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6abb1ba55b22be6773eca274
 source_title: '17 Fall Cocktails, From Whiskey Sours To Hot Toddies'
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/fall-cocktail-night-classic-drinks-autumn-twists.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - culinary spotlight
+image_alt: >-
+  Four classic cocktails with apple, cinnamon and other autumn garnishes on a
+  warmly lit table.
 ---
 Forbes recently rounded up 17 fall cocktails, spanning hot toddies, martinis, margaritas and sours, with seasonal flavors from apple to pumpkin. The full list isn't reproduced here, but the pattern in it is useful: you don't need 17 new recipes. You need a few classics you already know and a couple of autumn flavors to swap in. This guide shows how to plan a fall cocktail night around that idea.
 

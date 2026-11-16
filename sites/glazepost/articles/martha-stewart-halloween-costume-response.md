@@ -22,7 +22,7 @@ source_title: >-
   Martha Stewart addresses backlash after dressing as homeless person for
   Halloween
 generated_by: claude
-featuredImage: /assets/images/glazepost-general-article.webp
+featuredImage: /assets/images/martha-stewart-halloween-costume-response.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 74
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Hollywood Heartthrobs
+image_alt: >-
+  Martha Stewart sits beside a Halloween pumpkin and a phone showing a deleted
+  social-media post.
 ---
 Martha Stewart has some explaining to do, and she has been doing it. Per Fox News, the lifestyle mogul faced backlash after posting a Halloween photo of herself dressed as a homeless person, holding a sign that read "I AM HUNGRY. HELP ME!!" The post was later deleted. Stewart has since said the costume was meant to bring awareness to homelessness, but according to the report, the criticism only intensified.
 

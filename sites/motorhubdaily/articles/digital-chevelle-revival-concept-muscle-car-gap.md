@@ -22,7 +22,7 @@ source_title: >-
   Digitally Reborn Chevrolet Chevelle Pays Its Virtual Respects to Second-Gen SS
   Hardtop Sport Coupe
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/digital-chevelle-revival-concept-muscle-car-gap.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - New Model Showcases
+image_alt: >-
+  Digital render of a retro-inspired modern muscle-car coupe on a designer's
+  studio monitor.
 ---
 A digital artist has brought the Chevrolet Chevelle back, at least on screen. Mike G., who leads the mike.g.concepts design studio, has created a CGI concept of a modern Chevelle hardtop coupe, reported by Autoevolution. It pays tribute to the second-generation Chevelle SS and pairs retro cues with contemporary design and a supercharged V8, per the report.
 

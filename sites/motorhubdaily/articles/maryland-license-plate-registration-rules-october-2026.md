@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ac1b7d33391fdf402cda11d
 source_title: How Maryland License Plate Laws Are Changing In October 2026
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/maryland-license-plate-registration-rules-october-2026.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - EV Transition Tracker
+image_alt: >-
+  Sedan with an out-of-state plate beside registration paperwork in a Maryland
+  driveway.
 ---
 If you've moved to Maryland and your car still wears out-of-state plates, the clock matters more than it used to. Per Slashgear, Maryland is stepping up enforcement of its 60-day registration requirement for new residents starting October 1, 2026, with escalating penalties that include daily fines of up to $420 and possible vehicle impoundment.
 

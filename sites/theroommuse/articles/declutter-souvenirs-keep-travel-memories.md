@@ -21,7 +21,7 @@ source_title: >-
   We Asked Pro Organizers How to Declutter Souvenirs, and We Wish We Tried This
   Sooner
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/declutter-souvenirs-keep-travel-memories.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Personal Touches DIY
+image_alt: >-
+  Hand sorting travel souvenirs into a curated display and organized
+  decluttering areas.
 ---
 A shelf of shot glasses, a drawer of foreign coins, a box of fabric you swore you'd sew into something. Souvenirs start as joy and slowly turn into visual noise. This guide walks you through a simple souvenir audit so you can keep the memories that matter, show them off well, and let the rest go without guilt.
 

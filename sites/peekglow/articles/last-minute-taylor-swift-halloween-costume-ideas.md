@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae005a7571b7d0a4db2da29
 source_title: Genius Taylor Swift Costume Ideas Guaranteed to Arrive in Time for Halloween
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/last-minute-taylor-swift-halloween-costume-ideas.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Person assembles a pop-star-inspired Halloween costume from clothing and
+  accessories in a bedroom closet.
 ---
 Halloween is close, and you don't have to order anything with a long shipping window to show up in a costume people recognize. Cosmopolitan rounded up eight Taylor Swift costume ideas drawn from her 2026 moments, and the smartest way to use that list is to pick one that you can build mostly from what you already own.
 

@@ -23,7 +23,7 @@ source_title: >-
   15 Photos of Prince William and Kate Middleton’s Kids Over the Years, From
   Their Christenings to Boarding School
 generated_by: claude
-featuredImage: /assets/images/glazepost-general-article.webp
+featuredImage: /assets/images/royal-kids-george-charlotte-louis-growing-up.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 68
@@ -42,6 +42,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Showbiz Scandal Sheet
+image_alt: >-
+  Three pairs of children's shoes and school satchels increase in size along an
+  elegant hallway bench.
 ---
 InStyle has published a photo retrospective tracing the three children of Prince William and Kate Middleton, from their christenings through early public appearances, first days of school and, now, boarding school. The outlet's title promises 15 photos; the framing is simple: look how fast they grew.
 

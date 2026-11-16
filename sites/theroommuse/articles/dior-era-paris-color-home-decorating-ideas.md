@@ -23,7 +23,7 @@ source_title: >-
   A Design Historian’s New York City Apartment Is a Colorful Tribute to Dior–Era
   Paris
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/dior-era-paris-color-home-decorating-ideas.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 74
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Personal Touches DIY
+image_alt: >-
+  Elegant neoclassical sitting room with saturated colors, tiger velvet,
+  antiques, and collected travel objects.
 ---
 Bold color and a collected look don't have to read as chaos. You can get the glamour of postwar Paris in your own home by pairing a calm, classical framework with a few saturated, personal choices. A prewar New York apartment recently featured by Veranda shows how it works.
 

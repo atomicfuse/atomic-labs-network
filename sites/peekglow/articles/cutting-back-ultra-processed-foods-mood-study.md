@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ac24dd43391fdf402cda156
 source_title: Cutting Back on Ultra-Processed Foods May Help Ease Depression Symptoms
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/cutting-back-ultra-processed-foods-mood-study.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Person prepares a fresh meal while packaged foods sit blurred in the
+  background.
 ---
 A small study published in JAMA Psychiatry, as reported by Healthline, found that cutting ultra-processed food (UPF) intake by more than 85% was associated with significant improvements in depression symptoms. Participants showed lower depression scores across multiple standard measures.
 

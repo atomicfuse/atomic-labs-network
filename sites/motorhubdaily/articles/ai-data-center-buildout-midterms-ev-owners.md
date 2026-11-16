@@ -22,7 +22,7 @@ source_title: >-
   Expert says midterms won't make 'that much difference' on AI data center
   buildout
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/ai-data-center-buildout-midterms-ev-owners.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  An electric vehicle charges near a data center connected by power
+  infrastructure.
 ---
 If you drive an EV, or you're thinking about buying one, the AI data center boom is worth a few minutes of your attention. The reason is simple: the buildout is reportedly not going to slow down based on who wins in November, and the same electricity system that charges your car is where that investment lands. This article lays out what was actually said, what it does and doesn't tell us, and what you can do with it.
 

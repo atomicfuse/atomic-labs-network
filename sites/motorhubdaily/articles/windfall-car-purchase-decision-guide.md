@@ -20,7 +20,7 @@ source_url: 'https://www.foxbusiness.com/video/6407493955112'
 source_item_id: 6ae2c4c68bd58874456902d2
 source_title: Charles Payne recounts his first windfall
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/windfall-car-purchase-decision-guide.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 62
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  A hand weighs car keys beside cash, a calculator, and vehicle-cost papers on a
+  table.
 ---
 Fox Business host Charles Payne recently shared the story of his first windfall, which came when he was a teenager in Harlem. He told it at the network's "Undeniable Windfalls Town Hall," per Fox Business. The coverage we have doesn't spell out the details, so we won't guess at them. But the theme is useful for anyone who has ever come into a lump sum: what you do with the first real money tends to shape the habits that follow.
 

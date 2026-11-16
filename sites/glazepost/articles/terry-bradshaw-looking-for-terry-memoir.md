@@ -23,7 +23,7 @@ source_title: >-
   Terry Bradshaw opens up about his 'demon in the night' depression in new
   memoir
 generated_by: claude
-featuredImage: /assets/images/glazepost-general-article.webp
+featuredImage: /assets/images/terry-bradshaw-looking-for-terry-memoir.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Hollywood Heartthrobs
+image_alt: Terry Bradshaw sits thoughtfully beside a closed memoir in a warmly lit study.
 ---
 Terry Bradshaw, the Hall of Fame quarterback and FOX Sports analyst, is opening up about his lifelong battle with depression in a new memoir, "Looking for Terry: A Memoir." Per Fox News, he described the condition as a "demon in the night" that can strike during periods of stress or exhaustion. He also said he hopes the book encourages men to be more open about mental health rather than turning to substances.
 

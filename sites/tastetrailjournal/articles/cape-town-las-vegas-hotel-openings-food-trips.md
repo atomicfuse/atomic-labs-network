@@ -19,7 +19,7 @@ source_url: 'https://thepointsguy.com/news/cape-town-edition-thompson-rome/'
 source_item_id: 6ae6e11c1123ffa4dd38f90b
 source_title: 'A sky-high Vegas bar, a chic new hotel in South Africa and more hotel news'
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/cape-town-las-vegas-hotel-openings-food-trips.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 68
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Culinary Heritage Journeys
+image_alt: >-
+  Travel map, plated food, and a rooftop cocktail connect Cape Town and Las
+  Vegas.
 ---
 Hotel news usually reads like a list of places to sleep. This week's roundup is more useful if you flip it around and ask what each opening does for your eating plans. Here is what was reported, and a practical way to build a food-focused trip around it.
 

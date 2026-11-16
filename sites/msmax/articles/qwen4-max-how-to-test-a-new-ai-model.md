@@ -19,7 +19,7 @@ source_url: 'https://qwen.ai/blog?id=qwen4-max'
 source_item_id: 6afaac4d444c59acb194eb6a
 source_title: Qwen4-Max
 generated_by: claude
-featuredImage: /assets/images/msmax-general-article.webp
+featuredImage: /assets/images/qwen4-max-how-to-test-a-new-ai-model.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 66
@@ -37,6 +37,7 @@ reading_time: 4
 topics:
   - computers
   - apps
+image_alt: Person compares two AI response panes on a laptop beside a testing checklist.
 ---
 Alibaba's Qwen team has announced Qwen4-Max, which it positions as a major upgrade in capability in the race among frontier AI models. The post was on the Hacker News front page with 369 points and 123 comments when we looked, so people are clearly paying attention.
 

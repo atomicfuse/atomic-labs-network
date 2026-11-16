@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ad3032c31b485c3d50524ff
 source_title: '4 Las Vegas Weekend Brunch Spots, from Pilates to Prime Rib'
 generated_by: claude
-featuredImage: /assets/images/cozysupper-general-article.webp
+featuredImage: /assets/images/las-vegas-weekend-brunch-and-prime-rib-at-home.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 68
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Seasonal Comfort Foods
+image_alt: >-
+  Prime rib, brunch dishes, and Champagne arranged on a warmly lit kitchen
+  table.
 ---
 Las Vegas weekend brunch has grown well past eggs and a mimosa. Per Las Vegas Weekly, in a sponsored roundup, four spots now offer everything from poolside Pilates to prime rib. You'll get a quick tour of all four, then a way to match each style to a cozy brunch you can host at home without a plane ticket.
 

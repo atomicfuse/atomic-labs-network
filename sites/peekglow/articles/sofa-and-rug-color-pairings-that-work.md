@@ -21,7 +21,7 @@ source_title: >-
   5 Rug-and-Sofa Color Combinations That Just Work — Follow These Pairings If
   You’re Stuck for Inspiration for Your Room
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/sofa-and-rug-color-pairings-that-work.webp
 quality_score: 86
 score_breakdown:
   seo_quality: 80
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Warm-gray sofa paired with a textured terracotta-and-cream rug in a bright,
+  curated living room.
 ---
 A sofa and a rug are two of the biggest purchases in a living room, and they have to get along. If you're staring at a sofa and wondering what goes underneath it, these five pairings, highlighted by Livingetc, give you a dependable starting point for building a whole room.
 

@@ -19,7 +19,7 @@ source_url: 'https://www.foxnews.com/video/6407075617112'
 source_item_id: 6ad6064637d64fe192a6df4e
 source_title: Bill Michaels shares Fly Creek Cider Mill autumn apple cider recipes
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/mulled-apple-cider-with-sharp-cheddar-pairing.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 74
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Local Ingredient Spotlights
+image_alt: >-
+  Mulled apple cider with whipped cream and a caramel rim beside slices of
+  extra-sharp cheddar.
 ---
 Plain hot cider is lovely. A caramel-rimmed mug of mulled cider with a cloud of whipped cream beside a plate of extra-sharp cheddar is a small event. By the end of this guide, you'll know how to build that drink and snack combination at home, and why it works.
 

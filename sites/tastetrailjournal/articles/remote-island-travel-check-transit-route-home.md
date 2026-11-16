@@ -20,7 +20,7 @@ source_url: 'https://www.bbc.com/news/articles/cmq5npz5l5geo'
 source_item_id: 6ae68105f299e0a830f3947d
 source_title: 'Stranded in the Cook Islands: Why I can''t get home to Sri Lanka'
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/remote-island-travel-check-transit-route-home.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Culinary Heritage Journeys
+image_alt: >-
+  Traveler checks a phone route and passport at an island café overlooking a
+  remote harbor.
 ---
 Remote island destinations are easy to fall for, and easy to plan badly. A story reported by the BBC shows why the route home deserves as much attention as the route there. By the end of this piece, you'll have a short checklist for confirming your exit before you commit to a far-flung trip.
 

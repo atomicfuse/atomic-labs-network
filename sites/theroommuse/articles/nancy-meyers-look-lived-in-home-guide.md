@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae005a7571b7d0a4db2da3d
 source_title: Annie Meyers-Shyer and the Secrets of the Nancy Meyers Aesthetic
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/nancy-meyers-look-lived-in-home-guide.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Warm, lived-in cream sitting room with antiques, natural materials, books, and
+  personal objects.
 ---
 The Nancy Meyers look is everywhere on Pinterest and TikTok right now, and most attempts stop at the same place: a can of cream paint and a big white sofa. This guide shows you how to go further, so your home feels collected and warm instead of like a movie set that nobody lives in.
 

@@ -22,7 +22,7 @@ source_title: >-
   Infleqtion deal with US Commerce Department aims to accelerate American
   leadership in quantum computing
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/quantum-computing-deal-what-drivers-should-watch.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Ownership Cost Analysis
+image_alt: Modern connected car parked outside a quantum-computing laboratory
 ---
 A quantum computing story is an odd fit for a car site, so here is the payoff up front. By the end, you'll know what the Infleqtion deal actually is, what it does not say about cars, and which habits protect a modern, software-heavy vehicle no matter how the technology develops.
 

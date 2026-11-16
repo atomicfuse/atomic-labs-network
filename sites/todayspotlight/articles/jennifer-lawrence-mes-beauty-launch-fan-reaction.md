@@ -23,7 +23,7 @@ source_title: >-
   Jennifer Lawrence's candid plastic surgery reveal overshadowed by fans calling
   her 'unrecognizable'
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/jennifer-lawrence-mes-beauty-launch-fan-reaction.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 68
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Rising Stars
+image_alt: >-
+  Anonymous silhouette in a vanity mirror with blurred beauty products and
+  abstract online reactions.
 ---
 Jennifer Lawrence launched her new beauty brand, mes°, and in the process shared that she had a breast augmentation. Per Fox News, the candor was quickly overshadowed by fans commenting that she looked "unrecognizable" in the photos that accompanied the launch.
 

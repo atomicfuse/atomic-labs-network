@@ -21,7 +21,7 @@ source_title: >-
   From Fried Snacks to Fruit Smoothies, These Are the 12 Foods You Have to Eat
   in Costa Rica
 generated_by: claude
-featuredImage: /assets/images/cozysupper-general-article.webp
+featuredImage: /assets/images/costa-rican-comfort-food-to-cook-at-home.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 74
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Seasonal Comfort Foods
+image_alt: >-
+  Costa Rican-inspired spread of casado, gallo pinto, patacones, and a tropical
+  batido on a kitchen table.
 ---
 Afar recently rounded up the foods you have to eat in Costa Rica, and the list reads like a menu for a cozy night in: ceviche, gallo pinto, patacones, heart of palm salad, batidos, rice and beans, and casado. Per Afar, the cuisine is simple, fresh, and deeply tied to place, built on local ingredients and a farm-to-table culture that grows out of the country's biodiversity and regional traditions.
 

@@ -23,7 +23,7 @@ source_title: >-
   Focus on culinary travel: A guide to eating and drinking, the Kiwi way -
   Travel Weekly
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/plan-food-led-trip-new-zealand.webp
 quality_score: 87
 score_breakdown:
   seo_quality: 80
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Flavorful Destination Guides
+image_alt: >-
+  New Zealand food spread with shellfish, produce and wine overlooking vineyards
+  and coastline
 ---
 Travel Weekly recently put a spotlight on culinary travel in New Zealand, looking at how visitors can get to know the country through its food, drink and Kiwi dining culture. That fits a wider pattern: travelers increasingly plan trips around what they will eat, hoping for experiences tied to a specific place.
 

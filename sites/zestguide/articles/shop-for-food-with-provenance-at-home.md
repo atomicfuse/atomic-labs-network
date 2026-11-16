@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6abb1ba55b22be6773eca27d
 source_title: The Oktoberfest Effect—Why Provenance Matters In Food And Drink
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/shop-for-food-with-provenance-at-home.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Quick Weeknight Meals
+image_alt: >-
+  A home cook examines grocery packaging beside fresh produce and artisan pantry
+  ingredients.
 ---
 Forbes recently looked at how travelers are chasing food and drink tied to a specific place, from Oktoberfest in Munich to whisky tourism in Scotland. The core idea, per Forbes, is that provenance (where something is made, who makes it, and the culture around it) adds value, authenticity, and emotional pull.
 

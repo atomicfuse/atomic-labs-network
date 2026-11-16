@@ -23,7 +23,7 @@ source_title: >-
   You’ve Gotta Eat, So Here’s 40 Things That’ll Make Fixing Food At Home A Lot
   Less Annoying
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/make-home-cooking-easier-fix-friction-first.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 66
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Simple Pleasure Picks
+image_alt: >-
+  Home cook uses a small, organized set of kitchen essentials beside fresh
+  ingredients.
 ---
 BuzzFeed recently rounded up 40 products meant to make cooking at home less of a chore, built on a relatable idea: food someone else makes always seems a little more delicious, but you've gotta cook sometimes. The roundup's full product list isn't something we can reproduce here, so instead of repeating it, this guide borrows its smartest idea. You don't need 40 gadgets. You need to find the few things that annoy you most and fix those.
 

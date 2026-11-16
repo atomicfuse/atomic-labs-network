@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ad587b492f27405dfb902bb
 source_title: 20 Home Upgrades That’ll Seriously Improve Your Day-To-Day
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/ambient-lighting-easy-home-upgrade.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Living room with floor, table, and indirect lamps creating layered warm
+  ambient light.
 ---
 BuzzFeed Shopping recently rounded up 20 home upgrades meant to make everyday life easier and more comfortable, and its teaser put one idea front and center: ambient lighting. The full product list isn't something I can walk you through here, so I'll stick to the idea the teaser highlighted and show you how to put it to work. By the end, you'll know how to plan a layered lighting setup for any room, at three budget levels, with no rewiring.
 

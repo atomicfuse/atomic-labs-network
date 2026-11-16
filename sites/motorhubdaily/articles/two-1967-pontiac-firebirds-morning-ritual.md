@@ -22,7 +22,7 @@ source_title: >-
   Grammy Winner Has Two 1967 Pontiac Firebirds, Quietly Wrenches on Them Before
   the Sun Goes Up
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/two-1967-pontiac-firebirds-morning-ritual.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 70
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - New Model Showcases
+image_alt: >-
+  Two 1967 Pontiac Firebirds, including a red convertible, sit outside a
+  Tennessee garage.
 ---
 If you're shopping for a classic and the Camaro and Mustang prices make you wince, a story from Tennessee offers a useful nudge: look at the car that shared the showroom with them. Per Autoevolution, Grammy-winning musician and sound engineer Julian King owns two 1967 Pontiac Firebirds, and the way he lives with them says more about classic ownership than any auction result.
 

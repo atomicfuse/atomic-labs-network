@@ -22,7 +22,7 @@ source_title: >-
   Psst! European Rich Mom-Inspired Fall Fashion Pieces Are Hiding on Amazon for
   as Low as $4
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/euro-chic-fall-wardrobe-amazon-finds.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 80
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Woman in a polished blazer, trousers, loafers, and tote on an elegant autumn
+  city street
 ---
 Per Us Magazine, Amazon is quietly stocked with fall pieces that channel the "European rich mom" look, with prices starting at just $4. The pitch is simple: polished, put-together dressing doesn't need a luxury budget. Here's how to turn Us Magazine's 13 finds into outfits you'll actually wear, with a few formulas to make the pieces work harder.
 

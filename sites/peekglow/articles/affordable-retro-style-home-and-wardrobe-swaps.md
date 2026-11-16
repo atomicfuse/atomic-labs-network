@@ -21,7 +21,7 @@ source_title: >-
   44 Affordable, Lovely Products With Retro Flair For Anyone Who Loves A
   Throwback
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/affordable-retro-style-home-and-wardrobe-swaps.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Simple Pleasure Picks
+image_alt: >-
+  Pastel storage containers sit in a kitchen while an oversized peacoat hangs
+  nearby.
 ---
 Vintage charm doesn't require a weekend of flea-market digging or a big budget. A few well-chosen swaps can make a kitchen or a wardrobe feel more personal and more put together.
 

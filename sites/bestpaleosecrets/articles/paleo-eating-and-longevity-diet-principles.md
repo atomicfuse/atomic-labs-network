@@ -19,7 +19,7 @@ source_url: 'https://www.womenshealthmag.com/health/a74412857/healthy-aging-diet
 source_item_id: 6af9acd5444c59acb194eae7
 source_title: Want to Turn Back the Clock? These 10 Diets May Help You Age Better
 generated_by: claude
-featuredImage: /assets/images/bestpaleosecrets-general-article.webp
+featuredImage: /assets/images/paleo-eating-and-longevity-diet-principles.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 66
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Family-Friendly Paleo
+image_alt: >-
+  Family hands assemble a colorful Paleo-style bowl with vegetables, greens,
+  eggs, fish, berries, nuts, and avocado.
 ---
 New research, reported by Women's Health, links 10 diet patterns with slower biological aging. The takeaway is refreshingly unglamorous: no single "perfect" longevity diet wins. Consistent diet quality matters most. This article shows you how to apply that to Paleo-style cooking: what the patterns share, where Paleo overlaps and where it doesn't, and a few simple moves for your kitchen.
 

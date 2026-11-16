@@ -20,7 +20,7 @@ source_url: 'https://trends.google.com/trending?geo=US&q=martin%20mcdonagh&d=202
 source_item_id: 6ae5d8441123ffa4dd38f836
 source_title: martin mcdonagh
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/martin-mcdonagh-wild-horse-nine-what-to-know.webp
 quality_score: 62
 score_breakdown:
   seo_quality: 66
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Behind The Scenes
+image_alt: >-
+  Original portrait of Martin McDonagh beside an open script in a softly lit
+  theater workspace.
 ---
 Martin McDonagh is getting a burst of major-media attention right now, and if you've seen his name pop up, you're probably wondering what's going on. Here's what has actually been published, what it tells us, and how to decide whether *Wild Horse Nine* belongs on your watch list.
 

@@ -23,7 +23,7 @@ source_title: >-
   5 forgotten ice cream flavors from the ’70s that fans are begging to be
   brought back
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/retro-1970s-ice-cream-flavors-to-make-at-home.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 62
@@ -42,6 +42,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - culinary spotlight
+image_alt: >-
+  Five retro ice cream flavors in glass dishes, including pink bubblegum, rum
+  raisin and maple walnut.
 ---
 Five ice cream flavors that were once everywhere in the 1970s have largely vanished from mainstream freezer aisles, according to Fox News: Butter Brickle, rum raisin, pink bubblegum, Heavenly Hash and maple walnut. Fans, the outlet reports, still miss them. If you can't find them at the store, you can build a close version at home. This guide gives you what defines each flavor and a simple way to approximate it in your own kitchen.
 

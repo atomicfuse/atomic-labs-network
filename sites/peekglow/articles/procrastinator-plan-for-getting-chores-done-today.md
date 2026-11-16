@@ -22,7 +22,7 @@ source_title: >-
   If Your Life Motto Is “I’ll Do It Tomorrow,” Check Out These 35 Products
   That’ll Help You Get Your Chores Done *Today*
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/procrastinator-plan-for-getting-chores-done-today.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Simple Pleasure Picks
+image_alt: >-
+  A gloved hand scrubs grime from a kitchen sink drain beside a small cleaning
+  product.
 ---
 BuzzFeed recently rounded up 35 products for people whose life motto is "I'll do it tomorrow," pitched at getting chores done today. The one item the roundup's description spells out is a drain-cleaning product meant to loosen gunk quickly. The rest of the list isn't detailed here, so this isn't a rundown of all 35. Instead, here's the useful idea underneath it: chores get done when they feel small, so build your day around making them small.
 

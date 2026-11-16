@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6abd6a445b22be6773eca399
 source_title: 'How to travel like a foodie: Tips for planning a culinary vacation'
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/plan-a-food-focused-trip-without-over-scheduling.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 80
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Flavorful Destination Guides
+image_alt: >-
+  A relaxed travel-planning table with a local dish, market ingredients, and a
+  simple itinerary notebook
 ---
 Planning a trip around food sounds simple until you're looking at a spreadsheet of 14 must-try restaurants for a four-day stay. This guide shows you how to make meals the centerpiece of a trip while keeping your days relaxed enough to actually enjoy them.
 

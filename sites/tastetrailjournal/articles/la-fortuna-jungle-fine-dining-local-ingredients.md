@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6aa8a6a5ee95cf186f57c2d4
 source_title: 'In La Fortuna Costa Rica, Fine Dining Is Going Back To The Jungle'
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/la-fortuna-jungle-fine-dining-local-ingredients.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Local Ingredient Spotlights
+image_alt: >-
+  Refined plate of tropical local ingredients at an open-air restaurant
+  surrounded by Costa Rican rainforest.
 ---
 Forbes recently highlighted a shift in La Fortuna, Costa Rica: around the town, local ingredients and traditional Costa Rican cooking are increasingly becoming the kind of dining that luxury travelers prefer. This guide helps you read that trend as a diner, so you can spot the places that really cook from their surroundings and know what to order, ask, and try at home.
 

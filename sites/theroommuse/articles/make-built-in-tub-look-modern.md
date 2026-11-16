@@ -22,7 +22,7 @@ source_title: >-
   The real bathroom shift in 2026 isn't the walk-in shower or the freestanding
   tub
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/make-built-in-tub-look-modern.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 72
@@ -42,6 +42,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Personal Touches DIY
+image_alt: >-
+  Modern built-in tub with a tiled ledge, warm finishes, and an efficient
+  compact bathroom layout
 ---
 If you have a built-in tub and you've been told it has to go, hold off. Thecoolist reports that the built-in tub is making a 2026 comeback, edging out the freestanding tub and the oversized walk-in shower as the fixture designers reach for. Below, you'll find how to make an alcove or built-in tub look current, which finishes to consider, and how to plan a small bathroom that still has room for a soak.
 

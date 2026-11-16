@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6af4c94755a76e575e626112
 source_title: Planning a holiday staycation in New York City? These four tips can help
 generated_by: claude
-featuredImage: /assets/images/culturesidenotes-general-article.webp
+featuredImage: /assets/images/nyc-holiday-staycation-food-lovers-guide.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Food Festival Spotlights
+image_alt: >-
+  New York resident plans a food-focused holiday staycation beside a city map
+  and market ingredients.
 ---
 Holiday travel often means weather delays, crowded airports, and steep prices. If you live in New York City, there's another option: stay put and travel through your own appetite. Per a travel piece originally reported by the Haitian Times (with JPMorganChase), four tips can make a holiday staycation feel like a real getaway. Below, each one is paired with a way to put food at the center of the plan.
 

@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ab1e1240c196d947f915419
 source_title: 'How to Live the Real La Dolce Vita, According to Italy’s “Pasta Grannies”'
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/pasta-grannies-lessons-la-dolce-vita.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Local Ingredient Spotlights
+image_alt: >-
+  Older Italian home cook shaping handmade pasta beside simple fresh ingredients
+  on a wooden table.
 ---
 La dolce vita often gets sold as a look: a spritz on a terrace, a linen shirt, a golden-hour piazza. The women behind Pasta Grannies offer a more practical version. By the end of this piece, you'll have four everyday habits drawn from their approach, plus a sense of what to try first if you want to cook like them.
 

@@ -19,7 +19,7 @@ source_url: 'https://www.glamour.com/story/how-to-style-chelsea-boots'
 source_item_id: 6acd90a5da6dc6464d26d4b8
 source_title: How to Style Chelsea Boots Like a True Fashion Pro This Fall
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/ten-ways-to-wear-chelsea-boots-this-fall.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 72
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Two adults style Chelsea boots with tailored trousers and a flowing maxiskirt
+  on an autumn city sidewalk.
 ---
 If you own one pair of Chelsea boots, you already own the most flexible shoe in your fall closet. The trick is knowing how far it can stretch. Glamour recently rounded up ten ways to style the boot, and the range is wider than most of us try: polished, edgy, casual, or formal, depending on what you put around it.
 

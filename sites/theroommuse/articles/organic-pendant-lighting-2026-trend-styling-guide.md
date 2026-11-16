@@ -22,7 +22,7 @@ source_title: >-
   Designers Agree This Is the "It" Light Fixture of 2026, and It Signals a
   Surprising Shift
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/organic-pendant-lighting-2026-trend-styling-guide.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 5
 topics:
   - Personal Touches DIY
+image_alt: >-
+  Sculptural woven pendant light glowing above a natural-wood dining table in a
+  warm, textured room.
 ---
 House Beautiful reports that designers are rallying around the PINCH Anders Light as the likely "it" fixture of 2026. It's known for its plant-fiber texture and sculptural softness. What makes it interesting isn't just the fixture. It points to a move away from glossy, trend-locked statement pieces and toward warmer, collected-feeling rooms.
 

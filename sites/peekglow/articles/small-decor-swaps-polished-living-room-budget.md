@@ -23,7 +23,7 @@ source_title: >-
   11 Designer-Approved Decor Pieces to Add to Your Living Room—All at an Amazon
   Budget
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/small-decor-swaps-polished-living-room-budget.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 72
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Polished living room featuring styled coffee-table books, a textured rug, and
+  coordinated picture frames.
 ---
 A living room rarely feels unfinished because of one big thing. More often it's the small layer that's missing: something on the coffee table, a rug underfoot, frames on a shelf. Real Simple recently shared a round-up from an interior designer of 11 budget-friendly living room pieces, all sold on Amazon, with prices starting at $9. The full list of 11 isn't spelled out here, but the categories that were named are enough to work from. Here's how to use each one so your room looks more pulled together.
 

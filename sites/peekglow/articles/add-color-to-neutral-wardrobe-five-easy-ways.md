@@ -22,7 +22,7 @@ source_title: >-
   5 Easy Ways to Wear More Colorful Clothes Without Overhauling Your Entire
   Wardrobe
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/add-color-to-neutral-wardrobe-five-easy-ways.webp
 quality_score: 86
 score_breakdown:
   seo_quality: 78
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Person in a neutral fall outfit adds color with a cobalt scarf, handbag, and
+  shoes.
 ---
 If your closet leans black, beige, and gray, the talk of colorful dressing this season can feel like a dare. You don't have to take it. Per Glamour, you can try the fall color trends without overhauling your wardrobe, and the approach comes down to five small moves. Here they are, with ways to put each one to work this week.
 

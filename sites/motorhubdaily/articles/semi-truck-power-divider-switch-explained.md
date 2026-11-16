@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ab87d543391fdf402cd9d24
 source_title: There's A Reason Why Heavy-Duty Trucks Come With A Power Divider Switch
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/semi-truck-power-divider-switch-explained.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - EV Transition Tracker
+image_alt: >-
+  Close view of a semi-truck dashboard power-divider switch beside the steering
+  wheel.
 ---
 If you've ever peeked into the cab of a big rig and wondered about the mysterious switch on the dash, there's a good chance it was the power divider. By the end of this piece, you'll know what it does, when it helps, when to leave it alone, and how it differs from a differential lock, a feature people often confuse it with.
 

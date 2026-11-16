@@ -20,7 +20,7 @@ source_url: 'https://www.bbc.com/news/articles/cv4g1y02jejro'
 source_item_id: 6ae7d286f299e0a830f39525
 source_title: Judge tosses Trump's lawsuit over two Dan Sullivans in Alaska Senate race
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/alaska-senate-ballot-name-ruling-two-dan-sullivans.webp
 quality_score: 58
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Soundtrack Stories
+image_alt: >-
+  Two matching folded ballots sit beside a sealed ballot box with a blurred
+  courthouse interior behind them.
 ---
 A federal judge has dismissed a Trump administration lawsuit that tried to delay certifying Alaska's Senate race results because two candidates named Dan Sullivan appear on the ballot. By the end of this piece, you'll understand what the Department of Justice wanted, why the judge said no, and what the ruling shows about how election rules work in practice.
 

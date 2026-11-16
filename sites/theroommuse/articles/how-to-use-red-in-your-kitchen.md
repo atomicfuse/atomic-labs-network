@@ -22,7 +22,7 @@ source_title: >-
   Designers Are Ditching Neutral Kitchens for This Controversial Color—and It
   Looks Surprisingly Good
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/how-to-use-red-in-your-kitchen.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 66
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Contemporary neutral kitchen with a burgundy island and subtle brick-red
+  accents.
 ---
 If your kitchen is a sea of white or greige and you feel nothing when you walk in, red may be the fix. Per House Beautiful, designers are moving away from neutral kitchens and embracing red tones, from burgundy to brick, as a bold, warm, personality-driven choice. Below is how to try it, from a full commitment to a weekend experiment.
 

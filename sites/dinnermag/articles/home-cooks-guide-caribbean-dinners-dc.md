@@ -22,7 +22,7 @@ source_url: >-
 source_item_id: 6ae9402af299e0a830f395fc
 source_title: 'From Rum To Roti—Where To Find Delicious Caribbean Food In Washington, D.C.'
 generated_by: claude
-featuredImage: /assets/images/dinnermag-general-article.webp
+featuredImage: /assets/images/home-cooks-guide-caribbean-dinners-dc.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Weekend Dinner Parties
+image_alt: Home cook arranges three Caribbean-inspired dishes for a dinner spread.
 ---
 Caribbean food is not one cuisine. It's a set of island traditions, and a new Forbes guide to Caribbean restaurants in Washington, D.C. shows how wide that range runs. This piece uses that range as a planning tool: by the end, you'll know which three styles to explore, what to look for when you eat out, and how to bring the idea home to your own table.
 

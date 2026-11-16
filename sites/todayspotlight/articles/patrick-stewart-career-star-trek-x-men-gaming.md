@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae42b5d6fa9fb73f2382e3c
 source_title: 'Patrick Stewart, The Legendary Star Trek And X-Men Actor, Has Passed Away'
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/patrick-stewart-career-star-trek-x-men-gaming.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Fandom Focus
+image_alt: >-
+  Dignified portrait of Patrick Stewart framed by subtle theatrical,
+  science-fiction, comic-book, and gaming cues.
 ---
 Sir Patrick Stewart has died at the age of 86, according to a report from Nintendolife. The outlet describes a career of roughly six decades spanning Shakespeare, Star Trek, X-Men, film, television and video games. This piece looks at one thing that run of work makes clear: how a single actor became a pillar of several fandoms at once.
 

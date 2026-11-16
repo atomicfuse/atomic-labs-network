@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ad6fc5c37d64fe192a6e023
 source_title: '6 Colors You May Regret Painting Your Kitchen, According to Designers'
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/kitchen-paint-colors-you-may-regret.webp
 quality_score: 88
 score_breakdown:
   seo_quality: 76
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Six bold kitchen paint swatches sit on a wood island before a warm, inviting
+  kitchen.
 ---
 Paint is one of the cheapest ways to change a kitchen, and one of the easiest to get wrong. Per House Beautiful, designers point to six colors that homeowners often regret: cool gray, black, bright yellow, stark white, red, and lime green. The common thread is shades that feel too cold, too stark, too saturated, or too hard to keep looking good.
 

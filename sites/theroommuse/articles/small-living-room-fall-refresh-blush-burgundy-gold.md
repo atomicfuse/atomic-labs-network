@@ -22,7 +22,7 @@ source_title: >-
   *NEW* SMALL LIVING ROOM MAKEOVER  | Cozy, Elegant &amp; Luxurious Fall
   Decorating Ideas 2026
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/small-living-room-fall-refresh-blush-burgundy-gold.webp
 quality_score: 87
 score_breakdown:
   seo_quality: 80
@@ -43,6 +43,9 @@ videos:
     position: after-paragraph-1
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Small living room styled for fall in blush, burgundy, cream and gold with
+  symmetrical accessories.
 ---
 A small living room does not need new furniture to feel like a different room this fall. A recent home decor video makes the case that color, symmetry, and layered accessories can make a compact space feel cozy, elegant, and a little luxurious. Below is how to borrow that approach, step by step, with options for different budgets.
 

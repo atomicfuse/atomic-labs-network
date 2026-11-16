@@ -20,7 +20,7 @@ source_url: 'https://www.foxbusiness.com/video/6407677028112'
 source_item_id: 6ae80ac51123ffa4dd38f991
 source_title: Trump touts economic wins in final pitch to voters ahead of Election Day
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/judging-car-ownership-costs-during-economic-headlines.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 66
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Car keys, calculator, fuel receipt, and maintenance checklist beside a parked
+  sedan at a fuel station.
 ---
 Economic claims are everywhere right now. Per Fox Business, President Donald Trump has made a final campaign push ahead of Election Day, centering his pitch on economic achievements he attributes to his administration. Voters regularly name the economy as a top concern, so expect the volume to stay high until the votes are counted.
 

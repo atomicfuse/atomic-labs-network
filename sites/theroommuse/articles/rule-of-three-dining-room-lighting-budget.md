@@ -22,7 +22,7 @@ source_title: >-
   Kris Jenner's 'Rule of 3' Lighting Trick is a Lesson in Modern Luxury – It
   Reimagines Heritage Dining Rooms for 2027
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/rule-of-three-dining-room-lighting-budget.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 80
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Three matching pendant lights hang evenly above a dining table in a warm,
+  modern room.
 ---
 Kris Jenner's California dining room has three chandeliers hanging over a single table. Homes & Gardens recently spotlighted the look, describing it as a "rule of three" lighting trick that creates rhythm, warmth and a sense of modern luxury. You don't need a celebrity budget or a mansion to borrow the idea. This guide shows you why the trio works and how to size, space and light it in a real dining room, with options at different price points.
 

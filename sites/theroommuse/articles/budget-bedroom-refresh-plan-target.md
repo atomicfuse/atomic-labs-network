@@ -23,7 +23,7 @@ source_title: >-
   28 Target Items To Help You Create The Bedroom Of Your Dreams, Even If You’re
   On A Tight Budget
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/budget-bedroom-refresh-plan-target.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 74
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Budget-friendly bedroom with layered bedding, warm lighting, storage, and
+  simple decorative updates
 ---
 BuzzFeed Shopping recently rounded up 28 affordable Target finds meant to help you upgrade your bedroom without overspending. The published list doesn't give us item names or prices to work from, so this isn't a rundown of those products. Instead, here is the order of operations that makes a budget bedroom refresh actually look finished, and how to use a store like Target to carry it out.
 

@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae77e27f299e0a830f3950a
 source_title: Haley Stevens appears alongside GOP rival Mike Rogers at Detroit church
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/haley-stevens-mike-rogers-detroit-church.webp
 quality_score: 57
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Soundtrack Stories
+image_alt: >-
+  Blue and red campaign folders rest together on a church pew in a conceptual
+  editorial scene.
 ---
 A Detroit church service became an unexpectedly awkward stage this week. Per Fox News, Rep. Haley Stevens appeared at the same church as Republican Mike Rogers, her new endorsement choice for U.S. Senate, after Abdul El-Sayed's campaign withdrew her invitation to a planned event there. By the end of this piece, you'll know what is reported to have happened, what Stevens said drove her decision, and how to read a moment like this without getting lost in the noise.
 

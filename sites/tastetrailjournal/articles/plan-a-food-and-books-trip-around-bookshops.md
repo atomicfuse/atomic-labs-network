@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ab8bc9b5b22be6773eca1d5
 source_title: 'Unique, Quirky Bookstores Around the World Worth a Visit'
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/plan-a-food-and-books-trip-around-bookshops.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 68
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Flavorful Destination Guides
+image_alt: >-
+  Open book, city map and pastry arranged at a cafe table outside a cozy
+  bookshop.
 ---
 Bookstores have become more than places to buy books. Per Travelpulse, they evoke memories, and some offer extra special features that make them destinations in their own right. That's the useful part for you: a quirky bookshop is a ready-made anchor for a day trip, and a day trip needs a food plan.
 

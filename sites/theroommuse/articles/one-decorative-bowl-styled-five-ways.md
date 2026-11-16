@@ -22,7 +22,7 @@ source_title: >-
   The small but versatile home buy Kelly Hoppen uses to decorate any room with
   'endless possibilities'
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/one-decorative-bowl-styled-five-ways.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  A sculptural decorative bowl styled on a hallway console in a refined,
+  connected home interior.
 ---
 A single decorative bowl can anchor a room, add texture and hold the clutter you'd otherwise hide. That's the argument behind Kelly Hoppen's advice on centrepieces, as reported by Woman&Home, which describes a small bowl as a versatile buy with "endless possibilities" across the home. Below, you'll find ways to put one bowl to work in four spots, plus how to choose it without overspending.
 

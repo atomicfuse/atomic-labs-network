@@ -23,7 +23,7 @@ source_title: >-
   What is ‘yoga for air travel’? India’s new yoga protocol for long-distance
   travellers explained
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/yoga-for-air-travel-simple-moves.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mindful Routine Ideas
+image_alt: Traveler practices a gentle seated stretch in an airplane seat.
 ---
 Long flights mean hours of sitting in a small space, and your body tends to let you know about it. You can ease some of that stiffness with a few small, quiet movements, and you don't need a mat, a yoga class, or any acrobatics.
 

@@ -23,7 +23,7 @@ source_title: >-
   Julia Roberts’ love for gardening: 5 simple parenting lessons hidden inside
   the actor’s passion for growing food
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/small-family-garden-teaching-kids-life-skills.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Seasonal Decor Swaps
+image_alt: >-
+  Children learn gardening skills while tending lettuce and tomatoes in
+  containers with a parent.
 ---
 Julia Roberts has talked about how much her family loves growing vegetables at home. Per Indiatimes, she has mentioned a steady supply of beets, tomatoes and lettuce, plus eggs from their chickens. Indiatimes used her habit to frame five parenting lessons, and they translate well to ordinary homes. You don't need chickens or acres. You need a sunny corner and a few containers.
 

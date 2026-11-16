@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae6e11c1123ffa4dd38f90f
 source_title: Why Travelers Are Still Drawn To Dark Tourism
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/eating-respectfully-near-historical-sites.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Culinary Heritage Journeys
+image_alt: >-
+  Traveler sharing a quiet local meal at a café near a subdued historic stone
+  site.
 ---
 Dark tourism, meaning travel to places tied to death, tragedy, disaster, war, or crime, keeps drawing visitors. Travelpulse reports that the trend continues to attract people to destinations associated with difficult moments in history. If you're planning a trip that includes one of these places, this guide covers the part most articles skip: how to eat well and respectfully around it, and how to let local food become part of understanding a place.
 

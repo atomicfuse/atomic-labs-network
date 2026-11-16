@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae40835ca5815d901e33d75
 source_title: Give Your Home The Glow-Up It Deserves With These 23 Products From Walmart
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/small-swaps-fresh-home-on-a-budget.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: >-
+  A modest living room looks refreshed with new cushions, a lamp, a plant, and
+  simple decor.
 ---
 BuzzFeed Shopping recently rounded up 23 Walmart products meant to give your home a glow-up, pitched around practical picks at accessible prices. The full list isn't reproduced here, so this piece does something different: it gives you a room-by-room method for using any budget roundup well, so you spend on the changes that show and skip the ones that don't.
 

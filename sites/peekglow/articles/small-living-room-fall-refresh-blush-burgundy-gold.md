@@ -22,7 +22,7 @@ source_title: >-
   *NEW* SMALL LIVING ROOM MAKEOVER  | Cozy, Elegant &amp; Luxurious Fall
   Decorating Ideas 2026
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/small-living-room-fall-refresh-blush-burgundy-gold.webp
 quality_score: 87
 score_breakdown:
   seo_quality: 74
@@ -43,6 +43,9 @@ videos:
     position: after-paragraph-1
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Small living room with blush, burgundy, cream and gold fall accents arranged
+  around an existing sofa.
 ---
 A small living room doesn't need a new sofa to feel like fall. It needs a palette, a little symmetry, and a handful of layered accessories. A recent home decor video makes that case with a cozy, elegant refresh built on blush pink, deep burgundy, cream, and gold, and the approach is easy to borrow for your own space.
 

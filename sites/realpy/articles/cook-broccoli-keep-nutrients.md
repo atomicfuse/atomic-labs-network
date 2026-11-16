@@ -23,7 +23,7 @@ source_title: >-
   Popular cooking methods may destroy key health benefits of broccoli, experts
   warn
 generated_by: claude
-featuredImage: /assets/images/realpy-general-article.webp
+featuredImage: /assets/images/cook-broccoli-keep-nutrients.webp
 quality_score: 59
 score_breakdown:
   seo_quality: 62
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Chef's Local Favorites
+image_alt: >-
+  Steamed broccoli is seasoned with mustard powder beside chopped florets on a
+  kitchen cutting board.
 ---
 Boiling is probably the most common way broccoli gets cooked, and according to experts cited by Fox News, it may also be one of the worst for the vegetable's health benefits. By the end of this article you'll know which methods protect broccoli's key compounds, and two small tricks, "chop and wait" and a pinch of mustard powder, that cost you almost nothing.
 

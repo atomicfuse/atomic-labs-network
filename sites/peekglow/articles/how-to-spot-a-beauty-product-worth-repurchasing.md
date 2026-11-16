@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6adec234571b7d0a4db2d948
 source_title: '30 Beauty Products So Good, They’ll Make You A Repeat Customer For Life'
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/how-to-spot-a-beauty-product-worth-repurchasing.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  A hand reaches for a well-used moisturizer among other beauty products on a
+  bathroom counter.
 ---
 BuzzFeed Shopping recently rounded up 30 beauty products it pitches as so good you'll become a repeat customer, and it suggests adding them to a subscription so you never run out. The full list isn't reproduced here, so this piece skips the product names. It takes the more useful idea underneath: how do you tell a product you'll rebuy from one you'll just tolerate until it's empty?
 

@@ -19,7 +19,7 @@ source_url: 'https://www.vulture.com/article/amanda-batula-leaves-in-the-city.ht
 source_item_id: 6ae57cdc1123ffa4dd38f7fc
 source_title: Amanda Batula ‘In the City’ Exit Stirs ‘Summer House’ Drama
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/amanda-batula-in-the-city-exit-what-we-know.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Behind The Scenes
+image_alt: >-
+  Neutral portrait of Amanda Batula in a softly lit television-production
+  studio.
 ---
 Amanda Batula has reportedly exited Bravo's *In the City*, and the news has pulled Kyle Cooke and West Wilson into a fresh round of social media sparring. Vulture, which first reported on the shake-up, says it has stirred up unresolved *Summer House* tensions. Here's a clear way to read the moment, including how much is actually known.
 

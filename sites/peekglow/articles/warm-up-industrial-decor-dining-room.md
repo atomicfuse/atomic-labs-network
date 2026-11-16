@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6abb4cdb3391fdf402cd9e79
 source_title: Jennifer Aniston's Moody Dining Room Shows How To Warm Up Industrial Interiors
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/warm-up-industrial-decor-dining-room.webp
 quality_score: 86
 score_breakdown:
   seo_quality: 74
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Warm industrial dining room with wood table, velvet chairs, rug, candles, and
+  black-framed windows.
 ---
 Exposed bulbs, sleek windows, raw materials: industrial style looks sharp, but it can feel a little chilly once the weather turns. If your space leans that way, Jennifer Aniston's dining room offers a useful blueprint for warming it up without a renovation.
 

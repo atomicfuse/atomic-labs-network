@@ -23,7 +23,7 @@ source_title: >-
   Savannah Chrisley stands by ‘huge’ age gap with fiancé after announcing
   pregnancy
 generated_by: claude
-featuredImage: /assets/images/glazepost-general-article.webp
+featuredImage: /assets/images/savannah-chrisley-defends-age-gap-fiance-jason-pregnancy.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Hollywood Heartthrobs
+image_alt: >-
+  Savannah Chrisley and her fiancé Jason pose together in a warm interior, with
+  her engagement ring visible.
 ---
 Savannah Chrisley is standing by her relationship with fiancé Jason, and she is not whispering about it. After announcing both her engagement and her pregnancy, the reality star addressed the "huge" 27-year age gap between them on her "Unlocked" podcast, per Fox News. She also explained why she kept the relationship quiet and how Jason proposed in December 2025.
 

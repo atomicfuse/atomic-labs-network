@@ -22,7 +22,7 @@ source_title: >-
   If You’re Trying To Make The Most Out Of Your Small Space, Here Are 35 Things
   You'll Want
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/small-kitchen-gadget-worth-the-space.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 62
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Compact mug-style ice cream maker beside a neatly organized cabinet in a small
+  kitchen
 ---
 Buzzfeed recently rounded up 35 products for people trying to make the most of a small space. The full list isn't reproduced here, but one pick shows a useful tension: a compact, mug-style ice cream maker set, designed for easy storage and for eating straight from the container.
 

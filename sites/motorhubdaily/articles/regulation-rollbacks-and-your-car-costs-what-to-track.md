@@ -22,7 +22,7 @@ source_title: >-
   Rolling back Biden-era regulations will save consumers billions, Trump aide
   says
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/regulation-rollbacks-and-your-car-costs-what-to-track.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 62
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Car owner reviews fuel, insurance, and maintenance expenses beside a
+  calculator and car keys.
 ---
 A Trump administration aide says rolling back Biden-era regulations will save consumers billions of dollars. Jarrod Agen, an assistant to President Donald Trump, made the case on Fox Business's "The Evening Edit," where he discussed the administration's energy policies and the president's efforts to rally voters ahead of Election Day, per Fox Business.
 

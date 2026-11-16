@@ -22,7 +22,7 @@ source_title: >-
   Chef Tiffany Derry challenges misconceptions about traditional Southern
   cooking
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/vegetable-forward-southern-cooking-myths.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Local Ingredient Spotlights
+image_alt: >-
+  Colorful Southern vegetables and a simple skillet meal arranged on a rustic
+  kitchen table.
 ---
 Think Southern food and you probably picture fried everything and gravy over the top. Texas-based chef and restaurateur Tiffany Derry wants you to look again. Per Fox News, she is challenging common assumptions about what is traditionally served across the South, pointing to wholesome ingredients, colorful vegetables, and simple preparation.
 

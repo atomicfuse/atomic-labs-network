@@ -23,7 +23,7 @@ source_title: >-
   Paulina Porizkova, 61, Goes Topless, Wears Nothing but Tiny Black and White
   String Bikini Bottoms
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/paulina-porizkova-body-confidence-aging-social-media.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 68
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Rising Stars
+image_alt: >-
+  A confident older woman in soft light stands beside a mirror, symbolizing
+  self-acceptance.
 ---
 Supermodel Paulina Porizkova, 61, recently shared a topless photo of herself wearing only black-and-white string bikini bottoms, along with a caption about body confidence and aging, per InStyle. This piece looks at what that kind of post says about how women over 60 are using social media, and what you can take from it for your own relationship with your reflection.
 

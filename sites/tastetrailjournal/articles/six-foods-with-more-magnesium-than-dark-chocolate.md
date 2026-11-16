@@ -19,7 +19,7 @@ source_url: 'https://www.health.com/foods-more-magnesium-than-dark-chocolate-121
 source_item_id: 6ab913545b22be6773eca1f0
 source_title: 6 Foods With More Magnesium Than Dark Chocolate
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/six-foods-with-more-magnesium-than-dark-chocolate.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 70
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - culinary spotlight
+image_alt: >-
+  Six magnesium-rich foods arranged with a small piece of dark chocolate on a
+  kitchen counter.
 ---
 Dark chocolate gets a lot of credit as the magnesium snack. It is a good source, but according to Health, it is not the richest one. Six everyday foods contain more: pumpkin seeds, spinach, amaranth, Brazil nuts, chia, and soybeans.
 

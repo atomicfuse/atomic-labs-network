@@ -22,7 +22,7 @@ source_title: >-
   Sweeping changes to agri-food supply chain needed to tackle global food
   shortages
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/global-food-access-and-supply-balance.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Local Ingredient Spotlights
+image_alt: >-
+  Regional food market with fresh staples and a broken supply route between
+  farms and consumers.
 ---
 Every dish on a regional food trail depends on a chain most of us never see: farmers, roads, ports, markets, and prices that families can afford. This guide explains why that chain breaks, why hunger can persist even when the world grows enough calories overall, and which everyday food choices connect to the bigger picture.
 

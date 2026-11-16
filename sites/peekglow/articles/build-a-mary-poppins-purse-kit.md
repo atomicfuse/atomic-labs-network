@@ -22,7 +22,7 @@ source_title: >-
   Get Ready To Be Called "Mary Poppins" — 27 Teensy Tiny Travel-Sized Items
   That'll Fit In Your Purse
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/build-a-mary-poppins-purse-kit.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Simple Pleasure Picks
+image_alt: >-
+  Open purse with neatly grouped mini essentials and a few items set aside
+  during a fit test.
 ---
 BuzzFeed Shopping recently rounded up 27 teensy travel-sized products pitched as purse-friendly ways to feel ready for anything, with the promise that you'll be called "Mary Poppins." The full list isn't reproduced here, so I won't guess at which products made the cut. What I can do is hand you something more lasting: a simple method for building your own tiny kit, so the bag you carry feels prepared instead of crowded.
 

@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6a9ba42afcf666506ffcee89
 source_title: About Our Super El Niño Climate Crisis–Accurate Hot Pilates Studio
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/evaluating-wellness-marketing-climate-claims.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Person thoughtfully evaluating a hot Pilates class signup in a warm wellness
+  studio
 ---
 McSweeney's recently ran a satirical piece about "DIE HOT Pilates," a fictional fitness studio. According to the piece, DIE HOT is a fusion studio blending Pilates, barre, yoga, drought, inclement weather, the 1930s Dust Bowl, and Zara Larsson. Its pitch: hot classes as preparation for a coming Super El Niño climate catastrophe.
 

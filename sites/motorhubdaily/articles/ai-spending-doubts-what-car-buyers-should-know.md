@@ -20,7 +20,7 @@ source_url: 'https://www.foxbusiness.com/video/6407686492112'
 source_item_id: 6ae80ac51123ffa4dd38f98d
 source_title: Wall Street questions AI’s massive spending spree
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/ai-spending-doubts-what-car-buyers-should-know.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Prospective car buyer examines a vehicle’s dashboard display in a dealership
+  showroom.
 ---
 Wall Street is asking whether the enormous sums tech companies are spending on AI will ever pay off. For a driver weighing a new car, that debate can look a world away from the dealership. It isn't entirely, but the connection is looser than headlines suggest. This piece covers what the investor debate actually says, what it can't tell you about cars, and how to protect yourself when AI features are part of a purchase.
 

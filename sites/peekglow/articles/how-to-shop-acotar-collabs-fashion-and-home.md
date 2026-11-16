@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae57cdc1123ffa4dd38f803
 source_title: Every ‘ACOTAR’ Fashion and Home Collab to Shop Right Now
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/how-to-shop-acotar-collabs-fashion-and-home.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Simple Pleasure Picks
+image_alt: >-
+  Curated fantasy-book merchandise, including jewelry, apparel, home goods, and
+  a novel, arranged on a dressing table.
 ---
 Book merch used to mean a tote bag and maybe a mug. This week, The Cut rounded up the current fashion, beauty, and home collaborations inspired by Sarah J. Maas's *A Court of Thorns and Roses* series, and the list shows how far fandom shopping has come. Here's how to sort through it so you buy the pieces you'll actually use, not just the ones that look good in a cart.
 

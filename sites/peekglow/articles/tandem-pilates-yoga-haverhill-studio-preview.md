@@ -22,7 +22,7 @@ source_title: >-
   Mother-Daughter Duo Bringing Tandem Pilates and Yoga to Haverhill This
   December
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/tandem-pilates-yoga-haverhill-studio-preview.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Two women prepare yoga mats and Pilates props in a warm, welcoming boutique
+  studio.
 ---
 A new boutique studio is on its way to Haverhill, and if you've been looking for a gentle, close-to-home way to start a movement routine, it's worth putting on your radar. Per Whatnow, a mother-daughter team is opening Tandem Pilates & Yoga, with a launch planned for December 2026. Here's what's been shared so far and how to decide whether it fits your routine.
 

@@ -23,7 +23,7 @@ source_title: >-
   We Asked 6 Chefs and Travel Experts Their Favorite Food Destination—and They
   All Chose This European Peninsula
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/san-sebastian-or-lisbon-iberian-food-trip.webp
 quality_score: 86
 score_breakdown:
   seo_quality: 80
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Flavorful Destination Guides
+image_alt: >-
+  A gilda and Lisbon-inspired dishes arranged on separate plates for a food-trip
+  comparison.
 ---
 When Travel + Leisure asked six chefs and travel experts to name a favorite food destination, they all landed on the same place: the Iberian Peninsula. Two cities came up in particular, San Sebastián and Lisbon. If you're planning a trip around eating, this guide helps you decide which city suits you, what to look for in each, and how to bring a taste of it home.
 

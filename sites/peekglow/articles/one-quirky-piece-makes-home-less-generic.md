@@ -19,7 +19,7 @@ source_url: 'https://www.buzzfeed.com/bekoconnell/home-products-for-anyone-whos-
 source_item_id: 6ac77fcbce7701ccb2411f60
 source_title: 33 Eccentric Home Products For Anyone Who's Never Been Accused Of Being Boring
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/one-quirky-piece-makes-home-less-generic.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: 'A cobalt-blue sculptural lamp adds personality to a calm, neutral living room.'
 ---
 BuzzFeed Shopping recently rounded up 33 eccentric home products for people who, in its words, have never been accused of being boring. The tagline sums up the mood: "In this house, we never pick the beige option." The full list is on BuzzFeed, and it's worth a scroll. But you don't need 33 odd objects. You need one good one, chosen well. Here's how to pick it and place it so a room feels more like you without a redesign.
 

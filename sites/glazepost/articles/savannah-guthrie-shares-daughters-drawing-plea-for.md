@@ -23,7 +23,7 @@ source_title: >-
   Savannah Guthrie makes heartbreaking plea in mom's disappearance after finding
   old drawing
 generated_by: claude
-featuredImage: /assets/images/glazepost-general-article.webp
+featuredImage: /assets/images/savannah-guthrie-shares-daughters-drawing-plea-for.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 62
@@ -42,6 +42,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Hollywood Heartthrobs
+image_alt: >-
+  Adult hands hold a child's colorful family drawing beside a smartphone on a
+  softly lit table.
 ---
 Savannah Guthrie, co-host of NBC's "TODAY," has renewed her public appeal for information about her mother, Nancy Guthrie, using a drawing made by her daughter. Per Fox News, the plea comes nine months after Nancy vanished from her Tucson home in what has been described as an abduction.
 

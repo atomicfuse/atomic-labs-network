@@ -23,7 +23,7 @@ source_title: >-
   Opinion: New York Times Peltola story wins the Fox News Unfair and Unbalanced
   Award
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/alaska-ballot-story-national-media-local-context.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 68
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Soundtrack Stories
+image_alt: >-
+  Alaska ballot papers beside a podcast microphone and local reporting notes on
+  a desk.
 ---
 When a national outlet drops into a local story, what gets left out can matter as much as what gets reported. That's the argument in a recent opinion piece published by the Anchorage Daily News (ADN), which takes aim at a New York Times podcast episode about Alaska Democrat Mary Peltola. By the end of this article, you'll know what the column claims, what remains allegation, and a few habits for judging any parachuted-in political reporting.
 

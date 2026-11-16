@@ -23,7 +23,7 @@ source_title: >-
   Yoga, Pilates, and flexibility: Orthopaedic spine surgeon with 20+ years of
   experience explains if being more flexible can actually hurt your spine
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/spine-smart-yoga-pilates-flexibility.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Adult practicing a gentle supported yoga pose on a mat in a calm, sunlit
+  studio.
 ---
 Yoga and Pilates can be lovely parts of an everyday routine. But social media often makes them look like a contest to see who can bend the furthest. This guide helps you keep the calm and the benefits while skipping the strain: a few simple habits for choosing poses that suit your body today.
 

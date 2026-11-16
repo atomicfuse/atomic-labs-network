@@ -19,7 +19,7 @@ source_url: 'https://www.lonelyplanet.com/articles/guide-to-sundance-film-festiv
 source_item_id: 6ae254d93178b032d7248927
 source_title: 'A Guide to the Sundance Film Festival in Boulder, Colorado'
 generated_by: claude
-featuredImage: /assets/images/glazepost-general-article.webp
+featuredImage: /assets/images/sundance-film-festival-boulder-2027-what-changes.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Hollywood Heartthrobs
+image_alt: >-
+  Traveler prepares for a winter film festival trip with a map, coat, and
+  Boulder mountains outside.
 ---
 The Sundance Film Festival is leaving Utah. Per a new Lonely Planet guide, the festival moves to Boulder, Colorado, in January 2027, and the travel outlet has already put together a planning rundown covering tickets, lodging, food, and what to pack. For anyone who has ever daydreamed about spotting a future Oscar contender in a puffy coat, this is the moment to start paying attention.
 

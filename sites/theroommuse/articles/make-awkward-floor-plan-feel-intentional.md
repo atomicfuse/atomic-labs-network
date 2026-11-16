@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae036dc0a9c94d1ee7f8df7
 source_title: 'This 4,000-square-foot apartment in Mumbai is shaped like a horseshoe'
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/make-awkward-floor-plan-feel-intentional.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Photorealistic curved hallway connecting coordinated living spaces in an
+  intentionally designed home.
 ---
 Curved hallways, odd wings and rooms that don't line up are the layouts people most often try to hide. A Mumbai apartment profiled by Architectural Digest suggests a better move: lean into the oddity. Below, you'll find the strategies that project illustrates, plus ways to scale them to a rental, a modest budget or a full renovation.
 

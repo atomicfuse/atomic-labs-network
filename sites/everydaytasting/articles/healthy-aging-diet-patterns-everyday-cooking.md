@@ -20,7 +20,7 @@ source_url: 'https://www.womenshealthmag.com/health/a74412857/healthy-aging-diet
 source_item_id: 6af9acd5444c59acb194eae7
 source_title: Want to Turn Back the Clock? These 10 Diets May Help You Age Better
 generated_by: claude
-featuredImage: /assets/images/everydaytasting-general-article.webp
+featuredImage: /assets/images/healthy-aging-diet-patterns-everyday-cooking.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 74
@@ -41,6 +41,9 @@ reading_time: 4
 topics:
   - Quick Weeknight Meals
   - recipes
+image_alt: >-
+  Hands assemble a colorful whole-grain and vegetable meal in a bright home
+  kitchen.
 ---
 New research, reported by Women's Health, links 10 diet patterns with slower biological aging. The patterns lean on plant foods, whole grains, and minimally processed ingredients. The headline finding is refreshingly unglamorous: no single "perfect" longevity diet wins. Consistent diet quality matters most.
 

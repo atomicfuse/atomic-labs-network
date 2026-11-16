@@ -22,7 +22,7 @@ source_title: >-
   New Haven's official 'pizza guru' dishes on the city's growing food tourism
   scene
 generated_by: claude
-featuredImage: /assets/images/dinnermag-general-article.webp
+featuredImage: /assets/images/pizza-tasting-night-inspired-by-new-haven-pizza-guru.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 74
@@ -39,6 +39,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Global Dinner Cuisines
+image_alt: A home table displays small pizza portions for a relaxed tasting night.
 ---
 New Haven, Connecticut, has an official "pizza guru," and his job is to walk visitors through the city's pizza culture. Colin Kaplan, a pizza historian and tour guide, is the subject of a recent Fox News feature on the Elm City's growing food tourism scene. Per Fox, the piece takes viewers through the city's beloved culinary traditions and its legendary local pizzerias. It also covers an unusual overnight stay designed for devoted food enthusiasts.
 

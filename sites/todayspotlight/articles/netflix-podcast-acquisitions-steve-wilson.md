@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae026750a9c94d1ee7f8db6
 source_title: Netflix Taps Former Apple Exec Steve Wilson To Lead Podcast Acquisitions
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/netflix-podcast-acquisitions-steve-wilson.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Behind The Scenes
+image_alt: >-
+  Remote, headphones, and a television showing a text-free blend of streaming
+  tiles and an audio waveform.
 ---
 Netflix has hired Steve Wilson, a former Apple Podcasts and QCode executive, to lead podcast acquisitions, per Deadline. If you've ever wondered why your streaming app might soon feel a little more like your podcast feed, this is a good clue. Here's what the hire signals, and what to watch for as a viewer and a fan.
 

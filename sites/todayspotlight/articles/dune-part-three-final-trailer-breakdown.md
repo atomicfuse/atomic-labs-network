@@ -20,7 +20,7 @@ source_url: 'https://www.youtube.com/watch?v=Oh5eU-QIkzU'
 source_item_id: 6ae2b45dc086f4f99f521ed5
 source_title: 'Dune: Part Three | Official Final Trailer'
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/dune-part-three-final-trailer-breakdown.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 68
@@ -42,6 +42,9 @@ videos:
     position: after-paragraph-1
 topics:
   - Behind The Scenes
+image_alt: >-
+  Fictional desert emperor overlooking a vast empire, his face divided between
+  sunlight and shadow.
 ---
 The final trailer for *Dune: Part Three* is out, and the clearest thing it tells you is that this story is no longer about a hero rising. It's about what the rise cost. If you want a quick read on the stakes before the film arrives, here's what the trailer sets up, based on the footage and the summary of it from Moviefone.
 

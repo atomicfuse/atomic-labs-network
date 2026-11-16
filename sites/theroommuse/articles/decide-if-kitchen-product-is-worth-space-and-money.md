@@ -22,7 +22,7 @@ source_title: >-
   56 Kitchen Products That Are Totally Worth The Space *And* The Money You Spend
   On 'Em
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/decide-if-kitchen-product-is-worth-space-and-money.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Seasonal Decor Swaps
+image_alt: >-
+  Hands assess a compact kitchen gadget beside ingredients, a calculator, and an
+  open storage drawer.
 ---
 BuzzFeed recently rounded up 56 kitchen products it calls worth both the space they take and the money they cost. The full product list isn't something I can pass along here, so instead of repeating picks I can't vouch for, this article gives you the thinking behind a list like that: a simple way to test any kitchen purchase before it earns a spot on your counter or in your cabinet.
 

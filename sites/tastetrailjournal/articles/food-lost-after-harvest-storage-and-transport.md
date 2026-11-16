@@ -21,7 +21,7 @@ source_title: >-
   One-third of food is lost or wasted: How to help farmers cut postharvest
   losses
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/food-lost-after-harvest-storage-and-transport.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Local Ingredient Spotlights
+image_alt: >-
+  Crates of tomatoes beside a rural road and shaded farm storage, showing the
+  path from harvest to market.
 ---
 A tomato that never reaches the market never reaches anyone's plate. By the end of this article, you'll understand where much of the world's food disappears between field and kitchen, which fixes are reported to help farmers most, and what you can do as an eater to back a less wasteful food system.
 

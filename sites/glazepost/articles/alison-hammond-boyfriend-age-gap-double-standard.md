@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae57cdc1123ffa4dd38f805
 source_title: Alison Hammond Doesn’t Need Your Opinion on Her Boyfriend
 generated_by: claude
-featuredImage: /assets/images/glazepost-general-article.webp
+featuredImage: /assets/images/alison-hammond-boyfriend-age-gap-double-standard.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Hollywood Heartthrobs
+image_alt: >-
+  Confident editorial portrait of Alison Hammond against a softly framed studio
+  background.
 ---
 Alison Hammond has a message for anyone with opinions about her love life: she didn't ask for them. The Great British Baking Show host has responded to criticism over her relationship with her younger boyfriend, David Putnam, arguing that the backlash reflects a sexist double standard around age-gap dating, according to The Cut. Her position, as the outlet frames it, is simple: if two consenting adults are happy, everyone else can mind their business.
 

@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ad3032c31b485c3d50524ff
 source_title: '4 Las Vegas Weekend Brunch Spots, from Pilates to Prime Rib'
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/las-vegas-weekend-brunch-spots-by-vibe.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Quick Weeknight Meals
+image_alt: >-
+  Photorealistic brunch table divided into four moods: Pilates, DJ music, games,
+  and prime rib.
 ---
 Las Vegas brunch has moved well past eggs and a mimosa. According to Las Vegas Weekly, which rounded up four weekend options (a sponsored roundup), the city's brunches now come with poolside Pilates, live DJs, arcade-style games and carving-station prime rib. The trick is picking the one that fits the morning you actually want.
 

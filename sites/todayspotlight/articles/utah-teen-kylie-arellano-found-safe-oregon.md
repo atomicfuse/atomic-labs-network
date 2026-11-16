@@ -21,7 +21,7 @@ source_title: >-
   Utah teen Kylie Arellano found in Oregon as 39-year-old suspect taken into
   custody
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/utah-teen-kylie-arellano-found-safe-oregon.webp
 quality_score: 59
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Soundtrack Stories
+image_alt: >-
+  Backpack beside a western U.S. map and a long row of calendar pages in warm
+  morning light.
 ---
 Utah teenager Kylie Arellano has been found safe in Oregon after being missing for more than 500 days, according to Fox News. A 39-year-old suspect has been taken into custody in connection with her disappearance.
 

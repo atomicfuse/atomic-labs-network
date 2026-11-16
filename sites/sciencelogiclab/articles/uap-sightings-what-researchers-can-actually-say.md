@@ -22,7 +22,7 @@ source_url: >-
 source_item_id: 6ae92fbc1123ffa4dd38fa47
 source_title: Is the truth really out there? Studying UAP sightings - CBS News
 generated_by: claude
-featuredImage: /assets/images/sciencelogiclab-general-article.webp
+featuredImage: /assets/images/uap-sightings-what-researchers-can-actually-say.webp
 quality_score: 88
 score_breakdown:
   seo_quality: 80
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Fact Or Fiction
+image_alt: >-
+  Researcher studies ambiguous radar traces on a monitor in a scientific
+  operations room.
 ---
 CBS News recently took on a question that used to belong to late-night radio: is the truth really out there? Its report looks at the scientific and government interest in Unidentified Anomalous Phenomena, or UAP, and asks whether credible evidence supports claims of extraterrestrial or non-human activity.
 

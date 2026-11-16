@@ -22,7 +22,7 @@ source_title: >-
   From long desk hours to limited movement: 5 yoga poses to help counter the
   effects of a sedentary lifestyle
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/five-pose-yoga-reset-after-desk-hours.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 78
@@ -39,6 +39,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mindful Routine Ideas
+image_alt: Adult practicing Cobra pose on a yoga mat beside a softly blurred home desk.
 ---
 By mid-afternoon, a lot of us feel it: tight shoulders, a stiff back, and a body that has been in one shape for hours. Here is a short, doable yoga reset built from five poses. Per Hindustan Times, these simple asanas target the back, shoulders, hips and spine, and are recommended to ease stiffness and improve posture after long desk hours and limited movement.
 

@@ -22,7 +22,7 @@ source_title: >-
   Justice Department urges sanctions for database analysis critical of its
   noncitizen voting claims
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/doj-voter-list-data-analysis-explained.webp
 quality_score: 55
 score_breakdown:
   seo_quality: 62
@@ -40,6 +40,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Soundtrack Stories
+image_alt: Abstract tabletop scene of misaligned data cards under careful review.
 ---
 The Justice Department is asking a federal judge to sanction an immigrant rights group and its lawyers over a data analysis of the department's own list of alleged noncitizen voters in California. By the end of this piece, you'll know what the analysis reportedly found, what the dispute is about, and how to read the competing claims without getting lost.
 

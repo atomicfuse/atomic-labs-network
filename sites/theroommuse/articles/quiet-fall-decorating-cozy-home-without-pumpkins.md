@@ -21,7 +21,7 @@ source_title: >-
   The Very British Edit: The Little Things I’m Doing Now to Make Fall at Home
   Feel Even More Beautiful, Warm and Cozy
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/quiet-fall-decorating-cozy-home-without-pumpkins.webp
 quality_score: 88
 score_breakdown:
   seo_quality: 80
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 5
 topics:
   - Personal Touches DIY
+image_alt: >-
+  Cozy fall living room with layered textiles, soft lighting, muted colors, and
+  woven storage without seasonal props
 ---
 Fall decorating doesn't have to mean a porch full of pumpkins. You can make a home feel warmer and more settled for the colder months with a handful of quiet changes: more texture, a calmer autumn palette, softer light and storage that looks good out in the open. Here is how to do it, with options at different budgets.
 

@@ -23,7 +23,7 @@ source_title: >-
   Where Wild Coastlines Meet European-Inspired Culture: Why Canada &amp; New
   England Belongs in the Cruise Conversation
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/canada-new-england-cruise-food-guide.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 68
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Culinary Heritage Journeys
+image_alt: >-
+  Lobster roll, chowder, and maple treats on a ship's dining table overlooking a
+  rocky coast
 ---
 A Canada & New England cruise is getting attention as a middle path between Alaska's wild scenery and Europe's old-world towns, according to a TravelPulse report. The report behind that report describes dramatic coastlines and charming European-influenced towns, reachable without a long international flight. It doesn't list ports or menus, so this guide doesn't pretend to. Instead, it gives you a practical way to plan your eating around that kind of itinerary, plus an easy recipe to bring the region home.
 

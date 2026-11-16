@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ac9c8abce7701ccb2412123
 source_title: A day in the life of pilates instructor Bryony Basse
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/one-small-promise-simple-daily-routine.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Pilates instructor begins a gentle stretch on a mat in a softly lit home
+  studio.
 ---
 Most routine advice asks you to do more. Pilates instructor Bryony Basse, in a day-in-the-life piece told to Rose Beer for the AOL-syndicated feature, argues for the opposite: pick one or two promises small enough to keep, and build from there.
 

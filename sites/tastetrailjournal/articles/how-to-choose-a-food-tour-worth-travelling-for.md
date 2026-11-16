@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6acffdbd31b485c3d505232f
 source_title: The best food and drink tours worth travelling for - Euronews.com
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/how-to-choose-a-food-tour-worth-travelling-for.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Flavorful Destination Guides
+image_alt: >-
+  Traveler weighs a market food tour beside regional dishes, drinks, a map, and
+  a planning notebook.
 ---
 Euronews recently published a roundup of the best food and drink tours worth travelling for, the kind of experiences strong enough to build a whole trip around. The full list isn't reproduced here, so rather than guess at its entries, this guide focuses on something more useful: how to judge for yourself whether a tour deserves a plane ticket, and how to plan a holiday around eating and drinking.
 

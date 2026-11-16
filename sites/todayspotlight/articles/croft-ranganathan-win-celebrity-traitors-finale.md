@@ -20,7 +20,7 @@ source_url: 'https://www.bbc.com/news/articles/cm4g18l8l4wgo'
 source_item_id: 6ae62ca51123ffa4dd38f86e
 source_title: '''It''s been killing me!'' Celebrity Traitors winners relieved the secret is out'
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/croft-ranganathan-win-celebrity-traitors-finale.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 70
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Behind The Scenes
+image_alt: >-
+  Sebastian Croft and Romesh Ranganathan pose beside shared prize tokens in a
+  dramatic strategy-game studio.
 ---
 The second series of *The Celebrity Traitors* ended on Friday, and the secret is finally out: Sebastian Croft and Romesh Ranganathan won, splitting £83,000 for charity. By the end of this piece you'll know how the endgame unfolded, what the winners said about finally being free to talk, and why a finale like this pulls in a crowd.
 

@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae7fcb51123ffa4dd38f989
 source_title: 28 Problem-Solving Products That’ll Help Your Fam Around The House
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/how-to-choose-household-problem-solving-products.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 66
@@ -38,6 +38,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Simple Pleasure Picks
+image_alt: Spin mop and wringer bucket on a clean kitchen floor in an organized home
 ---
 BuzzFeed Shopping recently rounded up 28 problem-solving products meant to help families around the house, covering storage, cleaning, organization, and convenience. Its logline for one pick, the spin mop, made us smile: "A spin mop is basically a toy that also happens to clean."
 

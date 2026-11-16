@@ -23,7 +23,7 @@ source_title: >-
   Elephants found to be increasingly isolated leading to fractured social
   networks
 generated_by: claude
-featuredImage: /assets/images/sciencenewslab-general-article.webp
+featuredImage: /assets/images/elephant-social-networks-and-population-research.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Environment
+image_alt: >-
+  Female Asian elephants gather in a Sri Lankan forest as one stands apart from
+  the group.
 ---
 Counting animals is the standard way to tell whether a species is doing okay. A new study of Asian elephants suggests that count may miss something important: the relationships between the animals. By the end of this article, you'll know what researchers found in Sri Lanka, why a social "tipping point" matters, and why conservationists may need to track connections as well as headcounts.
 

@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae9402af299e0a830f395fc
 source_title: 'From Rum To Roti—Where To Find Delicious Caribbean Food In Washington, D.C.'
 generated_by: claude
-featuredImage: /assets/images/everydaytasting-general-article.webp
+featuredImage: /assets/images/beginners-guide-caribbean-food-washington-dc.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ reading_time: 4
 topics:
   - Pantry Staple Creations
   - recipes
+image_alt: >-
+  Three Caribbean dining styles arranged on a table: street food, seafood, and a
+  refined plated course.
 ---
 Caribbean food is not one cuisine. It is many, and knowing which island's cooking you are looking at makes ordering easier and eating better. A recent Forbes guide to Caribbean restaurants in Washington, D.C. shows the range well: Trinidadian street food, Jamaican-inspired seafood, and upscale Afro-Caribbean dining all show up in the same city. This article uses that range as a map, so you can walk into any of those kinds of places and know what you are after.
 

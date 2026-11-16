@@ -19,7 +19,7 @@ source_url: 'https://www.womenshealthmag.com/health/a73854181/too-much-fiber-sig
 source_item_id: 6ab913545b22be6773eca1eb
 source_title: Signs You’re Eating Too Much Fiber
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/signs-you-are-eating-too-much-fiber.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 66
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - culinary spotlight
+image_alt: >-
+  A balanced plate of vegetables, beans, and whole grains with a measured
+  serving of fiber-rich food.
 ---
 Fiber is having a moment. Between gut-health trends, high-fiber packaged snacks, and the rise of "fibermaxxing," plenty of people are piling on the beans, bran, and chia. Here's what you'll know by the end of this guide: the signs your gut may be telling you to ease off, and how to enjoy fiber-rich food without paying for it in discomfort.
 

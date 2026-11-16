@@ -19,7 +19,7 @@ source_url: 'https://www.modernluxury.com/garden-evanhealy-drenched-la-jolla/'
 source_item_id: 6ae5782c1123ffa4dd38f7d3
 source_title: 'San Diego’s New Wellness Hotspots, From Holistic Skincare to Hot Pilates'
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/san-diego-skin-and-sweat-self-care-day-plan.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 72
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Woman applies moisturizer after a hot Pilates session beside a yoga mat,
+  towel, water, and skincare.
 ---
 San Diego's wellness scene is leaning hot and holistic. Modern Luxury reports on new local destinations devoted to brighter skin and a stronger sweat, from holistic skincare to hot Pilates. The article doesn't hand us a full directory here, so this isn't a list of addresses. Instead, it's a way to borrow the idea: a self-care day built around two things, skin and sweat, with a little recovery in between. You can plan it in San Diego or copy the structure in your own town.
 

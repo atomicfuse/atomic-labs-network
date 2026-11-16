@@ -19,7 +19,7 @@ source_url: 'https://www.vogue.com/slideshow/celebrity-diwali-parties-2026'
 source_item_id: 6af27aa6444c59acb194e5a6
 source_title: How New York and L.A. Celebrated Diwali in Style
 generated_by: claude
-featuredImage: /assets/images/stylenests-general-article.webp
+featuredImage: /assets/images/diwali-at-home-styling-ideas.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - seasonal styling
+image_alt: >-
+  Cozy small living space decorated with diyas, marigolds, colorful cushions,
+  and festive accents for Diwali.
 ---
 Diwali's five days began Friday, November 6, and per Vogue, the celebration in New York stretched across weeks of parties, dinners, and gatherings beforehand, with L.A. getting in on it too. Vogue pointed to events tied to ŌUSHQ and the CFDA, Gold House, and Sabyasachi as part of the season's buzz.
 

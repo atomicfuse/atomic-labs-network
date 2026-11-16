@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ad9383d92f27405dfb90544
 source_title: How to Choose a Restaurant When You’re Traveling - The New York Times
 generated_by: claude
-featuredImage: /assets/images/cozysupper-general-article.webp
+featuredImage: /assets/images/how-to-choose-a-restaurant-when-traveling.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Seasonal Comfort Foods
+image_alt: >-
+  Traveler compares a phone and menu while choosing between restaurants on an
+  unfamiliar street.
 ---
 The New York Times recently ran a guide on how to choose a restaurant when you're traveling, and the idea is worth borrowing even on a site devoted to home cooking. We can't summarize that article's specifics here, so what follows is our own take on the problem it raises: picking a meal in an unfamiliar place is harder than it used to be, and a little structure helps. By the end, you'll have a quick framework for deciding where to eat, plus a way to decide whether tonight is a splurge or a simple supper.
 

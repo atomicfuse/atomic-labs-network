@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae036dd0a9c94d1ee7f8dfa
 source_title: This Light Blue Boy’s Bedroom Feels Timeless Thanks to DIY Molding
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/diy-box-molding-kids-bedroom.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 68
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Light blue child's bedroom with white box molding, simple furniture, and DIY
+  measuring tools.
 ---
 A light blue boy's bedroom featured by Apartment Therapy looks polished and lasting for one main reason: DIY box trim and molding. The piece shows how a simple architectural detail can make a child's room feel more elevated and more enduring. Below is a practical plan for borrowing that idea, including how to lay it out, what to buy at different budgets, and how to keep the room from feeling dated in three years.
 

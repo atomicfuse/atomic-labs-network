@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae272bd38d9b485696e7ff5
 source_title: 'Travelling for food: Culinary tourism is on the rise - The Business Times'
 generated_by: claude
-featuredImage: /assets/images/cozysupper-general-article.webp
+featuredImage: /assets/images/cook-a-food-travel-night-at-home.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 68
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Seasonal Comfort Foods
+image_alt: >-
+  A steaming one-pot dinner, dessert, ingredients, and four place settings
+  create a cozy food-travel night at home.
 ---
 Travelers are increasingly choosing destinations for the food, according to The Business Times, which reports that culinary tourism is on the rise: people plan trips around local cuisine, restaurants, markets, and dining culture. You may not have a flight booked. You can still borrow the idea for a cozy night in, and this guide shows you how to do it with one pot, a simple dessert, and a grocery list that won't wreck your budget.
 

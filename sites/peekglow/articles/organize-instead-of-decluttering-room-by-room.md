@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6acc4d35ce7701ccb2412269
 source_title: 33 Things Under $25 For Anyone Who’d Rather Organize Than Declutter
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/organize-instead-of-decluttering-room-by-room.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 70
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Simple Pleasure Picks
+image_alt: >-
+  Hands organize household items into bins, a tray, and hooks in a lived-in
+  entryway.
 ---
 Some of us are not built for the big purge. Maybe you once tossed a cord and then needed it a month later. Maybe you just like your things. BuzzFeed recently rounded up 33 products under $25 for people who would rather organize than declutter, and the idea behind it is worth borrowing: you can make a space work better without getting rid of half of it.
 

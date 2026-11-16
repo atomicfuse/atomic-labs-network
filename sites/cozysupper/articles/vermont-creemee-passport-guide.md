@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6acb319b64df7692b392c48c
 source_title: This Vermont Sweet Treat Now Has Its Own Passport
 generated_by: claude
-featuredImage: /assets/images/cozysupper-general-article.webp
+featuredImage: /assets/images/vermont-creemee-passport-guide.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Seasonal Comfort Foods
+image_alt: >-
+  A Vermont-style creemee beside a blank stamp booklet and folded road map on a
+  wooden counter.
 ---
 Vermont's famous creemee now has its own passport. If you plan to road-trip through the state, or you just like the idea of a dessert with a stamp collection attached, here is what you need to know and how to make the most of it. And because most of us can't hop in the car for soft serve every night, you'll also get a simple way to bring the creemee spirit into your own kitchen.
 

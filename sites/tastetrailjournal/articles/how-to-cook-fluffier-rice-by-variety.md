@@ -22,7 +22,7 @@ source_title: >-
   You're probably cooking rice wrong, and chefs reveal the simple mistake to
   avoid
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/how-to-cook-fluffier-rice-by-variety.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 66
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Local Ingredient Spotlights
+image_alt: >-
+  Fluffy cooked rice being gently loosened beside bowls of different rice
+  varieties
 ---
 Rice is one of the most widely eaten staples on earth, and plenty of home cooks still end up with a pot that's gummy, clumpy, or somehow both soggy and undercooked. According to Fox News, chefs say the fix is usually small: a skipped rinse, one method used for every kind of rice, too much stirring, or fluffing too hard. By the end of this guide, you'll know which steps to apply to which rice, and which to skip.
 

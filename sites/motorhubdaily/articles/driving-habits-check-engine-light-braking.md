@@ -22,7 +22,7 @@ source_title: >-
   Woman Goes To Mechanic When Check Engine Light Comes On. Then He Says It’s
   Because Of How She Drives
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/driving-habits-check-engine-light-braking.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 76
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - New Model Showcases
+image_alt: >-
+  Car dashboard with an illuminated check-engine light and a diagnostic scanner
+  connected below it.
 ---
 A story making the rounds, reported by Motor1, goes like this: a woman took her car to a mechanic after her check engine light came on. His explanation, allegedly, was that it happened because of how she drives. Specifically, her habit of slamming on the brakes.
 

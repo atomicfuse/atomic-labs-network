@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6adaee8437d64fe192a6e29b
 source_title: Nargis Fakhri details her wellness routine as a ‘woman in 2026’
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/realistic-wellness-routine-without-perfection.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Woman pauses at a kitchen table beside water, fruit, walking shoes, and a
+  weekly planner.
 ---
 Actor Nargis Fakhri, 46, recently spoke about her wellness routine, and Indian Express reported that she summed up a struggle many women will recognize: trying to put their own health first while managing the rest of modern life in 2026. The full details of her routine aren't something we can lay out here, so we won't guess at them. What we can do is take the idea at the heart of her story and make it useful: how to build a wellness routine that fits a busy week instead of competing with it.
 

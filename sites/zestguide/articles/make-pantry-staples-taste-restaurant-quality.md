@@ -20,7 +20,7 @@ source_url: 'https://www.foxnews.com/video/6408417163112'
 source_item_id: 6af9f326444c59acb194eafc
 source_title: Chef Chebotar reveals the secret to budget-friendly meals
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/make-pantry-staples-taste-restaurant-quality.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Quick Weeknight Meals
+image_alt: >-
+  Skillet of pantry pasta and beans finished with herbs beside inexpensive
+  cooking ingredients.
 ---
 NYC private chef Julia Chebotar appeared on "Fox & Friends Weekend" to share budget-friendly ideas for home-cooked meals, per Fox News. Her focus, as reported, was simple ingredients that still deliver flavor. The segment's specific recipes aren't detailed in the coverage, so what follows isn't her menu. It's a set of tested techniques built on the same idea: cheap staples can taste like a restaurant made them if you handle them well.
 

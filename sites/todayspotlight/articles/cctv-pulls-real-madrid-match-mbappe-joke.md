@@ -19,7 +19,7 @@ source_url: 'https://www.bbc.com/news/articles/cq78pypg0800o'
 source_item_id: 6ae826e61123ffa4dd38f9ba
 source_title: China state broadcaster CCTV pulls Real Madrid match over Mbappé joke
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/cctv-pulls-real-madrid-match-mbappe-joke.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 78
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Soundtrack Stories
+image_alt: >-
+  Sports broadcast console with a paused football feed and a dark inactive
+  channel
 ---
 China's state broadcaster CCTV pulled a Real Madrid match from its Sunday schedule after a joke by striker Kylian Mbappé about Mao Zedong drew backlash across China, according to the BBC. If you follow La Liga from China, or just want to understand why a single comment can empty a broadcast slot, here is what is confirmed, what is still unknown, and how to read the situation.
 

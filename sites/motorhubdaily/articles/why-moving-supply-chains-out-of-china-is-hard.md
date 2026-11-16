@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae80ac51123ffa4dd38f995
 source_title: Moving Supply Chains Out Of China Is Easier Said Than Done
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/why-moving-supply-chains-out-of-china-is-hard.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Automotive parts and battery components converge at a crowded warehouse
+  supply-chain junction.
 ---
 Western companies keep saying they want to rely less on China. Actually doing it is another matter, and the gap between the talk and the reality helps explain why some car parts, batteries and electronics don't get cheaper or simpler to source on the timeline headlines suggest.
 

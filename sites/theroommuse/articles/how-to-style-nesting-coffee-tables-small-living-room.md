@@ -22,7 +22,7 @@ source_title: >-
   Nesting Coffee Tables Can Bring an Elegant, Layered Look to Living Rooms –
   These 16 Prove Two Is Always Better than One
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/how-to-style-nesting-coffee-tables-small-living-room.webp
 quality_score: 88
 score_breakdown:
   seo_quality: 80
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 5
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Small living room with two styled nesting coffee tables, one tucked beneath
+  the other.
 ---
 A single coffee table is a commitment. It claims a fixed patch of floor whether you need it or not. A nesting set works differently: two tables, one footprint when you want it, double the surface when you don't. Below, you'll learn how to pick a set, arrange it, and style it so the layered look reads as intentional rather than cluttered.
 

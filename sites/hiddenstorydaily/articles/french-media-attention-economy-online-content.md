@@ -24,7 +24,7 @@ source_title: >-
   How Candace Owens Turned a French Conspiracy Theory Into a ‘Gold Mine’ -
   Politico
 generated_by: claude
-featuredImage: /assets/images/hiddenstorydaily-general-article.webp
+featuredImage: /assets/images/french-media-attention-economy-online-content.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 68
@@ -41,6 +41,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Conspiracy Theories
+image_alt: Candace Owens posed in a media studio beside a microphone and smartphone.
 ---
 Politico has published a piece asking how Candace Owens turned a French conspiracy theory into what its headline calls a "gold mine." The details of the reporting sit behind Politico's own article, and this piece does not try to retell them beyond what the outlet's framing supports. What it can do is walk you through the machinery the story points to, so that the next time a strange theory crosses an ocean and lands in your feed, you can see how it works.
 

@@ -20,7 +20,7 @@ source_url: 'https://www.cnn.com/2026/11/01/politics/midterms-cnn-election-cover
 source_item_id: 6ae729c4f299e0a830f394d5
 source_title: How to follow along with CNN’s election coverage
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/tips-for-following-election-night-coverage-calmly.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Soundtrack Stories
+image_alt: Calm viewer takes notes while following indistinct election coverage at home.
 ---
 Millions of voters will cast ballots Tuesday in an election that, per CNN, will decide the balance of power in Congress and set the tone for President Donald Trump's remaining two years in the White House. CNN has published a guide on how to follow along with its election coverage.
 

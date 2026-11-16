@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ac4875cce7701ccb2411ddd
 source_title: This Malabar Hill apartment in South Mumbai champions barefoot luxury
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/barefoot-luxury-calm-flexible-home-ideas.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Small Space Solutions
+image_alt: >-
+  Calm apartment interior with a stone focal feature, warm furnishings, and
+  translucent flexible room dividers.
 ---
 A Mumbai apartment has a lesson for anyone who wants a home that feels expensive without feeling fussy: pick one thing to treasure, and let almost everything else relax around it. Below, you'll find how that idea played out in a real project, plus ways to borrow it at three budget levels.
 

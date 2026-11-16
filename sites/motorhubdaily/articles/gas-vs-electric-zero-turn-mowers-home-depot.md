@@ -19,7 +19,7 @@ source_url: 'https://www.slashgear.com/2251785/zero-turn-lawn-mowers-home-depot-
 source_item_id: 6aa6085322000eee72257ae9
 source_title: 5 Of Home Depot's Most Affordable Zero-Turn Lawn Mowers
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/gas-vs-electric-zero-turn-mowers-home-depot.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Car Care Chronicles
+image_alt: Gas and electric zero-turn mowers side by side on a residential lawn.
 ---
 Zero-turn mowers have a reputation as pro-grade splurges. But Slashgear recently rounded up five of Home Depot's most affordable options, and every one of them shares a 42-inch cutting deck. That makes the comparison simpler than you might expect: the real choices are engine power, gas versus battery, brand, comfort and warranty.
 

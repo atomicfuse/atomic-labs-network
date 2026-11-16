@@ -23,7 +23,7 @@ source_title: >-
   Popular Pilates classes among slew of free fitness opportunities at Finlay
   Park. What to know.
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/find-free-fitness-classes-in-your-city-pilates.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 66
@@ -39,6 +39,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mindful Routine Ideas
+image_alt: Large outdoor Pilates class practicing together on mats in a sunny urban park
 ---
 A free Pilates class in a public park sounds almost too easy. But in Columbia, South Carolina, it's a real weekly habit for a lot of people. Finlay Park, downtown, now offers nearly 10 free fitness classes per week, and one evening Pilates class draws around 200 participants, per The Post and Courier.
 

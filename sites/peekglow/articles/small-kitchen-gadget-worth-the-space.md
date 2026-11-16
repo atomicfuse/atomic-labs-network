@@ -23,7 +23,7 @@ source_title: >-
   If You’re Trying To Make The Most Out Of Your Small Space, Here Are 35 Things
   You'll Want
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/small-kitchen-gadget-worth-the-space.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 80
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Compact mug-style ice cream maker beside a scoop of ice cream on a small
+  kitchen counter.
 ---
 Small kitchens force a hard question: is this fun little gadget worth the room it will take up? BuzzFeed's roundup of 35 small-space finds includes one that makes a good test case, a compact mug-style ice cream maker set designed for easy storage and for eating straight from the container. Below is a simple way to decide whether it, or any compact gadget, deserves a spot in your home.
 

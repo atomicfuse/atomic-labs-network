@@ -20,7 +20,7 @@ source_url: 'https://www.cosmopolitan.com/entertainment/tv/a74248283/love-is-bli
 source_item_id: 6ae005a7571b7d0a4db2da32
 source_title: 9 Unbreakable Rules the ‘Love Is Blind’ Cast Have to Follow
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/love-is-blind-cast-rules-behind-the-scenes.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Behind The Scenes
+image_alt: >-
+  Production table with a sealed phone, questionnaire, gold cup, and wedding
+  clipboard in a TV studio.
 ---
 Love Is Blind looks like a spontaneous social experiment: people talk through a wall, fall in love, and decide whether to marry. But Cosmopolitan has rounded up nine rules cast members have to follow, and together they show how structured the experience is. Here they are, ordered the way you'd likely hit them if you signed up, from application to altar.
 

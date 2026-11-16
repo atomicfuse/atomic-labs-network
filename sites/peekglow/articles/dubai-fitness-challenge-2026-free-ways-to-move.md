@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae5782c1123ffa4dd38f7de
 source_title: 'Dubai Fitness Challenge 2026: Free workouts, community runs and events to try'
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/dubai-fitness-challenge-2026-free-ways-to-move.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 66
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Diverse adults join an outdoor fitness session on a Dubai beachfront
+  promenade.
 ---
 Dubai Fitness Challenge 2026 runs from October 31 to November 29, and the idea is refreshingly simple: move for 30 minutes a day for 30 days. This year marks the 10th edition, per The National. If you want a routine that feels like a pleasure rather than a chore, the lineup below gives you ten places to start, from a beach class to a floating one.
 

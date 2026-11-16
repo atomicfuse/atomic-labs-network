@@ -22,7 +22,7 @@ source_url: >-
 source_item_id: 6af7ed2c444c59acb194ea11
 source_title: ADRA Redwood offering free chair pilates
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: /assets/images/free-chair-pilates-adra-redwood.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Wellness
+image_alt: >-
+  Adults practice gentle seated Pilates exercises on chairs in a bright
+  community room.
 ---
 If you've been wanting to move more but the gym fees, the intimidating equipment, or the fear of not keeping up have kept you on the couch, here's a local option with none of those hurdles. The Redwood ADRA Community Centre is running free Chair Pilates, and you can walk in this Monday.
 

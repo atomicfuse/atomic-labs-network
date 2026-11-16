@@ -19,7 +19,7 @@ source_url: 'https://thegadgetflow.com/blog/lotus-flow-app-review/'
 source_item_id: 6ac08e2c3391fdf402cda080
 source_title: 'Lotus Flow App review: yoga, pilates, chair yoga, and more'
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/lotus-flow-app-simple-home-movement-routine.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mindful Routine Ideas
+image_alt: Person stretching on a yoga mat beside a smartphone in a bright home.
 ---
 Most people don't skip a home workout because they lack motivation. They skip it because starting feels like a chore: which app, which class, how long, and does it even suit today's energy? Lotus Flow, a wellness app reviewed by Thegadgetflow, aims to cut that friction by putting several kinds of movement in one place. Here's what it offers, and how to use a setup like it to build a routine that sticks.
 

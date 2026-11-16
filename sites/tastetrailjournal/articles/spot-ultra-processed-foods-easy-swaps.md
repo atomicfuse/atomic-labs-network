@@ -23,7 +23,7 @@ source_title: >-
   These Common Foods May Be Fueling Inflammation In Your Body—With Serious
   Consequences
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/spot-ultra-processed-foods-easy-swaps.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 62
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - culinary spotlight
+image_alt: >-
+  Shopper compares a packaged snack with apples, oats, and whole-grain bread in
+  a grocery basket.
 ---
 New research, reported by Women's Health, links higher intake of ultra-processed foods (UPFs) to elevated inflammation markers. Those markers are associated with risks like cardiovascular disease, diabetes, and cancer. That's a lot to take in over breakfast, so here is the useful part: you don't need a perfect pantry to respond. You need a way to spot UPFs and a handful of small swaps you will actually make.
 

@@ -20,7 +20,7 @@ source_url: 'https://www.foxnews.com/tech/ai-mosquito-trap-targets-deadly-dengue
 source_item_id: 6af9f326444c59acb194eafd
 source_title: AI mosquito trap targets deadly dengue outbreak
 generated_by: claude
-featuredImage: /assets/images/msmax-general-article.webp
+featuredImage: /assets/images/ai-mosquito-trap-florida-public-health-monitoring.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ reading_time: 3
 topics:
   - Smart Home Solutions
   - apps
+image_alt: >-
+  AI mosquito trap in a Florida backyard with a mosquito approaching its
+  sensor-lit intake.
 ---
 Florida is dealing with its largest dengue outbreak in decades, with 524 locally acquired cases, according to Fox News. Meanwhile, researchers at the University of South Florida (USF) have built an AI-powered mosquito trap that can identify disease-carrying species with more than 98% accuracy in lab testing. This article explains why that matters, what the technology could change, and what you can do around your own home in the meantime.
 

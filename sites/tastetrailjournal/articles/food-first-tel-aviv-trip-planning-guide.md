@@ -22,7 +22,7 @@ source_title: >-
   Become a Tel Aviv Specialist: How to Sell the City’s Culture, Cuisine and
   Beaches
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/food-first-tel-aviv-trip-planning-guide.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Culinary Heritage Journeys
+image_alt: >-
+  A Tel Aviv travel plan beside shakshuka, hummus, pita, and fresh market
+  produce at a sunny café table.
 ---
 Travel advisors are being taught to pitch Tel Aviv as a city with many sides, and you can borrow that approach to plan a trip built around eating. By the end of this guide you'll have a simple way to structure a Tel Aviv itinerary so that every meal connects to something else the city offers.
 

@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae6e11c1123ffa4dd38f90e
 source_title: United's most premium plane to make Las Vegas cameo in January
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/united-elevated-787-9-las-vegas-january.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Culinary Heritage Journeys
+image_alt: >-
+  Premium airplane seat with a plated meal and Las Vegas skyline visible through
+  the window
 ---
 United Airlines is bringing its most premium plane to Las Vegas for a limited run in January. Per The Points Guy, the airline will operate three special flights on a Boeing 787-9 with its "Elevated" interiors. If you're a food-minded traveler who likes to plan around a destination's flavors, this is a good prompt to think about how you'd spend a Vegas trip. Here's what the report supports, what it doesn't, and how to approach the planning.
 

@@ -23,7 +23,7 @@ source_title: >-
   11 Designer-Approved Decor Pieces to Add to Your Living Room—All at an Amazon
   Budget
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/designer-looking-living-room-upgrades-on-a-budget.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 72
@@ -42,6 +42,9 @@ quality_note: >-
 reading_time: 5
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Bright living room with a rug, framed art, side table, books and styled coffee
+  table.
 ---
 A living room rarely looks unfinished because of the sofa. It looks unfinished because of the layer on top: bare surfaces, a rug that's too small, walls with nothing personal on them. This guide shows you how to fix that with small, affordable pieces, and how to place each one so the room reads as designed rather than assembled.
 

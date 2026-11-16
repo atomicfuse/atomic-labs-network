@@ -19,7 +19,7 @@ source_url: 'https://www.buzzfeed.com/bekoconnell/home-products-for-anyone-whos-
 source_item_id: 6ac77fcbce7701ccb2411f60
 source_title: 33 Eccentric Home Products For Anyone Who's Never Been Accused Of Being Boring
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/one-quirky-piece-makes-room-less-generic.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 70
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Seasonal Decor Swaps
+image_alt: >-
+  Neutral living room featuring one sculptural cobalt-blue chair as its quirky
+  focal point.
 ---
 BuzzFeed Shopping recently published a roundup of 33 eccentric home products for people who, in its words, "never pick the beige option." The full list isn't reproduced here, so this isn't a rundown of those items. What the roundup points to is a useful idea: you don't need a full redesign to make a room feel like yours. One well-chosen, slightly odd piece can do the job.
 

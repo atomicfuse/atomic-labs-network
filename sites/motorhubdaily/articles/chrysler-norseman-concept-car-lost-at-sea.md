@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6a9ccdd1feed8e57e04e567a
 source_title: This One-Of-A-Kind Chrysler Concept Has Sat On The Ocean Floor For 60 Years
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/chrysler-norseman-concept-car-lost-at-sea.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 80
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Car Care Chronicles
+image_alt: >-
+  The Chrysler Norseman concept car rests on a dark ocean floor beneath filtered
+  blue light.
 ---
 Most concept cars that never reach production end up in a museum, a warehouse, or a scrapyard. The Chrysler Norseman ended up on the ocean floor. Per Slashgear, this one-of-a-kind 1950s concept went down with the SS Andrea Doria in 1956 and has been there for roughly 60 years. By the end of this piece, you'll know what the Norseman packed into its body, why those features still look familiar in modern cars, and how a single ship sinking erased the only example.
 

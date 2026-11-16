@@ -22,7 +22,7 @@ source_title: >-
   Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a
   man
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/captain-picard-lessons-ethical-leadership.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Behind The Scenes
+image_alt: >-
+  Captain Jean-Luc Picard stands thoughtfully on a starship bridge surrounded by
+  a softly blurred crew.
 ---
 A Boston Globe piece published this week, written by two longtime Star Trek fans, looks at how Patrick Stewart's Captain Jean-Luc Picard became more than a sci-fi icon. Its title says it plainly: through Picard, Stewart "taught us the measure of a man." The idea is worth borrowing. Below, you'll find a way to think about why Picard still works as a model for principled adulthood, and what you can take from him into your own work and relationships.
 

@@ -20,7 +20,7 @@ source_url: 'https://www.instyle.com/beauty-regrets-to-avoid-12125987'
 source_item_id: 6acd90a5da6dc6464d26d4d8
 source_title: 'Experts Reveal 5 Beauty Mistakes to Avoid for Healthier Skin, Hair, and Nails'
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/pause-plan-before-big-beauty-changes.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Woman pauses at a salon vanity beside hair scissors and a closed cosmetic
+  consultation folder.
 ---
 Celebrity makeup artists, manicurists, estheticians, and hairstylists see a lot of beauty regret. InStyle recently gathered the regrets these pros encounter most, and two stood out in the list shared with us: impulsively cut bangs and overdone injectables.
 

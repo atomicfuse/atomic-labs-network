@@ -22,7 +22,7 @@ source_title: >-
   Nicole Kidman, 59, Wears Nothing but a Black Bra and Briefs With Her Sequined
   Jeans
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/nicole-kidman-vogue-australia-sequined-jeans-style.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Rising Stars
+image_alt: >-
+  Sequined black jeans, satin top, and blazer styled in a polished fashion still
+  life.
 ---
 Nicole Kidman, 59, appears in a new *Vogue Australia* photoshoot wearing a black Chanel bra and matching briefs with low-rise sequined jeans, per InStyle. The look bares her midsection and puts the lingerie front and center. You probably won't wear Chanel underwear to the grocery store, but the styling logic behind this shoot is easy to borrow. Here's what the look is doing, and how to adapt it.
 

@@ -22,7 +22,7 @@ source_title: >-
   Below Deck’s Chef Moe Removes His Belt as Cast Is Accosted by Aggressive
   Strangers
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/below-deck-chef-moe-belt-moment-season-13.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 66
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Behind The Scenes
+image_alt: >-
+  A yacht chef’s belt rests on a stainless-steel counter beneath moody evening
+  lights.
 ---
 A new preview for the October 2 episode of *Below Deck* shows Chef Moe Vilomar removing his belt as a crew night out runs into aggressive strangers. Per Us Weekly, the confrontation threatens to turn physical. By the end of this piece, you'll know what the preview shows, what it doesn't, and how to weigh the debate fans are already having about it.
 

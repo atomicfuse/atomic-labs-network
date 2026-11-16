@@ -20,7 +20,7 @@ source_url: 'https://www.foxnews.com/video/6408417163112'
 source_item_id: 6af9f326444c59acb194eafc
 source_title: Chef Chebotar reveals the secret to budget-friendly meals
 generated_by: claude
-featuredImage: /assets/images/realpy-general-article.webp
+featuredImage: /assets/images/private-chef-budget-meal-lessons.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Regional Dish Deep Dives
+image_alt: >-
+  Home cook prepares a flavorful meal from simple ingredients in a modest
+  kitchen.
 ---
 NYC private chef Julia Chebotar appeared on "Fox & Friends Weekend" to share budget-friendly recipes for home-cooked meals, per Fox News. Her focus: simple ingredients that still deliver real flavor. This piece takes that idea and turns it into a method you can use at your own stove, without needing her exact recipes.
 

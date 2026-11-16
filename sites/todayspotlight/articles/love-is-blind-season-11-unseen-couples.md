@@ -22,7 +22,7 @@ source_title: >-
   These Two ‘Love Is Blind’ Season 11 Couples Successfully Coupled Up on the
   Show—So Why Didn’t We See Them?
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/love-is-blind-season-11-unseen-couples.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Behind The Scenes
+image_alt: Editing suite monitor shows muted reality-show clips and a trimmed timeline.
 ---
 Two couples from Love Is Blind season 11 connected or got engaged on the show, yet you've barely seen them, if at all. Cosmopolitan reported on the pair, Scott and Brittany and Tucker and Sahar, and on why they were largely left out of Netflix's final edit. Here's what the report supports, what it doesn't, and how to watch the rest of the season with that context.
 

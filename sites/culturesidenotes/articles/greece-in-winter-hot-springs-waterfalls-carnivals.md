@@ -20,7 +20,7 @@ source_url: 'https://www.ynetnews.com/travel/article/rkywisucfl'
 source_item_id: 6af9561c55a76e575e6263b8
 source_title: 'Greece''s winter surprises: Hot springs, waterfalls and colorful carnivals'
 generated_by: claude
-featuredImage: /assets/images/culturesidenotes-general-article.webp
+featuredImage: /assets/images/greece-in-winter-hot-springs-waterfalls-carnivals.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 68
@@ -36,6 +36,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Culinary Journey Destinations
+image_alt: Steaming turquoise thermal pool surrounded by snow-dusted mountains in winter
 ---
 Greece in winter means soaking in thermal water, walking to waterfalls and catching carnival season, with far fewer summer crowds. This guide pulls together the destinations Ynetnews highlights in its look at Greece's colder months, and shows how to plan a trip around them. One caveat up front: the report is light on dining detail, so I won't invent specific dishes or restaurants. I'll point out where food fits into this kind of trip and leave the specifics for you to research locally.
 

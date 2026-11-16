@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae87b46f299e0a830f39576
 source_title: Mary Trump Reveals The TMI Detail Her Aunt Once Shared About Donald Trump
 generated_by: claude
-featuredImage: /assets/images/glazepost-general-article.webp
+featuredImage: /assets/images/mary-trump-comments-on-family-remark.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Internet Culture Explainer
+image_alt: >-
+  Photorealistic editorial portrait of Mary Trump in a calm, thoughtful
+  interview setting.
 ---
 Mary Trump has a habit of saying the quiet part out loud, and this week she did it again. Per HuffPost, Donald Trump's niece shared a comment that her late aunt, Maryanne Trump Barry, once made to her about Donald's sexuality and his fixation on physical appearance. Mary said her aunt told her something "I wish she hadn't" when Mary was in her 20s.
 

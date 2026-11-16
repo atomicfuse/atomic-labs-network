@@ -21,7 +21,7 @@ source_title: >-
   You'll Want This $5 Cotton Bra In Every Color, So Good Thing It Comes In A
   6-Pack
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/five-dollar-cotton-bra-six-pack-everyday-comfort.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Folded cotton bras in a dresser drawer, with one lifted to show its soft
+  fabric and practical design.
 ---
 Good everyday basics rarely cost less than a coffee run. But a cotton bra that comes in a 6-pack for under $5 per bra has been collecting enthusiastic reviews, according to a recent BuzzFeed roundup. One reviewer wrote, "I'm buying them in advance in case they discontinue them, that's how much I love them."
 

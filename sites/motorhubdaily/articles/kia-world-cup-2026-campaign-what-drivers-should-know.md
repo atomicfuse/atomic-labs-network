@@ -23,7 +23,7 @@ source_title: >-
   Kia Expands FIFA World Cup 2026™ Campaign with Hero Film Launch and Fan
   Engagement Activities - Hyundai Motor Group
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/kia-world-cup-2026-campaign-what-drivers-should-know.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 68
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Car Care Chronicles
+image_alt: >-
+  A shopper examines a Kia vehicle in a showroom with blurred football-themed
+  screens behind it.
 ---
 Kia is expanding its FIFA World Cup 2026™ campaign with a new hero film and additional fan engagement activities, according to an announcement published by Hyundai Motor Group. If you're a driver rather than a marketing student, the useful question is what any of this means for you. Short answer: very little about the cars themselves, and quite a bit about how to shop smarter while the ads are everywhere.
 

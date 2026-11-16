@@ -23,7 +23,7 @@ source_title: >-
   Nesting Coffee Tables Can Bring an Elegant, Layered Look to Living Rooms –
   These 16 Prove Two Is Always Better than One
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/how-to-style-nesting-coffee-tables-living-room.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Styled nesting coffee tables sit at different heights in a warm, uncluttered
+  living room.
 ---
 A single coffee table does one job. A nesting pair does several, and it can make your living room look more considered while taking up little extra room. By the end of this guide, you'll know why nesting tables work, what to look for in a set, and how to style them without clutter.
 

@@ -19,7 +19,7 @@ source_url: 'https://www.slashgear.com/2257932/can-you-use-jb-weld-exhaust-repai
 source_item_id: 6aaf42d40c196d947f91535e
 source_title: Can You Use J-B Weld For Exhaust Repairs?
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/can-jb-weld-fix-exhaust-leak.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 80
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - New Model Showcases
+image_alt: >-
+  Exhaust pipe with a small crack, epoxy tubes, and welding tools on an
+  automotive workbench.
 ---
 Your exhaust has a small leak, a shop quote that makes you wince, and a tube of J-B Weld in the garage. Before you mix anything, here is what you need to know: the original product is usually a poor fit for exhaust work, an exhaust-specific version can handle small, temporary fixes, and neither one replaces a real weld or a new part.
 

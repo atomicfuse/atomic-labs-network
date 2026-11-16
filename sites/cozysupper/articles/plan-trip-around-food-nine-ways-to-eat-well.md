@@ -22,7 +22,7 @@ source_title: >-
   Why I Plan Every Vacation Around Food—and the 9 Tricks That Make Every Trip
   More Delicious (and Memorable) - realsimple.com
 generated_by: claude
-featuredImage: /assets/images/cozysupper-general-article.webp
+featuredImage: /assets/images/plan-trip-around-food-nine-ways-to-eat-well.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Seasonal Comfort Foods
+image_alt: 'Market ingredients, soup, and a travel map arranged on a cozy kitchen table.'
 ---
 Some trips are remembered for the view. Others are remembered for the bowl of soup you ate on a rainy afternoon and still think about months later. Real Simple recently made the case for planning vacations around food, and offered nine tricks for doing it well. Here is how those ideas work in practice, with a cozy-kitchen twist: how to travel in a way that sends you home hungry to cook.
 

@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ac77fcbce7701ccb2411f5c
 source_title: 'If Your Birth Year Starts With “19,” You’re Gonna Love These 32 Fall Items'
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/cozy-fall-comforters-plush-rugs-guide.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Simple Pleasure Picks
+image_alt: >-
+  Cozy fall interior with a fluffy cream comforter and plush rug in warm neutral
+  tones.
 ---
 BuzzFeed recently rounded up 32 fall items for shoppers born in the 1900s, with a playful argument that adults over 25 deserve fluffy comforters and plush rugs. The full list has 30 more picks than we can cover here, and we're not going to guess at them. But those two headliners are enough to build a plan around. By the end of this article, you'll know how to use a comforter and a rug to make your home feel warmer this fall, without a big budget or a weekend-long project.
 

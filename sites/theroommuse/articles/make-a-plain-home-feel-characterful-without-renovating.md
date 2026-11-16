@@ -22,7 +22,7 @@ source_title: >-
   English country-house charm meets colourful maximalism in this interior
   designer's Melbourne townhouse
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/make-a-plain-home-feel-characterful-without-renovating.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Layered living room with colourful wallpaper, art, antiques and furnishings in
+  a modest Melbourne-style home
 ---
 A plain, characterless home does not need a wrecking ball. It needs layers. That's the lesson in a Melbourne townhouse recently featured by Homestolove, where interior designer Alexandra Brownlow turned a bland 1990s semi into a richly layered, art-filled retreat that blends English country-house references with colourful maximalism.
 

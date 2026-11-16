@@ -21,7 +21,7 @@ source_title: >-
   Jon Gosselin Sends Message to His Estranged Kids After Not Speaking to Some of
   Them for 13 Years
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/jon-gosselin-shares-message-for-his-children.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Fandom Focus
+image_alt: >-
+  Photorealistic portrait of Jon Gosselin in a subdued television studio beside
+  a blurred microphone.
 ---
 Jon Gosselin used a recent TV interview to send a public message to his estranged children, and he said he hasn't spoken to some of them in around 13 years, according to InStyle. If you remember the Gosselin family from their reality TV days, this is a sobering update on where things stand. It also raises a bigger question: what happens to a family when childhood unfolds on camera?
 

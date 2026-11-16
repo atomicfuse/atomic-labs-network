@@ -20,7 +20,7 @@ source_url: 'https://www.cnn.com/2026/11/02/americas/brazil-lula-army-left-intl-
 source_item_id: 6ae826e61123ffa4dd38f9b5
 source_title: Brazil’s left reinvented the right’s online playbook. It helped Lula win
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/brazil-left-volunteer-digital-network-lula.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Soundtrack Stories
+image_alt: >-
+  Brazilian volunteers coordinate a political campaign through smartphones
+  around a kitchen table.
 ---
 For three weeks in October, Veridiana Cunha became a so-called "soldier" in a digital army working to reelect Brazil's leftist President Luiz Inácio Lula da Silva. That's the opening of a CNN report on how Brazil's left took tactics long associated with the political right and used them to help Lula win.
 

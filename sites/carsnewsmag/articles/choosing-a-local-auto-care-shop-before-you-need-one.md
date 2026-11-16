@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6aeeb2aef299e0a830f399e2
 source_title: 'Spotlight on Business: A Pilates studio, auto care shop and phone store'
 generated_by: claude
-featuredImage: /assets/images/carsnewsmag-general-article.webp
+featuredImage: /assets/images/choosing-a-local-auto-care-shop-before-you-need-one.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Industry
+image_alt: >-
+  Customer discusses service options with a mechanic inside a clean local auto
+  care shop.
 ---
 A local news segment this week put a new auto care shop on the map in Rochester. Per Kaaltv's "Spotlight on Business," it's one of three new community businesses featured, alongside a Pilates studio and a phone store. The segment's details on the shop are thin in what's been published, so this piece doesn't guess at its services, owners or prices. What it can do is use the moment to help you with something worth doing in any town: finding a trustworthy shop before your car forces the decision.
 

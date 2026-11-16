@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae42b5d6fa9fb73f2382e3c
 source_title: 'Patrick Stewart, The Legendary Star Trek And X-Men Actor, Has Passed Away'
 generated_by: claude
-featuredImage: /assets/images/glazepost-general-article.webp
+featuredImage: /assets/images/sir-patrick-stewart-remembered-career-tribute.webp
 quality_score: 62
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Hollywood Heartthrobs
+image_alt: >-
+  Respectful portrait of Patrick Stewart on a theater stage with Shakespearean
+  and science-fiction cues.
 ---
 Sir Patrick Stewart, the actor behind Star Trek's Jean-Luc Picard and the X-Men's Professor X, has died at the age of 86, according to a report from Nintendolife. The outlet describes a career that spanned six decades across Shakespeare, film, television and video games.
 

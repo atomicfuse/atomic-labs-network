@@ -23,7 +23,7 @@ source_title: >-
   The Bespoke White Build by Roost Vans Stands Out With a Compact Yet
   Ultra-Flexible Interior
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/modular-vs-fixed-van-layouts-roost-vans-white-build.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 80
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - EV Transition Tracker
+image_alt: >-
+  Open white camper van revealing a flexible interior with movable seating,
+  storage modules, and a sleeping platform.
 ---
 If you're shopping for a camper van, one decision shapes everything else: do you want a layout that's fixed in place, or one you can rearrange as your travel needs change? Roost Vans' bespoke build, called "White," makes a strong case for the second option. Here's what it shows, and how to use it as a checklist for your own search.
 

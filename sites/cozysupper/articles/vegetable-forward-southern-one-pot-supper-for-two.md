@@ -22,7 +22,7 @@ source_title: >-
   Chef Tiffany Derry challenges misconceptions about traditional Southern
   cooking
 generated_by: claude
-featuredImage: /assets/images/cozysupper-general-article.webp
+featuredImage: /assets/images/vegetable-forward-southern-one-pot-supper-for-two.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 74
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Seasonal Comfort Foods
+image_alt: >-
+  A steaming pot of greens, sweet potatoes, and beans with two bowls on a
+  kitchen table.
 ---
 Southern food has a reputation for being heavy. Texas-based chef and restaurateur Tiffany Derry is pushing back on that. Per Fox News, she talks about wholesome ingredients, colorful vegetables, and simple preparation as the real heart of what has traditionally been served across the South.
 

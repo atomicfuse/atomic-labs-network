@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ab1e1240c196d947f91542b
 source_title: How to Throw a Garden Party Like the Meyers Family
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/relaxed-garden-party-meyers-style-any-budget.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Personal Touches DIY
+image_alt: >-
+  Relaxed garden party table with linen, flowers, food, and casually chatting
+  guests
 ---
 Vogue's Eileen Kelly recently visited a garden party in the back garden of Nancy Meyers's Los Angeles home, where Meyers's daughter, Annie Meyers-Shyer, celebrated the launch of her renovation book, *This Oak House*. Per Vogue, the Meyers family approach to entertaining is polished, relaxed, detail-obsessed, and designed to look effortless.
 

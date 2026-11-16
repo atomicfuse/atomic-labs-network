@@ -19,7 +19,7 @@ source_url: 'https://iter.ca/post/ubo-uxss/'
 source_item_id: 6afaac4d444c59acb194eb6b
 source_title: Universal XSS in uBlock Origin from website-driven element picker
 generated_by: claude
-featuredImage: /assets/images/msmax-general-article.webp
+featuredImage: /assets/images/ublock-origin-element-picker-update-what-to-do.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 80
@@ -36,6 +36,9 @@ reading_time: 4
 topics:
   - Digital Security Simplified
   - apps
+image_alt: >-
+  Laptop browser uses an element picker beside a secured extension panel with an
+  update check.
 ---
 If you use uBlock Origin on Firefox, you can relax a little: a serious bug in the extension has been fixed. Still, the way it worked is a useful lesson in how to keep your browser extensions safer. By the end of this article you'll know what happened, why a harmless-looking feature caused it, and a few habits that protect you from the next one.
 

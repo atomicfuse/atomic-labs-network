@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6aa8d7db978ad9526dcdc14b
 source_title: This 1960s Bathroom Redo Made Room for a Surprising Amount of Storage
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/1960s-bathroom-redo-storage-ideas.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 66
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Personal Touches DIY
+image_alt: >-
+  Bright mid-century bathroom with a double vanity, wall paneling, waterproof
+  floor, and restored vintage tub.
 ---
 A dated bathroom in an older home doesn't have to be demolished to become useful. Per Apartment Therapy, a DIY renovation in a 1962 home turned a mismatched primary bath into a brighter, storage-rich space, and it kept some vintage flair along the way. The approach is worth borrowing: pick a few smart, budget-friendly swaps, and restore the one feature that has real character.
 

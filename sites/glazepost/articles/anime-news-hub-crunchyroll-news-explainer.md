@@ -19,7 +19,7 @@ source_url: 'https://www.crunchyroll.com/news'
 source_item_id: 6ae42b5d6fa9fb73f2382e40
 source_title: 'Anime News, Top Stories &amp; In-Depth Anime Insights'
 generated_by: claude
-featuredImage: /assets/images/glazepost-general-article.webp
+featuredImage: /assets/images/anime-news-hub-crunchyroll-news-explainer.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 66
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Hollywood Heartthrobs
+image_alt: >-
+  Anime and manga materials surround a tablet displaying a generic news hub
+  interface.
 ---
 Crunchyroll is pitching its news section as the one place anime fans can go to stay current. The page, Crunchyroll News, describes itself as a spot for "anime news and updates straight out of Japan," covering breaking stories and evergreen content, with anime and manga updates "in one place." Its tagline: "You heard it here first!"
 

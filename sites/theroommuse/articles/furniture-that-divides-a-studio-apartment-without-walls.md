@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae036dd0a9c94d1ee7f8df8
 source_title: 'Modern Studio Apartment: 8 Furniture Choices That Divide Space Without Walls'
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/furniture-that-divides-a-studio-apartment-without-walls.webp
 quality_score: 87
 score_breakdown:
   seo_quality: 74
@@ -37,6 +37,7 @@ quality_note: >-
 reading_time: 5
 topics:
   - Real-Life Room Revamps
+image_alt: 'Studio apartment zones defined by a bookcase, sofa, rugs, and furniture.'
 ---
 A studio apartment gives you one big room and a lot of jobs for it to do. You can sleep, cook, eat, and work in the same few hundred square feet, and still make it feel like a set of distinct rooms. You don't need construction to do it. Furniture can draw the lines.
 

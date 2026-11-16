@@ -23,7 +23,7 @@ source_title: >-
   Jenny McCarthy living in a tent while battling ‘paranoid’ fears after mold
   poisoning diagnosis
 generated_by: claude
-featuredImage: /assets/images/glazepost-general-article.webp
+featuredImage: /assets/images/jenny-mccarthy-tent-life-celebrity-health-stories.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 66
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Hollywood Heartthrobs
+image_alt: >-
+  Neutral editorial portrait of Jenny McCarthy beside a folded canvas tent in a
+  softly lit studio.
 ---
 Jenny McCarthy says she has been living in a tent for months as part of her recovery from what she describes as severe mold and mycotoxin poisoning, per a Fox News report. By her account, the ordeal began with a toothache in 2024 and spiraled from there into dental infections, surgeries and a string of unexplained symptoms that compromised her immune system. The Fox News piece also describes her as battling "paranoid" fears along the way.
 

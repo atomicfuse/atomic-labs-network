@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae036dd0a9c94d1ee7f8df9
 source_title: 'Below Deck Recap, S13, Ep. 3: ‘Mo Preferences, Moe Problems’'
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/below-deck-season-13-episode-3-guests-crew-leadership.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Behind The Scenes
+image_alt: >-
+  Luxury yacht dining service contrasts with a strained crew working behind the
+  scenes.
 ---
 Below Deck Season 13, Episode 3 is a good reminder that guests don't create a yacht's problems. They reveal them. According to Vulture's recap, titled "Mo Preferences, Moe Problems," the Azul V crew meets a group of demanding "rich hippie" guests, and the cracks in service, leadership and deck operations show up fast.
 

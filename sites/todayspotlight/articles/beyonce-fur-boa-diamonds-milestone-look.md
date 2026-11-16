@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae005a8571b7d0a4db2da45
 source_title: 'Beyoncé, 45, Wears Nothing but a Fur Boa, White Pumps, and Dazzling Diamonds'
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/beyonce-fur-boa-diamonds-milestone-look.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Rising Stars
+image_alt: >-
+  Fashion model in a white fur boa, white pumps, and sparkling collar necklace
+  in a bright studio.
 ---
 Beyoncé, 45, marked a major career milestone on October 26 with a photo that needed very few ingredients: a white fur boa, white pumps, and a statement diamond collar necklace. That's the whole list, according to InStyle, which first reported the look. By the end of this piece, you'll understand why those three pieces work so well together and how to borrow the idea for your own big moment without a luxury budget.
 

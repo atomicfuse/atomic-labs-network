@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae57cdc1123ffa4dd38f7ff
 source_title: '‘Dexter: Resurrection’ S2 Premiere Recap: ‘Risky Business’'
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/dexter-resurrection-season-2-premiere-recap.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Behind The Scenes
+image_alt: >-
+  Dexter stands between cool window light and a dim apartment, with a
+  police-academy jacket blurred behind him.
 ---
 The Season 2 premiere of *Dexter: Resurrection*, titled "Risky Business," is out, and the question hanging over it is a simple one: after years of uneven follow-ups, has this franchise finally found its footing? Per Vulture's recap, the answer leans yes. Here's what the premiere sets up, and what to watch for as the season unfolds.
 

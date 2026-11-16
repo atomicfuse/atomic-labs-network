@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ac4875cce7701ccb2411dde
 source_title: '20 Elegant Halloween Decor That’s Festive, Not Tacky'
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/elegant-halloween-decor-styling-guide.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 5
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Elegant living room decorated for Halloween with black pumpkins, candles,
+  dried branches, and neutral furnishings.
 ---
 Halloween decor doesn't have to mean plastic skeletons and orange streamers. House Beautiful recently rounded up 20 elegant pieces, mostly from Pottery Barn and a few other retailers, that lean spooky without looking cheap. Here is how to borrow the thinking behind that list and build a Halloween look you'll be glad to see in your home, whatever you spend.
 

@@ -22,7 +22,7 @@ source_title: >-
   This Aussie-Built Toyota Hiace Camper Van Is Roam-Ready Without Looking the
   Part
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/stealth-camper-van-toyota-hiace-design-lessons.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - EV Transition Tracker
+image_alt: >-
+  Toyota Hiace-style work van with rear doors open to reveal a compact camper
+  interior
 ---
 A van that looks like a tradie's work vehicle from the outside, but sleeps, cooks and runs off-grid inside. That's the idea behind a Toyota Hiace conversion from Australian builder Free Roam Fitouts, recently covered by Autoevolution. If you're weighing a van build or buying a converted rig, it's a useful case study in what makes a small space livable.
 

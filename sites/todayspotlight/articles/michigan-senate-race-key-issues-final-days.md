@@ -22,7 +22,7 @@ source_title: >-
   Turmoil in Michigan's Senate race as Democrat Haley Stevens appears with
   Republican Mike Rogers
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/michigan-senate-race-key-issues-final-days.webp
 quality_score: 51
 score_breakdown:
   seo_quality: 55
@@ -41,6 +41,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Soundtrack Stories
+image_alt: Two microphones face each other inside a softly lit Detroit church sanctuary.
 ---
 Days before Election Day, Michigan Democrat Haley Stevens appeared at a Detroit church service alongside Republican Senate candidate Mike Rogers. That is the moment, as first reported by PBS. By the end of this piece, you will know what is actually established, what the story is really about, and how to read the next round of headlines without getting swept up in the spin.
 

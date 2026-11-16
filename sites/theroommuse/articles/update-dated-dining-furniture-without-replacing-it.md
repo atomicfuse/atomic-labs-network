@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6abb4cdb3391fdf402cd9e7b
 source_title: Their Dining Room Furniture Looked Dated Until 1 DIY Changed the Whole Room
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/update-dated-dining-furniture-without-replacing-it.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 74
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Personal Touches DIY
+image_alt: >-
+  Dining furniture receives a practical DIY refresh in a bright open-plan dining
+  room.
 ---
 A dining room makeover covered by Apartment Therapy makes a point worth borrowing: you may not need new furniture to fix a dining room that feels dated. According to the report, one DIY update changed the whole look of the space. The room is visible from almost every point on the first floor, so the design needed to pack a punch.
 

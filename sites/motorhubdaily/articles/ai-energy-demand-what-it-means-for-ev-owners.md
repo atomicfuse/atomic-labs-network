@@ -19,7 +19,7 @@ source_url: 'https://www.foxbusiness.com/video/6407676279112'
 source_item_id: 6ae80ac51123ffa4dd38f993
 source_title: 'Energy is one of the great buffers for AI risk, expert says'
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/ai-energy-demand-what-it-means-for-ev-owners.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Electric vehicle charging at home with utility lines and a distant
+  energy-intensive facility.
 ---
 A Fox Business segment this week put a spotlight on an idea that sounds far from your driveway: energy is one of the great buffers for AI risk. The headline, per Fox Business, comes from an expert discussion on 'The Claman Countdown,' where Sanders Morris Chairman George Ball and SlateStone Wealth chief market strategist Kenny Polcari talked about the fallout from a red day in the markets.
 

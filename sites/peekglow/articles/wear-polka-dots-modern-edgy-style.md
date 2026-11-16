@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae005a7571b7d0a4db2da3c
 source_title: Kim Kardashian’s Latest Red Carpet Look Is Not Your Typical Polka-Dot Dress
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/wear-polka-dots-modern-edgy-style.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Adult woman in a tailored black-and-white polka-dot outfit on a modern city
+  sidewalk
 ---
 Polka dots have a reputation: sweet, vintage, maybe a little picnic-ready. This week, Kim Kardashian offered a very different take, and it comes with a few ideas you can borrow for a much more everyday wardrobe.
 

@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae7d286f299e0a830f3952b
 source_title: DOJ set to appeal ruling in Alaska Senate race dispute over ‘Decoy Dan’
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/alaska-senate-certification-appeal-explained.webp
 quality_score: 51
 score_breakdown:
   seo_quality: 66
@@ -42,6 +42,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Soundtrack Stories
+image_alt: >-
+  Unmarked legal case file and Alaska outline on a desk before a blurred federal
+  courthouse.
 ---
 If you have seen the phrase "Decoy Dan" in your feed and could not tell whether it was a joke, a movie title, or a court case, it is a court case. By the end of this piece you will know what the Justice Department is arguing, why a federal judge turned it away, and which questions to watch as the appeal moves forward.
 

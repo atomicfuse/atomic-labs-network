@@ -22,7 +22,7 @@ source_title: >-
   Chef Tiffany Derry challenges misconceptions about traditional Southern
   cooking
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/vegetable-forward-southern-cooking-at-home.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 68
@@ -40,6 +40,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Quick Weeknight Meals
+image_alt: 'Colorful greens, corn, and tomatoes simmer in a cast-iron skillet.'
 ---
 Southern food has a reputation for being heavy. Texas chef and restaurateur Tiffany Derry pushes back on that. As Fox News reported, she describes traditional Southern cooking as fresh, colorful, and built on simple, wholesome ingredients, with vegetables playing a big role.
 

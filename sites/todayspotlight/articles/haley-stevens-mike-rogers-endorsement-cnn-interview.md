@@ -22,7 +22,7 @@ source_title: >-
   Haley Stevens Struggles To Provide Direct Explanation For Her About Face On
   Mike Rogers
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/haley-stevens-mike-rogers-endorsement-cnn-interview.webp
 quality_score: 62
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Soundtrack Stories
+image_alt: >-
+  Editorial portrait of Haley Stevens between two unbranded microphones under
+  blue and red studio lighting.
 ---
 Michigan's Senate race took a sharp turn this weekend. Rep. Haley Stevens, a Democrat, endorsed Republican Mike Rogers, and per HuffPost, she struggled in a CNN interview to explain why. If you want a clear sense of what is actually known about the reversal, and what isn't, this piece sorts it out.
 

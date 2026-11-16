@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae57cdc1123ffa4dd38f802
 source_title: Lisa Rinna Is a Very Convincing Kylie Jenner
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/lisa-rinna-kylie-jenner-halloween-costume.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 68
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Rising Stars
+image_alt: >-
+  Lisa Rinna poses in an orange, Kylie Jenner-inspired Halloween costume beside
+  a softly lit vanity mirror.
 ---
 Lisa Rinna showed up on *Live With Kelly and Mark* dressed as Kylie Jenner for Halloween, and the result was convincing enough that Jenner herself weighed in. Per The Cut, Rinna recreated Jenner's orange Chrome Hearts look, the glam, and the signature pout. Jenner's comment: "Thought this was me."
 

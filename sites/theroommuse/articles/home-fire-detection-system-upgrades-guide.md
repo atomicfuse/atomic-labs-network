@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae43265ca5815d901e33daa
 source_title: fire detection system
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/home-fire-detection-system-upgrades-guide.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 68
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Seasonal Decor Swaps
+image_alt: >-
+  Homeowner installs a smoke detector in a bright residential hallway with
+  another detector near a bedroom.
 ---
 Interest in fire detection systems is climbing, with Google Trends showing a modest but rising bump in US searches. Two recent items from Vietnam.vn help explain why: one says fire alarm communication devices improve the efficiency of early incident response, and another reports that GlobalSafe is bringing "Made in Vietnam" fire alarm monitoring technology to the international market.
 

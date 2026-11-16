@@ -19,7 +19,7 @@ source_url: 'https://www.nhs.uk/live-well/exercise/pilates-and-yoga/yoga-with-lj
 source_item_id: 6a9ba42afcf666506ffcee92
 source_title: Vinyasa flow yoga video
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/home-vinyasa-flow-practice-setup.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Adult practicing yoga on a mat in a calm living room beside a laptop showing a
+  video.
 ---
 If you've been wanting a calming routine you can do in your living room, without a studio membership, there's a good place to start. The NHS Fitness Studio offers a 50-minute vinyasa flow yoga video, and with a little setup, it can become a steady part of your week. Here's how to prepare, what to expect, and how to make it stick.
 

@@ -23,7 +23,7 @@ source_title: >-
   Manisha Koirala, 56, Shows How She Stays Fit With Yoga, Mobility Exercises,
   And Strength Training
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/yoga-mobility-strength-routine-after-50.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Woman over 50 practices yoga beside dumbbells and a resistance band in a
+  bright home workout space.
 ---
 Manisha Koirala, the 56-year-old Nepali-Indian actress, recently showed how she stays fit, and her approach is refreshingly uncomplicated. Per NDTV, her regimen combines three things: yoga, mobility exercises, and strength training. By the end of this article, you'll know how to turn that same three-part mix into a gentle weekly rhythm that fits your own life.
 

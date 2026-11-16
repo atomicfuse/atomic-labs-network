@@ -22,7 +22,7 @@ source_title: >-
   A Brazilian architect built a UFO-shaped house in 1974 and planned to live
   there temporarily; almost 50 y - The Times of India
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/retro-futurist-home-style-ideas-any-budget.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Seasonal Decor Swaps
+image_alt: Living room with curved furniture and warm 1970s retro-futurist decor.
 ---
 A Brazilian architect built a UFO-shaped house in 1974 and planned to live there temporarily, according to The Times of India. Nearly 50 years later, it appears to have become a long-term architectural curiosity. The report, as we have it, doesn't give us room dimensions, materials or interior details, so we won't invent any.
 

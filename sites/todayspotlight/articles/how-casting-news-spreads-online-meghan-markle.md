@@ -22,7 +22,7 @@ source_title: >-
   Meghan Markle's acting comeback suffers major blow as Netflix 'safety net'
   disappears: expert
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/how-casting-news-spreads-online-meghan-markle.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Behind The Scenes
+image_alt: >-
+  Casting documents, a screenplay, and a phone sit on a studio table,
+  representing an unconfirmed television rumor.
 ---
 Meghan Markle is reportedly no longer in talks to join Netflix's "The Gentlemen," according to a Fox News report that cites sources and an expert. The same report claims her strongest internal supporter at Netflix has left the company. Whether you follow the Sussexes closely or just scroll past the headlines, this is a useful moment to learn how to read a casting rumor: who is saying what, what is actually confirmed, and why a story like this can travel so far.
 

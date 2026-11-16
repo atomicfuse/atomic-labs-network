@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae6d5661123ffa4dd38f8e2
 source_title: '‘I Came as Donald Trump’: The President Hosts a Luxury Halloween at Mar-a-Lago'
 generated_by: claude
-featuredImage: /assets/images/glazepost-general-article.webp
+featuredImage: /assets/images/trump-mar-a-lago-jungle-halloween-party-costume.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Hollywood Heartthrobs
+image_alt: >-
+  Donald Trump stands in a formal suit amid tropical foliage and subtle
+  Halloween lighting.
 ---
 President Trump hosted a jungle-themed Halloween party at Mar-a-Lago, and, according to the New York Times headline on the event, the guest of honor arrived with a punchline ready: "I Came as Donald Trump." The Times describes the event as a luxury Halloween bash, and the costume, per the outlet, was a distinctly recognizable figure. We'll get to who that figure turns out to be.
 

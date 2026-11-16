@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ac9c8abce7701ccb241212a
 source_title: 6 Bedtime Yoga Poses To Help Lower Stress Levels Before Sleep
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/ten-minute-bedtime-yoga-routine-six-gentle-poses.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 80
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Adult practicing a gentle child's pose on a yoga mat beside a bed in a softly
+  lit bedroom.
 ---
 You don't need a studio, a mat collection, or an hour to spare. Femina recently rounded up six gentle bedtime yoga poses meant to ease everyday stress, release physical tension, and help your body shift toward sleep. Here is how to string them into one calm, roughly 10-minute routine you can do beside your bed.
 

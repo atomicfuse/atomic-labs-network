@@ -20,7 +20,7 @@ source_url: 'https://www.foxnews.com/video/6407770525112'
 source_item_id: 6ae826e61123ffa4dd38f9bb
 source_title: 'It''s amazing how many Democrats ''went after'' Haley Stevens: Bret Baier'
 generated_by: claude
-featuredImage: /assets/images/todayspotlight-general-article.webp
+featuredImage: /assets/images/bret-baier-haley-stevens-midterms-discussion.webp
 quality_score: 52
 score_breakdown:
   seo_quality: 55
@@ -36,6 +36,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Soundtrack Stories
+image_alt: Microphone and discussion notes in front of a blurred television news studio
 ---
 Ahead of the 2026 midterm elections, Fox News anchor Bret Baier said it was "amazing" how many Democrats "went after" Haley Stevens. He made the remark in a conversation with Fox News contributor Hugh Hewitt on the network's "One Nation," per Fox News. This piece walks through what that exchange covered, what it doesn't tell us, and how to read a cable-news segment like this one with a clear head.
 

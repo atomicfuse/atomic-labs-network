@@ -21,7 +21,7 @@ source_title: >-
   5 Rug-and-Sofa Color Combinations That Just Work — Follow These Pairings If
   You’re Stuck for Inspiration for Your Room
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/sofa-and-rug-color-pairings-living-room.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 80
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Living room with a textured sofa, coordinating rug, and five fabric swatches
+  on a coffee table.
 ---
 A sofa and a rug are the two biggest color decisions in a living room, and most people make them one at a time. That's how you end up with a sofa and rug that are each fine but don't seem to like each other. This guide gives you five pairings that reliably work, plus a simple way to test your own combination before you buy.
 

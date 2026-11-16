@@ -21,7 +21,7 @@ source_title: >-
   New rankings name America's best airports as two southern cities win top
   honors
 generated_by: claude
-featuredImage: /assets/images/tastetrailjournal-general-article.webp
+featuredImage: /assets/images/plan-food-friendly-layover-airport-rankings.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Culinary Heritage Journeys
+image_alt: >-
+  Traveler enjoys a meal beside luggage in a bright airport terminal during a
+  smooth layover.
 ---
 JD Power has released its 2026 rankings of North America's best airports, and two southern cities took top honors, per Fox News. The coverage doesn't give us a full scorecard, so this article won't pretend to. What it does give us is a useful idea: an airport that moves you smoothly through check-in, security and the gate leaves you something precious, which is time. And time is what turns a stressful layover into a proper meal.
 

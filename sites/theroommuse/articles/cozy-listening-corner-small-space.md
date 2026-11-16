@@ -22,7 +22,7 @@ source_title: >-
   This Cozy Room Trend Is on the Rise, and Designers Say It Makes Any Home Feel
   More Relaxing
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/cozy-listening-corner-small-space.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 66
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Real-Life Room Revamps
+image_alt: >-
+  Cozy apartment listening corner with a plush chair, turntable, vinyl records,
+  warm lamp, and textured rug.
 ---
 You don't need a spare room to get the newest relaxing space in home design. You need a corner, a comfortable seat, warm light, and a good reason to put your phone in another room. Here's how to build a listening corner that works in an apartment or a busy family home.
 

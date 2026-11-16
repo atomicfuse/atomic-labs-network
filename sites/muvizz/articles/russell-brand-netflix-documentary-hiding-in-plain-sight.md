@@ -22,7 +22,7 @@ source_url: >-
 source_item_id: 6af7b296444c59acb194ea01
 source_title: Russell Brand Documentary Reflects on What Was Hiding in Plain Sight - Netflix
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/russell-brand-netflix-documentary-hiding-in-plain-sight.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Trailers
+image_alt: >-
+  Paused television shows an indistinct comedian as a remote and red warning
+  symbols sit in the foreground.
 ---
 A new Netflix documentary on Russell Brand is putting a pointed question in front of streamers: what was hiding in plain sight? Per the listing as surfaced by Google News, the film examines the warning signs, behavior, and public persona around Brand that may have been overlooked or normalized for years.
 

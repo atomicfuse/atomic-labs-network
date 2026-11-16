@@ -22,7 +22,7 @@ source_title: >-
   Designer Ken Fulk Brings the Magic of Old Hollywood Back to a Storied Vineyard
   Estate
 generated_by: claude
-featuredImage: /assets/images/theroommuse-general-article.webp
+featuredImage: /assets/images/make-your-home-feel-collected-ken-fulk-lessons.webp
 quality_score: 87
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Personal Touches DIY
+image_alt: >-
+  Collected living room with vintage furniture, layered textiles, books,
+  ceramics, and warm natural light
 ---
 Designer Ken Fulk has reimagined a historic Healdsburg vineyard estate once tied to actor Fred MacMurray, according to Veranda. He turned a group of mismatched buildings into one cohesive multigenerational family retreat, blending Old Hollywood glamour, Old California ranch character, and layered natural materials.
 
