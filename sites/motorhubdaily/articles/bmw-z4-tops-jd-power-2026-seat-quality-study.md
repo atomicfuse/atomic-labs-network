@@ -19,7 +19,7 @@ source_url: 'https://www.slashgear.com/2247889/bmw-best-seats-2026-jd-power-qual
 source_item_id: 6a9ccdd1feed8e57e04e5681
 source_title: 'Not The Mustang: JD Power Says This BMW Has The Best Seats In 2026'
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/bmw-z4-tops-jd-power-2026-seat-quality-study.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 80
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Car Care Chronicles
+image_alt: >-
+  Photorealistic close view of the BMW Z4's front seats inside a bright
+  showroom.
 ---
 If you are shopping for a 2026 model, seat comfort deserves a place next to price and fuel economy. You sit in it for every mile. A new J.D. Power ranking offers a useful data point, and a few surprises, about which vehicles owners say have the fewest seat problems.
 
