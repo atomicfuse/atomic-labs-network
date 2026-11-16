@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6af916d455a76e575e62638f
 source_title: The 6 Slowest Lamborghinis Ever Built Are Also Some of the Coolest
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/slow-lamborghinis-worth-knowing-collectors-guide.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 62
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - New Model Showcases
+image_alt: >-
+  A classic Lamborghini 400 GT and rugged LM002 displayed together in a quiet
+  collector-car garage.
 ---
 Lamborghini's reputation rests on loud, wedge-shaped poster cars. But some of the most interesting cars in its history were the ones that weren't chasing top speed. Autoevolution recently ran down six Lamborghinis that were slow by the brand's own standards and are hard to find today. This guide uses that list to show what each car is, why it matters, and what to keep in mind if you ever go looking for one.
 
