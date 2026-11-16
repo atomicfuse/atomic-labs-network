@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ac1b7d33391fdf402cda121
 source_title: This Nissan V6 Is One Of The Most Powerful Japanese Production Engines Ever
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/nissan-vr38dett-v6-gt-r-engine-explained.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - EV Transition Tracker
+image_alt: >-
+  Open Nissan GT-R hood revealing its detailed twin-turbo V6 engine in a
+  performance workshop.
 ---
 If you've ever wondered why used Nissan GT-Rs hold their value and why tuners treat their engine bay like sacred ground, the answer is one engine: the VR38DETT. Here's what makes it special, and what that means if you're thinking about owning one.
 
