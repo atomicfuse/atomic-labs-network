@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ad587b492f27405dfb902b9
 source_title: '36 Things That Aren’t Fancy, But Just Plain Work'
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/stainless-steel-tongue-scraper-simple-routine.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Simple Pleasure Picks
+image_alt: >-
+  Hand lifting a stainless-steel tongue scraper beside a bathroom sink during a
+  morning routine.
 ---
 BuzzFeed recently rounded up 36 products that, in its words, aren't fancy but just plain work. Leading the list is a stainless-steel tongue scraper, which BuzzFeed says does impressive work. Only that first item was shared in detail, so this piece sticks to it and to the bigger idea behind the list: the best routine upgrades are often the least glamorous.
 
