@@ -22,7 +22,7 @@ source_title: >-
   Calling All Homebodies: These 29 Products Will Give You (Another) Reason Not
   To Leave Your House This Weekend
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/plan-a-cozy-no-plans-weekend-at-home.webp
 quality_score: 87
 score_breakdown:
   seo_quality: 74
@@ -39,6 +39,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Simple Pleasure Picks
+image_alt: Person in a robe relaxes on a sofa with tea and a book in a cozy home.
 ---
 BuzzFeed Shopping recently rounded up 29 products for homebodies, pitched as reasons to stay in this weekend. One example from the teaser: a bathtub pillow so appealing you might cancel dinner plans. The full list isn't reproduced here, so this piece takes the idea behind it and turns it into something you can use: a simple plan for a weekend at home that feels chosen, not like a fallback.
 
