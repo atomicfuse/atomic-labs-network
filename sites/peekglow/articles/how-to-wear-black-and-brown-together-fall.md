@@ -19,7 +19,7 @@ source_url: 'https://www.glamour.com/story/how-to-style-black-and-brown-together
 source_item_id: 6ae005a8571b7d0a4db2da3e
 source_title: How to Wear Black and Brown Together Like a Style Icon in Fall 2026
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/how-to-wear-black-and-brown-together-fall.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 80
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Woman in a polished fall outfit combining a brown coat, black clothing, and
+  tan leather accessories.
 ---
 Black and brown used to come with a warning label. Glamour reports that the once-controversial pairing is no longer a fashion faux pas, and it can look polished, modern, and fashion-insider approved when you do it on purpose. By the end of this guide, you'll have seven simple ways to wear the combo with your existing closet.
 
