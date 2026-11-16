@@ -20,7 +20,7 @@ source_url: 'https://www.health.com/healthiest-yogurt-to-buy-11927606'
 source_item_id: 6af9acd5444c59acb194eae5
 source_title: '3 Dietitians Agree: This Is the Healthiest Yogurt to Buy'
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/healthiest-yogurt-to-buy-greek-icelandic-kefir.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Cooking Skill Builders
+image_alt: >-
+  Bowl of plain Greek yogurt with berries beside Icelandic yogurt and kefir for
+  comparison.
 ---
 The yogurt aisle is long, and most of it is a guessing game. Three dietitians who spoke to Health landed on a clear answer: plain Greek yogurt is the healthiest yogurt you can buy. Icelandic yogurt and flavored kefir follow close behind. Below, you'll find what they have in common, how to read a label, and how to make plain yogurt something you'll actually want to eat.
 
