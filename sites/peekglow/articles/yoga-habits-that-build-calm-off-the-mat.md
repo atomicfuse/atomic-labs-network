@@ -22,7 +22,7 @@ source_title: >-
   Yoga Can Increase Your Composure. 5 Ways to Develop Equanimity Through Your
   Practice.
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/yoga-habits-that-build-calm-off-the-mat.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Adult practicing a calm seated yoga pose beside a block and folded blanket in
+  a sunlit room.
 ---
 Some days, small things pile up: a slow line, a crowded inbox, a plan that falls apart. Staying steady through all of it is a skill, and yoga gives you a low-stakes place to practice. Yoga Journal recently outlined five ways to build equanimity, the ability to stay calm, balanced, and non-reactive, through your practice. Here is how to use each one, on the mat and in the rest of your day.
 
