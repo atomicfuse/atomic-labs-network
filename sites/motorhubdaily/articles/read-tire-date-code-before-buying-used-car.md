@@ -21,7 +21,7 @@ source_title: >-
   Man Buys 10-Year-Old Mercedes With Only 31,000 Miles. Then He Spots Something
   Fishy On The Tires
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/read-tire-date-code-before-buying-used-car.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 80
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - New Model Showcases
+image_alt: >-
+  Hand examining a tire sidewall and its molded four-digit date code on a used
+  performance sedan.
 ---
 A Utah driver recently bought a 2016 Mercedes-AMG C63 S with very low mileage, and then checked the tires. According to Motor1, the rubber was stamped from early 2017. That detail did two things at once: it backed up the car's low odometer reading, and it raised a safety question. You can run the same check in about 30 seconds, and this guide shows you how.
 
