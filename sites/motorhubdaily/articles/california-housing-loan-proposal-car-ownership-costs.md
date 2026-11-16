@@ -18,7 +18,7 @@ source_url: 'https://www.foxbusiness.com/video/6407490731112'
 source_item_id: 6ae2c4c68bd58874456902d3
 source_title: 'Lou Basenese warns over CA housing proposal: ''We''ve been to this movie before'''
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/california-housing-loan-proposal-car-ownership-costs.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 62
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Budget papers, car keys, and a repair invoice on a table with a California
+  street softly visible outside.
 ---
 A car site covering a housing story may look like a detour. It isn't, because the biggest line items in a household budget compete with each other. When housing takes more of your paycheck, your next car purchase, your repair fund, and your EV decision all get squeezed. This piece uses a current California housing debate to show how to protect your vehicle budget when other costs climb.
 
