@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae5782d1123ffa4dd38f7e4
 source_title: FlowCorps offers dynamic Pilates classes for all levels
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/first-reformer-pilates-class-what-to-expect.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Beginner receives guidance during a reformer Pilates session in a bright
+  boutique studio.
 ---
 Walking into a boutique fitness studio for the first time can feel like showing up to a party where everyone already knows each other. If reformer Pilates has been on your list but the unknown keeps you putting it off, this guide is for you. You'll know what to look for in a beginner-friendly studio, what a first session can look like, and how to make it feel easier.
 
