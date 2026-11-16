@@ -19,7 +19,7 @@ source_url: 'https://www.bitcoin.com/price/toncoin/'
 source_item_id: 6afa7fc5444c59acb194eb2d
 source_title: Toncoin Price Today | TON to USD Live Price &amp; Chart
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/keep-car-fund-stable-crypto-price-swings.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 66
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Car keys and a savings envelope sit beside a phone showing a volatile market
+  chart.
 ---
 If you hold crypto and hope to turn some of it into a car, the most useful thing you can do is decide now which dollars are your car fund and which are a speculative bet. A single day of price movement shows why.
 
