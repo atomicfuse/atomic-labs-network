@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6a9ba42afcf666506ffcee8b
 source_title: ASU researchers find yoga and Pilates associated with longer lifespans
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/yoga-pilates-longevity-study-simple-routine.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mindful Routine Ideas
+image_alt: Mature adult practicing yoga on a mat in a softly lit home studio.
 ---
 Anti-aging advice is everywhere, and most of it comes with a price tag. A new look at the data suggests the habits worth your time may be the plainest ones: a yoga mat and a regular class.
 
