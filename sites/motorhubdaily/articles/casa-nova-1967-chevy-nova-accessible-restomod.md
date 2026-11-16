@@ -23,7 +23,7 @@ source_title: >-
   Stunning 1967 Chevy Nova Dubbed 'Casa Nova' Has Over 1,000 HP and Special
   Front Seat Engineering
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/casa-nova-1967-chevy-nova-accessible-restomod.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - New Model Showcases
+image_alt: >-
+  Custom 1967 Chevrolet Nova with an open door, swivel seat, and wheelchair
+  beside it in a workshop.
 ---
 A 1967 Chevrolet Nova called "Casa Nova" is making the rounds, and the headline number is easy to remember: 1,013 horsepower. But the more useful lesson for anyone who owns, or dreams of owning, a modified car is how this build was shaped around the person who drives it. If you've ever wondered what a custom car can do beyond going fast, this one is a good case study.
 
