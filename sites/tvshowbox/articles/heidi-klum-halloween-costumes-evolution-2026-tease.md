@@ -22,7 +22,7 @@ source_url: >-
 source_item_id: 6ae005a7571b7d0a4db2da34
 source_title: 25 Best Heidi Klum Halloween Costumes So Far
 generated_by: claude
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/heidi-klum-halloween-costumes-evolution-2026-tease.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 68
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Celebrity News
+image_alt: >-
+  Heidi Klum poses in a costume studio beside mannequins displaying fantastical
+  Halloween looks.
 ---
 Heidi Klum's Halloween reveal has become a pop-culture event, and with the 2026 edition around the corner, Glamour has pulled together a retrospective of her costumes (its list is titled "25 Best Heidi Klum Halloween Costumes So Far"). The piece also nods to her 2025 Medusa look and to speculation about what she has planned this year, with a teaser reportedly already sparking fan theories.
 
