@@ -20,7 +20,7 @@ source_url: 'https://www.glamour.com/story/how-to-style-boyfriend-jeans'
 source_item_id: 6acd90a5da6dc6464d26d4be
 source_title: I Spent a Decade Perfecting How to Style Boyfriend Jeans—Here's What I Learned
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/boyfriend-jeans-fall-outfit-ideas.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 80
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Model in boyfriend jeans, blazer, knit top, and ankle boots on an autumn city
+  sidewalk.
 ---
 If you own one pair of boyfriend jeans, you already have the base for a full week of fall outfits. You just need a few formulas. Glamour recently shared the lessons from a decade of styling the look, and the throughline is simple: the slouchy, borrowed-from-the-boys fit goes almost anywhere when you change the top, the layer, and the shoes.
 
