@@ -22,7 +22,7 @@ source_title: >-
   Tesla "Sells" the Cybercab for $29,990, but You Don't Actually Own It and
   Can't Do Much With It
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/tesla-cybercab-29990-ownership-explained.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 80
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Car Care Chronicles
+image_alt: >-
+  Autonomous two-seat car displayed behind glass beside a key fob and contract
+  folder.
 ---
 Tesla has opened order books for the Cybercab at $29,990. Before you picture a driverless car parked in your garage, read the terms. Per Autoevolution, which first reported on the offer, buyers are not the real owners in the traditional sense, because Tesla retains the rights that matter. This guide explains what the deal appears to involve, so you can judge whether it's a car purchase or something closer to a subscription.
 
