@@ -23,7 +23,7 @@ source_title: >-
   Anyone Who Panics About Mess Before People Come Over Needs These 29 Wayfair
   Products
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/guest-ready-home-reset-plan-in-20-minutes.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 72
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Simple Pleasure Picks
+image_alt: >-
+  Person quickly placing shoes and mail into entryway storage while tidying a
+  home for guests.
 ---
 You know the moment. A text says "we're almost there," and suddenly you're stuffing mail, shoes, and a laundry basket into the oven. This guide gives you a 20-minute order of operations for getting a home guest-ready, plus the kinds of organizing products that make the next reset even quicker.
 
