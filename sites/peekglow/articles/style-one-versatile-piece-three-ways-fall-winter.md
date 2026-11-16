@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ad587b492f27405dfb902bd
 source_title: 27 Versatile Clothing Pieces That’ll Get You Through The Rest Of The Year
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/style-one-versatile-piece-three-ways-fall-winter.webp
 quality_score: 89
 score_breakdown:
   seo_quality: 80
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Three photorealistic fall outfits show one camel knit dress styled for work,
+  weekends, and cold weather.
 ---
 BuzzFeed Shopping recently rounded up 27 versatile clothing pieces meant to carry you through the rest of the year, pitching clothes that work across many seasons as an excellent return on investment. The full list isn't reproduced here, but the idea behind it is worth borrowing right now: buy less, style more.
 
