@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6abb4cdb3391fdf402cd9e77
 source_title: 5 Indian homes that have been transformed into intimate workspaces
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/make-home-workspace-feel-warm-not-corporate.webp
 quality_score: 86
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Warm Indian home workspace with a wooden desk, textured walls, plants, and
+  soft window light.
 ---
 A desk in the corner of the bedroom can work. But if your workspace leaves you cold, the fix may not be a better chair. It may be borrowing a few ideas from the way homes have been turned into offices.
 
