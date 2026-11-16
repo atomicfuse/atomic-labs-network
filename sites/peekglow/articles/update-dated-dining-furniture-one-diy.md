@@ -19,7 +19,7 @@ source_url: >-
 source_item_id: 6abb4cdb3391fdf402cd9e7b
 source_title: Their Dining Room Furniture Looked Dated Until 1 DIY Changed the Whole Room
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/update-dated-dining-furniture-one-diy.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Dining room with dated wooden furniture and one chair receiving a simple DIY
+  refresh.
 ---
 Dated dining room furniture can make a whole room feel stuck in another decade. You may not need to replace it. By the end of this article, you'll know how to pick one DIY update that can change how the whole room reads, and how to decide which one fits your space.
 
