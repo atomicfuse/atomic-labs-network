@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6add6754571b7d0a4db2d863
 source_title: This Sleepy Airport Hangar Once Hid Steve McQueen's Legendary Car Collection
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/steve-mcqueen-santa-paula-hangar-car-collection.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 68
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - New Model Showcases
+image_alt: >-
+  A quiet airport hangar holds a classic car, vintage motorcycle, and small
+  plane in warm afternoon light.
 ---
 Steve McQueen's best-known car moments happened in front of cameras. His real car life, according to Slashgear, happened somewhere much quieter: a hangar at Santa Paula Airport, where he kept prized cars, motorcycles and planes while stepping away from Hollywood's spotlight.
 
