@@ -22,7 +22,7 @@ source_title: >-
   Designer Emily Ruff Took This Small, Uninhabited 100-Year-Old Home and Filled
   It With Warmth, Charm, and Character
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/make-your-home-feel-warmer-and-older.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 66
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: >-
+  Warm dining room with floral wallpaper, wood furnishings, brass accents, and
+  soft yellow light
 ---
 Designer Emily Ruff took a small, stripped-back 1926 Seattle home and turned it into a warm, characterful retreat built for hosting, according to Homes & Gardens. The house had been uninhabited and, in the outlet's framing, redundant. Now it's layered, patterned, and welcoming.
 
