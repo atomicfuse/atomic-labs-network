@@ -22,7 +22,7 @@ source_title: >-
   Aaron Rodgers, Steelers totally tank in primetime as Cincinnati Bengals roll
   to 38-18 Scorigami win
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/game-night-living-room-budget-setup.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 78
@@ -40,6 +40,9 @@ reading_time: 5
 topics:
   - Thrifty Decor Finds
   - Budget-Friendly Makeovers
+image_alt: >-
+  Compact living room with affordable seating, warm lighting, snacks, and space
+  for a casual game night.
 ---
 When the Bengals beat the Steelers 38-18 in primetime this week, with Joe Burrow throwing for 409 yards and Ja'Marr Chase catching for 231, per Fox News, a lot of living rooms were full of people watching. Some of those rooms worked well for it. Plenty didn't.
 
