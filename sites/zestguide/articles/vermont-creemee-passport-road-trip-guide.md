@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6acb319b64df7692b392c48c
 source_title: This Vermont Sweet Treat Now Has Its Own Passport
 generated_by: claude
-featuredImage: /assets/images/zestguide-general-article.webp
+featuredImage: /assets/images/vermont-creemee-passport-road-trip-guide.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Quick Weeknight Meals
+image_alt: >-
+  A creemee, passport booklet, and road map sit on a picnic table beside a
+  Vermont countryside road.
 ---
 Vermont's signature soft serve now comes with a passport. Per Afar, the Vermont Creemee passport launched in April 2026 as a 20-page booklet with a digital directory covering 189 places to try the state's creemee. The booklet has pages for collecting stamps, and proceeds support Vermont nonprofits.
 
