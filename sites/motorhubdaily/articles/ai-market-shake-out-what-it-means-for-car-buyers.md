@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae80ac51123ffa4dd38f98b
 source_title: AI Sees A First Shake-Out As Worries Build
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/ai-market-shake-out-what-it-means-for-car-buyers.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Car buyer reviews software features and costs from the driver's seat of a
+  modern vehicle.
 ---
 Forbes reported this week that the AI sector is seeing its first real shake-out, as investors large and small look at rising debt and insufficient revenues and wonder when things are supposed to turn around. That's a finance story, not a car story. But modern cars lean heavily on software, and some of it is marketed as AI. So here is a practical way to judge those features before you pay for them.
 
