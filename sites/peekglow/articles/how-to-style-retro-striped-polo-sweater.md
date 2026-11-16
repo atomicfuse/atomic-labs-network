@@ -22,7 +22,7 @@ source_title: >-
   I’m Calling It: Kristen Bell’s Retro Striped Polo Is the Cool-Girl Sweater
   Trend of Fall 2026
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/how-to-style-retro-striped-polo-sweater.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Style Boosts
+image_alt: Woman in a retro striped polo sweater and jeans on a leafy autumn sidewalk
 ---
 Jeans and a sweater is the easiest outfit there is, and sometimes the most forgettable. A retro striped polo knit is one small swap that makes that formula look planned. Here is how to wear the trend three ways, and what to think about if you want to try it on a budget.
 
