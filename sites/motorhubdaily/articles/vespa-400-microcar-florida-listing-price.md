@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6add6754571b7d0a4db2d861
 source_title: '1959 Piaggio Vespa 400 Is Not a Scooter, but a Rare Microcar'
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/vespa-400-microcar-florida-listing-price.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 80
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - New Model Showcases
+image_alt: >-
+  Restored 1959 Vespa 400 microcar displayed in a softly lit classic-car
+  showroom.
 ---
 The Vespa badge belongs to one of the most recognizable scooters ever made. But Piaggio also put that nameplate on a tiny car, the 1959 Vespa 400, and a restored example is now listed for sale in Florida with a $37,500 asking price, per Autoevolution's report.
 
