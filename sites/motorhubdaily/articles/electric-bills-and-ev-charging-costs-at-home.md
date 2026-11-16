@@ -21,7 +21,7 @@ source_title: >-
   Connecticut is 'getting screwed' year after year by failed leadership,
   gubernatorial nominee argues
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/electric-bills-and-ev-charging-costs-at-home.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Electric vehicle charging beside a suburban home with a visible residential
+  electric meter.
 ---
 A Connecticut governor's race has put electricity prices in the headlines. Republican nominee Ryan Fazio, who is challenging incumbent Ned Lamont, appeared on Fox Business's 'Varney & Co.' to talk about his campaign, per Fox Business. According to the network's description, Fazio focuses on high electric bills, energy policy and repealing the state's data center tax incentive.
 
