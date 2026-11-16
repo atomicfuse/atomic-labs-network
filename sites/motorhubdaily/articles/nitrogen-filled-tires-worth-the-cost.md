@@ -20,7 +20,7 @@ source_url: 'https://www.slashgear.com/2252704/nitrogen-filled-tires-drawbacks/'
 source_item_id: 6aa6085322000eee72257aec
 source_title: 3 Drawbacks Of Using Nitrogen-Filled Tires
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/nitrogen-filled-tires-worth-the-cost.webp
 quality_score: 86
 score_breakdown:
   seo_quality: 80
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Car Care Chronicles
+image_alt: >-
+  A technician inflates a car tire beside a nitrogen cylinder in an automotive
+  service bay.
 ---
 If a shop or dealership has ever offered to fill your tires with nitrogen for an extra fee, you've met one of the more common maintenance upsells. By the end of this article, you'll know what nitrogen is supposed to do, where it falls short for most drivers, and what deserves your attention and money instead.
 
