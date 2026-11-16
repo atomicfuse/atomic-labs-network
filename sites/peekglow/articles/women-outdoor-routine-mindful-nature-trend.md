@@ -23,7 +23,7 @@ source_title: >-
   Are all-female gun hunts the new meditation hack? Or are we just killing for
   wellness?
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/women-outdoor-routine-mindful-nature-trend.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 62
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mindful Routine Ideas
+image_alt: >-
+  Woman in outdoor clothing sits quietly at a forest edge with binoculars and a
+  secured rifle.
 ---
 If you've wondered why hunting keeps showing up in conversations about wellness, you're not alone. By the end of this piece, you'll understand what is drawing women to it, which claims deserve a skeptical eye, and how to bring some of the same slow, focused calm into your own week, no firearm required.
 
