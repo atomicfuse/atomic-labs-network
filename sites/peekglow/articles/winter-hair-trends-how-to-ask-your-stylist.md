@@ -20,7 +20,7 @@ source_url: 'https://www.glamour.com/story/winter-hair-trends-cuts-colors-styles
 source_item_id: 6ad6cb2792f27405dfb9034b
 source_title: The 2026 Winter Hair Trends Are Straight Out of a Romantasy Novel
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/winter-hair-trends-how-to-ask-your-stylist.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Adult woman with glossy auburn waves and bangs receives a finishing touch in a
+  bright salon.
 ---
 Winter is a good time to change your hair, and this season's trends make it easy to pick a direction. Glamour rounded up the biggest winter hair looks for 2026-2027 and describes the season as one of transformation: bold color changes on one side, softer, romantasy-inspired styling on the other. Below are the seven trends it highlights, with practical ways to decide which one suits you and how to bring it up at your next appointment.
 
