@@ -20,7 +20,7 @@ source_url: 'https://www.slashgear.com/2297298/does-apportioned-mean-license-pla
 source_item_id: 6ae6a1d41123ffa4dd38f8cf
 source_title: What Does 'Apportioned' Mean On A License Plate?
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/what-apportioned-license-plate-means.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 74
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - New Model Showcases
+image_alt: >-
+  Semi-truck with a clearly visible license plate marked “Apportioned” on an
+  interstate highway.
 ---
 You've probably seen it on the back of a semi or a rental moving truck: a plate with the word "Apportioned" where you'd expect a state slogan. By the end of this article, you'll know what that word means, why a truck from one state can run legally across dozens of others, and why a fleet's plates often come from a state you wouldn't expect.
 
