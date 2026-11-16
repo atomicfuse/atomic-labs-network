@@ -22,7 +22,7 @@ source_title: >-
   26 Beauty Products Reviewers Say Last Through Storms Both Literal *And*
   Emotional
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/long-wear-makeup-routine-rain-sweat-tears.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Person lightly mists one cheek while testing a finished makeup look at a
+  bathroom vanity.
 ---
 BuzzFeed Shopping recently rounded up 26 beauty products that reviewers say stay put through rain, sweat, tears, and the kind of movie night that ends in a puddle. The full list lives on BuzzFeed, and I can't vouch for the individual picks here. What I can do is give you something that outlasts any single product list: a simple way to test your own makeup, so you know what holds up before you need it to.
 
