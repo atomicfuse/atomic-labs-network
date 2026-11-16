@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ad587b492f27405dfb902bb
 source_title: 20 Home Upgrades That’ll Seriously Improve Your Day-To-Day
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/small-home-upgrades-for-everyday-annoyances.webp
 quality_score: 86
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Home Refresh Finds
+image_alt: Rental living room made cozier by a small warm floor lamp beside a sofa
 ---
 BuzzFeed Shopping recently rounded up 20 home upgrades it pitches as practical ways to make everyday life easier, more comfortable, or more efficient. Its teaser singles out one idea in particular: ambient lighting. The full list isn't reproduced here, so this piece doesn't try to retell it. Instead, it borrows the roundup's best idea: the most useful upgrades fix a specific daily annoyance rather than just look nice.
 
