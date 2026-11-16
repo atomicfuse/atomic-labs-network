@@ -19,7 +19,7 @@ source_url: >-
 source_item_id: 6ae737d51123ffa4dd38f930
 source_title: How Non-Dairy Creamers Doubled Coffee’s Calories For Many Americans
 generated_by: claude
-featuredImage: /assets/images/cozysupper-general-article.webp
+featuredImage: /assets/images/coffee-creamer-calories-simple-swaps.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 68
@@ -39,6 +39,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Homemade Dessert Delights
+image_alt: Coffee creamer swaps on a kitchen counter
 ---
 Your morning cup may be carrying more calories than you think, and a few small changes can bring them back down without giving up the cozy part of the ritual. Here's what a new study found, how to figure out what's in your own mug, and some simple swaps.
 
