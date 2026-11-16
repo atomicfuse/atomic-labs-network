@@ -19,7 +19,7 @@ source_url: 'https://www.foxbusiness.com/video/6407685063112'
 source_item_id: 6ae80ac51123ffa4dd38f98e
 source_title: 'Cruise lines showing ‘excellent results,’ chief market strategist says'
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/cruise-industry-results-lessons-for-car-buyers.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 68
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Car shopper compares costs with keys, calculator, checklist, and a vehicle
+  visible through the window.
 ---
 A headline about cruise lines doesn't belong on a car site, but the question underneath it does: when you spend on something big and optional, how do you tell whether it's worth it? Here is a simple way to use that thinking on your next vehicle, with a clear checklist at the end.
 
