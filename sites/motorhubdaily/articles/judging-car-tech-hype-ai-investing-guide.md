@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ae2c4c68bd58874456902cf
 source_title: What Experts Say You Need To Know About AI Investment
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/judging-car-tech-hype-ai-investing-guide.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Driver studies a car dashboard and phone with a simple market graph on a clear
+  road.
 ---
 Every new car seems to come with an AI pitch: smarter driver assistance, smarter navigation, smarter everything. The same excitement shows up in the stock market. If you're weighing whether to put money into AI, or just whether to pay extra for an AI-branded feature, the same habit helps: separate what's proven from what's promised.
 
