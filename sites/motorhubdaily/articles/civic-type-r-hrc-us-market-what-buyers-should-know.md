@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ae6a1d41123ffa4dd38f8d2
 source_title: Honda Confirms Wild Civic Type R for the U.S. Market
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/civic-type-r-hrc-us-market-what-buyers-should-know.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - New Model Showcases
+image_alt: >-
+  White performance hatchback parked beside a race circuit under late-afternoon
+  light.
 ---
 Honda is bringing a track-inspired Civic Type R HRC to the U.S. as a production car, per Autoevolution's report. If you've been wondering whether it's worth waiting for, saving for, or skipping, this guide lays out what has been reported so far and the questions to ask before you get in line.
 
