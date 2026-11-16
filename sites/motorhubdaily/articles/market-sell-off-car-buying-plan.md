@@ -19,7 +19,7 @@ source_url: 'https://www.foxbusiness.com/video/6407673218112'
 source_item_id: 6ae80ac51123ffa4dd38f998
 source_title: 'Charles Payne: I''m calling this a ''brutal fall day in the neighborhood'''
 generated_by: claude
-featuredImage: /assets/images/motorhubdaily-general-article.webp
+featuredImage: /assets/images/market-sell-off-car-buying-plan.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ownership Cost Analysis
+image_alt: >-
+  Budget papers and car keys sit beside a calculator, with a sedan parked in the
+  background.
 ---
 Fox Business host Charles Payne called a recent session a "brutal fall day in the neighborhood," according to a Fox Business segment on the sell-off, sector performances and market movers. The segment's description doesn't spell out the numbers, and neither will this article. What it does give us is a useful prompt: when markets get rough and your savings look smaller on paper, how should that change what you do about your car?
 
