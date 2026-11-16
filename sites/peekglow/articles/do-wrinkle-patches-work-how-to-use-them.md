@@ -20,7 +20,7 @@ source_url: 'https://www.glamour.com/story/best-wrinkle-patches'
 source_item_id: 6acd90a4da6dc6464d26d4b5
 source_title: 7 Best Wrinkle Patches to Smooth Fine Lines in 2026
 generated_by: claude
-featuredImage: /assets/images/peekglow-general-article.webp
+featuredImage: /assets/images/do-wrinkle-patches-work-how-to-use-them.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Everyday Style Boosts
+image_alt: >-
+  Woman applying a translucent wrinkle patch to her forehead during a relaxed
+  skincare routine.
 ---
 Wrinkle patches are having a moment, and it's easy to see why. They're low-cost, they don't involve needles, and they feel like a small ritual: stick one on, relax, peel it off. Before you add them to your cart, here's what to expect from them, how to use them well, and where they belong in a routine that already works.
 
