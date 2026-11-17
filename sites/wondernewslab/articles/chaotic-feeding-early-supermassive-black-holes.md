@@ -21,7 +21,7 @@ source_url: 'https://phys.org/news/2026-11-early-black-holes-grown-productive.ht
 source_item_id: 6afbe40555a76e575e6265b8
 source_title: Early black holes may have grown through productive chaos
 generated_by: claude
-featuredImage: /assets/images/wondernewslab-general-article.webp
+featuredImage: /assets/images/chaotic-feeding-early-supermassive-black-holes.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Everyday Science Mysteries
+image_alt: >-
+  AI-generated illustration of a black hole fed by turbulent gas streams from
+  multiple directions.
 ---
 When the universe was less than 700 million years old, the quasar J0313-1806 was already powered by a supermassive black hole of about 3 billion times the mass of the sun, per Phys. That is a baffling amount of weight for so little time. By the end of this article, you'll understand why it's a puzzle, and how a new study says disorder in the feeding process could be the answer.
 
