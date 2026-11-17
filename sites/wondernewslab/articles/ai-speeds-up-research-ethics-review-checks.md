@@ -21,7 +21,7 @@ source_url: 'https://phys.org/news/2026-11-ai-ethics.html'
 source_item_id: 6afbe40555a76e575e6265b9
 source_title: AI could help speed up research ethics approvals
 generated_by: claude
-featuredImage: /assets/images/wondernewslab-general-article.webp
+featuredImage: /assets/images/ai-speeds-up-research-ethics-review-checks.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 80
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Future of Commerce
+image_alt: >-
+  AI-generated editorial illustration of a human reviewing ethics papers beside
+  an AI-assisted checklist on a laptop.
 ---
 If you have ever waited weeks for a research project to clear ethics review, you know the delay is rarely about hard moral questions. Often it is paperwork: missing sections, inconsistent details, forms that don't match the standard they're meant to meet. A new study suggests AI could take much of that burden off people's desks, and it also shows where the line should stay firmly in human hands.
 
