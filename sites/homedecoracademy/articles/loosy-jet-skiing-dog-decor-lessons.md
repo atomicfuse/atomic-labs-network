@@ -22,7 +22,7 @@ source_title: >-
   Dog riding personal watercraft on ‘GTA VI' may have been inspired by this
   viral South Florida pup
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/loosy-jet-skiing-dog-decor-lessons.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ reading_time: 4
 topics:
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Small dog relaxing in a bright South Florida living room with playful
+  jet-ski-inspired decor.
 ---
 A South Florida dog is getting attention this week, and it has something to teach you about decorating your home.
 
