@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6af2abdc444c59acb194e669
 source_title: Overlooked Spots to Hang Art That Instantly Add Character to Your Home
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/overlooked-spots-to-hang-art-for-instant-character.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ topics:
   - DIY Decor Projects
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Bright home interior displaying framed art on a kitchen shelf, above a
+  doorway, and on a bookshelf.
 ---
 Most of us hang art in the same places: above the sofa, over the bed, along the hallway. It works, but it can leave the rest of your home feeling a little flat.
 
