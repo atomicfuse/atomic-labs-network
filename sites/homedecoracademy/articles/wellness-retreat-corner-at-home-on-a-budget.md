@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6affd884444c59acb194ee9c
 source_title: '5 Women’s Health Retreats For Hormones, Fertility And Perimenopause'
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/wellness-retreat-corner-at-home-on-a-budget.webp
 quality_score: 88
 score_breakdown:
   seo_quality: 80
@@ -39,6 +39,9 @@ reading_time: 4
 topics:
   - Thrifty Decor Finds
   - Budget-Friendly Makeovers
+image_alt: >-
+  A bright home corner with an armchair, yoga mat, tea, journal, plant, and
+  folded throw for quiet relaxation.
 ---
 A recent roundup from WomenDevision, originally reported by Yahoo, looked at women's health retreats focused on hormones, fertility, and perimenopause. The list included RAKxa Integrative Wellness near Bangkok, Ananda in the Himalayas in Rishikesh, SHA Mexico in Cancun, and Chiva-Som in Hua Hin, Thailand. Per the article, these programs combine diagnostics, Eastern medicine, and restorative therapies, and women are seeking them out because conventional care can feel fragmented.
 
