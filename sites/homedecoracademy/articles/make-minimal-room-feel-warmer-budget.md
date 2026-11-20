@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6afbe65d444c59acb194ebf8
 source_title: '5 Ways Warmth Has Shaped Interior Design in 2026, According to Experts'
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/make-minimal-room-feel-warmer-budget.webp
 quality_score: 87
 score_breakdown:
   seo_quality: 80
@@ -41,6 +41,9 @@ topics:
   - Everyday Style Lessons
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Bright minimalist living room warmed with wood, layered textiles, a ceramic
+  lamp, and soft neutral furnishings.
 ---
 If your home leans cool, stark, or a little too neutral, you don't need a renovation to change how it feels. You need a few materials, some layers, and a plan.
 
