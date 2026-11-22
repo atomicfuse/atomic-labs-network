@@ -1,11 +1,9 @@
 ---
-title: '6 Car Features Born From Accidents and Near-Misses, Ranked'
-description: >-
-  We set out to list 24 accidental car inventions and found six that hold up.
-  Here they are, ranked by how much luck and happenstance really shaped them.
+title: 6 Car Features Born From Accidents and Near-Misses, Ranked
+description: We set out to list 24 accidental car inventions and found six that hold up. Here they are, ranked by how much luck and happenstance really shaped them.
 type: listicle
 status: published
-publishDate: '2026-11-22T15:38:46.526Z'
+publishDate: 2026-11-22T15:38:46.526Z
 author: Rafael Monteiro
 author_id: rafael-monteiro
 tags:
@@ -15,7 +13,7 @@ tags:
   - Car Safety
   - Car Tech
 slug: car-safety-features-and-the-stories-behind-them
-reviewer_notes: ''
+reviewer_notes: ""
 featuredImage: /assets/images/car-safety-features-and-the-stories-behind-them.webp
 generated_by: claude-dedicated
 quality_score: 73
@@ -25,16 +23,16 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 68
   keyword_relevance: 52
-quality_note: >-
-  Engaging, well-structured listicle with an honest, conversational voice and
-  good H2 use, but the title runs a little long and the description is thin on
-  keywords. Topic coverage skews toward car history and safety, with little on
-  electric cars, reviews, or concept cars. Several claims are hedged, but a few
-  are shaky: Kearns's wedding-night cork story is loosely sourced, Kevlar and
-  cat's eyes are only tangentially automotive, and the verdict's reference to
-  '18 other entries' is awkward given the framing.
+quality_note: "Engaging, well-structured listicle with an honest, conversational voice and good H2 use, but the title runs a little long and the description is thin on keywords. Topic coverage skews toward car history and safety, with little on electric cars, reviews, or concept cars. Several claims are hedged, but a few are shaky: Kearns's wedding-night cork story is loosely sourced, Kevlar and cat's eyes are only tangentially automotive, and the verdict's reference to '18 other entries' is awkward given the framing."
 reading_time: 4
 image_alt: Six automotive components arranged by size on a vintage engineering workbench
+scripts:
+  - id: 4c72fa6d-f888-4a1c-984b-db54eba25c61
+    name: swipe flow honda
+    position: before-content
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116--atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="Cars"></div>
 ---
 The request was 24 car features invented by accident. The honest count is six. Most of the usual suspects, including disc brakes, ABS, GPS, turbochargers, head-up displays and the three-point seat belt, came out of deliberate engineering, military research or racing, not a happy mistake. Calling them flukes makes for a better pub story and worse history.
 

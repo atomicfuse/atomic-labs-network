@@ -112,8 +112,7 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Monday
-groups:
-  - ncg
+groups: []
 layout:
   hero:
     enabled: true
