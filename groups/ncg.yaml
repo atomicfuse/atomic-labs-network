@@ -108,9 +108,7 @@ ads_config:
         - article
       exclude_pages: []
 ads_txt:
-  - "# NGC Digital Websites #"
-  - ownerdomain=ngcdigital.io
-  - "#outbrain-ngc"
+  - ownerdomain=atomiclabs.io
   - start.io, 174400975, RESELLER
   - outbrain.com, 00afa7596d58b5d5c5588aeaec8fde9ca6, DIRECT
   - openx.com, 540393169, RESELLER, 6a698e2ec38604c6
@@ -121,5 +119,6 @@ ads_txt:
   - smartadserver.com, 3820, RESELLER
   - indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc
   - pubmatic.com, 160065, RESELLER, 5d62403b186f2ace
+  - google.com, pub-8316809043439376, DIRECT, f08c47fec0942fa0
 theme: {}
 legal: {}
