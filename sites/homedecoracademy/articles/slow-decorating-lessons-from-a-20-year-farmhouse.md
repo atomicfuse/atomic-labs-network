@@ -22,7 +22,7 @@ source_title: >-
   Inside an 1850 Pennsylvania Farmhouse a Designer and His Childhood Friend
   Spent 20 Years Perfecting
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/slow-decorating-lessons-from-a-20-year-farmhouse.webp
 quality_score: 87
 score_breakdown:
   seo_quality: 80
@@ -42,6 +42,9 @@ topics:
   - DIY Decor Projects
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Bright stone farmhouse dining room with antique furniture, layered textiles,
+  and natural light.
 ---
 Most of us want the room finished by the weekend. A recent Veranda profile of an 1850 stone farmhouse in Lancaster County, Pennsylvania, makes the opposite case. Designer Richard Keith Langham and his lifelong friend Follin Smith spent 20 years transforming it, and the result is a home that feels collected, storied, and personal.
 
