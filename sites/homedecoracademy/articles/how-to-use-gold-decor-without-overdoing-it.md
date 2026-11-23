@@ -23,7 +23,7 @@ source_title: >-
   Canadian PM Ruthlessly Trolls Trump With A ‘Tough’ Crack About His Biggest
   Obsession
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/how-to-use-gold-decor-without-overdoing-it.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 72
@@ -41,6 +41,9 @@ reading_time: 3
 topics:
   - Thrifty Decor Finds
   - Budget-Friendly Makeovers
+image_alt: >-
+  Small bright living room with restrained gold accents, including a brass lamp,
+  framed mirror, and decorative bowl.
 ---
 This week, Canadian Prime Minister Mark Carney made jokes about Donald Trump's gold-heavy Oval Office makeover at a Parliamentary Press Gallery dinner, per Yahoo. Impersonators joined in, poking fun at the gold decor along with Trump's jabs at Canada.
 
