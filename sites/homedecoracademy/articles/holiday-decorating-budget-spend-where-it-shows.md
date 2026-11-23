@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6b03d665444c59acb194f0da
 source_title: 'Iowa Politics with Jeff Stein -- Mon. Nov. 23, 2026'
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/holiday-decorating-budget-spend-where-it-shows.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ reading_time: 4
 topics:
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Bright modest living room with a simple holiday tree and focused festive
+  accents.
 ---
 Holiday season is the time of year most of us spend a little more than we planned. Jeff Stein, in his Iowa Politics column for Civicmedia on Nov. 23, pointed to Thanksgiving travel, Halloween spending, and Christmas retail forecasts as signs that households keep making choices about where their money goes, even when prices feel high.
 
