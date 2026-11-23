@@ -22,7 +22,7 @@ source_title: >-
   5 Decorating Mistakes Designers Notice in Your Home Instantly (Yes, Even Your
   Books!)
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/styling-mistakes-that-make-a-room-feel-generic.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 70
@@ -41,6 +41,9 @@ topics:
   - Everyday Style Lessons
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Bright living room with layered pillows, scaled artwork, and thoughtfully
+  styled bookshelves.
 ---
 Your room might be one or two small tweaks away from looking finished. A recent HomeDecor piece, originally reported by Yahoo, lists five common decorating mistakes that designers reportedly notice right away, from limp throw pillows to backwards books. The good news: each one is cheap and quick to fix.
 
