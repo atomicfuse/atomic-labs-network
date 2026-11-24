@@ -1,0 +1,198 @@
+domain: gamedropwire.com
+active: true
+author: James Sullivan
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Upcoming Game Spotlight
+    - Hands-On Previews
+    - This Week's Releases
+    - What To Play
+  theme: >-
+    A mainstream gaming site that helps readers keep up with new releases and
+    decide what to play next. Lead with upcoming games, hands-on reviews, and
+    recommendations for PC, console, and handheld players.
+
+
+    Tagline · What’s dropping. What’s worth playing.
+  topics_v2:
+    - name: Upcoming Game Spotlight
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7d
+          - 6a00793f1104bbff809b7fa7
+          - 6a00793f1104bbff809b7fad
+        tag_ids:
+          - 6a14488116f23264031d7fed
+          - 6a14263916f23264031d7eb8
+          - 6a87f66563a7e9d3e6ee455e
+          - 6a87f40c7453cef62ce893af
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Hands-On Previews
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7d
+          - 6a00793f1104bbff809b7fad
+          - 6a00793f1104bbff809b7fa7
+        tag_ids:
+          - 6a14488116f23264031d7fed
+          - 6a14263916f23264031d7eb8
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: This Week's Releases
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7d
+          - 6a00793f1104bbff809b7fad
+          - 6a00793f1104bbff809b7fa7
+        tag_ids:
+          - 6a14263916f23264031d7eb8
+          - 6a14488116f23264031d7fed
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: What To Play
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7d
+          - 6a00793f1104bbff809b7fa7
+          - 6a00793f1104bbff809b7fad
+        tag_ids:
+          - 6a14488116f23264031d7fed
+          - 6a14263916f23264031d7eb8
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Content Guidelines
+    - Section	What to cover	Example headline
+    - New Releases	Release calendars, launch dates, platforms, and subscription
+      availability	New Games Coming Out This Month
+    - Reviews	Hands-on verdicts that explain how a game plays and who will enjoy
+      it	Is This Co-op Adventure Worth Playing With Friends?
+    - What to Play	Curated picks by genre, platform, budget, or time
+      commitment	7 Short Games You Can Finish in a Weekend
+    - Gaming News	Announcements, delays, and updates that matter to players	What
+      the Latest Update Adds for Returning Players
+    - "- Put the player’s decision first. For release coverage, give the date
+      and supported platforms up front. For reviews, lead with the verdict and
+      who the game is best for."
+    - "- Label the coverage clearly. Use Review for hands-on play, Preview for
+      early impressions, and First Look for coverage based on trailers or
+      announcements. Disclose publisher-provided review copies."
+    - "- Check availability before publishing. Verify dates, prices, editions,
+      and subscription access against publisher announcements or official
+      storefronts. Specify the platform or region when it matters."
+  image_guidelines:
+    - Image Guidelines
+    - "- Show the game. Use approved publisher assets or original gameplay
+      captures where permitted. For reviews, choose a screenshot that shows what
+      players spend time doing."
+    - "- Identify footage accurately. Distinguish gameplay screenshots, trailer
+      stills, and promotional artwork in captions. Use imagery from the reviewed
+      platform when discussing graphics or performance."
+    - "- Keep thumbnails readable. Use 16:9 landscape heroes with one clear
+      focal point and room for mobile crops. Choose spoiler-free scenes and keep
+      headline text off the image."
+    - "- Credit the source and describe the scene. Follow the publisher’s
+      asset-use terms and add specific alt text, such as “Two players crossing a
+      flooded street in co-op mode.”"
+  vertical: Technology & Computing
+  vertical_id: 6a00793d1104bbff809b7c77
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: GameDropWire.com
+site_tagline: null
+theme:
+  base: forest_night
+  colors:
+    primary: "#0a1410"
+    accent: "#ca8a04"
+    background: "#0f1d16"
+    secondary: "#0f1d16"
+    text: "#e4e9e2"
+    muted: "#a0afa3"
+    surface: "#162a1f"
+    border: "#1c3024"
+    heading: "#e4e9e2"
+    link: "#86b08a"
+    link_hover: "#facc15"
+    nav_link: "#e4e9e2"
+    nav_link_hover: "#facc15"
+    footer_bg: "#06100a"
+    must_reads_bg: "#162a1f"
+    hero_title: "#e4e9e2"
+    must_reads_title: "#e4e9e2"
+    article_hero_title: "#e4e9e2"
+    article_hero_meta: "#a0afa3"
+    feed_title: "#e4e9e2"
+    feed_desc: "#c8d2c5"
+    feed_date: "#a0afa3"
+    prose_heading: "#e4e9e2"
+    prose_body: "#c8d2c5"
+    category_header_text: "#e4e9e2"
+    subscribe_heading: "#0f1d16"
+    footer_text: "#a0afa3"
+    footer_heading: "#e4e9e2"
+    footer_link: "#a0afa3"
+    footer_link_hover: "#facc15"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Lora
+    body: Source Sans 3
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
