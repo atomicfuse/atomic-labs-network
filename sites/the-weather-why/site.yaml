@@ -1,0 +1,186 @@
+domain: theweatherwhy.com
+active: true
+author: David Long
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: friendly, informative
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Forecast Explained
+    - Atmospheric Wonders
+    - Climate Conundrums
+    - Storm Science
+  theme: A mainstream weather site that explains why the weather does what it
+    does. Focus on questions people ask when the forecast changes, the air feels
+    different, or a storm rolls in.
+  topics_v2:
+    - name: Forecast Explained
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e15
+          - 6a0079401104bbff809b8033
+          - 6a00793e1104bbff809b7e1b
+        tag_ids:
+          - 6a0bf43616f23264031d78de
+          - 6ace72dada6dc6464d26d5f5
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Atmospheric Wonders
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e15
+        tag_ids:
+          - 6ace72dada6dc6464d26d5f5
+          - 6a0bf43616f23264031d78de
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Climate Conundrums
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e15
+          - 6a00793e1104bbff809b7e1b
+          - 6a0079401104bbff809b8033
+        tag_ids:
+          - 6a0bf43616f23264031d78de
+          - 6ac7295cce7701ccb2411efa
+          - 6ace72dada6dc6464d26d5f5
+          - 6af753ab55a76e575e626291
+          - 6a0b1f14a53fcab94b3649c5
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Storm Science
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e15
+          - 6a0079401104bbff809b8033
+          - 6a00793e1104bbff809b7e23
+        tag_ids:
+          - 6ace72dada6dc6464d26d5f5
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Tagline · Why the weather does what it does.
+    - Content Guidelines
+    - Section	What to cover	Example headline
+    - Everyday Weather	Rain, wind, fog, humidity, and temperature	Why Does It
+      Feel Colder When It’s Windy?
+    - Storms Explained	Thunderstorms, lightning, hail, and heavy rain	Why Does
+      It Hail in the Summer?
+    - The Forecast	Forecast changes and common weather terms	Why Did the
+      Forecast Change Overnight?
+    - Seasonal Weather	Cold snaps, heat waves, frost, and seasonal patterns	Why
+      Can It Frost When the Forecast Says 36°F?
+    - "- Answer the question up front. Give the short answer in the first
+      paragraph, then explain what causes it with a familiar example."
+    - "- Write for a general audience. Define technical terms in context and use
+      specific headlines readers can recognize from their own experience."
+    - "- Use timely weather to tell evergreen stories. A stretch of foggy
+      mornings can prompt an explainer on how fog forms. When covering an active
+      weather event, verify the location, timing, and conditions with the
+      relevant official weather service."
+  image_guidelines:
+    - Show the condition clearly. Use low fog along a tree line, hailstones
+      beside a ruler, frost on a windshield, or wind bending tall grass. Pick a
+      scene that helps explain the story.
+    - Use realistic editorial photography. Favor natural color, one clear focal
+      point, and a 16:9 landscape crop with the subject near the center for
+      mobile.
+    - Use diagrams when the cause is invisible. A simple diagram can show how
+      hills channel wind or how cold air settles in a valley.
+    - Caption images accurately. Identify file photos and illustrations. For a
+      specific storm or weather event, verify where and when the photo was
+      taken. Include required credits and descriptive alt text.
+  vertical: Science
+  vertical_id: 6a00793d1104bbff809b7c68
+  review_percentage: 5
+  schedule:
+    articles_per_day: 5
+    preferred_days:
+      - Monday
+      - Friday
+    preferred_time: 10:00
+groups: []
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: TheWeatherWhy.com
+site_tagline: null
+theme:
+  base: mint_finance
+  colors:
+    primary: "#064e3b"
+    accent: "#047857"
+    background: "#ffffff"
+    secondary: "#064e3b"
+    text: "#022c22"
+    muted: "#6b7280"
+    surface: "#ecfdf5"
+    border: "#d1fae5"
+    heading: "#022c22"
+    link: "#064e3b"
+    link_hover: "#047857"
+    nav_link: "#ffffff"
+    nav_link_hover: "#6ee7b7"
+    footer_bg: "#022c22"
+    must_reads_bg: "#022c22"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#86efac"
+    feed_title: "#022c22"
+    feed_desc: "#064e3b"
+    feed_date: "#6b7280"
+    prose_heading: "#022c22"
+    prose_body: "#064e3b"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#ffffff"
+    footer_text: "#86efac"
+    footer_heading: "#ffffff"
+    footer_link: "#86efac"
+    footer_link_hover: "#6ee7b7"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: IBM Plex Sans
+    body: IBM Plex Sans
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
