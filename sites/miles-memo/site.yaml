@@ -1,0 +1,200 @@
+domain: milesmemo.com
+active: true
+author: James Price
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Weekend Itinerary Ideas
+    - Scenic Drive Spotlights
+    - Destination Decider Guides
+    - Travel Planning Checklists
+  theme: A mainstream travel site for people planning their next getaway. Focus on
+    weekend itineraries, scenic road trips, and practical destination guides
+    that help readers decide where to go, how long to stay, and what to fit into
+    a trip.
+  topics_v2:
+    - name: Weekend Itinerary Ideas
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f8d
+          - 6a00793f1104bbff809b7fa5
+          - 6a00793f1104bbff809b7f93
+          - 6a00793d1104bbff809b7c7a
+        tag_ids:
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a3c388dcbbe345bde11678c
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab21
+          - 6aaafda6ee95cf186f57c49f
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Scenic Drive Spotlights
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f93
+          - 6a00793e1104bbff809b7ccb
+          - 6a00793f1104bbff809b7f83
+        tag_ids:
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a1844f8454e8b9490eacac7
+          - 6a0b1eeea53fcab94b3649a8
+          - 6a15310816f23264031d8209
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Destination Decider Guides
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7f8d
+          - 6a00793f1104bbff809b7f93
+          - 6a00793f1104bbff809b7fa5
+        tag_ids:
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a3c388dcbbe345bde11678c
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a0b1eeea53fcab94b3649a8
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Travel Planning Checklists
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7f93
+          - 6a00793f1104bbff809b7fa5
+        tag_ids:
+          - 6a1831e00fc9210eaf31ab2d
+          - 6aaafda6ee95cf186f57c49f
+          - 6a3c388dcbbe345bde11678c
+          - 6a0b38f8ac596b621e9356b7
+          - 6aaafb33ee95cf186f57c48f
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+  seo_keywords_focus: []
+  content_guidelines:
+    - ontent Guidelines
+    - Section	What to cover	Example headline
+    - Weekend Trips	Two- and three-day itineraries with a realistic pace	A
+      First-Timer’s Weekend in Savannah
+    - Road Trips	Scenic routes, worthwhile stops, and driving times	5 Stops
+      Worth Making on a Maine Coast Road Trip
+    - Destination Guides	Where to stay, how to get around, and what to
+      prioritize	Where to Stay in Chicago Without Renting a Car
+    - Travel Tips	Packing, booking, and getting around with less hassle	What to
+      Pack for a Weekend With Just a Carry-On
+    - "- Start with the planning details. Tell readers how much time they need,
+      whether a car helps, and who the trip suits."
+    - "- Build itineraries people can follow. Group nearby stops, allow time for
+      travel and meals, and give readers an option if they have less time."
+    - "- Make the advice specific. Explain why a neighborhood makes a good base
+      or why a stop is worth the detour. Verify seasonal closures, hours, and
+      reservation requirements before publishing. Mention firsthand experience
+      where it informs the recommendation."
+  image_guidelines:
+    - Image Guidelines
+    - "- Show the actual place. Use recognizable streets, landscapes, landmarks,
+      or stops featured in the guide. Verify the location and name it in the
+      caption."
+    - "- Match the photo to the reader’s decision. Show the street atmosphere
+      for a neighborhood guide, the view from a pullout for a road trip, or the
+      terrain for an outdoor stop."
+    - "- Keep images natural and easy to crop. Use true-to-life colors and 16:9
+      landscape heroes with a clear focal point near the center for mobile."
+    - "- Use owned or licensed photos. Include required credits and descriptive
+      alt text. Match the season when it affects what readers can expect to
+      see."
+  vertical: Weekend Itinerary Ideas
+  vertical_id: null
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Monday
+      - Friday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: MilesMemo.com
+site_tagline: null
+theme:
+  base: forest_night
+  colors:
+    primary: "#0a1410"
+    accent: "#ca8a04"
+    background: "#0f1d16"
+    secondary: "#0f1d16"
+    text: "#e4e9e2"
+    muted: "#a0afa3"
+    surface: "#162a1f"
+    border: "#1c3024"
+    heading: "#e4e9e2"
+    link: "#86b08a"
+    link_hover: "#facc15"
+    nav_link: "#e4e9e2"
+    nav_link_hover: "#facc15"
+    footer_bg: "#06100a"
+    must_reads_bg: "#162a1f"
+    hero_title: "#e4e9e2"
+    must_reads_title: "#e4e9e2"
+    article_hero_title: "#e4e9e2"
+    article_hero_meta: "#a0afa3"
+    feed_title: "#e4e9e2"
+    feed_desc: "#c8d2c5"
+    feed_date: "#a0afa3"
+    prose_heading: "#e4e9e2"
+    prose_body: "#c8d2c5"
+    category_header_text: "#e4e9e2"
+    subscribe_heading: "#0f1d16"
+    footer_text: "#a0afa3"
+    footer_heading: "#e4e9e2"
+    footer_link: "#a0afa3"
+    footer_link_hover: "#facc15"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Lora
+    body: Source Sans 3
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
