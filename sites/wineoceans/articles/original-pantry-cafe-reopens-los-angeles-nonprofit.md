@@ -1,11 +1,9 @@
 ---
 title: Original Pantry Cafe Reopens Nov. 19 to Fund Homeless Aid
-description: >-
-  Los Angeles' century-old Original Pantry Cafe reopens Nov. 19 as a nonprofit,
-  with profits funding Hope the Mission. Here's what to know before you go.
+description: Los Angeles' century-old Original Pantry Cafe reopens Nov. 19 as a nonprofit, with profits funding Hope the Mission. Here's what to know before you go.
 type: standard
-status: review
-publishDate: '2026-11-01T07:02:13.927Z'
+status: published
+publishDate: 2026-11-01T07:02:13.927Z
 author: Alejandra Ruiz
 author_id: alejandra-ruiz
 tags:
@@ -15,14 +13,8 @@ tags:
   - Restaurant reopening
   - Homelessness services
 slug: original-pantry-cafe-reopens-los-angeles-nonprofit
-reviewer_notes: >-
-  The article is well structured with clear H2 headings and a good meta
-  description, but it covers a restaurant reopening with no connection to wine
-  (the 'Wine news' tag is misleading), it is only 518 words against an 800-1200
-  target, and it includes some unsupported claims such as the labor-dispute
-  closure and the idea that most closed restaurants never return.
-source_url: >-
-  https://www.foxbusiness.com/lifestyle/iconic-diner-closed-after-100-years-business-makes-comeback
+reviewer_notes: Approved via review queue.
+source_url: https://www.foxbusiness.com/lifestyle/iconic-diner-closed-after-100-years-business-makes-comeback
 source_item_id: 6ae005a7571b7d0a4db2da38
 source_title: Iconic diner that closed after 100 years in business makes comeback
 generated_by: claude
@@ -34,18 +26,11 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 72
   keyword_relevance: 8
-quality_note: >-
-  The article is well structured with clear H2 headings and a good meta
-  description, but it covers a restaurant reopening with no connection to wine
-  (the 'Wine news' tag is misleading), it is only 518 words against an 800-1200
-  target, and it includes some unsupported claims such as the labor-dispute
-  closure and the idea that most closed restaurants never return.
+quality_note: The article is well structured with clear H2 headings and a good meta description, but it covers a restaurant reopening with no connection to wine (the 'Wine news' tag is misleading), it is only 518 words against an 800-1200 target, and it includes some unsupported claims such as the labor-dispute closure and the idea that most closed restaurants never return.
 reading_time: 3
 topics:
   - Wine for beginners
-image_alt: >-
-  A sunlit red-and-cream corner diner reopens with staff preparing the warm
-  interior.
+image_alt: A sunlit red-and-cream corner diner reopens with staff preparing the warm interior.
 ---
 Planning a meal in downtown Los Angeles this fall? The Original Pantry Cafe, the century-old diner that closed after 100 years in business, is set to reopen Nov. 19, per Fox Business. Sit down for a plate of classic diner food and your bill will help fund homelessness services. Here is what has been reported, and how to think about it as a diner.
 

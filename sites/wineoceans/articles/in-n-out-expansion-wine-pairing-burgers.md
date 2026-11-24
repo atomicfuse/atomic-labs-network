@@ -1,11 +1,9 @@
 ---
-title: 'In-N-Out Eyes Arkansas, Mississippi and Oklahoma: What to Pair'
-description: >-
-  In-N-Out's CEO named three possible new states. Here's how to pair wine with a
-  burger-and-fries meal, whenever one of those new locations opens near you.
+title: "In-N-Out Eyes Arkansas, Mississippi and Oklahoma: What to Pair"
+description: In-N-Out's CEO named three possible new states. Here's how to pair wine with a burger-and-fries meal, whenever one of those new locations opens near you.
 type: how-to
-status: review
-publishDate: '2026-11-01T07:01:42.946Z'
+status: published
+publishDate: 2026-11-01T07:01:42.946Z
 author: Alejandra Ruiz
 author_id: alejandra-ruiz
 tags:
@@ -14,15 +12,8 @@ tags:
   - In-N-Out
   - food and wine
 slug: in-n-out-expansion-wine-pairing-burgers
-reviewer_notes: >-
-  A well-structured, practical wine-pairing guide with clean H2/H3 headings and
-  a relevant tie-in to the news, but the title is a bit long and its wording is
-  awkward, the article is about 654 words (under the 800 target), the audience
-  and tone are undefined, and the expansion claims (Tennessee last year,
-  Washington in August 2025) rest on a single cited source and can't be
-  verified.
-source_url: >-
-  https://www.foxnews.com/food-drink/head-in-n-out-burger-chain-addresses-expansion-3-more-states
+reviewer_notes: Approved via review queue.
+source_url: https://www.foxnews.com/food-drink/head-in-n-out-burger-chain-addresses-expansion-3-more-states
 source_item_id: 6ae68105f299e0a830f39481
 source_title: Head of In-N-Out burger chain addresses expansion to 3 more states
 generated_by: claude
@@ -34,17 +25,11 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 72
   keyword_relevance: 82
-quality_note: >-
-  A well-structured, practical wine-pairing guide with clean H2/H3 headings and
-  a relevant tie-in to the news, but the title is a bit long and its wording is
-  awkward, the article is about 654 words (under the 800 target), the audience
-  and tone are undefined, and the expansion claims (Tennessee last year,
-  Washington in August 2025) rest on a single cited source and can't be
-  verified.
+quality_note: A well-structured, practical wine-pairing guide with clean H2/H3 headings and a relevant tie-in to the news, but the title is a bit long and its wording is awkward, the article is about 654 words (under the 800 target), the audience and tone are undefined, and the expansion claims (Tennessee last year, Washington in August 2025) rest on a single cited source and can't be verified.
 reading_time: 3
 topics:
   - Wine news
-image_alt: 'Cheeseburger, fries, and a glass of red wine on a casual fast-food counter'
+image_alt: Cheeseburger, fries, and a glass of red wine on a casual fast-food counter
 ---
 In-N-Out CEO Lynsi Snyder has named Arkansas, Mississippi and Oklahoma as possible future states for the California burger chain, per Fox News, while stressing a cautious approach to growth. No dates are attached, and nothing is confirmed. But if a location does land near you, you will want to know what to pour with the meal. This guide gives you a simple way to pair wine with a burger, fries and a shake-adjacent appetite.
 

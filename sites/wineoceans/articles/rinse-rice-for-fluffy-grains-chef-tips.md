@@ -1,11 +1,9 @@
 ---
-title: 'Rinse Your Rice: The Chef-Backed Fix for Fluffy, Separate Grains'
-description: >-
-  Chefs say skipping the rinse is the common rice mistake. Learn which rice to
-  rinse, soak, or leave alone, and how to rest and fluff it for separate grains.
+title: "Rinse Your Rice: The Chef-Backed Fix for Fluffy, Separate Grains"
+description: Chefs say skipping the rinse is the common rice mistake. Learn which rice to rinse, soak, or leave alone, and how to rest and fluff it for separate grains.
 type: how-to
-status: review
-publishDate: '2026-10-18T06:02:02.229Z'
+status: published
+publishDate: 2026-10-18T06:02:02.229Z
 author: Alejandra Ruiz
 author_id: alejandra-ruiz
 tags:
@@ -15,19 +13,10 @@ tags:
   - jasmine rice
   - cooking tips
 slug: rinse-rice-for-fluffy-grains-chef-tips
-reviewer_notes: >-
-  The article is well structured and clearly written, with good H2 headings and
-  a reasonable title and description, but it's a rice-cooking piece with only a
-  token wine connection (a 'Wine tips' tag and one framing sentence). That gives
-  it poor topical relevance to a wine site, and it is slightly short at 743
-  words. Its claims are mostly hedged and attributed to chefs via Fox News,
-  though the sourcing is vague.
-source_url: >-
-  https://www.foxnews.com/food-drink/youre-probably-cooking-rice-wrong-chefs-reveal-simple-mistake-avoid
+reviewer_notes: Approved via review queue.
+source_url: https://www.foxnews.com/food-drink/youre-probably-cooking-rice-wrong-chefs-reveal-simple-mistake-avoid
 source_item_id: 6ad211c6da6dc6464d26d91a
-source_title: >-
-  You're probably cooking rice wrong, and chefs reveal the simple mistake to
-  avoid
+source_title: You're probably cooking rice wrong, and chefs reveal the simple mistake to avoid
 generated_by: claude
 featuredImage: /assets/images/rinse-rice-for-fluffy-grains-chef-tips.webp
 quality_score: 67
@@ -37,19 +26,11 @@ score_breakdown:
   content_length: 90
   factual_accuracy: 85
   keyword_relevance: 22
-quality_note: >-
-  The article is well structured and clearly written, with good H2 headings and
-  a reasonable title and description, but it's a rice-cooking piece with only a
-  token wine connection (a 'Wine tips' tag and one framing sentence). That gives
-  it poor topical relevance to a wine site, and it is slightly short at 743
-  words. Its claims are mostly hedged and attributed to chefs via Fox News,
-  though the sourcing is vague.
+quality_note: The article is well structured and clearly written, with good H2 headings and a reasonable title and description, but it's a rice-cooking piece with only a token wine connection (a 'Wine tips' tag and one framing sentence). That gives it poor topical relevance to a wine site, and it is slightly short at 743 words. Its claims are mostly hedged and attributed to chefs via Fox News, though the sourcing is vague.
 reading_time: 3
 topics:
   - Wine tips
-image_alt: >-
-  Hand rinsing white rice in cloudy water beside a measuring cup and jar of
-  rice.
+image_alt: Hand rinsing white rice in cloudy water beside a measuring cup and jar of rice.
 ---
 If your rice keeps coming out clumpy or gummy, the fix probably starts before the pot ever hits the stove. Chefs speaking to Fox News say the most common mistake is skipping the rinse, especially with basmati and jasmine rice. By the end of this article, you'll know which rice needs which treatment, and what to do after the cooking is done.
 

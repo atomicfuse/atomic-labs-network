@@ -1,12 +1,9 @@
 ---
-title: 'Jeera Soda Explained: India''s Cumin Fizz Taking On Cola'
-description: >-
-  Cumin-laced sodas like Lahori Zeera and Campa Jeera are challenging Coke and
-  Pepsi in India. Here's what jeera soda is, why it's winning, and how to try
-  it.
+title: "Jeera Soda Explained: India's Cumin Fizz Taking On Cola"
+description: Cumin-laced sodas like Lahori Zeera and Campa Jeera are challenging Coke and Pepsi in India. Here's what jeera soda is, why it's winning, and how to try it.
 type: standard
-status: review
-publishDate: '2026-11-22T07:02:10.613Z'
+status: published
+publishDate: 2026-11-22T07:02:10.613Z
 author: Alejandra Ruiz
 author_id: alejandra-ruiz
 tags:
@@ -16,18 +13,10 @@ tags:
   - Lahori Zeera
   - non-alcoholic drinks
 slug: jeera-soda-india-cumin-fizzy-drink-explained
-reviewer_notes: >-
-  A well-structured, clearly sourced article with good headings and honest
-  hedging, but at 740 words it falls short of the 800-1200 target, and it covers
-  a non-wine topic with only a loose wine-pairing section, so topical relevance
-  to the wine site is weak. The title is a bit long (~58 chars is fine, but the
-  description runs slightly over 160), and a few claims such as the $120m
-  valuation and the ₹10 beverage war are attributed loosely.
-source_url: 'https://www.bbc.com/news/articles/cw1m4ym7ez2eo'
+reviewer_notes: Approved via review queue.
+source_url: https://www.bbc.com/news/articles/cw1m4ym7ez2eo
 source_item_id: 6aff8d86444c59acb194ee1d
-source_title: >-
-  Lahori Zeera, Campa Jeera: Cumin-laced fizzy sodas are giving the cola giants
-  a tough fight in India
+source_title: "Lahori Zeera, Campa Jeera: Cumin-laced fizzy sodas are giving the cola giants a tough fight in India"
 generated_by: claude
 featuredImage: /assets/images/jeera-soda-india-cumin-fizzy-drink-explained.webp
 quality_score: 63
@@ -37,19 +26,11 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 78
   keyword_relevance: 35
-quality_note: >-
-  A well-structured, clearly sourced article with good headings and honest
-  hedging, but at 740 words it falls short of the 800-1200 target, and it covers
-  a non-wine topic with only a loose wine-pairing section, so topical relevance
-  to the wine site is weak. The title is a bit long (~58 chars is fine, but the
-  description runs slightly over 160), and a few claims such as the $120m
-  valuation and the ₹10 beverage war are attributed loosely.
+quality_note: A well-structured, clearly sourced article with good headings and honest hedging, but at 740 words it falls short of the 800-1200 target, and it covers a non-wine topic with only a loose wine-pairing section, so topical relevance to the wine site is weak. The title is a bit long (~58 chars is fine, but the description runs slightly over 160), and a few claims such as the $120m valuation and the ₹10 beverage war are attributed loosely.
 reading_time: 3
 topics:
   - Wine reviews
-image_alt: >-
-  Two chilled amber cumin sodas stand beside a glass of fizz and cumin seeds on
-  a colorful shop shelf.
+image_alt: Two chilled amber cumin sodas stand beside a glass of fizz and cumin seeds on a colorful shop shelf.
 ---
 If you've never heard of jeera soda, you're about to meet the fizzy drink that is giving Coca-Cola and Pepsi a hard time in India. By the end of this piece you'll know what it tastes like, why it's catching on, and how to bring the idea to your own table, whether you're pairing it with food or looking for something interesting to pour next to wine.
 

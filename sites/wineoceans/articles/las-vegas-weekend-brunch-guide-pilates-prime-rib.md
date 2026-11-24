@@ -1,11 +1,9 @@
 ---
-title: 'Pick Your Vegas Brunch: 4 Spots, From Pilates to Prime Rib'
-description: >-
-  Four Las Vegas weekend brunch styles, from poolside Pilates to bottomless
-  mimosas and prime rib, plus how to match the right one to your group.
+title: "Pick Your Vegas Brunch: 4 Spots, From Pilates to Prime Rib"
+description: Four Las Vegas weekend brunch styles, from poolside Pilates to bottomless mimosas and prime rib, plus how to match the right one to your group.
 type: listicle
-status: review
-publishDate: '2026-10-25T06:01:14.273Z'
+status: published
+publishDate: 2026-10-25T06:01:14.273Z
 author: Alejandra Ruiz
 author_id: alejandra-ruiz
 tags:
@@ -15,17 +13,10 @@ tags:
   - Champagne
   - prime rib
 slug: las-vegas-weekend-brunch-guide-pilates-prime-rib
-reviewer_notes: >-
-  The article is well structured, with a clear H2 hierarchy, honest sourcing and
-  useful disclaimers. At 590 words it falls short of the 800-1200 target, and
-  its Las Vegas brunch focus only loosely fits the wine topics, touching on
-  mimosas and Champagne with no real wine content. The title runs a bit long at
-  about 60 characters but is compelling, and the description is slightly over
-  the ideal length.
-source_url: >-
-  https://lasvegasweekly.com/ae/2026/oct/16/4-vegas-weekend-brunch-spots-pilates-to-prime-rib/
+reviewer_notes: Approved via review queue.
+source_url: https://lasvegasweekly.com/ae/2026/oct/16/4-vegas-weekend-brunch-spots-pilates-to-prime-rib/
 source_item_id: 6ad3032c31b485c3d50524ff
-source_title: '4 Las Vegas Weekend Brunch Spots, from Pilates to Prime Rib'
+source_title: 4 Las Vegas Weekend Brunch Spots, from Pilates to Prime Rib
 generated_by: claude
 featuredImage: /assets/images/las-vegas-weekend-brunch-guide-pilates-prime-rib.webp
 quality_score: 65
@@ -35,19 +26,11 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 88
   keyword_relevance: 45
-quality_note: >-
-  The article is well structured, with a clear H2 hierarchy, honest sourcing and
-  useful disclaimers. At 590 words it falls short of the 800-1200 target, and
-  its Las Vegas brunch focus only loosely fits the wine topics, touching on
-  mimosas and Champagne with no real wine content. The title runs a bit long at
-  about 60 characters but is compelling, and the description is slightly over
-  the ideal length.
+quality_note: The article is well structured, with a clear H2 hierarchy, honest sourcing and useful disclaimers. At 590 words it falls short of the 800-1200 target, and its Las Vegas brunch focus only loosely fits the wine topics, touching on mimosas and Champagne with no real wine content. The title runs a bit long at about 60 characters but is compelling, and the description is slightly over the ideal length.
 reading_time: 3
 topics:
   - Wine reviews
-image_alt: >-
-  A lively brunch spread surrounded by wellness, cocktail, game, and prime-rib
-  cues.
+image_alt: A lively brunch spread surrounded by wellness, cocktail, game, and prime-rib cues.
 ---
 Las Vegas brunch no longer means eggs and a mimosa. Per a roundup from Las Vegas Weekly, four resorts and restaurants now pitch weekend brunch as a full outing: Pilates by the pool, a live DJ, a room full of games, or a prime rib and Champagne buffet. This guide helps you pick the one that fits your group, based on what that roundup reports.
 
