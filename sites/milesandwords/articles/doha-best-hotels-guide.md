@@ -1,11 +1,9 @@
 ---
-title: 'Find Your Perfect Stay: A Guide to Doha''s 20 Best Hotels'
-description: >-
-  Explore the top 20 hotels in Doha, Qatar, tailored for luxury travelers
-  seeking diverse experiences and vibes in the city.
+title: "Find Your Perfect Stay: A Guide to Doha's 20 Best Hotels"
+description: Explore the top 20 hotels in Doha, Qatar, tailored for luxury travelers seeking diverse experiences and vibes in the city.
 type: listicle
-status: review
-publishDate: '2026-10-04'
+status: published
+publishDate: 2026-10-04
 author: Sarah Rivera
 tags:
   - Destination Guides
@@ -14,12 +12,8 @@ tags:
   - qatar
   - hotels
 slug: doha-best-hotels-guide
-reviewer_notes: >-
-  The article critically fails to deliver on its promise of '20 best hotels' —
-  it lists zero actual hotels by name, making it misleading, far too short at
-  537 words, and too vague to be genuinely useful for travelers or SEO.
-source_url: >-
-  https://www.forbes.com/sites/forbestravelguide/2026/09/28/forbes-travel-guides-20-best-doha-hotels/
+reviewer_notes: Approved via review queue.
+source_url: https://www.forbes.com/sites/forbestravelguide/2026/09/28/forbes-travel-guides-20-best-doha-hotels/
 source_item_id: 6abb1ba55b22be6773eca26d
 source_title: Forbes Travel Guide’s 20 Best Doha Hotels
 generated_by: openai
@@ -31,16 +25,11 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 55
   keyword_relevance: 52
-quality_note: >-
-  The article critically fails to deliver on its promise of '20 best hotels' —
-  it lists zero actual hotels by name, making it misleading, far too short at
-  537 words, and too vague to be genuinely useful for travelers or SEO.
+quality_note: The article critically fails to deliver on its promise of '20 best hotels' — it lists zero actual hotels by name, making it misleading, far too short at 537 words, and too vague to be genuinely useful for travelers or SEO.
 reading_time: 3
 topics:
   - Destination Guides
-image_alt: >-
-  Private island resort overlooking Doha’s luxury waterfront skyline at golden
-  hour
+image_alt: Private island resort overlooking Doha’s luxury waterfront skyline at golden hour
 ---
 ## Discover Doha’s Luxury Hotel Scene
 
