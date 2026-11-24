@@ -1,13 +1,9 @@
 ---
-title: >-
-  Patrick Clancy Takes a Stand: The Legal Battle Against Defamation in
-  Conspiracy Theories
-description: >-
-  Patrick Clancy is fighting back against conspiracy theorists spreading harmful
-  misinformation. Discover the implications for online defamation.
+title: "Patrick Clancy Takes a Stand: The Legal Battle Against Defamation in Conspiracy Theories"
+description: Patrick Clancy is fighting back against conspiracy theorists spreading harmful misinformation. Discover the implications for online defamation.
 type: standard
-status: review
-publishDate: '2026-09-13'
+status: published
+publishDate: 2026-09-13
 author: Andrew Gray
 tags:
   - Funny Videos
@@ -16,17 +12,10 @@ tags:
   - legal-action
   - patrick-clancy
 slug: patrick-clancy-legal-battle-defamation-conspiracy-theories
-reviewer_notes: >-
-  The article is significantly too short, covers a serious legal/defamation
-  topic misaligned with ViralSides' entertainment and humor focus, and fails to
-  meaningfully incorporate the site's core keywords like Funny Videos, Memes,
-  Viral, or Animals despite tagging them.
-source_url: >-
-  https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkpOT05waHpMbE90WGdyVWVwTVVIMTcyUWF2YWtjdmc4cml1YTc2MlpobWJsekFiS1ROREVDOGdITTVnRUxmZTdJUnFaRDVwQmE4dnFkZk9YaDllNDJSS1RpamFQVUtXVk85MndUZm1tT18yTmR2Z0x2M3JLbUJQeDNwVTdNYnZCQXFRdVBWdVZjSTlhdFdGSXhZZWZVY1RqUFE1djNodFAwWWc?oc=5
+reviewer_notes: Approved via review queue.
+source_url: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkpOT05waHpMbE90WGdyVWVwTVVIMTcyUWF2YWtjdmc4cml1YTc2MlpobWJsekFiS1ROREVDOGdITTVnRUxmZTdJUnFaRDVwQmE4dnFkZk9YaDllNDJSS1RpamFQVUtXVk85MndUZm1tT18yTmR2Z0x2M3JLbUJQeDNwVTdNYnZCQXFRdVBWdVZjSTlhdFdGSXhZZWZVY1RqUFE1djNodFAwWWc?oc=5
 source_item_id: 6aa4a414a8272abdf19606f6
-source_title: >-
-  Patrick Clancy Threatens Conspiracy Theorists With Legal Action Over
-  ‘Destructive Defamation Campaign’ - Us Weekly
+source_title: Patrick Clancy Threatens Conspiracy Theorists With Legal Action Over ‘Destructive Defamation Campaign’ - Us Weekly
 generated_by: openai
 featuredImage: /assets/images/patrick-clancy-legal-battle-defamation-conspiracy-theories.webp
 quality_score: 39
@@ -36,17 +25,11 @@ score_breakdown:
   content_length: 38
   factual_accuracy: 62
   keyword_relevance: 18
-quality_note: >-
-  The article is significantly too short, covers a serious legal/defamation
-  topic misaligned with ViralSides' entertainment and humor focus, and fails to
-  meaningfully incorporate the site's core keywords like Funny Videos, Memes,
-  Viral, or Animals despite tagging them.
+quality_note: The article is significantly too short, covers a serious legal/defamation topic misaligned with ViralSides' entertainment and humor focus, and fails to meaningfully incorporate the site's core keywords like Funny Videos, Memes, Viral, or Animals despite tagging them.
 reading_time: 2
 topics:
   - Memes
-image_alt: >-
-  A silhouetted figure faces legal papers as abstract social media bubbles loom
-  in the background.
+image_alt: A silhouetted figure faces legal papers as abstract social media bubbles loom in the background.
 ---
 Patrick Clancy, a public figure recently thrust into the spotlight, is making headlines by threatening legal action against conspiracy theorists. He claims they are instigating a "destructive defamation campaign" against him. This situation raises important questions about the nature of defamation in our increasingly digital world and the ethical boundaries of online discourse.
 
