@@ -797,6 +797,26 @@ sites:
     vertical: Medical Health
     worker_pending_dns: false
     zone_id: a1e23cdc660f91b3668c828e20ecab73
+  - domain: miles-memo
+    cf_apo: false
+    company: null
+    created_at: 2026-11-24T11:55:21.729Z
+    custom_domain: milesmemo.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-11-24T11:57:45.337Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=miles-memo
+    saved_previews: null
+    site_id: "5521321729855"
+    staging_branch: staging/miles-memo
+    status: Live
+    vertical: Weekend Itinerary Ideas
+    zone_id: 5cfe6eae3e11b1a42139e3d13086c34c
+    worker_pending_dns: false
   - domain: milesandwords
     cf_apo: false
     company: ATL
@@ -865,7 +885,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-11-24T11:49:16.990Z
+    last_updated: 2026-11-24T11:46:49.236Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -1757,25 +1777,6 @@ sites:
     vertical: Food & Drink
     zone_id: 99ae10b3318a3dd44e9b2ee07b9a4b4c
     worker_pending_dns: false
-  - domain: miles-memo
-    company: null
-    vertical: Weekend Itinerary Ideas
-    status: Staging
-    site_id: "5521321729855"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-11-24T11:55:21.729Z
-    created_at: 2026-11-24T11:55:21.729Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/miles-memo
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=miles-memo
-    saved_previews: null
-    custom_domain: null
 deleted:
   - domain: chaibeseret
     cf_apo: false
