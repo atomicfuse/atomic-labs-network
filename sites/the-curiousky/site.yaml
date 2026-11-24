@@ -1,0 +1,180 @@
+domain: thecuriousky.com
+active: true
+author: Elena Mitchell
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Sky Watching Explained
+    - Celestial Phenomena
+    - Space Exploration
+    - Our Planetary Neighbors
+  theme: a mainstream science site about the things people look up and wonder
+    about. Think northern lights, colorful sunsets, meteor showers, eclipses,
+    and why the Moon sometimes looks huge.
+  topics_v2:
+    - name: Sky Watching Explained
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e25
+          - 6a00793e1104bbff809b7e15
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Celestial Phenomena
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e25
+          - 6a00793e1104bbff809b7e15
+          - 6a00793e1104bbff809b7e23
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Space Exploration
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e25
+        tag_ids:
+          - 6a5ec396645f578778864dc3
+          - 6a03361f86fcaaeb5bc83268
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Our Planetary Neighbors
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e25
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+  seo_keywords_focus: []
+  content_guidelines:
+    - The Curious Sky is a mainstream science site about what people can see
+      overhead, from colorful sunsets and unusual clouds to the Moon, meteor
+      showers, and eclipses.
+    - Section	What to cover	Example headline
+    - Sky Wonders	Sunsets, rainbows, halos, and other sights people notice
+      during the day	Why Does the Sky Turn Pink at Sunset?
+    - Moon & Space	Moon phases, visible planets, and familiar sights in the
+      night sky	Why Can You See the Moon During the Day?
+    - What to Watch	Upcoming sky events and how to see them	When and Where to
+      Look for the Next Meteor Shower
+    - Clouds & Weather	Unusual cloud shapes and visible weather phenomena	Why Do
+      Some Clouds Look Like Flying Saucers?
+  image_guidelines:
+    - Image Guidelines
+    - Visual direction · Use realistic editorial photography that shows readers
+      what they might see from their backyard, neighborhood, or a nearby
+      lookout.
+    - Story type	Image direction
+    - Sunsets and halos	Show the color or shape clearly, with a recognizable
+      horizon when it adds context.
+    - Moon and planets	Include a landscape for scale or use a labeled close-up
+      when the detail matters.
+    - Meteor showers and auroras	Choose a real night-sky photo. Identify long
+      exposures or composites in the caption when they affect how the scene
+      appears.
+    - Unusual clouds	Use a verified photo of the cloud type and frame it so its
+      defining shape is easy to spot.
+    - "- Compose for mobile. Use a 16:9 landscape hero with the main subject
+      near the center so it survives thumbnail crops. Keep text and labels for
+      separate diagrams."
+    - "- Keep captions accurate. For a specific event, use a verified photo or
+      label an older image as a file photo. Clearly label illustrations,
+      including AI-generated visuals."
+    - "- Credit the source. Use owned or licensed imagery, include any required
+      credits, and write alt text that describes the visible phenomenon."
+  vertical: Science
+  vertical_id: 6a00793d1104bbff809b7c68
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Monday
+      - Friday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: thecuriousky.com
+site_tagline: null
+theme:
+  base: forest_night
+  colors:
+    primary: "#0a1410"
+    accent: "#ca8a04"
+    background: "#0f1d16"
+    secondary: "#0f1d16"
+    text: "#e4e9e2"
+    muted: "#a0afa3"
+    surface: "#162a1f"
+    border: "#1c3024"
+    heading: "#e4e9e2"
+    link: "#86b08a"
+    link_hover: "#facc15"
+    nav_link: "#e4e9e2"
+    nav_link_hover: "#facc15"
+    footer_bg: "#06100a"
+    must_reads_bg: "#162a1f"
+    hero_title: "#e4e9e2"
+    must_reads_title: "#e4e9e2"
+    article_hero_title: "#e4e9e2"
+    article_hero_meta: "#a0afa3"
+    feed_title: "#e4e9e2"
+    feed_desc: "#c8d2c5"
+    feed_date: "#a0afa3"
+    prose_heading: "#e4e9e2"
+    prose_body: "#c8d2c5"
+    category_header_text: "#e4e9e2"
+    subscribe_heading: "#0f1d16"
+    footer_text: "#a0afa3"
+    footer_heading: "#e4e9e2"
+    footer_link: "#a0afa3"
+    footer_link_hover: "#facc15"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Lora
+    body: Source Sans 3
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
