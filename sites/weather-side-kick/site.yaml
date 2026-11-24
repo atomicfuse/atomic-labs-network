@@ -1,0 +1,231 @@
+domain: weathersidekick.com
+active: true
+author: Daniel Reed
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: "informative "
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Weekend Weather Planner
+    - Travel Weather Outlook
+    - Home & Garden Weather
+    - Daily Routine Forecast
+    - weather
+    - rain
+  theme: WeatherSidekick.com is an everyday weather site. It helps readers
+    understand what’s happening outside and what it means for their weekend
+    plans, travel, home, and daily routines.
+  topics_v2:
+    - name: Weekend Weather Planner
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e15
+          - 6a00793e1104bbff809b7cc9
+          - 6a00793e1104bbff809b7ccb
+          - 6a00793f1104bbff809b7f93
+        tag_ids:
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a0b1eeea53fcab94b3649a8
+          - 6a042b0a86fcaaeb5bc83515
+          - 6ace72dada6dc6464d26d5f5
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Travel Weather Outlook
+      source:
+        type: filter
+        category_ids: []
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Home & Garden Weather
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7e15
+          - 6a00793e1104bbff809b7d4f
+          - 6a00793e1104bbff809b7d61
+        tag_ids:
+          - 6a13f95216f23264031d7b10
+          - 6a2777cfeb470600f9705333
+          - 6a0b1f14a53fcab94b3649c5
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Daily Routine Forecast
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e15
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a0b1f40a53fcab94b3649e2
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: weather
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e15
+          - 6a0079401104bbff809b8033
+        tag_ids:
+          - 6ace72dada6dc6464d26d5f5
+          - 6a0bf43616f23264031d78de
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: rain
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e15
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Content Guidelines
+    - "Editorial focus: WeatherSidekick.com covers everyday weather and how it
+      affects readers’ plans, travel, homes, and routines. Every article should
+      answer a question people actually ask or help them make a decision."
+    - Section	What to publish	Example headline
+    - Weather News	Timely weather events and what they mean for affected
+      areas	An Early Cold Snap Is Coming to the Midwest. Here’s What to Expect
+    - Everyday Weather	Quick answers to common weather questions	What Does a 40%
+      Chance of Rain Mean?
+    - Travel & Outdoors	Weather considerations for road trips, beach days, and
+      outdoor plans	How Wind Can Change Your Beach Day Plans
+    - Home & Seasons	Practical, seasonal stories for the home and garden	When
+      Should You Cover Your Plants Before a Frost?
+    - Weather Explained	Plain-English explanations of familiar weather
+      patterns	Why Does Humidity Make It Feel Hotter?
+    - "- Tone: Friendly, clear, and practical. Explain weather terms in plain
+      English as they come up."
+    - "- Headlines: Be specific and deliver on the promise. Mention the location
+      when a story applies to a particular region."
+    - "- Structure: Give the answer or main takeaway in the opening paragraph.
+      Use short paragraphs, descriptive subheadings, and bullets for practical
+      steps."
+    - "- Sources: Use the relevant official weather service for forecasts and
+      alerts. For time-sensitive stories, include the affected area, time zone,
+      and when the information was last checked. Link to the official advisory
+      when one is active."
+    - "- Publishing mix: Build around seasonal guides and evergreen explainers,
+      then add timely weather stories when they affect your readers."
+  image_guidelines:
+    - "Visual direction: Use realistic, editorial-style photography that makes
+      the weather easy to recognize and shows how it affects everyday life."
+    - Story type	Image direction
+    - Rain and commuting	Pedestrians with umbrellas on a wet city street
+    - Heat and humidity	People looking for shade on a sunny afternoon
+    - Winter weather	A driver clearing snow from a parked car
+    - Home and garden	A close-up of frost on garden plants
+    - Travel and outdoors	A windy beach with flags, dune grass, or beachgoers in
+      frame
+    - "- Composition: Use one clear focal point. Keep it near the center so it
+      survives mobile and thumbnail crops. A landscape 16:9 image works well as
+      the default hero."
+    - "- Style: Favor natural light, true-to-life colors, and familiar settings.
+      Keep hero images free of text overlays and watermarks."
+    - "- News accuracy: Use verified photos for coverage of specific events.
+      Label file photos and illustrations clearly so readers know what they’re
+      seeing."
+    - "- Rights and accessibility: Use owned or licensed images, add credits
+      where required, and write concise alt text that describes the visible
+      scene."
+  vertical: Science
+  vertical_id: 6a00793d1104bbff809b7c68
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Monday
+      - Friday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: weathersidekick.com
+site_tagline: null
+theme:
+  base: warm
+  colors:
+    primary: "#7c2d12"
+    accent: "#ea580c"
+    background: "#fffbeb"
+    secondary: "#1c1917"
+    text: "#1c1917"
+    muted: "#78716c"
+    surface: "#fef3c7"
+    border: "#d6d3d1"
+    heading: "#1c1917"
+    link: "#7c2d12"
+    link_hover: "#ea580c"
+    nav_link: "#ffffff"
+    nav_link_hover: "#ea580c"
+    footer_bg: "#1c1917"
+    must_reads_bg: "#1c1917"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#78716c"
+    feed_title: "#1c1917"
+    feed_desc: "#1c1917"
+    feed_date: "#78716c"
+    prose_heading: "#1c1917"
+    prose_body: "#292524"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#7c2d12"
+    footer_text: "#a8a29e"
+    footer_heading: "#ffffff"
+    footer_link: "#a8a29e"
+    footer_link_hover: "#ffffff"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Inter
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
