@@ -1,0 +1,233 @@
+domain: hownatureworks.com
+active: true
+author: Mia Adams
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Backyard Birding
+    - Urban Wildlife
+    - Seasonal Changes
+    - River Ecosystems
+    - animals
+    - wildlife
+  theme: A mainstream science site that explains the nature people encounter in
+    their backyards, parks, and on walks. Cover familiar subjects such as birds,
+    trees, insects, rivers, and the changing seasons.
+  topics_v2:
+    - name: Backyard Birding
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e17
+          - 6a00793e1104bbff809b7ccb
+          - 6a00793e1104bbff809b7e1b
+        tag_ids:
+          - 6a044aaf86fcaaeb5bc83871
+          - 6a033ad286fcaaeb5bc83349
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Urban Wildlife
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e1b
+          - 6a00793e1104bbff809b7e17
+          - 6a00793e1104bbff809b7ccb
+        tag_ids:
+          - 6a044aaf86fcaaeb5bc83871
+          - 6a033ad286fcaaeb5bc83349
+          - 6a2b8cb87da23de6325b9b33
+          - 6a044f3986fcaaeb5bc838c1
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Seasonal Changes
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e15
+          - 6a00793e1104bbff809b7e1b
+          - 6a00793e1104bbff809b7e17
+          - 6a00793e1104bbff809b7ccb
+        tag_ids:
+          - 6a0bf43616f23264031d78de
+          - 6a033ad286fcaaeb5bc83349
+          - 6a044aaf86fcaaeb5bc83871
+          - 6ace72dada6dc6464d26d5f5
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: River Ecosystems
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e1b
+          - 6a00793e1104bbff809b7e17
+          - 6a00793e1104bbff809b7ccb
+        tag_ids:
+          - 6a033ad286fcaaeb5bc83349
+          - 6a044aaf86fcaaeb5bc83871
+          - 6a0b1eeea53fcab94b3649a8
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: animals
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e17
+          - 6a00793e1104bbff809b7ccb
+          - 6a00793e1104bbff809b7e1b
+        tag_ids:
+          - 6a044aaf86fcaaeb5bc83871
+          - 6a033ad286fcaaeb5bc83349
+          - 6a2b8cb87da23de6325b9b33
+          - 6a3e0428cbbe345bde1168c7
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: wildlife
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e17
+          - 6a00793e1104bbff809b7e1b
+          - 6a00793e1104bbff809b7ccb
+        tag_ids:
+          - 6a044aaf86fcaaeb5bc83871
+          - 6a033ad286fcaaeb5bc83349
+          - 6a2b8cb87da23de6325b9b33
+          - 6a3e0428cbbe345bde1168c7
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Content Guidelines
+    - Section	What to cover	Example headline
+    - Animals & Wildlife	Familiar animal behaviors, habitats, and
+      adaptations	Why Do Birds Fly in a V?
+    - Plants & Trees	How plants grow, reproduce, and respond to the seasons	Why
+      Do Some Trees Keep Their Leaves All Winter?
+    - Insects & Backyard Life	Pollinators, garden insects, fungi, and other
+      discoveries close to home	Why Do Fireflies Light Up?
+    - Land & Water	How rivers, coastlines, rocks, and soil change over time	Why
+      Do Rivers Bend?
+    - Nature Through the Seasons	Migration, blooms, and seasonal changes readers
+      can spot	Why Do Some Flowers Close at Night?
+    - "- Start with something readers can picture. Open with a familiar sight,
+      give the short answer, then explain how it works in plain English."
+    - "- Give readers something to notice next time. A story on river bends
+      could point out the sand or gravel that often collects on the inside of a
+      bend."
+    - "- Be specific about species and regions. When a behavior varies by
+      species, season, or location, say where it applies. Verify details with
+      reliable sources such as museums, universities, or wildlife agencies."
+  image_guidelines:
+    - Image Guidelines
+    - "- Show the subject in its natural setting. Use a flock in formation, a
+      seedling emerging from soil, or an overhead view of a winding river.
+      Choose an image that shows the feature the article explains."
+    - "- Make details easy to recognize. Use a close-up for leaf veins or an
+      insect’s wings. Include surroundings when habitat, scale, or movement
+      matters."
+    - "- Use natural-looking photography. Favor true-to-life colors and a clear
+      focal point. Use 16:9 landscape hero images and keep the main subject near
+      the center for mobile crops."
+    - "- Check identification and captions. Verify the species when the article
+      names one. Use simple, labeled diagrams for processes that are hard to
+      photograph, such as water moving through a plant. Credit images as
+      required and write alt text that describes what readers can see."
+  vertical: Science
+  vertical_id: 6a00793d1104bbff809b7c68
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Monday
+      - Friday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: HowNatureWorks.com
+site_tagline: null
+theme:
+  base: scandi
+  colors:
+    primary: "#1c1c1c"
+    accent: "#3a3a3a"
+    background: "#f5f3ef"
+    secondary: "#f5f3ef"
+    text: "#1c1c1c"
+    muted: "#a0a0a0"
+    surface: "#ebe8e2"
+    border: "#d6d2c9"
+    heading: "#1c1c1c"
+    link: "#1c1c1c"
+    link_hover: "#5a5a5a"
+    nav_link: "#f5f3ef"
+    nav_link_hover: "#d6d2c9"
+    footer_bg: "#1c1c1c"
+    must_reads_bg: "#1c1c1c"
+    hero_title: "#f5f3ef"
+    must_reads_title: "#f5f3ef"
+    article_hero_title: "#f5f3ef"
+    article_hero_meta: "#a0a0a0"
+    feed_title: "#1c1c1c"
+    feed_desc: "#2a2a2a"
+    feed_date: "#a0a0a0"
+    prose_heading: "#1c1c1c"
+    prose_body: "#2a2a2a"
+    category_header_text: "#f5f3ef"
+    subscribe_heading: "#f5f3ef"
+    footer_text: "#a0a0a0"
+    footer_heading: "#f5f3ef"
+    footer_link: "#a0a0a0"
+    footer_link_hover: "#f5f3ef"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Manrope
+    body: Manrope
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
