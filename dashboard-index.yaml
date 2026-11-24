@@ -677,6 +677,26 @@ sites:
     status: Staging
     vertical: Home & Garden
     zone_id: null
+  - domain: how-nature-works
+    cf_apo: false
+    company: null
+    created_at: 2026-11-24T11:30:52.884Z
+    custom_domain: hownatureworks.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-11-24T11:33:26.337Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=how-nature-works
+    saved_previews: null
+    site_id: "5519852884874"
+    staging_branch: staging/how-nature-works
+    status: Live
+    vertical: Science
+    zone_id: 07fd983fce3ea15443c3e4adea613cd1
+    worker_pending_dns: false
   - domain: hypezen
     cf_apo: false
     company: null
@@ -1325,7 +1345,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-11-24T11:25:11.065Z
+    last_updated: 2026-11-24T11:22:26.971Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -1697,25 +1717,6 @@ sites:
     vertical: Food & Drink
     zone_id: 99ae10b3318a3dd44e9b2ee07b9a4b4c
     worker_pending_dns: false
-  - domain: how-nature-works
-    company: null
-    vertical: Science
-    status: Staging
-    site_id: "5519852884874"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-11-24T11:30:52.884Z
-    created_at: 2026-11-24T11:30:52.884Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/how-nature-works
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=how-nature-works
-    saved_previews: null
-    custom_domain: null
 deleted:
   - domain: chaibeseret
     cf_apo: false
