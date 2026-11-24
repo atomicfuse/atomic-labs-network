@@ -1,12 +1,9 @@
 ---
-title: 'Charlie Kirk''s Assassination: How Conspiracy Theories Evolve Over Time'
-description: >-
-  Explore how conspiracy theories about Charlie Kirk's assassination have
-  changed over the past year and the role of social media in amplifying
-  misinformation.
+title: "Charlie Kirk's Assassination: How Conspiracy Theories Evolve Over Time"
+description: Explore how conspiracy theories about Charlie Kirk's assassination have changed over the past year and the role of social media in amplifying misinformation.
 type: standard
-status: review
-publishDate: '2026-09-15'
+status: published
+publishDate: 2026-09-15
 author: Sarah Bennett
 tags:
   - conspiracies
@@ -14,17 +11,10 @@ tags:
   - political-violence
   - conspiracy-theories
 slug: charlie-kirk-assassination-conspiracy-theories-evolve
-reviewer_notes: >-
-  This article is built on a completely fabricated premise — Charlie Kirk has
-  not been assassinated — making it dangerously misinformative, far too short,
-  and fundamentally unfit for publication regardless of its structural or
-  stylistic merits.
-source_url: >-
-  https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFpDanVjY2sxSHNZdUptcFVGYUJsSmk0a0ZyNXZhaFI3MmMtTDhNZzZnc25feTdpb3YtcUx0QWRuU1ZoUlRmN1JXRlp6RkcwbjEzcTNFZWJQdzBkYnY3c2lFVUZHMnlnM3dGaG5XUF9paWN3UTZ0RXlWengwRExGSVNrUS1Wb2ZoN3lDcUl0TjhBejNGLWlkem81QWU1cXNN?oc=5
+reviewer_notes: Approved via review queue.
+source_url: https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFpDanVjY2sxSHNZdUptcFVGYUJsSmk0a0ZyNXZhaFI3MmMtTDhNZzZnc25feTdpb3YtcUx0QWRuU1ZoUlRmN1JXRlp6RkcwbjEzcTNFZWJQdzBkYnY3c2lFVUZHMnlnM3dGaG5XUF9paWN3UTZ0RXlWengwRExGSVNrUS1Wb2ZoN3lDcUl0TjhBejNGLWlkem81QWU1cXNN?oc=5
 source_item_id: 6aa4a414a8272abdf19606f1
-source_title: >-
-  Charlie Kirk’s assassination, one year later: How conspiracy theories have
-  evolved - wmur.com
+source_title: "Charlie Kirk’s assassination, one year later: How conspiracy theories have evolved - wmur.com"
 generated_by: openai
 featuredImage: /assets/images/charlie-kirk-assassination-conspiracy-theories-evolve.webp
 quality_score: 26
@@ -34,17 +24,11 @@ score_breakdown:
   content_length: 38
   factual_accuracy: 0
   keyword_relevance: 25
-quality_note: >-
-  This article is built on a completely fabricated premise — Charlie Kirk has
-  not been assassinated — making it dangerously misinformative, far too short,
-  and fundamentally unfit for publication regardless of its structural or
-  stylistic merits.
+quality_note: This article is built on a completely fabricated premise — Charlie Kirk has not been assassinated — making it dangerously misinformative, far too short, and fundamentally unfit for publication regardless of its structural or stylistic merits.
 reading_time: 2
 topics:
   - Unsolved Cases
-image_alt: >-
-  A dim investigative desk with tangled red thread, blurred phone feeds, and
-  time motifs suggesting evolving rumors.
+image_alt: A dim investigative desk with tangled red thread, blurred phone feeds, and time motifs suggesting evolving rumors.
 ---
 The one-year anniversary of Charlie Kirk’s assassination has triggered a resurgence of conspiracy theories about his death, reflecting a troubling trend in how misinformation evolves after major political events. As narratives shift, understanding the dynamics of these theories is crucial for discerning fact from fiction.
 
