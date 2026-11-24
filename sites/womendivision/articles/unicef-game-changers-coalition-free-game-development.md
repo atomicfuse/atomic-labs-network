@@ -1,11 +1,9 @@
 ---
-title: 'Learn Game Development for Free: UNICEF’s Game Changers Coalition'
-description: >-
-  Discover how UNICEF's Game Changers Coalition offers free courses combining
-  game development, AI, and financial skills for young learners.
+title: "Learn Game Development for Free: UNICEF’s Game Changers Coalition"
+description: Discover how UNICEF's Game Changers Coalition offers free courses combining game development, AI, and financial skills for young learners.
 type: how-to
-status: review
-publishDate: '2026-09-06'
+status: published
+publishDate: 2026-09-06
 author: Sam Cooper
 tags:
   - Advice
@@ -14,13 +12,8 @@ tags:
   - video-game-development
   - ai-skills
 slug: unicef-game-changers-coalition-free-game-development
-reviewer_notes: >-
-  This article is entirely off-topic for womendivision's Healthy Living
-  editorial focus — covering game development and AI education rather than
-  Beauty, Fashion, Fitness, Lifestyle, Mindfulness, Yoga, or Workout Meals — and
-  lacks verification of the UNICEF GCC program's specific claims.
-source_url: >-
-  https://www.unicef.org/innovation/gender-equality/game-changers-coalition-curriculum
+reviewer_notes: Approved via review queue.
+source_url: https://www.unicef.org/innovation/gender-equality/game-changers-coalition-curriculum
 source_item_id: 6a9a5759feed8e57e04e5544
 source_title: Learn to make video games plus AI and money skills
 generated_by: openai
@@ -32,17 +25,11 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 50
   keyword_relevance: 15
-quality_note: >-
-  This article is entirely off-topic for womendivision's Healthy Living
-  editorial focus — covering game development and AI education rather than
-  Beauty, Fashion, Fitness, Lifestyle, Mindfulness, Yoga, or Workout Meals — and
-  lacks verification of the UNICEF GCC program's specific claims.
+quality_note: This article is entirely off-topic for womendivision's Healthy Living editorial focus — covering game development and AI education rather than Beauty, Fashion, Fitness, Lifestyle, Mindfulness, Yoga, or Workout Meals — and lacks verification of the UNICEF GCC program's specific claims.
 reading_time: 2
 topics:
   - Advice
-image_alt: >-
-  Young learners collaborate on laptops with game, AI, and finance-inspired
-  digital elements around them.
+image_alt: Young learners collaborate on laptops with game, AI, and finance-inspired digital elements around them.
 ---
 ## Unlocking Game Development Skills for Free
 
