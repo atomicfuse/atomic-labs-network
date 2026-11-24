@@ -1,0 +1,224 @@
+domain: costedit.com
+active: true
+author: David Hughes
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Grocery Price Watch
+    - Subscription Audit
+    - Bill Negotiation Guides
+    - Smart Spending Showdown
+    - bills
+    - smart financial tips
+  theme: A personal finance site that helps readers spend smarter on everyday
+    expenses. Cover groceries, subscriptions, household bills, and bigger
+    purchases with clear price breakdowns and practical ways to save.
+  topics_v2:
+    - name: Grocery Price Watch
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e2f
+          - 6a00793f1104bbff809b7f09
+          - 6a00793e1104bbff809b7e29
+        tag_ids:
+          - 6a2515e640722bf12ccf991d
+          - 6ab0bb1a0c196d947f9153cd
+          - 6a5ee91bad19af32462e0292
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Subscription Audit
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c56
+          - 6a00793f1104bbff809b7f09
+          - 6a00793e1104bbff809b7dbd
+          - 6a00793e1104bbff809b7dbb
+        tag_ids:
+          - 6ab0bb1a0c196d947f9153cd
+          - 6a5ee91bad19af32462e0292
+          - 6a2515e640722bf12ccf991d
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Bill Negotiation Guides
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7dbd
+          - 6a00793e1104bbff809b7dbb
+          - 6a00793e1104bbff809b7db9
+          - 6a00793f1104bbff809b7f09
+        tag_ids:
+          - 6ab0bb1a0c196d947f9153cd
+          - 6a5ee91bad19af32462e0292
+          - 6a2515e640722bf12ccf991d
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Smart Spending Showdown
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e29
+          - 6a00793f1104bbff809b7e2f
+          - 6a00793f1104bbff809b7f09
+          - 6a00793d1104bbff809b7c56
+        tag_ids:
+          - 6a2515e640722bf12ccf991d
+          - 6ac7908064df7692b392c1c8
+          - 6ab0bb1a0c196d947f9153cd
+          - 6ac79519ce7701ccb2411f98
+          - 6ac792c1ce7701ccb2411f8c
+          - 6a5ee91bad19af32462e0292
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: bills
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c56
+          - 6a00793e1104bbff809b7db9
+          - 6a00793e1104bbff809b7dbf
+          - 6a00793e1104bbff809b7dbb
+        tag_ids:
+          - 6ab0bb1a0c196d947f9153cd
+          - 6a2515e640722bf12ccf991d
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: smart financial tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c56
+          - 6a00793e1104bbff809b7e29
+          - 6a00793f1104bbff809b7f09
+        tag_ids:
+          - 6ab0bb1a0c196d947f9153cd
+          - 6a2515e640722bf12ccf991d
+          - 6a5ee91bad19af32462e0292
+          - 6ac7908064df7692b392c1c8
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+  seo_keywords_focus: []
+  content_guidelines:
+    - "Everyday spending. Cover groceries, takeout, subscriptions, and household
+      essentials. Example: When Is the Bulk Pack Actually Cheaper?"
+    - "Bills and recurring costs. Explain common charges and how to compare
+      plans for internet, mobile service, and utilities. Example: What to Check
+      Before Your Internet Promo Rate Ends."
+    - "The real cost of buying. Break down the upfront and ongoing costs of
+      purchases like printers, coffee machines, and small appliances. Example:
+      What a Budget Printer Costs After You Buy the Ink."
+    - Make comparisons easy to verify. Use simple tables, show the math, and
+      include the date and location for price examples. Use the same units
+      across options and account for fees or renewal rates when they affect the
+      total.
+  image_guidelines:
+    - "- Use realistic editorial photography of everyday spending: groceries on
+      a kitchen counter, someone reviewing a bill at home, or products side by
+      side on a store shelf."
+    - "- Match the image to the article’s decision. For a bulk-buying story,
+      show two package sizes of the same staple so readers understand the
+      comparison at a glance."
+    - "- Keep receipts and screens free of readable personal information. Use
+      clean tables or charts when exact prices matter."
+    - "- Use landscape lead images with a clear subject and room around it for
+      mobile cropping."
+  vertical: Personal Finance
+  vertical_id: 6a00793d1104bbff809b7c56
+  review_percentage: 5
+  schedule:
+    articles_per_day: 5
+    preferred_days:
+      - Monday
+      - Friday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: CostEdit.com
+site_tagline: null
+theme:
+  base: rose_garden
+  colors:
+    primary: "#831843"
+    accent: "#9d174d"
+    background: "#fff7f9"
+    secondary: "#fff7f9"
+    text: "#3d1029"
+    muted: "#9d6f81"
+    surface: "#fce7ef"
+    border: "#f4d4df"
+    heading: "#3d1029"
+    link: "#831843"
+    link_hover: "#9d174d"
+    nav_link: "#fff7f9"
+    nav_link_hover: "#f9a8d4"
+    footer_bg: "#581c3b"
+    must_reads_bg: "#581c3b"
+    hero_title: "#fff7f9"
+    must_reads_title: "#fff7f9"
+    article_hero_title: "#fff7f9"
+    article_hero_meta: "#d4a3b8"
+    feed_title: "#3d1029"
+    feed_desc: "#5c2240"
+    feed_date: "#9d6f81"
+    prose_heading: "#3d1029"
+    prose_body: "#5c2240"
+    category_header_text: "#fff7f9"
+    subscribe_heading: "#fff7f9"
+    footer_text: "#d4a3b8"
+    footer_heading: "#fff7f9"
+    footer_link: "#d4a3b8"
+    footer_link_hover: "#f9a8d4"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Playfair Display
+    body: Lora
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
