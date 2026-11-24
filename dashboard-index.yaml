@@ -1777,6 +1777,25 @@ sites:
     vertical: Food & Drink
     zone_id: 99ae10b3318a3dd44e9b2ee07b9a4b4c
     worker_pending_dns: false
+  - domain: pantry-crisp
+    company: null
+    vertical: Food & Drink
+    status: Staging
+    site_id: "5524189115829"
+    exclusivity: null
+    ob_epid: null
+    ga_info: null
+    cf_apo: false
+    fixed_ad: false
+    last_updated: 2026-11-24T12:43:09.115Z
+    created_at: 2026-11-24T12:43:09.115Z
+    pages_project: null
+    pages_subdomain: null
+    zone_id: null
+    staging_branch: staging/pantry-crisp
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=pantry-crisp
+    saved_previews: null
+    custom_domain: null
 deleted:
   - domain: chaibeseret
     cf_apo: false
