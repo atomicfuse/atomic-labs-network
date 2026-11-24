@@ -1,12 +1,9 @@
 ---
 title: How Gianni Infantino Went From Untouchable to Vulnerable in One Week
-description: >-
-  FIFA president Gianni Infantino's plan to sell a stake in World Cup
-  competitions collapsed in days, triggering a political crisis that now
-  threatens his 2027...
+description: FIFA president Gianni Infantino's plan to sell a stake in World Cup competitions collapsed in days, triggering a political crisis that now threatens his 2027...
 type: standard
-status: review
-publishDate: '2026-08-03'
+status: published
+publishDate: 2026-08-03
 author: Elena Long
 tags:
   - Gaming News
@@ -15,15 +12,10 @@ tags:
   - Sports Governance
   - Football
 slug: gianni-infantino-fifa-privatization-crisis-2026
-reviewer_notes: >-
-  This article is entirely off-topic for a gaming site — it covers FIFA football
-  governance and politics with no connection to video games, resulting in
-  near-zero keyword relevance and poor overall fit despite being reasonably
-  well-written journalism.
-source_url: >-
-  https://www.nytimes.com/athletic/7485172/2026/08/02/fifa-world-cup-stake-sale-inside/
+reviewer_notes: Approved via review queue.
+source_url: https://www.nytimes.com/athletic/7485172/2026/08/02/fifa-world-cup-stake-sale-inside/
 source_item_id: 6a6ff3c9040d4069e18350c6
-source_title: 'Inside the week that shook Gianni Infantino, FIFA and the football world'
+source_title: Inside the week that shook Gianni Infantino, FIFA and the football world
 generated_by: claude
 featuredImage: /assets/images/gianni-infantino-fifa-privatization-crisis-2026.webp
 quality_score: 37
@@ -33,17 +25,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 55
   keyword_relevance: 15
-quality_note: >-
-  This article is entirely off-topic for a gaming site — it covers FIFA football
-  governance and politics with no connection to video games, resulting in
-  near-zero keyword relevance and poor overall fit despite being reasonably
-  well-written journalism.
+quality_note: This article is entirely off-topic for a gaming site — it covers FIFA football governance and politics with no connection to video games, resulting in near-zero keyword relevance and poor overall fit despite being reasonably well-written journalism.
 reading_time: 4
 topics:
   - Reviews
-image_alt: >-
-  Empty football boardroom with a fallen chess king, microphone, red tie, and
-  blurred gold trophy.
+image_alt: Empty football boardroom with a fallen chess king, microphone, red tie, and blurred gold trophy.
 ---
 Just days before the 2026 World Cup final, Gianni Infantino looked like a man nobody could touch. Then, in roughly seven days, that image fell apart completely — and the fallout is still reshaping global football.
 
