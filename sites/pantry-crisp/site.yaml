@@ -15,11 +15,7 @@ brief:
     - Weeknight Pantry Meals
     - Smart Shopping Strategies
     - Baking With Basics
-  theme: Easy recipes that turn everyday pantry staples into meals and snacks
-    people actually want to make. Give the site a signature with crispy
-    favorites like sheet-pan chickpeas, crunchy breadcrumb toppings, and
-    air-fryer snacks, while keeping the recipe mix broad enough for weeknight
-    dinners and baking. Good food from what you already have.
+  theme: Easy recipes that turn everyday pantry staples into meals and snacks people actually want to make. Give the site a signature with crispy favorites like sheet-pan chickpeas, crunchy breadcrumb toppings, and air-fryer snacks, while keeping the recipe mix broad enough for weeknight dinners and baking. Good food from what you already have.
   topics_v2:
     - name: Crispy Pantry Staples
       source:
@@ -73,28 +69,16 @@ brief:
   seo_keywords_focus: []
   content_guidelines:
     - Content guidelines
-    - "- Pantry dinners. Focus on familiar ingredients like canned beans, rice,
-      pasta, lentils, and tinned fish. Examples: Creamy White Bean Pasta and
-      15-Minute Tuna Rice Bowls."
-    - "- Crispy favorites. Cover oven, stovetop, and air-fryer recipes.
-      Examples: Crispy Chickpeas with Smoked Paprika and Sheet-Pan Potato and
-      Black Bean Tacos."
-    - "- Snacks and simple baking. Feature recipes like Peanut Butter Oat
-      Cookies, Homemade Pita Chips, and No-Bake Chocolate Oat Bars."
-    - "- Make recipes easy to follow. Include servings, prep and cook times,
-      common substitutions, and cues for doneness. For crispy recipes, explain
-      the step that makes the difference, such as drying the chickpeas before
-      roasting."
+    - "- Pantry dinners. Focus on familiar ingredients like canned beans, rice, pasta, lentils, and tinned fish. Examples: Creamy White Bean Pasta and 15-Minute Tuna Rice Bowls."
+    - "- Crispy favorites. Cover oven, stovetop, and air-fryer recipes. Examples: Crispy Chickpeas with Smoked Paprika and Sheet-Pan Potato and Black Bean Tacos."
+    - "- Snacks and simple baking. Feature recipes like Peanut Butter Oat Cookies, Homemade Pita Chips, and No-Bake Chocolate Oat Bars."
+    - "- Make recipes easy to follow. Include servings, prep and cook times, common substitutions, and cues for doneness. For crispy recipes, explain the step that makes the difference, such as drying the chickpeas before roasting."
   image_guidelines:
     - Image guidelines
-    - "- Use realistic food photography in warm natural light. Show the finished
-      dish in an everyday kitchen setting with simple plates and cookware."
-    - "- Make texture visible. Capture golden edges, toasted crumbs, flaky
-      layers, or a cut-open portion that shows the inside."
-    - "- Match the recipe closely. Show the actual ingredients, toppings, and
-      cooking result so readers know what to expect."
-    - "- Use a landscape lead image with the dish centered for mobile cropping.
-      Add step photos where they help readers judge texture or doneness."
+    - "- Use realistic food photography in warm natural light. Show the finished dish in an everyday kitchen setting with simple plates and cookware."
+    - "- Make texture visible. Capture golden edges, toasted crumbs, flaky layers, or a cut-open portion that shows the inside."
+    - "- Match the recipe closely. Show the actual ingredients, toppings, and cooking result so readers know what to expect."
+    - "- Use a landscape lead image with the dish centered for mobile cropping. Add step photos where they help readers judge texture or doneness."
   vertical: Food & Drink
   vertical_id: 6a00793d1104bbff809b7c3e
   review_percentage: 5
@@ -168,3 +152,5 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-RGY0MJVSBL
