@@ -15,10 +15,7 @@ brief:
     - Scenic Drive Spotlights
     - Destination Decider Guides
     - Travel Planning Checklists
-  theme: A mainstream travel site for people planning their next getaway. Focus on
-    weekend itineraries, scenic road trips, and practical destination guides
-    that help readers decide where to go, how long to stay, and what to fit into
-    a trip.
+  theme: A mainstream travel site for people planning their next getaway. Focus on weekend itineraries, scenic road trips, and practical destination guides that help readers decide where to go, how long to stay, and what to fit into a trip.
   topics_v2:
     - name: Weekend Itinerary Ideas
       source:
@@ -96,35 +93,19 @@ brief:
   content_guidelines:
     - ontent Guidelines
     - Section	What to cover	Example headline
-    - Weekend Trips	Two- and three-day itineraries with a realistic pace	A
-      First-Timer’s Weekend in Savannah
-    - Road Trips	Scenic routes, worthwhile stops, and driving times	5 Stops
-      Worth Making on a Maine Coast Road Trip
-    - Destination Guides	Where to stay, how to get around, and what to
-      prioritize	Where to Stay in Chicago Without Renting a Car
-    - Travel Tips	Packing, booking, and getting around with less hassle	What to
-      Pack for a Weekend With Just a Carry-On
-    - "- Start with the planning details. Tell readers how much time they need,
-      whether a car helps, and who the trip suits."
-    - "- Build itineraries people can follow. Group nearby stops, allow time for
-      travel and meals, and give readers an option if they have less time."
-    - "- Make the advice specific. Explain why a neighborhood makes a good base
-      or why a stop is worth the detour. Verify seasonal closures, hours, and
-      reservation requirements before publishing. Mention firsthand experience
-      where it informs the recommendation."
+    - Weekend Trips	Two- and three-day itineraries with a realistic pace	A First-Timer’s Weekend in Savannah
+    - Road Trips	Scenic routes, worthwhile stops, and driving times	5 Stops Worth Making on a Maine Coast Road Trip
+    - Destination Guides	Where to stay, how to get around, and what to prioritize	Where to Stay in Chicago Without Renting a Car
+    - Travel Tips	Packing, booking, and getting around with less hassle	What to Pack for a Weekend With Just a Carry-On
+    - "- Start with the planning details. Tell readers how much time they need, whether a car helps, and who the trip suits."
+    - "- Build itineraries people can follow. Group nearby stops, allow time for travel and meals, and give readers an option if they have less time."
+    - "- Make the advice specific. Explain why a neighborhood makes a good base or why a stop is worth the detour. Verify seasonal closures, hours, and reservation requirements before publishing. Mention firsthand experience where it informs the recommendation."
   image_guidelines:
     - Image Guidelines
-    - "- Show the actual place. Use recognizable streets, landscapes, landmarks,
-      or stops featured in the guide. Verify the location and name it in the
-      caption."
-    - "- Match the photo to the reader’s decision. Show the street atmosphere
-      for a neighborhood guide, the view from a pullout for a road trip, or the
-      terrain for an outdoor stop."
-    - "- Keep images natural and easy to crop. Use true-to-life colors and 16:9
-      landscape heroes with a clear focal point near the center for mobile."
-    - "- Use owned or licensed photos. Include required credits and descriptive
-      alt text. Match the season when it affects what readers can expect to
-      see."
+    - "- Show the actual place. Use recognizable streets, landscapes, landmarks, or stops featured in the guide. Verify the location and name it in the caption."
+    - "- Match the photo to the reader’s decision. Show the street atmosphere for a neighborhood guide, the view from a pullout for a road trip, or the terrain for an outdoor stop."
+    - "- Keep images natural and easy to crop. Use true-to-life colors and 16:9 landscape heroes with a clear focal point near the center for mobile."
+    - "- Use owned or licensed photos. Include required credits and descriptive alt text. Match the season when it affects what readers can expect to see."
   vertical: Weekend Itinerary Ideas
   vertical_id: null
   review_percentage: 5
@@ -198,3 +179,5 @@ theme:
     body: Source Sans 3
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-GF420QFKEM
