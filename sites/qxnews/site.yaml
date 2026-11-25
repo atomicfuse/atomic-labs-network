@@ -119,8 +119,7 @@ theme:
   logo_height_footer: 70
   card: {}
 ads_txt:
-  - "# NGC Digital Websites #"
-  - ownerdomain=ngcdigital.io
+  - ownerdomain=atomiclabs.io
   - google.com, pub-8316809043439376, DIRECT, f08c47fec0942fa0
 scripts:
   head:
