@@ -1,0 +1,208 @@
+domain: thenextdetour.com
+active: true
+author: Leo Perry
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: friendly, informative
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Roadside Diner Reviews
+    - Small Town Spotlight
+    - Scenic Route Guides
+    - Quirky Attraction Quest
+  theme: >-
+    Road trips and the stops worth getting off the highway for.
+    TheNextDetour.com helps travelers discover small towns, scenic backroads,
+    roadside diners, and unexpected attractions along routes they’re already
+    driving.
+
+
+    The signature format is “Is It Worth the Detour?” Each guide tells readers
+    what they’ll find, how much time the stop adds, and whether it works as a
+    quick break or deserves a few hours.
+
+
+    Tagline
+
+    Find your next favorite stop.
+  topics_v2:
+    - name: Roadside Diner Reviews
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7cd1
+          - 6a00793e1104bbff809b7d17
+          - 6a00793f1104bbff809b7f93
+        tag_ids:
+          - 6a1402bf16f23264031d7c63
+          - 6a8cf866e04b499a4e888be5
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831e00fc9210eaf31ab2d
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Small Town Spotlight
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f93
+          - 6a00793f1104bbff809b7f83
+          - 6a00793f1104bbff809b7fa5
+          - 6a00793e1104bbff809b7cd1
+        tag_ids:
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1402bf16f23264031d7c63
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Scenic Route Guides
+      source:
+        type: filter
+        category_ids: []
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Quirky Attraction Quest
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f93
+          - 6a00793e1104bbff809b7cc5
+          - 6a00793e1104bbff809b7cc1
+          - 6a00793f1104bbff809b7f83
+        tag_ids:
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a1402bf16f23264031d7c63
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a03361f86fcaaeb5bc83268
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Content guidelines
+    - Category	What to publish	Example headline
+    - Worth the Detour	Short side trips from major highways and popular
+      road-trip routes.	6 Stops Worth Leaving I-95 for Between Boston and
+      Portland
+    - Small-Town Stops	Walkable downtowns, local shops, diners, and places to
+      stretch your legs.	How to Spend Two Hours in Bisbee, Arizona
+    - Scenic Routes	Backroads and alternate routes with viewpoints, photo stops,
+      and picnic spots.	A Slower, More Scenic Drive From Portland to the Oregon
+      Coast
+    - Roadside Finds	Classic diners, quirky museums, historic motels, farm
+      stands, and unusual landmarks.	7 Roadside Museums Worth Pulling Over For
+    - "- Lead with the payoff. Tell readers what makes the stop memorable and
+      where it fits into their drive."
+    - "- Make the time commitment clear. Include the highway or nearest exit,
+      added driving time, suggested visit length, and parking. Distinguish the
+      extra drive from the time spent at the stop."
+    - "- Give each stop a reason to make the list. A riverside picnic spot, a
+      standout pie counter, or an overlook five minutes from the exit gives
+      readers something specific to decide on."
+    - "- Check details that can change. Verify hours, admission, seasonal
+      closures, and road access with official sources. Link to them and show
+      when the guide was last checked."
+  image_guidelines:
+    - "- Show the actual stop. Use real, licensed photos of the featured diner,
+      overlook, town, or attraction. For roundups, lead with a stop that appears
+      in the article."
+    - "- Make the hero specific to the place. A recognizable storefront, a bend
+      in the featured road, or a view from the actual pullout works better than
+      a generic road-trip photo."
+    - "- Add photos that help readers orient themselves. Show a turnoff,
+      entrance, parking area, or the short walk from the car when it helps
+      someone find the stop."
+    - "- Keep the look natural. Favor daylight, true-to-life colors, and candid
+      details. Frame the main subject so it stays recognizable in a wide hero
+      crop and a mobile thumbnail."
+    - "- Use maps for route guides when they help readers choose. Mark the main
+      route, the detour, and the return point. Credit imagery as required and
+      write alt text that describes what’s visible."
+  vertical: Travel
+  vertical_id: 6a00793d1104bbff809b7c7a
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Monday
+      - Friday
+    preferred_time: 10:00
+groups: []
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: TheNextDetour.com
+site_tagline: null
+theme:
+  base: carbon_editorial
+  colors:
+    primary: "#161618"
+    accent: "#d97706"
+    background: "#0b0b0c"
+    secondary: "#0b0b0c"
+    text: "#e6e6e6"
+    muted: "#a3a3a3"
+    surface: "#1c1c1f"
+    border: "#262629"
+    heading: "#fafafa"
+    link: "#fbbf24"
+    link_hover: "#fde68a"
+    nav_link: "#fafafa"
+    nav_link_hover: "#fbbf24"
+    footer_bg: "#0b0b0c"
+    must_reads_bg: "#161618"
+    hero_title: "#fafafa"
+    must_reads_title: "#fafafa"
+    article_hero_title: "#fafafa"
+    article_hero_meta: "#a3a3a3"
+    feed_title: "#fafafa"
+    feed_desc: "#d4d4d4"
+    feed_date: "#a3a3a3"
+    prose_heading: "#fafafa"
+    prose_body: "#d4d4d4"
+    category_header_text: "#fafafa"
+    subscribe_heading: "#0b0b0c"
+    footer_text: "#a3a3a3"
+    footer_heading: "#fafafa"
+    footer_link: "#a3a3a3"
+    footer_link_hover: "#fbbf24"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Merriweather
+    body: Source Sans 3
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
