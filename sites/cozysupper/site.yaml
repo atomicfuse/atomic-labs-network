@@ -116,7 +116,7 @@ brief:
   category_ids: []
   tag_ids: []
 groups:
-  - ready
+  - ncg
 iab_vertical_code: null
 layout:
   hero:
