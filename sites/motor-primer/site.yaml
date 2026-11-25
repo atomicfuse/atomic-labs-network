@@ -15,10 +15,7 @@ brief:
     - Dashboard Light Decoded
     - Maintenance Milestones
     - Dealer Listing Explained
-  theme: A mainstream car site that helps everyday drivers choose, understand, and
-    take care of their cars. Focus on car comparisons, buying guides, and
-    plain-English explanations of features people see on the dashboard or in a
-    dealer listing.
+  theme: A mainstream car site that helps everyday drivers choose, understand, and take care of their cars. Focus on car comparisons, buying guides, and plain-English explanations of features people see on the dashboard or in a dealer listing.
   topics_v2:
     - name: Car Comparison Guides
       source:
@@ -75,39 +72,19 @@ brief:
   content_guidelines:
     - Content Guidelines
     - Section	What to cover	Example headline
-    - Car Buying	New and used car shopping, trim levels, and features worth
-      paying for	What Should You Check on a Used-Car Test Drive?
-    - Car Comparisons	Practical trade-offs by budget, body style, and driving
-      habits	Small SUV or Hatchback? Which Gives You More Usable Space?
-    - Car Tech Explained	Hybrids, EV charging, dashboard symbols, and
-      driver-assist features	What’s the Difference Between a Hybrid and a
-      Plug-In Hybrid?
-    - Car Ownership	Routine maintenance, running costs, and seasonal upkeep	What
-      Does a Tire Pressure Warning Light Mean?
-    - "- Lead with the driver’s question. Give the short answer first, then
-      explain what the difference means in daily use. A cargo-space comparison
-      can show whether a folded stroller fits with the rear seats up."
-    - "- Be specific about the vehicle. Include model year, trim, and market
-      when prices, features, or specifications vary. Verify these details
-      against manufacturer specifications or owner’s manuals."
-    - "- Make the basis of each verdict clear. For hands-on reviews, say what
-      you drove and under what conditions. For researched comparisons, show the
-      specs and criteria behind the conclusion."
+    - Car Buying	New and used car shopping, trim levels, and features worth paying for	What Should You Check on a Used-Car Test Drive?
+    - Car Comparisons	Practical trade-offs by budget, body style, and driving habits	Small SUV or Hatchback? Which Gives You More Usable Space?
+    - Car Tech Explained	Hybrids, EV charging, dashboard symbols, and driver-assist features	What’s the Difference Between a Hybrid and a Plug-In Hybrid?
+    - Car Ownership	Routine maintenance, running costs, and seasonal upkeep	What Does a Tire Pressure Warning Light Mean?
+    - "- Lead with the driver’s question. Give the short answer first, then explain what the difference means in daily use. A cargo-space comparison can show whether a folded stroller fits with the rear seats up."
+    - "- Be specific about the vehicle. Include model year, trim, and market when prices, features, or specifications vary. Verify these details against manufacturer specifications or owner’s manuals."
+    - "- Make the basis of each verdict clear. For hands-on reviews, say what you drove and under what conditions. For researched comparisons, show the specs and criteria behind the conclusion."
   image_guidelines:
     - Image Guidelines
-    - "- Show what the article explains. Use a rear-seat photo for legroom, an
-      open trunk for cargo space, and a dashboard close-up for a warning light.
-      Use matching angles for side-by-side comparisons."
-    - "- Match the exact car. Verify the model year, trim, and market when they
-      affect visible features. Caption manufacturer photos and original
-      test-drive photos accurately."
-    - "- Keep the look clean and realistic. Use natural light, true-to-life
-      colors, and a 16:9 landscape hero with room for mobile crops. Choose
-      everyday settings such as a driveway, parking lot, or charging station
-      when they add context."
-    - "- Use owned or licensed images. Include required credits and descriptive
-      alt text, such as “Folded stroller in the cargo area with the rear seats
-      upright.”"
+    - "- Show what the article explains. Use a rear-seat photo for legroom, an open trunk for cargo space, and a dashboard close-up for a warning light. Use matching angles for side-by-side comparisons."
+    - "- Match the exact car. Verify the model year, trim, and market when they affect visible features. Caption manufacturer photos and original test-drive photos accurately."
+    - "- Keep the look clean and realistic. Use natural light, true-to-life colors, and a 16:9 landscape hero with room for mobile crops. Choose everyday settings such as a driveway, parking lot, or charging station when they add context."
+    - "- Use owned or licensed images. Include required credits and descriptive alt text, such as “Folded stroller in the cargo area with the rear seats upright.”"
   vertical: Automotive
   vertical_id: 6a00793d1104bbff809b7c1a
   review_percentage: 5
@@ -174,14 +151,10 @@ theme:
     footer_heading: "#f5e8c7"
     footer_link: "#d4c79d"
     footer_link_hover: "#ffffff"
-    header_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a
-      50%, #2d2418 75%, #0a0a0a 100%)"
-    subscribe_bg_gradient: "linear-gradient(135deg, #8a6508 0%, #b8860b 30%, #f5e8c7
-      50%, #b8860b 70%, #8a6508 100%)"
-    footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a
-      50%, #2d2418 75%, #0a0a0a 100%)"
-    must_reads_bg_gradient: "linear-gradient(135deg, #0a0a0a 0%, #3d2c1a 30%,
-      #6b4a1a 50%, #3d2c1a 70%, #0a0a0a 100%)"
+    header_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a 50%, #2d2418 75%, #0a0a0a 100%)"
+    subscribe_bg_gradient: "linear-gradient(135deg, #8a6508 0%, #b8860b 30%, #f5e8c7 50%, #b8860b 70%, #8a6508 100%)"
+    footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a 50%, #2d2418 75%, #0a0a0a 100%)"
+    must_reads_bg_gradient: "linear-gradient(135deg, #0a0a0a 0%, #3d2c1a 30%, #6b4a1a 50%, #3d2c1a 70%, #0a0a0a 100%)"
     hero_overlay_gradient: linear-gradient(180deg, transparent 45%, rgba(10,10,10,0.85) 100%)
   logo_height: 52
   menu_item_font_size: 14
@@ -190,3 +163,5 @@ theme:
     body: Lora
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-HTTDYCRY45
