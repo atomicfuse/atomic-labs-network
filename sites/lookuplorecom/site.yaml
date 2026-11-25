@@ -15,15 +15,10 @@ brief:
     - Celestial Event Alerts
     - Weather Phenomena
     - Astrology & You
-  theme: >-
-    A mainstream science site about the things that make people stop and look
-    up. Cover strange clouds, colorful skies, dramatic weather, and celestial
-    events. The name gives you room to explore the stories people have told
-    about the sky, too.
-
+  theme: |-
+    A mainstream science site about the things that make people stop and look up. Cover strange clouds, colorful skies, dramatic weather, and celestial events. The name gives you room to explore the stories people have told about the sky, too.
 
     Tagline
-
     The stories behind what you see in the sky.
   topics_v2:
     - name: Sky Lore Explained
@@ -80,47 +75,21 @@ brief:
   content_guidelines:
     - Content guidelines
     - Category	What to publish	Example headline
-    - Scenic Day Hikes	Short loops, waterfall walks, lakeside trails, and hikes
-      with a memorable viewpoint.	7 Short Hikes With Big Views in the Smokies
-    - National Parks	First-visit itineraries, scenic drives, and easy walks
-      organized by how much time readers have.	One Day in Acadia? Here’s How to
-      Spend It
-    - Weekend Getaways	Mountain towns and road trips anchored by a hike, with
-      ideas for where to stay, eat, or stop along the way.	5 Mountain Towns
-      Where You Can Walk From Main Street to the Trail
-    - Trail Tips	Practical advice on choosing a trail, packing for a day hike,
-      and understanding trail ratings.	What “Moderate” Actually Feels Like on a
-      Day Hike
-    - "- Lead with the reason to go. Tell readers what they’ll see, where it is,
-      and who will enjoy it. Use clear, conversational language and specific
-      details."
-    - "- Give every trail guide an at-a-glance box. Include distance, route
-      type, elevation gain, estimated time, trailhead, and parking. Explain what
-      makes the hike feel easy or challenging, such as steep stairs, uneven
-      footing, or limited shade."
-    - "- Help readers plan the rest of the day. Add a nearby lunch stop, scenic
-      drive, or second short walk when it fits. For roundups, give readers a
-      reason to choose each trail, such as a shaded route, a lake view, or a
-      quick walk from the trailhead."
-    - "- Verify trip details before publishing. Check closures, permits, fees,
-      and seasonal access with the official park or land manager. Link to that
-      source and show when the guide was last checked."
+    - Scenic Day Hikes	Short loops, waterfall walks, lakeside trails, and hikes with a memorable viewpoint.	7 Short Hikes With Big Views in the Smokies
+    - National Parks	First-visit itineraries, scenic drives, and easy walks organized by how much time readers have.	One Day in Acadia? Here’s How to Spend It
+    - Weekend Getaways	Mountain towns and road trips anchored by a hike, with ideas for where to stay, eat, or stop along the way.	5 Mountain Towns Where You Can Walk From Main Street to the Trail
+    - Trail Tips	Practical advice on choosing a trail, packing for a day hike, and understanding trail ratings.	What “Moderate” Actually Feels Like on a Day Hike
+    - "- Lead with the reason to go. Tell readers what they’ll see, where it is, and who will enjoy it. Use clear, conversational language and specific details."
+    - "- Give every trail guide an at-a-glance box. Include distance, route type, elevation gain, estimated time, trailhead, and parking. Explain what makes the hike feel easy or challenging, such as steep stairs, uneven footing, or limited shade."
+    - "- Help readers plan the rest of the day. Add a nearby lunch stop, scenic drive, or second short walk when it fits. For roundups, give readers a reason to choose each trail, such as a shaded route, a lake view, or a quick walk from the trailhead."
+    - "- Verify trip details before publishing. Check closures, permits, fees, and seasonal access with the official park or land manager. Link to that source and show when the guide was last checked."
   image_guidelines:
     - Image guidelines
-    - "- Lead with a real photograph of the phenomenon. If the article is about
-      a moon halo, the hero should show the ring clearly. Use licensed imagery
-      and include credits where required."
-    - "- Give readers a sense of scale. A roofline, distant trees, or a horizon
-      can show how large or high a cloud formation appears."
-    - "- Keep the sky believable. Avoid heavy saturation and edits that change
-      the phenomenon’s shape or color. Preserve visible details when cropping
-      for mobile."
-    - "- Use simple diagrams when the photo can’t explain the cause. Show how
-      light bends, where clouds form, or how an eclipse lines up. Label
-      illustrations and composites clearly."
-    - "- Match the article’s tone. Use documentary photography for weather and
-      skywatching, and credited archival art or labeled illustrations for
-      folklore."
+    - "- Lead with a real photograph of the phenomenon. If the article is about a moon halo, the hero should show the ring clearly. Use licensed imagery and include credits where required."
+    - "- Give readers a sense of scale. A roofline, distant trees, or a horizon can show how large or high a cloud formation appears."
+    - "- Keep the sky believable. Avoid heavy saturation and edits that change the phenomenon’s shape or color. Preserve visible details when cropping for mobile."
+    - "- Use simple diagrams when the photo can’t explain the cause. Show how light bends, where clouds form, or how an eclipse lines up. Label illustrations and composites clearly."
+    - "- Match the article’s tone. Use documentary photography for weather and skywatching, and credited archival art or labeled illustrations for folklore."
   vertical: Religion & Spirituality
   vertical_id: 6a00793d1104bbff809b7c65
   review_percentage: 5
@@ -194,3 +163,5 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-E0EVFP9L5L
