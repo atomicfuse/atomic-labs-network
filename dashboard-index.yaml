@@ -1837,6 +1837,25 @@ sites:
     vertical: Food & Drink
     zone_id: 99ae10b3318a3dd44e9b2ee07b9a4b4c
     worker_pending_dns: false
+  - domain: lookuplorecom
+    company: null
+    vertical: Religion & Spirituality
+    status: Staging
+    site_id: "5597433597305"
+    exclusivity: null
+    ob_epid: null
+    ga_info: null
+    cf_apo: false
+    fixed_ad: false
+    last_updated: 2026-11-25T09:03:53.597Z
+    created_at: 2026-11-25T09:03:53.597Z
+    pages_project: null
+    pages_subdomain: null
+    zone_id: null
+    staging_branch: staging/lookuplorecom
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=lookuplorecom
+    saved_previews: null
+    custom_domain: null
 deleted:
   - domain: chaibeseret
     cf_apo: false
