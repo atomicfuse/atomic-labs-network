@@ -17,9 +17,7 @@ brief:
     - Smart Spending Showdown
     - bills
     - smart financial tips
-  theme: A personal finance site that helps readers spend smarter on everyday
-    expenses. Cover groceries, subscriptions, household bills, and bigger
-    purchases with clear price breakdowns and practical ways to save.
+  theme: A personal finance site that helps readers spend smarter on everyday expenses. Cover groceries, subscriptions, household bills, and bigger purchases with clear price breakdowns and practical ways to save.
   topics_v2:
     - name: Grocery Price Watch
       source:
@@ -126,29 +124,15 @@ brief:
           - Friday
   seo_keywords_focus: []
   content_guidelines:
-    - "Everyday spending. Cover groceries, takeout, subscriptions, and household
-      essentials. Example: When Is the Bulk Pack Actually Cheaper?"
-    - "Bills and recurring costs. Explain common charges and how to compare
-      plans for internet, mobile service, and utilities. Example: What to Check
-      Before Your Internet Promo Rate Ends."
-    - "The real cost of buying. Break down the upfront and ongoing costs of
-      purchases like printers, coffee machines, and small appliances. Example:
-      What a Budget Printer Costs After You Buy the Ink."
-    - Make comparisons easy to verify. Use simple tables, show the math, and
-      include the date and location for price examples. Use the same units
-      across options and account for fees or renewal rates when they affect the
-      total.
+    - "Everyday spending. Cover groceries, takeout, subscriptions, and household essentials. Example: When Is the Bulk Pack Actually Cheaper?"
+    - "Bills and recurring costs. Explain common charges and how to compare plans for internet, mobile service, and utilities. Example: What to Check Before Your Internet Promo Rate Ends."
+    - "The real cost of buying. Break down the upfront and ongoing costs of purchases like printers, coffee machines, and small appliances. Example: What a Budget Printer Costs After You Buy the Ink."
+    - Make comparisons easy to verify. Use simple tables, show the math, and include the date and location for price examples. Use the same units across options and account for fees or renewal rates when they affect the total.
   image_guidelines:
-    - "- Use realistic editorial photography of everyday spending: groceries on
-      a kitchen counter, someone reviewing a bill at home, or products side by
-      side on a store shelf."
-    - "- Match the image to the article’s decision. For a bulk-buying story,
-      show two package sizes of the same staple so readers understand the
-      comparison at a glance."
-    - "- Keep receipts and screens free of readable personal information. Use
-      clean tables or charts when exact prices matter."
-    - "- Use landscape lead images with a clear subject and room around it for
-      mobile cropping."
+    - "- Use realistic editorial photography of everyday spending: groceries on a kitchen counter, someone reviewing a bill at home, or products side by side on a store shelf."
+    - "- Match the image to the article’s decision. For a bulk-buying story, show two package sizes of the same staple so readers understand the comparison at a glance."
+    - "- Keep receipts and screens free of readable personal information. Use clean tables or charts when exact prices matter."
+    - "- Use landscape lead images with a clear subject and room around it for mobile cropping."
   vertical: Personal Finance
   vertical_id: 6a00793d1104bbff809b7c56
   review_percentage: 5
@@ -222,3 +206,5 @@ theme:
     body: Lora
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-H9P7F2X9H4
