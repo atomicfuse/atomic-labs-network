@@ -1,0 +1,244 @@
+domain: thetrailtalk.com
+active: true
+author: Lucas Scott
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Scenic Trail Spotlights
+    - National Park Itineraries
+    - Adventure Town Guides
+    - Gear And Safety
+  theme: >-
+    Find your next trail. Make a trip of it.
+
+    TheTrailTalk.com should be a travel and outdoors site about scenic day
+    hikes, national parks, and weekend getaways. Think practical guides for
+    people who want to spend more time outside and need help picking where to
+    go.
+
+
+    I’d make easy scenic hikes and the towns near them the signature. Each guide
+    could help readers plan a full day: how long the trail takes, how steep it
+    gets, where to park, and where to grab lunch afterward.
+
+
+    Core categories
+
+    - Find a Hike — Waterfall trails, easy loops, and short hikes with big
+    views.
+
+    - National Parks — First-timer itineraries, scenic drives, and the best
+    stops when you only have one day.
+
+    - Weekend Trips — Mountain towns, cabin getaways, and road trips built
+    around a hike.
+
+    - Trail Tips — What to pack, how to read a trail map, and how to choose a
+    hike that fits your group.
+
+    Sample headlines
+
+    - 7 Short Hikes With Views Worth the Drive
+
+    - One Day in Zion? Here’s How to Spend It
+
+    - 5 Mountain Towns Where the Best Hikes Start Near Main Street
+  topics_v2:
+    - name: Scenic Trail Spotlights
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7ccb
+          - 6a00793e1104bbff809b7cc9
+          - 6a00793f1104bbff809b7fa5
+          - 6a00793f1104bbff809b7f89
+        tag_ids:
+          - 6a0b1eeea53fcab94b3649a8
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a033ad286fcaaeb5bc83349
+          - 6a044aaf86fcaaeb5bc83871
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: National Park Itineraries
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f83
+          - 6a00793e1104bbff809b7ccb
+          - 6a00793f1104bbff809b7fa5
+          - 6a00793f1104bbff809b7f93
+        tag_ids:
+          - 6a0b1eeea53fcab94b3649a8
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a1844f8454e8b9490eacac7
+          - 6aaafda6ee95cf186f57c49f
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Adventure Town Guides
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f93
+          - 6a00793f1104bbff809b7f89
+          - 6a00793e1104bbff809b7ccb
+          - 6a00793f1104bbff809b7f8d
+        tag_ids:
+          - 6a0b1eeea53fcab94b3649a8
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a1402bf16f23264031d7c63
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+    - name: Gear And Safety
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7ccb
+          - 6a00793e1104bbff809b7cc9
+          - 6a00793f1104bbff809b7fa1
+          - 6a00793f1104bbff809b7e9f
+        tag_ids:
+          - 6a0b1eeea53fcab94b3649a8
+          - 6a1831e00fc9210eaf31ab2d
+          - 6aaafda6ee95cf186f57c49f
+          - 6a044aaf86fcaaeb5bc83871
+          - 6a06a28afebc8d8d1c2ca45e
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+          - Friday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Content guidelines
+    - Category	What to publish	Example headline
+    - Scenic Day Hikes	Short loops, waterfall walks, lakeside trails, and hikes
+      with a memorable viewpoint.	7 Short Hikes With Big Views in the Smokies
+    - National Parks	First-visit itineraries, scenic drives, and easy walks
+      organized by how much time readers have.	One Day in Acadia? Here’s How to
+      Spend It
+    - Weekend Getaways	Mountain towns and road trips anchored by a hike, with
+      ideas for where to stay, eat, or stop along the way.	5 Mountain Towns
+      Where You Can Walk From Main Street to the Trail
+    - Trail Tips	Practical advice on choosing a trail, packing for a day hike,
+      and understanding trail ratings.	What “Moderate” Actually Feels Like on a
+      Day Hike
+    - "- Lead with the reason to go. Tell readers what they’ll see, where it is,
+      and who will enjoy it. Use clear, conversational language and specific
+      details."
+    - "- Give every trail guide an at-a-glance box. Include distance, route
+      type, elevation gain, estimated time, trailhead, and parking. Explain what
+      makes the hike feel easy or challenging, such as steep stairs, uneven
+      footing, or limited shade."
+    - "- Help readers plan the rest of the day. Add a nearby lunch stop, scenic
+      drive, or second short walk when it fits. For roundups, give readers a
+      reason to choose each trail, such as a shaded route, a lake view, or a
+      quick walk from the trailhead."
+    - "- Verify trip details before publishing. Check closures, permits, fees,
+      and seasonal access with the official park or land manager. Link to that
+      source and show when the guide was last checked."
+  image_guidelines:
+    - Image guidelines
+    - "- Use real, location-specific photography for destination guides. Show
+      the actual trail, viewpoint, waterfall, or town named in the headline. Use
+      original or properly licensed photos and credit them as required."
+    - "- Show what the hike feels like. Use a wide hero shot for the main draw,
+      then include practical photos of the trail surface, steep sections, shade,
+      or exposed viewpoints where relevant."
+    - "- Keep the look natural and inviting. Favor believable colors, natural
+      light, and everyday hikers. Keep the main subject near the center so the
+      image works as both a wide hero and a mobile thumbnail."
+    - "- Match the image to the article’s promise. Use a photo of the route or
+      view for trail guides, a recognizable town scene for weekend trips, and a
+      simple demonstration photo for gear or how-to articles."
+    - "- Label illustrative images clearly. Reserve AI-generated scenes for
+      general topics where the landscape is illustrative. For real destinations,
+      use verified photos and write alt text that describes what’s visible."
+  vertical: Travel
+  vertical_id: 6a00793d1104bbff809b7c7a
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Monday
+      - Friday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: TheTrailTalk.com
+site_tagline: null
+theme:
+  base: scandi
+  colors:
+    primary: "#1c1c1c"
+    accent: "#3a3a3a"
+    background: "#f5f3ef"
+    secondary: "#f5f3ef"
+    text: "#1c1c1c"
+    muted: "#a0a0a0"
+    surface: "#ebe8e2"
+    border: "#d6d2c9"
+    heading: "#1c1c1c"
+    link: "#1c1c1c"
+    link_hover: "#5a5a5a"
+    nav_link: "#f5f3ef"
+    nav_link_hover: "#d6d2c9"
+    footer_bg: "#1c1c1c"
+    must_reads_bg: "#1c1c1c"
+    hero_title: "#f5f3ef"
+    must_reads_title: "#f5f3ef"
+    article_hero_title: "#f5f3ef"
+    article_hero_meta: "#a0a0a0"
+    feed_title: "#1c1c1c"
+    feed_desc: "#2a2a2a"
+    feed_date: "#a0a0a0"
+    prose_heading: "#1c1c1c"
+    prose_body: "#2a2a2a"
+    category_header_text: "#f5f3ef"
+    subscribe_heading: "#f5f3ef"
+    footer_text: "#a0a0a0"
+    footer_heading: "#f5f3ef"
+    footer_link: "#a0a0a0"
+    footer_link_hover: "#f5f3ef"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Manrope
+    body: Manrope
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
