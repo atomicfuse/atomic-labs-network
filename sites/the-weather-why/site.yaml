@@ -15,9 +15,7 @@ brief:
     - Atmospheric Wonders
     - Climate Conundrums
     - Storm Science
-  theme: A mainstream weather site that explains why the weather does what it
-    does. Focus on questions people ask when the forecast changes, the air feels
-    different, or a storm rolls in.
+  theme: A mainstream weather site that explains why the weather does what it does. Focus on questions people ask when the forecast changes, the air feels different, or a storm rolls in.
   topics_v2:
     - name: Forecast Explained
       source:
@@ -84,34 +82,18 @@ brief:
     - Tagline · Why the weather does what it does.
     - Content Guidelines
     - Section	What to cover	Example headline
-    - Everyday Weather	Rain, wind, fog, humidity, and temperature	Why Does It
-      Feel Colder When It’s Windy?
-    - Storms Explained	Thunderstorms, lightning, hail, and heavy rain	Why Does
-      It Hail in the Summer?
-    - The Forecast	Forecast changes and common weather terms	Why Did the
-      Forecast Change Overnight?
-    - Seasonal Weather	Cold snaps, heat waves, frost, and seasonal patterns	Why
-      Can It Frost When the Forecast Says 36°F?
-    - "- Answer the question up front. Give the short answer in the first
-      paragraph, then explain what causes it with a familiar example."
-    - "- Write for a general audience. Define technical terms in context and use
-      specific headlines readers can recognize from their own experience."
-    - "- Use timely weather to tell evergreen stories. A stretch of foggy
-      mornings can prompt an explainer on how fog forms. When covering an active
-      weather event, verify the location, timing, and conditions with the
-      relevant official weather service."
+    - Everyday Weather	Rain, wind, fog, humidity, and temperature	Why Does It Feel Colder When It’s Windy?
+    - Storms Explained	Thunderstorms, lightning, hail, and heavy rain	Why Does It Hail in the Summer?
+    - The Forecast	Forecast changes and common weather terms	Why Did the Forecast Change Overnight?
+    - Seasonal Weather	Cold snaps, heat waves, frost, and seasonal patterns	Why Can It Frost When the Forecast Says 36°F?
+    - "- Answer the question up front. Give the short answer in the first paragraph, then explain what causes it with a familiar example."
+    - "- Write for a general audience. Define technical terms in context and use specific headlines readers can recognize from their own experience."
+    - "- Use timely weather to tell evergreen stories. A stretch of foggy mornings can prompt an explainer on how fog forms. When covering an active weather event, verify the location, timing, and conditions with the relevant official weather service."
   image_guidelines:
-    - Show the condition clearly. Use low fog along a tree line, hailstones
-      beside a ruler, frost on a windshield, or wind bending tall grass. Pick a
-      scene that helps explain the story.
-    - Use realistic editorial photography. Favor natural color, one clear focal
-      point, and a 16:9 landscape crop with the subject near the center for
-      mobile.
-    - Use diagrams when the cause is invisible. A simple diagram can show how
-      hills channel wind or how cold air settles in a valley.
-    - Caption images accurately. Identify file photos and illustrations. For a
-      specific storm or weather event, verify where and when the photo was
-      taken. Include required credits and descriptive alt text.
+    - Show the condition clearly. Use low fog along a tree line, hailstones beside a ruler, frost on a windshield, or wind bending tall grass. Pick a scene that helps explain the story.
+    - Use realistic editorial photography. Favor natural color, one clear focal point, and a 16:9 landscape crop with the subject near the center for mobile.
+    - Use diagrams when the cause is invisible. A simple diagram can show how hills channel wind or how cold air settles in a valley.
+    - Caption images accurately. Identify file photos and illustrations. For a specific storm or weather event, verify where and when the photo was taken. Include required credits and descriptive alt text.
   vertical: Science
   vertical_id: 6a00793d1104bbff809b7c68
   review_percentage: 5
@@ -184,3 +166,5 @@ theme:
     body: IBM Plex Sans
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-BXV5KFJZ6S
