@@ -15,11 +15,8 @@ brief:
     - Hands-On Previews
     - This Week's Releases
     - What To Play
-  theme: >-
-    A mainstream gaming site that helps readers keep up with new releases and
-    decide what to play next. Lead with upcoming games, hands-on reviews, and
-    recommendations for PC, console, and handheld players.
-
+  theme: |-
+    A mainstream gaming site that helps readers keep up with new releases and decide what to play next. Lead with upcoming games, hands-on reviews, and recommendations for PC, console, and handheld players.
 
     Tagline · What’s dropping. What’s worth playing.
   topics_v2:
@@ -89,37 +86,19 @@ brief:
   content_guidelines:
     - Content Guidelines
     - Section	What to cover	Example headline
-    - New Releases	Release calendars, launch dates, platforms, and subscription
-      availability	New Games Coming Out This Month
-    - Reviews	Hands-on verdicts that explain how a game plays and who will enjoy
-      it	Is This Co-op Adventure Worth Playing With Friends?
-    - What to Play	Curated picks by genre, platform, budget, or time
-      commitment	7 Short Games You Can Finish in a Weekend
-    - Gaming News	Announcements, delays, and updates that matter to players	What
-      the Latest Update Adds for Returning Players
-    - "- Put the player’s decision first. For release coverage, give the date
-      and supported platforms up front. For reviews, lead with the verdict and
-      who the game is best for."
-    - "- Label the coverage clearly. Use Review for hands-on play, Preview for
-      early impressions, and First Look for coverage based on trailers or
-      announcements. Disclose publisher-provided review copies."
-    - "- Check availability before publishing. Verify dates, prices, editions,
-      and subscription access against publisher announcements or official
-      storefronts. Specify the platform or region when it matters."
+    - New Releases	Release calendars, launch dates, platforms, and subscription availability	New Games Coming Out This Month
+    - Reviews	Hands-on verdicts that explain how a game plays and who will enjoy it	Is This Co-op Adventure Worth Playing With Friends?
+    - What to Play	Curated picks by genre, platform, budget, or time commitment	7 Short Games You Can Finish in a Weekend
+    - Gaming News	Announcements, delays, and updates that matter to players	What the Latest Update Adds for Returning Players
+    - "- Put the player’s decision first. For release coverage, give the date and supported platforms up front. For reviews, lead with the verdict and who the game is best for."
+    - "- Label the coverage clearly. Use Review for hands-on play, Preview for early impressions, and First Look for coverage based on trailers or announcements. Disclose publisher-provided review copies."
+    - "- Check availability before publishing. Verify dates, prices, editions, and subscription access against publisher announcements or official storefronts. Specify the platform or region when it matters."
   image_guidelines:
     - Image Guidelines
-    - "- Show the game. Use approved publisher assets or original gameplay
-      captures where permitted. For reviews, choose a screenshot that shows what
-      players spend time doing."
-    - "- Identify footage accurately. Distinguish gameplay screenshots, trailer
-      stills, and promotional artwork in captions. Use imagery from the reviewed
-      platform when discussing graphics or performance."
-    - "- Keep thumbnails readable. Use 16:9 landscape heroes with one clear
-      focal point and room for mobile crops. Choose spoiler-free scenes and keep
-      headline text off the image."
-    - "- Credit the source and describe the scene. Follow the publisher’s
-      asset-use terms and add specific alt text, such as “Two players crossing a
-      flooded street in co-op mode.”"
+    - "- Show the game. Use approved publisher assets or original gameplay captures where permitted. For reviews, choose a screenshot that shows what players spend time doing."
+    - "- Identify footage accurately. Distinguish gameplay screenshots, trailer stills, and promotional artwork in captions. Use imagery from the reviewed platform when discussing graphics or performance."
+    - "- Keep thumbnails readable. Use 16:9 landscape heroes with one clear focal point and room for mobile crops. Choose spoiler-free scenes and keep headline text off the image."
+    - "- Credit the source and describe the scene. Follow the publisher’s asset-use terms and add specific alt text, such as “Two players crossing a flooded street in co-op mode.”"
   vertical: Technology & Computing
   vertical_id: 6a00793d1104bbff809b7c77
   review_percentage: 5
@@ -196,3 +175,5 @@ theme:
     body: Source Sans 3
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-ZSC6Q89G5F
