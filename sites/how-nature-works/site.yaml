@@ -17,9 +17,7 @@ brief:
     - River Ecosystems
     - animals
     - wildlife
-  theme: A mainstream science site that explains the nature people encounter in
-    their backyards, parks, and on walks. Cover familiar subjects such as birds,
-    trees, insects, rivers, and the changing seasons.
+  theme: A mainstream science site that explains the nature people encounter in their backyards, parks, and on walks. Cover familiar subjects such as birds, trees, insects, rivers, and the changing seasons.
   topics_v2:
     - name: Backyard Birding
       source:
@@ -125,39 +123,20 @@ brief:
   content_guidelines:
     - Content Guidelines
     - Section	What to cover	Example headline
-    - Animals & Wildlife	Familiar animal behaviors, habitats, and
-      adaptations	Why Do Birds Fly in a V?
-    - Plants & Trees	How plants grow, reproduce, and respond to the seasons	Why
-      Do Some Trees Keep Their Leaves All Winter?
-    - Insects & Backyard Life	Pollinators, garden insects, fungi, and other
-      discoveries close to home	Why Do Fireflies Light Up?
-    - Land & Water	How rivers, coastlines, rocks, and soil change over time	Why
-      Do Rivers Bend?
-    - Nature Through the Seasons	Migration, blooms, and seasonal changes readers
-      can spot	Why Do Some Flowers Close at Night?
-    - "- Start with something readers can picture. Open with a familiar sight,
-      give the short answer, then explain how it works in plain English."
-    - "- Give readers something to notice next time. A story on river bends
-      could point out the sand or gravel that often collects on the inside of a
-      bend."
-    - "- Be specific about species and regions. When a behavior varies by
-      species, season, or location, say where it applies. Verify details with
-      reliable sources such as museums, universities, or wildlife agencies."
+    - Animals & Wildlife	Familiar animal behaviors, habitats, and adaptations	Why Do Birds Fly in a V?
+    - Plants & Trees	How plants grow, reproduce, and respond to the seasons	Why Do Some Trees Keep Their Leaves All Winter?
+    - Insects & Backyard Life	Pollinators, garden insects, fungi, and other discoveries close to home	Why Do Fireflies Light Up?
+    - Land & Water	How rivers, coastlines, rocks, and soil change over time	Why Do Rivers Bend?
+    - Nature Through the Seasons	Migration, blooms, and seasonal changes readers can spot	Why Do Some Flowers Close at Night?
+    - "- Start with something readers can picture. Open with a familiar sight, give the short answer, then explain how it works in plain English."
+    - "- Give readers something to notice next time. A story on river bends could point out the sand or gravel that often collects on the inside of a bend."
+    - "- Be specific about species and regions. When a behavior varies by species, season, or location, say where it applies. Verify details with reliable sources such as museums, universities, or wildlife agencies."
   image_guidelines:
     - Image Guidelines
-    - "- Show the subject in its natural setting. Use a flock in formation, a
-      seedling emerging from soil, or an overhead view of a winding river.
-      Choose an image that shows the feature the article explains."
-    - "- Make details easy to recognize. Use a close-up for leaf veins or an
-      insect’s wings. Include surroundings when habitat, scale, or movement
-      matters."
-    - "- Use natural-looking photography. Favor true-to-life colors and a clear
-      focal point. Use 16:9 landscape hero images and keep the main subject near
-      the center for mobile crops."
-    - "- Check identification and captions. Verify the species when the article
-      names one. Use simple, labeled diagrams for processes that are hard to
-      photograph, such as water moving through a plant. Credit images as
-      required and write alt text that describes what readers can see."
+    - "- Show the subject in its natural setting. Use a flock in formation, a seedling emerging from soil, or an overhead view of a winding river. Choose an image that shows the feature the article explains."
+    - "- Make details easy to recognize. Use a close-up for leaf veins or an insect’s wings. Include surroundings when habitat, scale, or movement matters."
+    - "- Use natural-looking photography. Favor true-to-life colors and a clear focal point. Use 16:9 landscape hero images and keep the main subject near the center for mobile crops."
+    - "- Check identification and captions. Verify the species when the article names one. Use simple, labeled diagrams for processes that are hard to photograph, such as water moving through a plant. Credit images as required and write alt text that describes what readers can see."
   vertical: Science
   vertical_id: 6a00793d1104bbff809b7c68
   review_percentage: 5
@@ -231,3 +210,5 @@ theme:
     body: Manrope
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-VPRKGL89D9
