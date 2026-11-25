@@ -15,20 +15,12 @@ brief:
     - Small Town Spotlight
     - Scenic Route Guides
     - Quirky Attraction Quest
-  theme: >-
-    Road trips and the stops worth getting off the highway for.
-    TheNextDetour.com helps travelers discover small towns, scenic backroads,
-    roadside diners, and unexpected attractions along routes they’re already
-    driving.
+  theme: |-
+    Road trips and the stops worth getting off the highway for. TheNextDetour.com helps travelers discover small towns, scenic backroads, roadside diners, and unexpected attractions along routes they’re already driving.
 
-
-    The signature format is “Is It Worth the Detour?” Each guide tells readers
-    what they’ll find, how much time the stop adds, and whether it works as a
-    quick break or deserves a few hours.
-
+    The signature format is “Is It Worth the Detour?” Each guide tells readers what they’ll find, how much time the stop adds, and whether it works as a quick break or deserves a few hours.
 
     Tagline
-
     Find your next favorite stop.
   topics_v2:
     - name: Roadside Diner Reviews
@@ -97,43 +89,20 @@ brief:
   content_guidelines:
     - Content guidelines
     - Category	What to publish	Example headline
-    - Worth the Detour	Short side trips from major highways and popular
-      road-trip routes.	6 Stops Worth Leaving I-95 for Between Boston and
-      Portland
-    - Small-Town Stops	Walkable downtowns, local shops, diners, and places to
-      stretch your legs.	How to Spend Two Hours in Bisbee, Arizona
-    - Scenic Routes	Backroads and alternate routes with viewpoints, photo stops,
-      and picnic spots.	A Slower, More Scenic Drive From Portland to the Oregon
-      Coast
-    - Roadside Finds	Classic diners, quirky museums, historic motels, farm
-      stands, and unusual landmarks.	7 Roadside Museums Worth Pulling Over For
-    - "- Lead with the payoff. Tell readers what makes the stop memorable and
-      where it fits into their drive."
-    - "- Make the time commitment clear. Include the highway or nearest exit,
-      added driving time, suggested visit length, and parking. Distinguish the
-      extra drive from the time spent at the stop."
-    - "- Give each stop a reason to make the list. A riverside picnic spot, a
-      standout pie counter, or an overlook five minutes from the exit gives
-      readers something specific to decide on."
-    - "- Check details that can change. Verify hours, admission, seasonal
-      closures, and road access with official sources. Link to them and show
-      when the guide was last checked."
+    - Worth the Detour	Short side trips from major highways and popular road-trip routes.	6 Stops Worth Leaving I-95 for Between Boston and Portland
+    - Small-Town Stops	Walkable downtowns, local shops, diners, and places to stretch your legs.	How to Spend Two Hours in Bisbee, Arizona
+    - Scenic Routes	Backroads and alternate routes with viewpoints, photo stops, and picnic spots.	A Slower, More Scenic Drive From Portland to the Oregon Coast
+    - Roadside Finds	Classic diners, quirky museums, historic motels, farm stands, and unusual landmarks.	7 Roadside Museums Worth Pulling Over For
+    - "- Lead with the payoff. Tell readers what makes the stop memorable and where it fits into their drive."
+    - "- Make the time commitment clear. Include the highway or nearest exit, added driving time, suggested visit length, and parking. Distinguish the extra drive from the time spent at the stop."
+    - "- Give each stop a reason to make the list. A riverside picnic spot, a standout pie counter, or an overlook five minutes from the exit gives readers something specific to decide on."
+    - "- Check details that can change. Verify hours, admission, seasonal closures, and road access with official sources. Link to them and show when the guide was last checked."
   image_guidelines:
-    - "- Show the actual stop. Use real, licensed photos of the featured diner,
-      overlook, town, or attraction. For roundups, lead with a stop that appears
-      in the article."
-    - "- Make the hero specific to the place. A recognizable storefront, a bend
-      in the featured road, or a view from the actual pullout works better than
-      a generic road-trip photo."
-    - "- Add photos that help readers orient themselves. Show a turnoff,
-      entrance, parking area, or the short walk from the car when it helps
-      someone find the stop."
-    - "- Keep the look natural. Favor daylight, true-to-life colors, and candid
-      details. Frame the main subject so it stays recognizable in a wide hero
-      crop and a mobile thumbnail."
-    - "- Use maps for route guides when they help readers choose. Mark the main
-      route, the detour, and the return point. Credit imagery as required and
-      write alt text that describes what’s visible."
+    - "- Show the actual stop. Use real, licensed photos of the featured diner, overlook, town, or attraction. For roundups, lead with a stop that appears in the article."
+    - "- Make the hero specific to the place. A recognizable storefront, a bend in the featured road, or a view from the actual pullout works better than a generic road-trip photo."
+    - "- Add photos that help readers orient themselves. Show a turnoff, entrance, parking area, or the short walk from the car when it helps someone find the stop."
+    - "- Keep the look natural. Favor daylight, true-to-life colors, and candid details. Frame the main subject so it stays recognizable in a wide hero crop and a mobile thumbnail."
+    - "- Use maps for route guides when they help readers choose. Mark the main route, the detour, and the return point. Credit imagery as required and write alt text that describes what’s visible."
   vertical: Travel
   vertical_id: 6a00793d1104bbff809b7c7a
   review_percentage: 5
@@ -206,3 +175,5 @@ theme:
     body: Source Sans 3
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-363CWSVZHN
