@@ -15,9 +15,7 @@ brief:
     - Celestial Phenomena
     - Space Exploration
     - Our Planetary Neighbors
-  theme: a mainstream science site about the things people look up and wonder
-    about. Think northern lights, colorful sunsets, meteor showers, eclipses,
-    and why the Moon sometimes looks huge.
+  theme: a mainstream science site about the things people look up and wonder about. Think northern lights, colorful sunsets, meteor showers, eclipses, and why the Moon sometimes looks huge.
   topics_v2:
     - name: Sky Watching Explained
       source:
@@ -70,41 +68,23 @@ brief:
           - Friday
   seo_keywords_focus: []
   content_guidelines:
-    - The Curious Sky is a mainstream science site about what people can see
-      overhead, from colorful sunsets and unusual clouds to the Moon, meteor
-      showers, and eclipses.
+    - The Curious Sky is a mainstream science site about what people can see overhead, from colorful sunsets and unusual clouds to the Moon, meteor showers, and eclipses.
     - Section	What to cover	Example headline
-    - Sky Wonders	Sunsets, rainbows, halos, and other sights people notice
-      during the day	Why Does the Sky Turn Pink at Sunset?
-    - Moon & Space	Moon phases, visible planets, and familiar sights in the
-      night sky	Why Can You See the Moon During the Day?
-    - What to Watch	Upcoming sky events and how to see them	When and Where to
-      Look for the Next Meteor Shower
-    - Clouds & Weather	Unusual cloud shapes and visible weather phenomena	Why Do
-      Some Clouds Look Like Flying Saucers?
+    - Sky Wonders	Sunsets, rainbows, halos, and other sights people notice during the day	Why Does the Sky Turn Pink at Sunset?
+    - Moon & Space	Moon phases, visible planets, and familiar sights in the night sky	Why Can You See the Moon During the Day?
+    - What to Watch	Upcoming sky events and how to see them	When and Where to Look for the Next Meteor Shower
+    - Clouds & Weather	Unusual cloud shapes and visible weather phenomena	Why Do Some Clouds Look Like Flying Saucers?
   image_guidelines:
     - Image Guidelines
-    - Visual direction · Use realistic editorial photography that shows readers
-      what they might see from their backyard, neighborhood, or a nearby
-      lookout.
+    - Visual direction · Use realistic editorial photography that shows readers what they might see from their backyard, neighborhood, or a nearby lookout.
     - Story type	Image direction
-    - Sunsets and halos	Show the color or shape clearly, with a recognizable
-      horizon when it adds context.
-    - Moon and planets	Include a landscape for scale or use a labeled close-up
-      when the detail matters.
-    - Meteor showers and auroras	Choose a real night-sky photo. Identify long
-      exposures or composites in the caption when they affect how the scene
-      appears.
-    - Unusual clouds	Use a verified photo of the cloud type and frame it so its
-      defining shape is easy to spot.
-    - "- Compose for mobile. Use a 16:9 landscape hero with the main subject
-      near the center so it survives thumbnail crops. Keep text and labels for
-      separate diagrams."
-    - "- Keep captions accurate. For a specific event, use a verified photo or
-      label an older image as a file photo. Clearly label illustrations,
-      including AI-generated visuals."
-    - "- Credit the source. Use owned or licensed imagery, include any required
-      credits, and write alt text that describes the visible phenomenon."
+    - Sunsets and halos	Show the color or shape clearly, with a recognizable horizon when it adds context.
+    - Moon and planets	Include a landscape for scale or use a labeled close-up when the detail matters.
+    - Meteor showers and auroras	Choose a real night-sky photo. Identify long exposures or composites in the caption when they affect how the scene appears.
+    - Unusual clouds	Use a verified photo of the cloud type and frame it so its defining shape is easy to spot.
+    - "- Compose for mobile. Use a 16:9 landscape hero with the main subject near the center so it survives thumbnail crops. Keep text and labels for separate diagrams."
+    - "- Keep captions accurate. For a specific event, use a verified photo or label an older image as a file photo. Clearly label illustrations, including AI-generated visuals."
+    - "- Credit the source. Use owned or licensed imagery, include any required credits, and write alt text that describes the visible phenomenon."
   vertical: Science
   vertical_id: 6a00793d1104bbff809b7c68
   review_percentage: 5
@@ -178,3 +158,5 @@ theme:
     body: Source Sans 3
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-SE5YEZP63V
