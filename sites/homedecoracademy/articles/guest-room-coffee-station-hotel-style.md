@@ -22,7 +22,7 @@ source_title: >-
   This $45-Off Keurig Is the Compact Upgrade Every Beautifully Appointed Guest
   Room Needs – It Makes Your Home Feel Like a Boutique Hotel
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/guest-room-coffee-station-hotel-style.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 72
@@ -42,6 +42,9 @@ topics:
   - Everyday Style Lessons
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Compact coffee maker brewing into a pink mug on an inviting guest-room coffee
+  station.
 ---
 Overnight guests rarely remember your thread count. They remember the small things, like waking up and finding a hot cup of coffee within reach. This guide shows you how to build a simple coffee station in a guest room, using a compact single-serve machine as the centerpiece.
 
