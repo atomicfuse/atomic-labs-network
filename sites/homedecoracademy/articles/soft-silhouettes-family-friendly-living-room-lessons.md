@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6b0520dc444c59acb194f212
 source_title: 'Design 9 Awards: Southern California’s Best Living Room'
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/soft-silhouettes-family-friendly-living-room-lessons.webp
 quality_score: 87
 score_breakdown:
   seo_quality: 80
@@ -40,6 +40,9 @@ topics:
   - DIY Decor Projects
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: >-
+  Warm family living room with a rounded beige sofa, soft furnishings, plants,
+  and a practical round coffee table.
 ---
 A living room can look polished and still be a place where people actually put their feet up. You can borrow that idea at home without a luxury budget, and this article shows you how.
 
