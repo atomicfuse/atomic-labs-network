@@ -22,7 +22,7 @@ source_title: >-
   As A Frequent Traveler, I'd Just Like To Say That These 28 Cyber Week Deals
   Are Actually Worth The Hype
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/cyber-week-travel-deals-worth-buying.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 62
@@ -39,6 +39,9 @@ reading_time: 3
 topics:
   - Thrifty Decor Finds
   - Budget-Friendly Makeovers
+image_alt: >-
+  Open suitcase and practical travel gear arranged in a bright apartment
+  entryway
 ---
 Cyber Week sales are crowded, and most of what's marked down you'll never miss. A frequent traveler writing for BuzzFeed narrowed the pile to deals that actually fix a travel annoyance. This article walks through seven of those picks, with discounts as reported, so you can decide quickly what earns a spot in your cart before holiday trips or 2026 plans.
 
