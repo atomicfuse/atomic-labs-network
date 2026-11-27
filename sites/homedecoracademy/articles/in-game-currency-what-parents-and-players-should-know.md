@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6b09155c55a76e575e626de4
 source_title: Unregulated Money in Video Games
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/in-game-currency-what-parents-and-players-should-know.webp
 quality_score: 56
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,7 @@ reading_time: 3
 topics:
   - Budget-Friendly Makeovers
   - Thrifty Decor Finds
+image_alt: Parent and teenage gamer review game spending at a bright home gaming desk.
 ---
 A note before we start: this piece steps outside our usual decorating territory. But it touches something that hits household budgets all the same, so we're covering it. By the end, you'll understand why a legal scholar says in-game currencies deserve closer rules, and you'll have a few practical habits for keeping your own spending clear.
 
